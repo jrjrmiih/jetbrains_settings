@@ -14,6 +14,9 @@
   </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="shift meta s" />
@@ -112,6 +115,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
@@ -122,6 +126,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
@@ -148,12 +153,14 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="ResourceExplorer.show" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Diff" />
