@@ -111,6 +111,12 @@
         <mark key="^" line="539" column="3" />
         <mark key="." line="539" column="3" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/README.md" timestamp="1586761947301">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="60" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/core/H264Utils.java" timestamp="1585828000506">
         <mark key="'" line="35" column="24" />
       </file>
@@ -251,7 +257,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJ2RkMS43Jwo=</text>
+        <text encoding="base64">ICAgIDEuIGh0dHBzOi8vd3d3LmNuYmxvZ3MuY29tL2xxeXkvcC85Mzk4NDY3Lmh0bWwKICAgIDIuIGh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvMGU0NDdlOWUxYjU4</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
@@ -263,37 +269,37 @@
         <text encoding="base64">aG9vay5zZXRFeGVjdXRhYmxlKHRydWUsIHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJ2RkMS43Jwo=</text>
+        <text encoding="base64">ICAgIDEuIGh0dHBzOi8vd3d3LmNuYmxvZ3MuY29tL2xxeXkvcC85Mzk4NDY3Lmh0bWwKICAgIDIuIGh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvMGU0NDdlOWUxYjU4</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJzEuNycK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b28K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8vaWYgKFN5c3RlbS5nZXRlbnYoJ0lOX0pFTktJTlMnKSA9PSAnTm8nKSB7Ci8vICAgIGRlZiBob29rID0gbmV3IEZpbGUoIiRyb290UHJvamVjdC5wcm9qZWN0RGlyLy5naXQvbW9kdWxlcy9hbmRyb2lkLXNlYWxydGMvaG9va3MvcHJlLWNvbW1pdCIpCi8vICAgIGhvb2sudGV4dCA9ICIiIiMhL2Jpbi9iYXNoCi8vZWNobyAiUnVuIGdvb2dsZS1qYXZhLWZvcm1hdCAuLi4iCi8vLi4vZ3JhZGxldyBnb0pGCi8vaWYgISBnaXQgZGlmZiAtLWV4aXQtY29kZSA+L2Rldi9udWxsOyB0aGVuCi8vICAgIGVjaG8gIkFib3J0aW5nIGNvbW1pdCEgU29tZSBmaWxlcyB3ZXJlIGZvcm1hdHRlZCEiID4mMgovLyAgICBleGl0IDEKLy9maQovLyIiIgovLyAgICBob29rLnNldFJlYWRhYmxlKHRydWUsIGZhbHNlKQovLyAgICBob29rLnNldFdyaXRhYmxlKHRydWUsIHRydWUpCi8vICAgIGhvb2suc2V0RXhlY3V0YWJsZSh0cnVlLCBmYWxzZSkKLy8KLy8gICAgaG9vayA9IG5ldyBGaWxlKCIkcm9vdFByb2plY3QucHJvamVjdERpci8uZ2l0L21vZHVsZXMvYW5kcm9pZC1ydGNzZGsvaG9va3MvcHJlLWNvbW1pdCIpCi8vICAgIGhvb2sudGV4dCA9ICIiIiMhL2Jpbi9iYXNoCi8vZWNobyAiUnVuIGdvb2dsZS1qYXZhLWZvcm1hdCAuLi4iCi8vLi4vZ3JhZGxldyBnb0pGCi8vaWYgISBnaXQgZGlmZiAtLWV4aXQtY29kZSA+L2Rldi9udWxsOyB0aGVuCi8vICAgIGVjaG8gIkFib3J0aW5nIGNvbW1pdCEgU29tZSBmaWxlcyB3ZXJlIGZvcm1hdHRlZCEiID4mMgovLyAgICBleGl0IDEKLy9maQovLyIiIgovLyAgICBob29rLnNldFJlYWRhYmxlKHRydWUsIGZhbHNlKQovLyAgICBob29rLnNldFdyaXRhYmxlKHRydWUsIHRydWUpCi8vICAgIGhvb2suc2V0RXhlY3V0YWJsZSh0cnVlLCBmYWxzZSkKLy99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiDkuKTnp43moLzlvI/ljJbmlrnlvI/vvIzlu7rorq7kuIDotbfkvb/nlKjvvIzlj4LogIPvvJoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJ2RkMS43Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJzEuNycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b28K</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z29vZ2xlSmF2YUZvcm1hdCB7Cn0KCg==</text>
+        <text encoding="base64">Ci8vaWYgKFN5c3RlbS5nZXRlbnYoJ0lOX0pFTktJTlMnKSA9PSAnTm8nKSB7Ci8vICAgIGRlZiBob29rID0gbmV3IEZpbGUoIiRyb290UHJvamVjdC5wcm9qZWN0RGlyLy5naXQvbW9kdWxlcy9hbmRyb2lkLXNlYWxydGMvaG9va3MvcHJlLWNvbW1pdCIpCi8vICAgIGhvb2sudGV4dCA9ICIiIiMhL2Jpbi9iYXNoCi8vZWNobyAiUnVuIGdvb2dsZS1qYXZhLWZvcm1hdCAuLi4iCi8vLi4vZ3JhZGxldyBnb0pGCi8vaWYgISBnaXQgZGlmZiAtLWV4aXQtY29kZSA+L2Rldi9udWxsOyB0aGVuCi8vICAgIGVjaG8gIkFib3J0aW5nIGNvbW1pdCEgU29tZSBmaWxlcyB3ZXJlIGZvcm1hdHRlZCEiID4mMgovLyAgICBleGl0IDEKLy9maQovLyIiIgovLyAgICBob29rLnNldFJlYWRhYmxlKHRydWUsIGZhbHNlKQovLyAgICBob29rLnNldFdyaXRhYmxlKHRydWUsIHRydWUpCi8vICAgIGhvb2suc2V0RXhlY3V0YWJsZSh0cnVlLCBmYWxzZSkKLy8KLy8gICAgaG9vayA9IG5ldyBGaWxlKCIkcm9vdFByb2plY3QucHJvamVjdERpci8uZ2l0L21vZHVsZXMvYW5kcm9pZC1ydGNzZGsvaG9va3MvcHJlLWNvbW1pdCIpCi8vICAgIGhvb2sudGV4dCA9ICIiIiMhL2Jpbi9iYXNoCi8vZWNobyAiUnVuIGdvb2dsZS1qYXZhLWZvcm1hdCAuLi4iCi8vLi4vZ3JhZGxldyBnb0pGCi8vaWYgISBnaXQgZGlmZiAtLWV4aXQtY29kZSA+L2Rldi9udWxsOyB0aGVuCi8vICAgIGVjaG8gIkFib3J0aW5nIGNvbW1pdCEgU29tZSBmaWxlcyB3ZXJlIGZvcm1hdHRlZCEiID4mMgovLyAgICBleGl0IDEKLy9maQovLyIiIgovLyAgICBob29rLnNldFJlYWRhYmxlKHRydWUsIGZhbHNlKQovLyAgICBob29rLnNldFdyaXRhYmxlKHRydWUsIHRydWUpCi8vICAgIGhvb2suc2V0RXhlY3V0YWJsZSh0cnVlLCBmYWxzZSkKLy99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
