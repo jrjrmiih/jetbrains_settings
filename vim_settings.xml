@@ -80,6 +80,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/jenkins_build.sh" timestamp="1586762748960" />
       <file name="/Dummy.txt" timestamp="1586134715069">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,6 +125,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" timestamp="1586763653547">
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+        <mark key="." line="25" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" timestamp="1585828135806">
         <mark key="'" line="349" column="15" />
