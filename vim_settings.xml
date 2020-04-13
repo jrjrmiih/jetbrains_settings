@@ -95,12 +95,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1586792115325">
-        <mark key="'" line="1619" column="8" />
-        <mark key="[" line="1716" column="5" />
-        <mark key="]" line="1716" column="5" />
-        <mark key="^" line="1716" column="5" />
-        <mark key="." line="1716" column="4" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1586792504113">
+        <mark key="'" line="121" column="7" />
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="128" column="7" />
+        <mark key="^" line="128" column="7" />
+        <mark key="." line="128" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/README.md" timestamp="1586761947301">
         <mark key="[" line="48" column="0" />
@@ -147,6 +147,9 @@
         <mark key="^" line="8275" column="8" />
         <mark key="." line="8275" column="7" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/build.gradle" timestamp="1586792817596">
+        <mark key="[" line="36" column="57" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586153124974">
         <mark key="'" line="916" column="16" />
       </file>
@@ -156,12 +159,11 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/utils/FinLog.java" timestamp="1586789943194">
         <mark key="'" line="71" column="19" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/custom/MediaVideoDecoder21.java" timestamp="1586792299805">
+        <mark key="'" line="243" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="4" filename="$USER_HOME$/Workspace/android-sealtalk/sealtalk/build.gradle" />
-      <jump line="23" column="26" filename="$USER_HOME$/Workspace/android-sealtalk/sealtalk/build_seal.gradle" />
-      <jump line="63" column="67" filename="$USER_HOME$/Workspace/android-sealtalk/sealtalk/build_seal.gradle" />
-      <jump line="139" column="28" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/sealrtc/build.gradle" />
       <jump line="66" column="4" filename="$USER_HOME$/Workspace/android-sealtalk/sealtalk/build_seal.gradle" />
       <jump line="158" column="28" filename="$USER_HOME$/Workspace/android-sealtalk/android-imsdk/lib/build.gradle" />
       <jump line="6" column="46" filename="$USER_HOME$/Workspace/android-sealtalk/sealrtc/src/main/java/cn/rongcloud/rtc/device/privatecloud/ServerUtils.java" />
@@ -258,6 +260,10 @@
       <jump line="139" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
       <jump line="144" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
       <jump line="1619" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
+      <jump line="243" column="20" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/custom/MediaVideoDecoder21.java" />
+      <jump line="1701" column="42" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
+      <jump line="1636" column="6" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
+      <jump line="120" column="7" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
