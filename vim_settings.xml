@@ -118,17 +118,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" timestamp="1586753185553">
-        <mark key="'" line="86" column="55" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" timestamp="1585828135806">
         <mark key="'" line="349" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/build_seal.gradle" timestamp="1586754178631" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/build_seal.gradle" timestamp="1586757992684" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/LiveListActivity.java" timestamp="1586136311551">
         <mark key="'" line="178" column="23" />
       </file>
@@ -152,10 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="24" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-all/9fahxiiecdb76a5g3aw9oi8rv/gradle-4.10.2/src/core/org/gradle/api/tasks/AbstractCopyTask.java" />
-      <jump line="206" column="62" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/sealrtc/build.gradle" />
-      <jump line="29" column="33" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/sealrtc/src/main/java/cn/rongcloud/rtc/util/UserUtils.java" />
-      <jump line="33" column="53" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/sealrtc/src/main/java/cn/rongcloud/rtc/util/UserUtils.java" />
       <jump line="34" column="8" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/android-imsdk/rcsticker/bintray.gradle" />
       <jump line="60" column="59" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/android-imsdk/rcsticker/bintray.gradle" />
       <jump line="56" column="16" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/android-imsdk/rcsticker/bintray.gradle" />
@@ -252,12 +241,16 @@
       <jump line="871" column="29" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
       <jump line="39" column="30" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
       <jump line="86" column="55" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
+      <jump line="38" column="42" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z29vZ2xlSmF2YUZvcm1hdCB7Cn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
@@ -269,13 +262,13 @@
         <text encoding="base64">aG9vay5zZXRFeGVjdXRhYmxlKHRydWUsIHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z29vZ2xlSmF2YUZvcm1hdCB7Cn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJzEuNycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -284,10 +277,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJzEuNycK</text>
+        <text encoding="base64">Z29vZ2xlSmF2YUZvcm1hdCB7Cn0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwaSBncm91cDogJ2NvbS5nb29nbGUuZ29vZ2xlamF2YWZvcm1hdCcsIG5hbWU6ICdnb29nbGUtamF2YS1mb3JtYXQnLCB2ZXJzaW9uOiAnMS43Jwo=</text>
+        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJzEuNycK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -299,9 +292,7 @@
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text>plugins {
-    id 'com.google.googlejavaformat' version '1.7'
-}</text>
+        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJzEuNycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
