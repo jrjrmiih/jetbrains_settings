@@ -95,7 +95,7 @@
         <mark key="." line="23" column="101" />
         <mark key="^" line="23" column="101" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/build.gradle" timestamp="1585818212161">
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/build.gradle" timestamp="1586754175477">
         <mark key="[" line="66" column="1" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -128,6 +128,7 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" timestamp="1585828135806">
         <mark key="'" line="349" column="15" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/build_seal.gradle" timestamp="1586754178631" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/LiveListActivity.java" timestamp="1586136311551">
         <mark key="'" line="178" column="23" />
       </file>
