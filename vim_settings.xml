@@ -118,14 +118,16 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCAudioMixer.java" timestamp="1586829708587">
+        <mark key="'" line="77" column="23" />
+        <mark key="[" line="275" column="16" />
+        <mark key="]" line="275" column="22" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" timestamp="1586763653547">
         <mark key="[" line="63" column="34" />
         <mark key="]" line="25" column="25" />
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" timestamp="1585828135806">
-        <mark key="'" line="349" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/LiveListActivity.java" timestamp="1586136311551">
         <mark key="'" line="178" column="23" />
@@ -163,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="4" filename="$USER_HOME$/Workspace/android-sealtalk/sealtalk/build_seal.gradle" />
       <jump line="158" column="28" filename="$USER_HOME$/Workspace/android-sealtalk/android-imsdk/lib/build.gradle" />
       <jump line="6" column="46" filename="$USER_HOME$/Workspace/android-sealtalk/sealrtc/src/main/java/cn/rongcloud/rtc/device/privatecloud/ServerUtils.java" />
       <jump line="54" column="22" filename="$USER_HOME$/Workspace/android-sealtalk/sealrtc/src/main/java/cn/rongcloud/rtc/util/UserUtils.java" />
@@ -263,12 +264,13 @@
       <jump line="1701" column="42" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
       <jump line="1636" column="6" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
       <jump line="120" column="7" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
+      <jump line="77" column="23" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCAudioMixer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
+      <register name="&quot;" type="4">
+        <text>pause()</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
@@ -276,8 +278,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aG9vay5zZXRFeGVjdXRhYmxlKHRydWUsIHRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>pause()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
