@@ -118,10 +118,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCAudioMixer.java" timestamp="1586829708587">
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCAudioMixer.java" timestamp="1586829745396">
         <mark key="'" line="77" column="23" />
-        <mark key="[" line="275" column="16" />
-        <mark key="]" line="275" column="22" />
+        <mark key="[" line="260" column="15" />
+        <mark key="]" line="260" column="20" />
+        <mark key="." line="260" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" timestamp="1586763653547">
         <mark key="[" line="63" column="34" />
@@ -270,7 +271,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>pause()</text>
+        <text>音频流处理</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
@@ -279,7 +280,7 @@
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>pause()</text>
+        <text>音频流处理</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
