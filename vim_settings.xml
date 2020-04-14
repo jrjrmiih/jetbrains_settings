@@ -80,8 +80,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586134715069">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCAudioMixer.java" timestamp="1586836040589">
+        <mark key="'" line="75" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" timestamp="1586763653547">
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+        <mark key="." line="25" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-server/rtc_rtl/demo-chatroom/client-android/ChatroomDemo/app/src/main/java/cn/rongcloud/chatroomdemo/utils/DataInterface.java" timestamp="1586247935942">
+        <mark key="'" line="60" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" timestamp="1586790209121">
+        <mark key="'" line="8275" column="16" />
+        <mark key="[" line="8275" column="8" />
+        <mark key="]" line="8275" column="8" />
+        <mark key="^" line="8275" column="8" />
+        <mark key="." line="8275" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/ModuleManager.java" timestamp="1586790154669">
+        <mark key="'" line="68" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/build.gradle" timestamp="1586759979771">
         <mark key="[" line="27" column="0" />
@@ -118,46 +137,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCAudioMixer.java" timestamp="1586836040589">
-        <mark key="'" line="77" column="23" />
-        <mark key="[" line="262" column="4" />
-        <mark key="]" line="262" column="9" />
-        <mark key="." line="256" column="10" />
-        <mark key="^" line="256" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" timestamp="1586763653547">
-        <mark key="[" line="63" column="34" />
-        <mark key="]" line="25" column="25" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="25" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/LiveListActivity.java" timestamp="1586136311551">
-        <mark key="'" line="178" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-server/rtc_rtl/demo-chatroom/client-android/ChatroomDemo/app/src/main/java/cn/rongcloud/chatroomdemo/utils/DataInterface.java" timestamp="1586247935942">
-        <mark key="'" line="60" column="31" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/callback/JoinRoomUICallBack.java" timestamp="1586176150945">
-        <mark key="." line="16" column="22" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/proxy/RongIMSignalWrapper.java" timestamp="1586176233975">
-        <mark key="'" line="68" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" timestamp="1586790209121">
-        <mark key="'" line="8275" column="16" />
-        <mark key="[" line="8275" column="8" />
-        <mark key="]" line="8275" column="8" />
-        <mark key="^" line="8275" column="8" />
-        <mark key="." line="8275" column="7" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealtalk/src/main/java/cn/rongcloud/im/App.java" timestamp="1586843831031" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/build.gradle" timestamp="1586792844350">
         <mark key="[" line="36" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586153124974">
-        <mark key="'" line="916" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/ModuleManager.java" timestamp="1586790154669">
-        <mark key="'" line="68" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/utils/FinLog.java" timestamp="1586789943194">
         <mark key="'" line="71" column="19" />
