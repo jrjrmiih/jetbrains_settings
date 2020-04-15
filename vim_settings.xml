@@ -142,10 +142,10 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/build.gradle" timestamp="1586792844350">
         <mark key="[" line="36" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586926515861">
-        <mark key="'" line="78" column="31" />
-        <mark key="[" line="1139" column="36" />
-        <mark key="]" line="1139" column="48" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586936066971">
+        <mark key="'" line="950" column="23" />
+        <mark key="[" line="942" column="11" />
+        <mark key="]" line="942" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/ModuleManager.java" timestamp="1586790154669">
         <mark key="'" line="68" column="38" />
@@ -158,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="922" column="12" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="923" column="26" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="73" column="26" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="507" column="61" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
@@ -258,6 +257,7 @@
       <jump line="1139" column="58" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
       <jump line="37" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
       <jump line="78" column="31" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
+      <jump line="950" column="23" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -266,7 +266,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>setEchoCancel</text>
+        <text>设置是否为纯音频</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
@@ -275,7 +275,7 @@
         <text encoding="base64">XDxBRUNfTU9ERTBcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>setEchoCancel</text>
+        <text>设置是否为纯音频</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
@@ -323,7 +323,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute>System\.getenv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
