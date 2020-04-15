@@ -142,10 +142,10 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/build.gradle" timestamp="1586792844350">
         <mark key="[" line="36" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586937751581">
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586966828118">
         <mark key="'" line="950" column="23" />
-        <mark key="[" line="942" column="11" />
-        <mark key="]" line="942" column="18" />
+        <mark key="[" line="1356" column="23" />
+        <mark key="]" line="1356" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/ModuleManager.java" timestamp="1586790154669">
         <mark key="'" line="68" column="38" />
@@ -266,7 +266,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>设置是否为纯音频</text>
+        <text>enableHardWareDecode</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
@@ -275,7 +275,7 @@
         <text encoding="base64">XDxBRUNfTU9ERTBcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>设置是否为纯音频</text>
+        <text>enableHardWareDecode</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
