@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b2tlblw+</entry>
-        <entry>joinRTCRoom</entry>
         <entry encoding="base64">XDxydGNUb2tlblw+</entry>
         <entry encoding="base64">XDxleFBhcmFtc1w+</entry>
         <entry encoding="base64">XDxpc0hpZ2hQcm9maWxlXD4=</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxsb2dUeXBlXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlUm91dGVyc1w+</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDxBRUNfTU9ERTBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
@@ -142,10 +142,10 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/build.gradle" timestamp="1586792844350">
         <mark key="[" line="36" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586926331406">
-        <mark key="'" line="54" column="17" />
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="25" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586926515861">
+        <mark key="'" line="78" column="31" />
+        <mark key="[" line="1139" column="36" />
+        <mark key="]" line="1139" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/ModuleManager.java" timestamp="1586790154669">
         <mark key="'" line="68" column="38" />
@@ -158,9 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="56" filename="$USER_HOME$/Workspace/android-sealtalk/sealrtc/build.gradle" />
-      <jump line="9" column="4" filename="$USER_HOME$/Workspace/android-sealtalk/sealrtc/build.gradle" />
-      <jump line="56" column="26" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="922" column="12" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="923" column="26" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="73" column="26" filename="$USER_HOME$/Workspace/android-sealtalk/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
@@ -258,6 +255,9 @@
       <jump line="932" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
       <jump line="930" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
       <jump line="54" column="17" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
+      <jump line="1139" column="58" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
+      <jump line="37" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
+      <jump line="78" column="31" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -266,16 +266,16 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>RongRTCConfig</text>
+        <text>setEchoCancel</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZVw+</text>
+        <text encoding="base64">XDxBRUNfTU9ERTBcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>RongRTCConfig</text>
+        <text>setEchoCancel</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
@@ -317,9 +317,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
+      <last-search encoding="base64">XDxBRUNfTU9ERTBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxBRUNfTU9ERTBcPg==</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute>System\.getenv</last-substitute>
       <last-dir>1</last-dir>
