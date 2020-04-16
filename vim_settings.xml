@@ -85,12 +85,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/build.gradle" timestamp="1586759790729">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="39" column="1" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" timestamp="1587007322823">
+        <mark key="'" line="40" column="7" />
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="68" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1586970439049">
         <mark key="'" line="1659" column="54" />
@@ -167,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="33" filename="$USER_HOME$/Workspace/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCAudioMixer.java" />
       <jump line="923" column="79" filename="$USER_HOME$/Workspace/rc-android/android-workspace/RongRTCLib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="922" column="34" filename="$USER_HOME$/Workspace/rc-android/android-workspace/RongRTCLib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="919" column="50" filename="$USER_HOME$/Workspace/rc-android/android-workspace/RongRTCLib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
@@ -267,6 +264,7 @@
       <jump line="13" column="6" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongConfigField.java" />
       <jump line="158" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" />
       <jump line="161" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" />
+      <jump line="40" column="7" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -275,7 +273,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>视频采集数据分辨率配置</text>
+        <text>离开房间</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
@@ -284,7 +282,7 @@
         <text encoding="base64">XDxod0VuY29kZXJLZXlGcmFtZUludGVydmFsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>视频采集数据分辨率配置</text>
+        <text>离开房间</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
