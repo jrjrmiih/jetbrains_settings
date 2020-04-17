@@ -129,6 +129,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="60" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCLocalSourceManager.java" timestamp="1587119643494" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/build.gradle" timestamp="1587106500312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -136,11 +137,6 @@
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" timestamp="1586970903821">
         <mark key="'" line="161" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealtalk/src/main/java/cn/rongcloud/im/App.java" timestamp="1586924504288">
-        <mark key="]" line="116" column="23" />
-        <mark key="^" line="116" column="23" />
-        <mark key="." line="116" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" timestamp="1586968433074">
         <mark key="'" line="21" column="42" />
