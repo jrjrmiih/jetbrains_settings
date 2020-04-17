@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaXZlX2J1dHRvblw+</entry>
         <entry encoding="base64">XDxtTGl2ZVZpZXdcPg==</entry>
         <entry encoding="base64">XDxyb29tSWRcPg==</entry>
         <entry encoding="base64">XDxSb29tVHlwZVw+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxod0VuY29kZXJGcmFtZVJhdGVcPg==</entry>
         <entry encoding="base64">XDxod0VuY29kZXJLZXlGcmFtZUludGVydmFsXD4=</entry>
+        <entry>format</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
@@ -80,32 +80,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" timestamp="1587007322823">
-        <mark key="'" line="40" column="7" />
-        <mark key="[" line="68" column="7" />
-        <mark key="]" line="68" column="10" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" timestamp="1587020688914" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1586970439049">
-        <mark key="'" line="1659" column="54" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/README.md" timestamp="1586761947301">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="60" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealtalk/build.gradle" timestamp="1587106130604" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongConfigField.java" timestamp="1586970712680">
         <mark key="'" line="13" column="6" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/EngineInterface.java" timestamp="1586792027790">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="5" />
-        <mark key="^" line="16" column="5" />
-        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCAudioMixer.java" timestamp="1586925381754">
         <mark key="'" line="75" column="23" />
@@ -117,6 +95,45 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/utils/ReportUtil.java" timestamp="1587008820508" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/SettingActivity.java" timestamp="1587106084402">
+        <mark key="[" line="69" column="69" />
+        <mark key="]" line="69" column="69" />
+        <mark key="^" line="69" column="69" />
+        <mark key="." line="69" column="68" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586970976565">
+        <mark key="'" line="1275" column="36" />
+        <mark key="[" line="1081" column="11" />
+        <mark key="]" line="1081" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/build.gradle" timestamp="1587106216661">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" timestamp="1587007322823">
+        <mark key="'" line="40" column="7" />
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="68" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1586970439049">
+        <mark key="'" line="1659" column="54" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/README.md" timestamp="1587105762429">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/build.gradle" timestamp="1587106500312">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" timestamp="1586970903821">
         <mark key="'" line="161" column="8" />
       </file>
@@ -125,37 +142,12 @@
         <mark key="^" line="116" column="23" />
         <mark key="." line="116" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/utils/ReportUtil.java" timestamp="1587008820508" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" timestamp="1586968433074">
         <mark key="'" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" timestamp="1586790209121">
-        <mark key="'" line="8275" column="16" />
-        <mark key="[" line="8275" column="8" />
-        <mark key="]" line="8275" column="8" />
-        <mark key="^" line="8275" column="8" />
-        <mark key="." line="8275" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/build.gradle" timestamp="1586792844350">
-        <mark key="[" line="36" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1586970976565">
-        <mark key="'" line="1275" column="36" />
-        <mark key="[" line="1081" column="11" />
-        <mark key="]" line="1081" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/ModuleManager.java" timestamp="1586790154669">
-        <mark key="'" line="68" column="38" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/utils/FinLog.java" timestamp="1586789943194">
-        <mark key="'" line="71" column="19" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/custom/MediaVideoDecoder21.java" timestamp="1586792299805">
-        <mark key="'" line="243" column="20" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/IRongConfigLocalAdapter.java" timestamp="1587105468829" />
     </filemarks>
     <jumps>
-      <jump line="923" column="79" filename="$USER_HOME$/Workspace/rc-android/android-workspace/RongRTCLib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="922" column="34" filename="$USER_HOME$/Workspace/rc-android/android-workspace/RongRTCLib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="919" column="50" filename="$USER_HOME$/Workspace/rc-android/android-workspace/RongRTCLib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="914" column="51" filename="$USER_HOME$/Workspace/rc-android/android-workspace/RongRTCLib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
@@ -255,6 +247,7 @@
       <jump line="158" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" />
       <jump line="161" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" />
       <jump line="40" column="7" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" />
+      <jump line="209" column="4" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -262,50 +255,52 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="4">
-        <text>离开房间</text>
+      <register name="+" type="2">
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnY29tLmdpdGh1Yi5zaGVydGVyLmdvb2dsZS1qYXZhLWZvcm1hdCcgdmVyc2lvbiAnMC44Jwp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxod0VuY29kZXJLZXlGcmFtZUludGVydmFsXD4=</text>
+        <text>format</text>
       </register>
       <register name="0" type="4">
         <text>离开房间</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnY29tLmdpdGh1Yi5zaGVydGVyLmdvb2dsZS1qYXZhLWZvcm1hdCcgdmVyc2lvbiAnMC44Jwp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZhc2YK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDEuIGh0dHBzOi8vd3d3LmNuYmxvZ3MuY29tL2xxeXkvcC85Mzk4NDY3Lmh0bWwKICAgIDIuIGh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvMGU0NDdlOWUxYjU4</text>
+        <text encoding="base64">Cmdvb2dsZUphdmFGb3JtYXQgewogICAgb3B0aW9ucyBzdHlsZTogJ0FPU1AnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cmdvb2dsZUphdmFGb3JtYXQgewogICAgb3B0aW9ucyBzdHlsZTogJ0FPU1AnCn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CnBsdWdpbnMgewogICAgaWQgJ2NvbS5naXRodWIuc2hlcnRlci5nb29nbGUtamF2YS1mb3JtYXQnIHZlcnNpb24gJzAuOCcKfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">KiDkuKTnp43moLzlvI/ljJbmlrnlvI/vvIzlu7rorq7kuIDotbfkvb/nlKjvvIzlj4LogIPvvJoK</text>
+        <text encoding="base64">Cmdvb2dsZUphdmFGb3JtYXQgewogICAgb3B0aW9ucyBzdHlsZTogJ0FPU1AnCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJ2RkMS43Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvb2xWZXJzaW9uID0gJzEuNycK</text>
+        <text>plugins {
+    id 'com.github.sherter.google-java-format' version '0.8'
+}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -314,9 +309,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxod0VuY29kZXJLZXlGcmFtZUludGVydmFsXD4=</last-search>
+      <last-search>format</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxod0VuY29kZXJLZXlGcmFtZUludGVydmFsXD4=</last-pattern>
+      <last-pattern>format</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute>System\.getenv</last-substitute>
       <last-dir>1</last-dir>
