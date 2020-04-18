@@ -113,10 +113,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" timestamp="1587193414976">
-        <mark key="'" line="84" column="4" />
-        <mark key="[" line="120" column="7" />
-        <mark key="]" line="120" column="14" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" timestamp="1587193765324">
+        <mark key="'" line="97" column="46" />
+        <mark key="[" line="87" column="7" />
+        <mark key="]" line="87" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1586970439049">
         <mark key="'" line="1659" column="54" />
@@ -145,8 +145,6 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/IRongConfigLocalAdapter.java" timestamp="1587105468829" />
     </filemarks>
     <jumps>
-      <jump line="739" column="60" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/IMLibRTCClient.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/proxy/RongIMSignalWrapper.java" />
       <jump line="81" column="79" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/proxy/RongIMSignalWrapper.java" />
       <jump line="1398" column="13" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="1537" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
@@ -245,6 +243,8 @@
       <jump line="96" column="16" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" />
       <jump line="84" column="4" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" />
       <jump line="16" column="13" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/utils/ReportUtil.java" />
+      <jump line="110" column="6" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" />
+      <jump line="97" column="46" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -253,7 +253,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>设置媒体服务地址</text>
+        <text>根据直播地址订阅直播音视频资源</text>
       </register>
       <register name="-" type="4">
         <text>1.1-SNAPSHOT</text>
@@ -262,7 +262,7 @@
         <text>format</text>
       </register>
       <register name="0" type="4">
-        <text>设置媒体服务地址</text>
+        <text>根据直播地址订阅直播音视频资源</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnY29tLmdpdGh1Yi5zaGVydGVyLmdvb2dsZS1qYXZhLWZvcm1hdCcgdmVyc2lvbiAnMC44Jwp9Cg==</text>
