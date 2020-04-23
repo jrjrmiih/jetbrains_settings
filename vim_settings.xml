@@ -137,14 +137,13 @@
         <mark key="^" line="69" column="69" />
         <mark key="." line="69" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1587631301085">
-        <mark key="'" line="1275" column="36" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1587642330758">
+        <mark key="'" line="689" column="5" />
         <mark key="[" line="1081" column="11" />
         <mark key="]" line="1081" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1537" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="63" column="19" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="147" column="37" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
       <jump line="260" column="44" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
@@ -244,6 +243,7 @@
       <jump line="97" column="46" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" />
       <jump line="32" column="36" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="65" column="35" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
+      <jump line="689" column="5" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
