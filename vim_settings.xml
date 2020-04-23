@@ -83,6 +83,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/Agora_Native_SDK_for_Android_FULL/libs/agora-rtc-sdk.jar!/io/agora/rtc/Constants.class" timestamp="1587627563754" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/build.gradle" timestamp="1587106216661">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -123,7 +124,6 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" timestamp="1586970903821">
         <mark key="'" line="161" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/blink/src/main/java/io/rong/rongcall/ICallEngine.java" timestamp="1587449976057" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" timestamp="1587488073528">
         <mark key="'" line="65" column="35" />
       </file>
@@ -138,7 +138,6 @@
         <mark key="[" line="1081" column="11" />
         <mark key="]" line="1081" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RTCErrorCode.java" timestamp="1587376547285" />
     </filemarks>
     <jumps>
       <jump line="1537" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
@@ -308,7 +307,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute>System\.getenv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
