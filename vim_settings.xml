@@ -85,6 +85,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1587983348517" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/lib/src/rong_rtc_config.dart" timestamp="1587988552334">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/build.gradle" timestamp="1587106216661">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -100,6 +105,9 @@
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/example/android/app/build.gradle" timestamp="1587988269243">
+        <mark key="[" line="45" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongConfigField.java" timestamp="1586970712680">
         <mark key="'" line="13" column="6" />
@@ -269,7 +277,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uZmlnLgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAg</text>
@@ -281,7 +289,7 @@
         <text>根据直播地址订阅直播音视频资源</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uZmlnLgo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
@@ -293,26 +301,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text>PUB_HOSTED_URL ===== https://pub.flutter-io.cn
 FLUTTER_STORAGE_BASE_URL ===== https://storage.flutter-io.cn</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnY29tLmdpdGh1Yi5zaGVydGVyLmdvb2dsZS1qYXZhLWZvcm1hdCcgdmVyc2lvbiAnMC44Jwp9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cmdvb2dsZUphdmFGb3JtYXQgewogICAgb3B0aW9ucyBzdHlsZTogJ0FPU1AnCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cmdvb2dsZUphdmFGb3JtYXQgewogICAgb3B0aW9ucyBzdHlsZTogJ0FPU1AnCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cmdvb2dsZUphdmFGb3JtYXQgewogICAgb3B0aW9ucyBzdHlsZTogJ0FPU1AnCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
