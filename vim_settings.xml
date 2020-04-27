@@ -84,6 +84,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1587983348517" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/build.gradle" timestamp="1587106216661">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -151,6 +152,7 @@
         <mark key="[" line="1081" column="11" />
         <mark key="]" line="1081" column="21" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1587983257033" />
     </filemarks>
     <jumps>
       <jump line="63" column="19" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
