@@ -126,7 +126,11 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/annie/lib/main.dart" timestamp="1587978769004" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/annie/lib/main.dart" timestamp="1587979584408">
+        <mark key="[" line="94" column="57" />
+        <mark key="]" line="94" column="57" />
+        <mark key="." line="94" column="57" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" timestamp="1586970903821">
         <mark key="'" line="161" column="8" />
       </file>
@@ -251,10 +255,10 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>根据直播地址订阅直播音视频资源</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1.1-SNAPSHOT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJDb25maWdcPg==</text>
