@@ -90,6 +90,29 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-1.1.1/android/build.gradle" timestamp="1588052483259" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/example/android/app/build.gradle" timestamp="1587988269243">
+        <mark key="[" line="45" column="36" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/Class.java" timestamp="1588056503474" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" timestamp="1588057214733" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/example/lib/user_data.dart" timestamp="1587986916053">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/SettingActivity.java" timestamp="1587106084402">
+        <mark key="[" line="69" column="69" />
+        <mark key="]" line="69" column="69" />
+        <mark key="^" line="69" column="69" />
+        <mark key="." line="69" column="68" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1587716640099">
+        <mark key="'" line="689" column="5" />
+        <mark key="[" line="1081" column="11" />
+        <mark key="]" line="1081" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1587983257033" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/build.gradle" timestamp="1587106216661">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -100,17 +123,6 @@
         <mark key="[" line="87" column="7" />
         <mark key="]" line="87" column="21" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-1.1.1/android/build.gradle" timestamp="1588052483259" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/example/android/app/build.gradle" timestamp="1587988269243">
-        <mark key="[" line="45" column="36" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/README.md" timestamp="1587105762429">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="60" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/Class.java" timestamp="1588056503474" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCLocalSourceManager.java" timestamp="1587641903927">
         <mark key="[" line="1079" column="14" />
         <mark key="]" line="1079" column="12" />
@@ -134,24 +146,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" timestamp="1588056622935" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/example/lib/user_data.dart" timestamp="1587986916053">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/SettingActivity.java" timestamp="1587106084402">
-        <mark key="[" line="69" column="69" />
-        <mark key="]" line="69" column="69" />
-        <mark key="^" line="69" column="69" />
-        <mark key="." line="69" column="68" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1587716640099">
-        <mark key="'" line="689" column="5" />
-        <mark key="[" line="1081" column="11" />
-        <mark key="]" line="1081" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1587983257033" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408/7f67f45fc8fb915a0aada14e2f30d6e39f72d0a6/flutter_embedding_debug-1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408-sources.jar!/io/flutter/app/FlutterActivity.java" timestamp="1588057345390" />
     </filemarks>
     <jumps>
       <jump line="63" column="19" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongMediaSignalClient.java" />
