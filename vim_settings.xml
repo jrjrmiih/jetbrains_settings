@@ -109,10 +109,10 @@
         <mark key="]" line="1081" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1587983257033" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" timestamp="1587193765324">
-        <mark key="'" line="97" column="46" />
-        <mark key="[" line="87" column="7" />
-        <mark key="]" line="87" column="21" />
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-1.1.1/lib/src/rong_im_plugin.dart" timestamp="1588173038027">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/example/lib/index_page.dart" timestamp="1588172830322" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCLocalSourceManager.java" timestamp="1587641903927">
@@ -243,11 +243,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlnLgo=</text>
+      <register name="+" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJDb25maWdcPg==</text>
