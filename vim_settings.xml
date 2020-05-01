@@ -89,15 +89,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/text_field.dart" timestamp="1588339359188" />
       <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/example/android/app/build.gradle" timestamp="1587988269243">
         <mark key="[" line="45" column="36" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/text_form_field.dart" timestamp="1588327937439" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/annie/lib/main.dart" timestamp="1587979584408">
-        <mark key="[" line="94" column="57" />
-        <mark key="]" line="94" column="57" />
-        <mark key="." line="94" column="57" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/pubspec.yaml" timestamp="1588153113069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -108,19 +104,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/main.dart" timestamp="1588333067054">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/main.dart" timestamp="1588340028883">
         <mark key="'" line="7" column="11" />
-        <mark key="[" line="55" column="10" />
-        <mark key="]" line="55" column="10" />
-        <mark key="." line="55" column="10" />
-        <mark key="^" line="56" column="25" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-1.1.1/lib/src/rong_im_plugin.dart" timestamp="1588173038027">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/raised_button.dart" timestamp="1588332889324" />
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/raised_button.dart" timestamp="1588339095340" />
     </filemarks>
     <jumps>
       <jump line="86" column="79" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/proxy/RongIMSignalWrapper.java" />
@@ -230,11 +225,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="4">
-        <text>const</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbGlkYXRvcjogKCkge30sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXRlcmlhbEFwcFw+</text>
@@ -243,45 +238,37 @@
         <text>根据直播地址订阅直播音视频资源</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ldyBUZXh0Rm9ybUZpZWxkKAogICAgICAgICAgICBkZWNvcmF0aW9uOiBuZXcgSW5wdXREZWNvcmF0aW9uKGxhYmVsVGV4dDogJ+ivt+i+k+WFpeWvhueggScpLAogICAgICAgICAgICBvblNhdmVkOiAodmFsdWUpIHsKICAgICAgICAgICAgICB1c2VyTmFtZSA9IHZhbHVlOwogICAgICAgICAgICB9LAogICAgICAgICAgICBvbkZpZWxkU3VibWl0dGVkOiAodmFsdWUpIHt9LAogICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbGlkYXRvcjogKCkge30sCg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLm9ubHkodG9wOiAxMCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a2tra2sK</text>
+        <text encoding="base64">ICAgICAgICAgIFNpemVkQm94KGhlaWdodDogMTApLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>TextFormField(
-    // The validator receives the text that the user has entered.
-    validator: (value) {
-    if (value.isEmpty) {
-    return 'Please enter some text';
-    }
-    return null;
-    }
-    ) ,</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmxvYXRpbmdBY3Rpb25CdXR0b246IEZsb2F0aW5nQWN0aW9uQnV0dG9uKAogICAgICAgIG9uUHJlc3NlZDogX2luY3JlbWVudENvdW50ZXIsCiAgICAgICAgdG9vbHRpcDogJ0luY3JlbWVudCcsCiAgICAgICAgY2hpbGQ6IEljb24oSWNvbnMuYWRkKSwKICAgICAgKSwgLy8gVGhpcyB0cmFpbGluZyBjb21tYSBtYWtlcyBhdXRvLWZvcm1hdHRpbmcgbmljZXIgZm9yIGJ1aWxkIG1ldGhvZHMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLm9ubHkodG9wOiAxMCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogQ2VWbnRlcigKICAgICAgICBjaGlsZDogQ29sdW1uKAogICAgICAgICAgbWFpbkF4aXNBbGlnbm1lbnQ6IE1haW5BeGlzQWxpZ25tZW50LmNlbnRlciwKICAgICAgICAgIGNoaWxkcmVuOiA8V2lkZ2V0PlsKICAgICAgICAgICAgVGV4dCgKICAgICAgICAgICAgICAnWW91IGhhdmUgcHVzaGVkIHRoZSBidXR0b24gdGhpcyBtYW55IHRpbWVzOicsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIFRleHQoCiAgICAgICAgICAgICAgJyRfY291bnRlcicsCiAgICAgICAgICAgICAgc3R5bGU6IFRoZW1lLm9mKGNvbnRleHQpLnRleHRUaGVtZS5kaXNwbGF5MSwKICAgICAgICAgICAgKSwKICAgICAgICAgIF0sCiAgICAgICAgKSwKICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLm9ubHkodG9wOiAxMCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzY3VyZVRleHQ6ICfor7fovpPlhaXnlKjmiLflkI0nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlcnJvclRleHQ6IF92YWxpZGF0ZSA/ICdWYWx1ZSBDYW5cJ3QgQmUgRW1wdHknIDogbnVsbCwK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIENvbHVtbiBpcyBhbHNvIGEgbGF5b3V0IHdpZGdldC4gSXQgdGFrZXMgYSBsaXN0IG9mIGNoaWxkcmVuIGFuZAogICAgICAgICAgLy8gYXJyYW5nZXMgdGhlbSB2ZXJ0aWNhbGx5LiBCeSBkZWZhdWx0LCBpdCBzaXplcyBpdHNlbGYgdG8gZml0IGl0cwogICAgICAgICAgLy8gY2hpbGRyZW4gaG9yaXpvbnRhbGx5LCBhbmQgdHJpZXMgdG8gYmUgYXMgdGFsbCBhcyBpdHMgcGFyZW50LgogICAgICAgICAgLy8KICAgICAgICAgIC8vIEludm9rZSAiZGVidWcgcGFpbnRpbmciIChwcmVzcyAicCIgaW4gdGhlIGNvbnNvbGUsIGNob29zZSB0aGUKICAgICAgICAgIC8vICJUb2dnbGUgRGVidWcgUGFpbnQiIGFjdGlvbiBmcm9tIHRoZSBGbHV0dGVyIEluc3BlY3RvciBpbiBBbmRyb2lkCiAgICAgICAgICAvLyBTdHVkaW8sIG9yIHRoZSAiVG9nZ2xlIERlYnVnIFBhaW50IiBjb21tYW5kIGluIFZpc3VhbCBTdHVkaW8gQ29kZSkKICAgICAgICAgIC8vIHRvIHNlZSB0aGUgd2lyZWZyYW1lIGZvciBlYWNoIHdpZGdldC4KICAgICAgICAgIC8vCiAgICAgICAgICAvLyBDb2x1bW4gaGFzIHZhcmlvdXMgcHJvcGVydGllcyB0byBjb250cm9sIGhvdyBpdCBzaXplcyBpdHNlbGYgYW5kCiAgICAgICAgICAvLyBob3cgaXQgcG9zaXRpb25zIGl0cyBjaGlsZHJlbi4gSGVyZSB3ZSB1c2UgbWFpbkF4aXNBbGlnbm1lbnQgdG8KICAgICAgICAgIC8vIGNlbnRlciB0aGUgY2hpbGRyZW4gdmVydGljYWxseTsgdGhlIG1haW4gYXhpcyBoZXJlIGlzIHRoZSB2ZXJ0aWNhbAogICAgICAgICAgLy8gYXhpcyBiZWNhdXNlIENvbHVtbnMgYXJlIHZlcnRpY2FsICh0aGUgY3Jvc3MgYXhpcyB3b3VsZCBiZQogICAgICAgICAgLy8gaG9yaXpvbnRhbCkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udHJvbGxlcjogX3RleCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
