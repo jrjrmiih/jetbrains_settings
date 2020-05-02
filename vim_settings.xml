@@ -87,12 +87,11 @@
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Runner/Info.plist" timestamp="1588346026048" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/text_field.dart" timestamp="1588339359188" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/text_form_field.dart" timestamp="1588327937439" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588353784339">
-        <mark key="'" line="12" column="9" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588458720393">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
-        <mark key="^" line="49" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/pubspec.yaml" timestamp="1588345911594">
         <mark key="[" line="0" column="6" />
@@ -107,6 +106,12 @@
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/raised_button.dart" timestamp="1588339095340" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/build.gradle" timestamp="1588346509440" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/global_config.dart" timestamp="1588459105263">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="5" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/pubspec.yaml" timestamp="1588153113069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -130,9 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/LiveListActivity.java" />
-      <jump line="42" column="19" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/LiveListActivity.java" />
-      <jump line="178" column="23" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/LiveListActivity.java" />
       <jump line="469" column="22" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
       <jump line="285" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
       <jump line="286" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
@@ -230,6 +232,9 @@
       <jump line="4387" column="44" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="4392" column="11" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="13" column="9" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
+      <jump line="52" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
+      <jump line="42" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -238,7 +243,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEdsb2JhbENvbmZpZy5hcHBLZXkgPSAnJzsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGVsc2Ugew==</text>
@@ -250,37 +255,37 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEdsb2JhbENvbmZpZy5hcHBLZXkgPSAnJzsK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJzEnKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nKCcwMDAnKTsK</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoJzEnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gOiAoKSB7fTsK</text>
+        <text encoding="base64">ICAgICAgbG9nKCcwMDAnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgICByZXR1cm4gbnVsbDsKICB9Cn0K</text>
+        <text encoding="base64">ICAgIH0gOiAoKSB7fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHJldHVybiAoKSB7CiAgICAgICAgX2tleS5jdXJyZW50U3RhdGUuc2hvd1NuYWNrQmFyKG5ldyBTbmFja0JhcigKICAgICAgICAgIGNvbnRlbnQ6IG5ldyBUZXh0KCdIZWxsbyEnKSwKICAgICAgICApKTsKICAgICAgfTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAogICAgICByZXR1cm4gbnVsbDsKICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChfaXNCdXR0b24xRGlzYWJsZWQpIHsK</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHJldHVybiAoKSB7CiAgICAgICAgX2tleS5jdXJyZW50U3RhdGUuc2hvd1NuYWNrQmFyKG5ldyBTbmFja0JhcigKICAgICAgICAgIGNvbnRlbnQ6IG5ldyBUZXh0KCdIZWxsbyEnKSwKICAgICAgICApKTsKICAgICAgfTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChfaXNCdXR0b24xRGlzYWJsZWQpIHsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
