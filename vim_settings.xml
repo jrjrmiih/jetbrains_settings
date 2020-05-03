@@ -84,16 +84,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/utils/rc_server_api.dart" timestamp="1588470039346">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="9" column="19" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/utils/rc_server_api.dart" timestamp="1588471615041">
+        <mark key="^" line="11" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/global_config.dart" timestamp="1588468404191">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/rongcloud-rtc-flutter-sdk/pubspec.yaml" timestamp="1588153113069">
         <mark key="[" line="0" column="0" />
@@ -104,12 +101,12 @@
         <mark key="'" line="4392" column="11" />
         <mark key="[" line="802" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588468709980">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588471773084">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="13" />
-        <mark key="." line="54" column="12" />
-        <mark key="^" line="54" column="13" />
+        <mark key="[" line="57" column="12" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="44" />
+        <mark key="^" line="28" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/pubspec.yaml" timestamp="1588467330290">
         <mark key="[" line="20" column="16" />
@@ -243,11 +240,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="4">
-        <text>s</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnQoJ2FzZGYnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1aWRcPg==</text>
@@ -256,37 +253,37 @@
         <text encoding="base64">ICAgIGhlYWRlcnNbJ05vbmNlJ10gPSBSYW5kb20oKS5uZXh0SW50KDEwMDAwKS50b1N0cmluZygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoJ2FzZGYnKTsK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgc3RhdGljIFN0cmluZyBnZXQgdGltZXN0YW1wID0+CiAgICAgIG5ldyBEYXRlVGltZS5ub3coKS5taWxsaXNlY29uZHNTaW5jZUVwb2NoLnRvU3RyaW5nKCk7CgogIHN0YXRpYyBTdHJpbmcgZ2V0IG5vbmNlID0+IFJhbmRvbSgpLm5leHRJbnQoMTAwMDApLnRvU3RyaW5nKCk7CgogIHN0YXRpYyBTdHJpbmcgc2lnbmF0dXJlKFN0cmluZyB0aW1lc3RhbXAsIFN0cmluZyBub25jZSkgewogICAgTGlzdDxpbnQ+IGxJbnQgPQogICAgICAgIG5ldyBVdGY4RW5jb2RlcigpLmNvbnZlcnQoYXBwU2VjcmV0ICsgbm9uY2UgKyB0aW1lc3RhbXApLnRvTGlzdCgpOwogICAgcmV0dXJuIHNoYTEuY29udmVydChsSW50KS50b1N0cmluZygpOwogIH0=</text>
+        <text encoding="base64">ICAgIExpc3Q8aW50PiBpbnRMaXN0ID0gOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoJ3ByZXNzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgU3RyaW5nIF9zaWduYXR1cmUoU3RyaW5nIHRpbWVzdGFtcCwgU3RyaW5nIG5vbmNlKSB7CiAgICBMaXN0PGludD4gbEludCA9CiAgICAgICAgbmV3IFV0ZjhFbmNvZGVyKCkuY29udmVydChhcHBTZWNyZXQgKyBub25jZSArIHRpbWVzdGFtcCkudG9MaXN0KCk7CiAgICByZXR1cm4gc2hhMS5jb252ZXJ0KGxJbnQpLnRvU3RyaW5nKCk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIENvbnRlbnQtVHlwZTogYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">CiAgc3RhdGljIFN0cmluZyBnZXQgdGltZXN0YW1wID0+CiAgICAgIG5ldyBEYXRlVGltZS5ub3coKS5taWxsaXNlY29uZHNTaW5jZUVwb2NoLnRvU3RyaW5nKCk7CgogIHN0YXRpYyBTdHJpbmcgZ2V0IG5vbmNlID0+IFJhbmRvbSgpLm5leHRJbnQoMTAwMDApLnRvU3RyaW5nKCk7CgogIHN0YXRpYyBTdHJpbmcgc2lnbmF0dXJlKFN0cmluZyB0aW1lc3RhbXAsIFN0cmluZyBub25jZSkgewogICAgTGlzdDxpbnQ+IGxJbnQgPQogICAgICAgIG5ldyBVdGY4RW5jb2RlcigpLmNvbnZlcnQoYXBwU2VjcmV0ICsgbm9uY2UgKyB0aW1lc3RhbXApLnRvTGlzdCgpOwogICAgcmV0dXJuIHNoYTEuY29udmVydChsSW50KS50b1N0cmluZygpOwogIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgZ2V0IG5vbmNlID0+IFJhbmRvbSgpLm5leHRJbnQoMTAwMDApLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgU3RyaW5nIF9zaWduYXR1cmUoU3RyaW5nIHRpbWVzdGFtcCwgU3RyaW5nIG5vbmNlKSB7CiAgICBMaXN0PGludD4gbEludCA9CiAgICAgICAgbmV3IFV0ZjhFbmNvZGVyKCkuY29udmVydChhcHBTZWNyZXQgKyBub25jZSArIHRpbWVzdGFtcCkudG9MaXN0KCk7CiAgICByZXR1cm4gc2hhMS5jb252ZXJ0KGxJbnQpLnRvU3RyaW5nKCk7CiAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZ2V0IHNoYTEgPT4gbnVsbGRkOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
