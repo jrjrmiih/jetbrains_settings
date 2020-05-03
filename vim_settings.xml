@@ -84,11 +84,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/utils/rc_server_api.dart" timestamp="1588465730132">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/utils/rc_server_api.dart" timestamp="1588466019706">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/global_config.dart" timestamp="1588465246218">
         <mark key="[" line="19" column="0" />
@@ -242,8 +242,8 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
