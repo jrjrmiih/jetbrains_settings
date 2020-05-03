@@ -90,7 +90,7 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/global_config.dart" timestamp="1588468404191">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/global_config.dart" timestamp="1588512763986">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -104,11 +104,12 @@
         <mark key="'" line="4392" column="11" />
         <mark key="[" line="802" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588511820858">
-        <mark key="'" line="60" column="11" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588516398637">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="60" column="28" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1588509354521" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" timestamp="1588509071519">
@@ -146,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="19" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/utils/FinLog.java" />
       <jump line="68" column="38" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/ModuleManager.java" />
       <jump line="8275" column="16" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" />
       <jump line="1377" column="12" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
@@ -215,7 +215,6 @@
       <jump line="4328" column="11" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="4387" column="44" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="4392" column="11" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="52" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="42" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="13" column="24" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
@@ -246,6 +245,8 @@
       <jump line="558" column="6" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" />
       <jump line="42" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/widgets/loading_dialog.dart" />
       <jump line="65" column="11" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
+      <jump line="58" column="33" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -254,7 +255,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>new</text>
@@ -266,39 +267,37 @@
         <text encoding="base64">ICAgICAgcHJpbnQoJzExMScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBGdXR1cmU8ZHluYW1pYz4gX2xvZ2luQ2FsbGJhY2sgPSBGdXR1cmU8ZHluYW1pYz4oKCkgPT4gbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDAwMDsgaSsrKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJ2pqJyk7Cg==</text>
+        <text encoding="base64">ICBGdXR1cmU8ZHluYW1pYz4gX2xvZ2luQ2FsbGJhY2sgPSBGdXR1cmU8ZHluYW1pYz4oKCkgPT4gbnVsbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJ2pqJyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2V0U3RhdGUoKCkge30pOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoJ2pqJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAg4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIxaaGFuZyAgSnVu44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9qb2huV2NoZXVuZy9qYXZhL2FydGljbGUvZGV0YWlscy84OTYzNDU4Mgo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoJ2pqJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>————————————————
-版权声明：本文为CSDN博主「Zhang  Jun」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/johnWcheung/java/article/details/89634582</text>
+        <text encoding="base64">ICAgICAgc2V0U3RhdGUoKCkge30pOwo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgQG92ZXJyaWRlCiAgdm9pZCBpbml0U3RhdGUoKSB7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICAgIHByaW50KCcuLi4uLi4uLi4uLi4uLi4uLi4uLicpOwogICAgbG9nKCdzZGZhc2RmJyk7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAg4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIxaaGFuZyAgSnVu44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9qb2huV2NoZXVuZy9qYXZhL2FydGljbGUvZGV0YWlscy84OTYzNDU4Mgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
