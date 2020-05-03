@@ -84,11 +84,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/utils/rc_server_api.dart" timestamp="1588510701679">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="18" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/utils/rc_server_api.dart" timestamp="1588511837677">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="14" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/global_config.dart" timestamp="1588468404191">
         <mark key="[" line="3" column="0" />
@@ -104,12 +104,11 @@
         <mark key="'" line="4392" column="11" />
         <mark key="[" line="802" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588510657042">
-        <mark key="'" line="65" column="11" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="67" column="31" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588511820858">
+        <mark key="'" line="60" column="11" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1588509354521" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" timestamp="1588509071519">
@@ -255,10 +254,10 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Ly8gICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
@@ -267,39 +266,39 @@
         <text encoding="base64">ICAgICAgcHJpbnQoJzExMScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJ2pqJyk7Cg==</text>
+        <text encoding="base64">ICBGdXR1cmU8ZHluYW1pYz4gX2xvZ2luQ2FsbGJhY2sgPSBGdXR1cmU8ZHluYW1pYz4oKCkgPT4gbnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoJ2pqJyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2V0U3RhdGUoKCkge30pOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoJ2pqJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAg4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIxaaGFuZyAgSnVu44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9qb2huV2NoZXVuZy9qYXZhL2FydGljbGUvZGV0YWlscy84OTYzNDU4Mgo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoJ2pqJyk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgc2V0U3RhdGUoKCkge30pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAg4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIxaaGFuZyAgSnVu44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9qb2huV2NoZXVuZy9qYXZhL2FydGljbGUvZGV0YWlscy84OTYzNDU4Mgo=</text>
+      </register>
+      <register name="8" type="2">
         <text>————————————————
 版权声明：本文为CSDN博主「Zhang  Jun」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/johnWcheung/java/article/details/89634582</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgQG92ZXJyaWRlCiAgdm9pZCBpbml0U3RhdGUoKSB7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICAgIHByaW50KCcuLi4uLi4uLi4uLi4uLi4uLi4uLicpOwogICAgbG9nKCdzZGZhc2RmJyk7CiAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcxMS4uLi4uLi4uLi4uLi4uLi4uLi4uJyk7CiAgICBsb2coJ3MyMmRmYXNkZicpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgQG92ZXJyaWRlCiAgdm9pZCBpbml0U3RhdGUoKSB7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICAgIHByaW50KCcuLi4uLi4uLi4uLi4uLi4uLi4uLicpOwogICAgbG9nKCdzZGZhc2RmJyk7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
