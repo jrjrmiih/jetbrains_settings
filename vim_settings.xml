@@ -121,6 +121,7 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_plugin/android/build.gradle" timestamp="1588612251462" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/build.gradle" timestamp="1588611931962">
         <mark key="[" line="38" column="47" />
         <mark key="]" line="40" column="53" />
@@ -148,7 +149,6 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/example/lib/main.dart" timestamp="1588518195618" />
     </filemarks>
     <jumps>
       <jump line="1139" column="58" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
