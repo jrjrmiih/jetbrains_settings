@@ -85,6 +85,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1588872293809">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1588611770073">
         <mark key="'" line="241" column="8" />
         <mark key="[" line="121" column="29" />
@@ -125,11 +128,11 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-python/pyecharts/ticket_stat.py" timestamp="1588871871744">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="21" column="8" />
-        <mark key="." line="21" column="7" />
+      <file name="$USER_HOME$/Workspace/rc-python/pyecharts/ticket_stat.py" timestamp="1588872291746">
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="66" />
+        <mark key="^" line="14" column="66" />
+        <mark key="." line="14" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1588611206031">
         <mark key="[" line="38" column="38" />
@@ -145,12 +148,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/pubspec.yaml" timestamp="1588562625798">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="27" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408/4789c24d9468df10fb02427a21ddb0dba9e6290c/flutter_embedding_debug-1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408.jar!/io/flutter/embedding/android/FlutterActivity.class" timestamp="1588820345662">
         <mark key="[" line="6" column="0" />
