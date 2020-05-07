@@ -42,6 +42,9 @@
         <entry>w</entry>
         <entry>W</entry>
         <entry>nohl</entry>
+        <entry>set nokeep-english-in-normal-and-restore-in-insert</entry>
+        <entry>set keep-english-in-normal</entry>
+        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -95,11 +98,11 @@
         <mark key="'" line="192" column="24" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1588820041508">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1588871779401">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/lib/src/rong_method_key.dart" timestamp="1588611445481">
         <mark key="'" line="24" column="22" />
@@ -123,12 +126,6 @@
         <mark key="]" line="5" column="51" />
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="51" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-python/pyecharts/ticket_stat.py" timestamp="1588871183291">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="17" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1588611206031">
         <mark key="[" line="38" column="38" />
@@ -319,7 +316,7 @@
         <text encoding="base64">ICBGdXR1cmU8UmVzcG9uc2U+IF9nZXRUb2tlbjsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>set keep-english-in-normal-and-restore-in-insert</text>
       </register>
     </registers>
   </component>
