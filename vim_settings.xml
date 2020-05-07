@@ -99,6 +99,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="27" column="21" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408/4789c24d9468df10fb02427a21ddb0dba9e6290c/flutter_embedding_debug-1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408.jar!/io/flutter/embedding/android/FlutterActivity.class" timestamp="1588820345662">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/http-0.12.1/lib/http.dart" timestamp="1588589279814" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1588555704181" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1588611206031">
@@ -106,12 +112,21 @@
         <mark key="]" line="38" column="39" />
         <mark key="." line="38" column="39" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/src/main/java/com/example/flutter_rtc_demo/MainActivity.java" timestamp="1588820367531">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1588611770073">
         <mark key="'" line="241" column="8" />
         <mark key="[" line="121" column="29" />
         <mark key="]" line="241" column="9" />
         <mark key="." line="241" column="8" />
         <mark key="^" line="241" column="9" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408/7f67f45fc8fb915a0aada14e2f30d6e39f72d0a6/flutter_embedding_debug-1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408-sources.jar!/io/flutter/embedding/android/FlutterActivity.java" timestamp="1588820352455">
+        <mark key="'" line="192" column="24" />
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/lib/src/rong_rtc_engine.dart" timestamp="1588611474585">
         <mark key="'" line="27" column="21" />
@@ -143,11 +158,6 @@
         <mark key="^" line="4" column="59" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/lib/rong_im_engine.dart" timestamp="1588518242490">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/main.dart" timestamp="1588587954936">
         <mark key="'" line="13" column="11" />
         <mark key="[" line="1" column="16" />
@@ -157,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1139" column="58" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
       <jump line="37" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
       <jump line="78" column="31" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
       <jump line="950" column="23" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
@@ -257,6 +266,7 @@
       <jump line="24" column="22" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/lib/src/rong_method_key.dart" />
       <jump line="30" column="22" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" />
       <jump line="241" column="8" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" />
+      <jump line="192" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408/7f67f45fc8fb915a0aada14e2f30d6e39f72d0a6/flutter_embedding_debug-1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408-sources.jar!/io/flutter/embedding/android/FlutterActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,31 +293,31 @@
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9mbHV0dGVyLXJ0Y3Nkay9saWIvcm9uZ2Nsb3VkX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9mbHV0dGVyLXJ0Y3Nkay9saWIvcm9uZ2Nsb3VkX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0ICcuLi9mbHV0dGVyLXJ0Y3Nkay9saWIvcm9uZ2Nsb3VkX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBGdXR1cmU8UmVzcG9uc2U+IF9nZXRUb2tlbjsK</text>
+        <text encoding="base64">aW1wb3J0ICcuLi9mbHV0dGVyLXJ0Y3Nkay9saWIvcm9uZ2Nsb3VkX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTdHJpbmcgdWlkOwo=</text>
+        <text encoding="base64">aW1wb3J0ICcuLi9mbHV0dGVyLXJ0Y3Nkay9saWIvcm9uZ2Nsb3VkX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgX3VpZENvbnRyb2xsZXIudGV4dAo=</text>
+        <text encoding="base64">ICBGdXR1cmU8UmVzcG9uc2U+IF9nZXRUb2tlbjsK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
