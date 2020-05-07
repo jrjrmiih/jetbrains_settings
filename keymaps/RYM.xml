@@ -23,11 +23,15 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CodeCompletion" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
@@ -99,7 +103,9 @@
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
   <action id="IpnbAddCellBelowAction" />
+  <action id="MethodDown" />
   <action id="MethodHierarchy" />
+  <action id="MethodUp" />
   <action id="NextProjectWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt i" />
@@ -149,6 +155,7 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="meta alt 3" />
   </action>
+  <action id="StopBackgroundProcesses" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
