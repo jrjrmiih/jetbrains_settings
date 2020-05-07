@@ -42,9 +42,9 @@
         <entry>w</entry>
         <entry>W</entry>
         <entry>nohl</entry>
-        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
-        <entry>set keep-english-in-normal</entry>
         <entry>set nokeep-english-in-normal-and-restore-in-insert</entry>
+        <entry>set keep-english-in-normal</entry>
+        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
       </history-cmd>
       <history-expr />
       <history-input />
