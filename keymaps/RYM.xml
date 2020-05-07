@@ -1,12 +1,18 @@
 <keymap version="1" name="RYM" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 3" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
-  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />
-  <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta 9" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
   </action>
+  <action id="ActivateVersionControlToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -68,6 +74,8 @@
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="shift meta 4" />
   </action>
+  <action id="Flutter.Toolbar.ReloadAllAction" />
+  <action id="Flutter.Toolbar.RestartAllAction" />
   <action id="ForceStepInto" />
   <action id="ForceStepOver" />
   <action id="Forward">
@@ -92,6 +100,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
@@ -103,6 +112,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
   <action id="IpnbAddCellBelowAction" />
@@ -126,12 +136,14 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="ResourceExplorer.show" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt 4" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Diff" />
@@ -154,6 +166,9 @@
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="meta alt 3" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta alt 5" />
   </action>
   <action id="StopBackgroundProcesses" />
   <action id="ToggleBookmark">
