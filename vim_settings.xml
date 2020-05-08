@@ -87,6 +87,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Runner/Info.plist" timestamp="1588930228090">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="46" column="24" />
+        <mark key="^" line="46" column="24" />
+        <mark key="." line="46" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1588611770073">
         <mark key="'" line="241" column="8" />
         <mark key="[" line="121" column="29" />
@@ -115,14 +121,14 @@
         <mark key="." line="215" column="38" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1588928866418" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1588928888627">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="21" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1588930085560">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588928809333">
-        <mark key="'" line="81" column="20" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1588930093171">
+        <mark key="'" line="81" column="31" />
         <mark key="[" line="105" column="19" />
         <mark key="]" line="105" column="32" />
         <mark key="." line="105" column="31" />
@@ -133,11 +139,6 @@
         <mark key="]" line="21" column="8" />
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1588611206031">
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="38" column="39" />
-        <mark key="." line="38" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/build.gradle" timestamp="1588611931962">
         <mark key="[" line="38" column="47" />
@@ -264,7 +265,7 @@
       <jump line="24" column="37" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="53" column="29" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="93" column="1" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
-      <jump line="81" column="20" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
+      <jump line="81" column="31" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -272,8 +273,8 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="4">
-        <text>Connect</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Connect</text>
@@ -285,37 +286,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICBfc2hvd0Vycm9yRGlhbG9nKCdDb25uZWN0IGVycm9yOiBjb2RlID0gJyArIGNvZGUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcmludCgnbG9naW4gT0shJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmludCgnbG9naW4gT0shJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBOYXZpZ2F0b3IucHVzaChjb250ZXh0LCBNYXRlcmlhbFBhZ2VSb3V0ZShidWlsZGVyOiAoY29udGV4dCkgPT4gVmlkZW9QYWdlKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBOYXZpZ2F0b3IucHVzaChjb250ZXh0LCBNYXRlcmlhbFBhZ2VSb3V0ZShidWlsZGVyOiAoY29udGV4dCkgPT4gVmlkZW9QYWdlKCkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgX2hhbmRsZUNvbm5lY3RlZCgpIHsKCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBjb25uZWN0IE9LIQo=</text>
+        <text encoding="base64">CiAgX2hhbmRsZUNvbm5lY3RlZCgpIHsKCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBjb25uZWN0IE9LIQo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBSb25nUlRDRW5naW5lLmpvaW5SVENSb29tKF9yaWRDb250cm9sbGVyLnRleHQsIChpbnQgY29kZSkgewoKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICBOYXZpZ2F0b3IucHVzaChjb250ZXh0LCBNYXRlcmlhbFBhZ2VSb3V0ZShidWlsZGVyOiAoY29udGV4dCkgPT4gVmlkZW9QYWdlKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
