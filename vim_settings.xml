@@ -87,11 +87,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Runner/Info.plist" timestamp="1588930228090">
-        <mark key="[" line="42" column="10" />
-        <mark key="]" line="46" column="24" />
-        <mark key="^" line="46" column="24" />
-        <mark key="." line="46" column="23" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Runner/Info.plist" timestamp="1589008703050">
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="42" column="2" />
+        <mark key="^" line="42" column="2" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1588611770073">
         <mark key="'" line="241" column="8" />
