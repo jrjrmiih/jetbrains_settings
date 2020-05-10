@@ -128,11 +128,10 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1588930085560">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="13" column="5" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589078612072">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-python/pyecharts/ticket_stat.py" timestamp="1588871871744">
         <mark key="[" line="21" column="8" />
@@ -263,7 +262,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd2aWRlbyBpbml0LicpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Connect</text>
@@ -275,37 +274,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICBfc2hvd0Vycm9yRGlhbG9nKCdDb25uZWN0IGVycm9yOiBjb2RlID0gJyArIGNvZGUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd2aWRlbyBpbml0LicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd2aWRlbyBpbml0LicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcmludCgnbG9naW4gT0shJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBOYXZpZ2F0b3IucHVzaChjb250ZXh0LCBNYXRlcmlhbFBhZ2VSb3V0ZShidWlsZGVyOiAoY29udGV4dCkgPT4gVmlkZW9QYWdlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmludCgnbG9naW4gT0shJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgX2hhbmRsZUNvbm5lY3RlZCgpIHsKCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBOYXZpZ2F0b3IucHVzaChjb250ZXh0LCBNYXRlcmlhbFBhZ2VSb3V0ZShidWlsZGVyOiAoY29udGV4dCkgPT4gVmlkZW9QYWdlKCkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBjb25uZWN0IE9LIQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgX2hhbmRsZUNvbm5lY3RlZCgpIHsKCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
