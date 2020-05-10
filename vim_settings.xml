@@ -45,6 +45,9 @@
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set nokeep-english-in-normal-and-restore-in-insert</entry>
         <entry>nohl</entry>
+        <entry>delma</entry>
+        <entry>delm!</entry>
+        <entry>marks</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -96,6 +99,12 @@
       <file name="vim_settings.xml" timestamp="1589081939732">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCMethodKey.java" timestamp="1589081814323">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="15" column="15" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408/7f67f45fc8fb915a0aada14e2f30d6e39f72d0a6/flutter_embedding_debug-1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408-sources.jar!/io/flutter/embedding/android/FlutterActivity.java" timestamp="1588820352455">
         <mark key="'" line="192" column="24" />
         <mark key="[" line="5" column="0" />
@@ -106,16 +115,32 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" timestamp="1589088916247">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1589081577512">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="21" />
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="20" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-python/pyecharts/ticket_stat.py" timestamp="1588871871744">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="21" column="7" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/build.gradle" timestamp="1589081956464">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/src/main/java/com/example/flutter_rtc_demo/MainActivity.java" timestamp="1588820367531">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCView.java" timestamp="1589081832075">
         <mark key="[" line="60" column="1" />
@@ -123,25 +148,6 @@
         <mark key="^" line="60" column="1" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCMethodKey.java" timestamp="1589081814323">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" timestamp="1589081600091" />
-      <file name="$USER_HOME$/Workspace/rc-python/pyecharts/ticket_stat.py" timestamp="1588871871744">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="21" column="8" />
-        <mark key="." line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/src/main/java/com/example/flutter_rtc_demo/MainActivity.java" timestamp="1588820367531">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/widgets/loading_dialog.dart" timestamp="1588928797716" />
     </filemarks>
     <jumps>
       <jump line="37" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
@@ -252,7 +258,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Ly8gICAgYXBpIHByb2plY3QoJzpyb25nY2xvdWRfaW1fcGx1Z2luJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -264,28 +270,28 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9pbV9wbHVnaW4vcm9uZ2Nsb3VkX2ltX3BsdWdpbi5kYXJ0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgYXBpIHByb2plY3QoJzpyb25nY2xvdWRfaW1fcGx1Z2luJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYXBpIHByb2plY3QoJzpyb25nY2xvdWRfaW1fcGx1Z2luJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9mbHV0dGVyLXJ0Y3Nkay9saWIvcm9uZ2Nsb3VkX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0ICcuLi9mbHV0dGVyLXJ0Y3Nkay9saWIvcm9uZ2Nsb3VkX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
@@ -297,7 +303,7 @@
         <text encoding="base64">aW1wb3J0ICcuLi9mbHV0dGVyLXJ0Y3Nkay9saWIvcm9uZ2Nsb3VkX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set keep-english-in-normal-and-restore-in-insert</text>
+        <text>marks</text>
       </register>
     </registers>
   </component>
