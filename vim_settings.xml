@@ -105,8 +105,11 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589122330951">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589186347068">
         <mark key="'" line="55" column="14" />
+        <mark key="[" line="591" column="0" />
+        <mark key="]" line="591" column="0" />
+        <mark key="." line="591" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408/7f67f45fc8fb915a0aada14e2f30d6e39f72d0a6/flutter_embedding_debug-1.0.0-af51afceb8886cc11e25047523c4e0c7e1f5d408-sources.jar!/io/flutter/embedding/android/FlutterActivity.java" timestamp="1588820352455">
         <mark key="'" line="192" column="24" />
@@ -279,25 +282,25 @@
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgYXBpIHByb2plY3QoJzpyb25nY2xvdWRfaW1fcGx1Z2luJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYXBpIHByb2plY3QoJzpyb25nY2xvdWRfaW1fcGx1Z2luJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9mbHV0dGVyLXJ0Y3Nkay9saWIvcm9uZ2Nsb3VkX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaVN5c3RlbTsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
