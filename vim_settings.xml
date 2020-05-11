@@ -121,13 +121,17 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1589189983563" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" timestamp="1589088916247">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589188913360">
-        <mark key="[" line="17" column="11" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589190004522">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1589081577512">
         <mark key="[" line="22" column="21" />
@@ -267,16 +271,10 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>Stack(
-      decoration: BoxDecoration(color: Colors.white),
-      child: Center(
-        child: Text('Hello World',
-            style: TextStyle(fontSize: 40.0, color: Colors.black87)),
-      ),
-    );</text>
+        <text>black</text>
       </register>
       <register name="-" type="4">
-        <text>column</text>
+        <text>black</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblJUQ01ldGhvZENhbGxcPg==</text>
@@ -284,7 +282,13 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9pbV9wbHVnaW4vcm9uZ2Nsb3VkX2ltX3BsdWdpbi5kYXJ0JzsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNoaWxkOiBudWxsLAo=</text>
+      </register>
+      <register name="q" type="4">
+        <text>^xj0</text>
+      </register>
+      <register name="2" type="4">
         <text>Stack(
       decoration: BoxDecoration(color: Colors.white),
       child: Center(
@@ -293,35 +297,29 @@
       ),
     );</text>
       </register>
-      <register name="q" type="4">
-        <text>^xj0</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBidWlsZGNjCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CgogIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICAvLyBUT0RPOiBpbXBsZW1lbnQgYnVpbGQKICAgIHRocm93IFVuaW1wbGVtZW50ZWRFcnJvcigpOwogIH0KICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIHJldHVybiBTdGFjaygKICAgICAgZGVjb3JhdGlvbjogQm94RGVjb3JhdGlvbihjb2xvcjogQ29sb3JzLndoaXRlKSwKICAgICAgY2hpbGQ6IENlbnRlcigKICAgICAgICBjaGlsZDogVGV4dCgnSGVsbG8gV29ybGQnLAogICAgICAgICAgICBzdHlsZTogVGV4dFN0eWxlKGZvbnRTaXplOiA0MC4wLCBjb2xvcjogQ29sb3JzLmJsYWNrODcpKSwKICAgICAgKSwKICAgICk7CiAgfQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIHJldHVybiBTdGFjaygKICAgICAgZGVjb3JhdGlvbjogQm94RGVjb3JhdGlvbihjb2xvcjogQ29sb3JzLndoaXRlKSwKICAgICAgY2hpbGQ6IENlbnRlcigKICAgICAgICBjaGlsZDogVGV4dCgnSGVsbG8gV29ybGQnLAogICAgICAgICAgICBzdHlsZTogVGV4dFN0eWxlKGZvbnRTaXplOiA0MC4wLCBjb2xvcjogQ29sb3JzLmJsYWNrODcpKSwKICAgICAgKSwKICAgICk7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgYXBpIHByb2plY3QoJzpyb25nY2xvdWRfaW1fcGx1Z2luJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYXBpIHByb2plY3QoJzpyb25nY2xvdWRfaW1fcGx1Z2luJykK</text>
       </register>
       <register name=":" type="4">
         <text>marks</text>
