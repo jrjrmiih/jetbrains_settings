@@ -136,10 +136,10 @@
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1589265205851">
         <mark key="'" line="415" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589280685037">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589280825353">
+        <mark key="]" line="29" column="45" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1589255936014">
         <mark key="[" line="29" column="23" />
