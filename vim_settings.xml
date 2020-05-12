@@ -48,6 +48,7 @@
         <entry>delma</entry>
         <entry>delm!</entry>
         <entry>marks</entry>
+        <entry>1947</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -127,8 +128,8 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589253958878">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589254260983">
+        <mark key="'" line="1943" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589252663657">
         <mark key="[" line="20" column="0" />
@@ -152,6 +153,9 @@
         <mark key="]" line="21" column="8" />
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/toollib/src/main/java/io/rong/common/fwlog/FwLog.java" timestamp="1589254239171">
+        <mark key="'" line="239" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/build.gradle" timestamp="1589253046406">
         <mark key="[" line="39" column="52" />
@@ -177,10 +181,6 @@
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/src/main/AndroidManifest.xml" timestamp="1589252901728" />
     </filemarks>
     <jumps>
-      <jump line="362" column="19" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="305" column="34" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="304" column="36" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="182" column="45" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="21" column="42" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="1275" column="36" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
@@ -277,6 +277,10 @@
       <jump line="55" column="14" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" />
       <jump line="1860" column="10" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="84" column="42" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="1945" column="30" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="239" column="41" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/toollib/src/main/java/io/rong/common/fwlog/FwLog.java" />
+      <jump line="1943" column="12" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,7 +340,7 @@
         <text encoding="base64">CiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CgogIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>marks</text>
+        <text>1947</text>
       </register>
     </registers>
   </component>
