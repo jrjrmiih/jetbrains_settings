@@ -131,11 +131,11 @@
         <mark key="]" line="1938" column="0" />
         <mark key="." line="1938" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589270675032">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="70" />
-        <mark key="^" line="22" column="17" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589275920069">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1589255936014">
         <mark key="[" line="29" column="23" />
@@ -266,10 +266,10 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>new</text>
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZFw+</text>
