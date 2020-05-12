@@ -91,40 +91,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Runner/Info.plist" timestamp="1589008703050">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="4" column="2" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1589081939732">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCMethodKey.java" timestamp="1589081814323">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="15" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589255632975">
         <mark key="'" line="57" column="14" />
         <mark key="[" line="330" column="36" />
         <mark key="]" line="330" column="36" />
         <mark key="." line="330" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1588871779401">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="6" />
-        <mark key="^" line="16" column="6" />
-        <mark key="." line="16" column="5" />
-      </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1589189983563" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13d1ed24fbfc4178a76c923273b0ac26/rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/RTCErrorCode.class" timestamp="1589255636973" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" timestamp="1589088916247">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1589190945805">
+        <mark key="[" line="85" column="61" />
+        <mark key="]" line="85" column="62" />
+        <mark key="." line="85" column="62" />
+        <mark key="^" line="85" column="63" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/toollib/src/main/java/io/rong/common/fwlog/FwLog.java" timestamp="1589255240878">
+        <mark key="'" line="299" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/build.gradle" timestamp="1589255951413">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" timestamp="1589255835871">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/build.gradle" timestamp="1589255919803">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+      </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1589189983563" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589255336747">
         <mark key="[" line="1938" column="0" />
         <mark key="]" line="1938" column="0" />
@@ -135,42 +138,15 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1589081577512">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="20" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1589255936014">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1589190945805">
-        <mark key="[" line="85" column="61" />
-        <mark key="]" line="85" column="62" />
-        <mark key="." line="85" column="62" />
-        <mark key="^" line="85" column="63" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-python/pyecharts/ticket_stat.py" timestamp="1588871871744">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="21" column="8" />
-        <mark key="." line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/toollib/src/main/java/io/rong/common/fwlog/FwLog.java" timestamp="1589255240878">
-        <mark key="'" line="299" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/build.gradle" timestamp="1589253046406">
-        <mark key="[" line="39" column="52" />
-        <mark key="]" line="39" column="53" />
-        <mark key="." line="39" column="53" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1589253077866">
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="38" column="39" />
-        <mark key="." line="38" column="39" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCView.java" timestamp="1589081832075">
-        <mark key="[" line="60" column="1" />
-        <mark key="]" line="60" column="1" />
-        <mark key="^" line="60" column="1" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" timestamp="1589255823023">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/src/main/AndroidManifest.xml" timestamp="1589252901728" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589255490324">
