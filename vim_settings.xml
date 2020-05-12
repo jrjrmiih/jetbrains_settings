@@ -136,6 +136,11 @@
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1589265205851">
         <mark key="'" line="415" column="21" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589280685037">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1589255936014">
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="24" />
@@ -263,7 +268,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJvbmdSVENFbmdpbmUuc3RhcnRDYXB0dXJlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>int</text>
@@ -275,37 +280,37 @@
         <text>double</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJvbmdSVENFbmdpbmUuc3RhcnRDYXB0dXJlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSb25nUlRDRW5naW5lLnB1Ymxpc2hBVlN0cmVhbSgoaW50IGNvZGUpIHsKICAgICAgICAgIHNldFN0YXRlKCgpIHsKICAgICAgICAgICAgLy8vIOW9k+acrOWcsOinhumikeWPkeW4g+aIkOWKn+S5i+WQju+8jOWGjea4suafk+W3sue7j+WtmOWcqOeahOi/nOerr+eUqOaIt+inhumikQogICAgICAgICAgICBfcmVuZGVyRXhpc3RlZFJlbW90ZXJVc2Vyc0lmTmVlZCgpOwogICAgICAgICAgICBfYWRkSW5mb1N0cmluZygibG9jYWwgdXNlciBwdWJsaXNoIGF2IHN0cmVhbToiICsgY29kZS50b1N0cmluZygpKTsKICAgICAgICAgIH0pOwogICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluU2Vzc2lvbi52aWV3SWQgPSB2aWV3SWQ7CiAgICAgICAgX2FkZEluZm9TdHJpbmcoInJlbmRlciBsb2NhbCB2aWRlbyBmb3IgdXNlcjoiICsgQ3VycmVudFVzZXJJZCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBSb25nUlRDRW5naW5lLnB1Ymxpc2hBVlN0cmVhbSgoaW50IGNvZGUpIHsKICAgICAgICAgIHNldFN0YXRlKCgpIHsKICAgICAgICAgICAgLy8vIOW9k+acrOWcsOinhumikeWPkeW4g+aIkOWKn+S5i+WQju+8jOWGjea4suafk+W3sue7j+WtmOWcqOeahOi/nOerr+eUqOaIt+inhumikQogICAgICAgICAgICBfcmVuZGVyRXhpc3RlZFJlbW90ZXJVc2Vyc0lmTmVlZCgpOwogICAgICAgICAgICBfYWRkSW5mb1N0cmluZygibG9jYWwgdXNlciBwdWJsaXNoIGF2IHN0cmVhbToiICsgY29kZS50b1N0cmluZygpKTsKICAgICAgICAgIH0pOwogICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYWluU2Vzc2lvbi52aWV3SWQgPSB2aWV3SWQ7CiAgICAgICAgX2FkZEluZm9TdHJpbmcoInJlbmRlciBsb2NhbCB2aWRlbyBmb3IgdXNlcjoiICsgQ3VycmVudFVzZXJJZCk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJDRmx1dHRlclJUQ1ZpZXcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTdHJpbmcgX3JpZDsK</text>
+        <text encoding="base64">ICAgIFJDRmx1dHRlclJUQ1ZpZXcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICBTdHJpbmcgX3JpZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
