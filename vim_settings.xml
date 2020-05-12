@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdWlkQ29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxfZGlzbWlzc0RpYWxvZ1w+</entry>
         <entry encoding="base64">XDxOYXZpZ2F0b3JcPg==</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxqb2luUlRDUm9vbVw+</entry>
         <entry encoding="base64">XDxvblJUQ01ldGhvZENhbGxcPg==</entry>
+        <entry>fwlog</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
@@ -128,8 +128,11 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589254260983">
-        <mark key="'" line="1943" column="12" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589255336747">
+        <mark key="'" line="34" column="28" />
+        <mark key="[" line="1946" column="0" />
+        <mark key="]" line="1946" column="0" />
+        <mark key="." line="1946" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589252663657">
         <mark key="[" line="20" column="0" />
@@ -154,8 +157,8 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/toollib/src/main/java/io/rong/common/fwlog/FwLog.java" timestamp="1589254239171">
-        <mark key="'" line="239" column="41" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/toollib/src/main/java/io/rong/common/fwlog/FwLog.java" timestamp="1589255240878">
+        <mark key="'" line="299" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/build.gradle" timestamp="1589253046406">
         <mark key="[" line="39" column="52" />
@@ -181,13 +184,6 @@
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/src/main/AndroidManifest.xml" timestamp="1589252901728" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="21" column="42" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="1275" column="36" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" />
-      <jump line="687" column="40" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongServerConfig.java" />
-      <jump line="27" column="24" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
-      <jump line="1665" column="63" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
-      <jump line="1661" column="62" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
       <jump line="1660" column="59" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
       <jump line="1659" column="54" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
       <jump line="622" column="32" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" />
@@ -281,6 +277,13 @@
       <jump line="1945" column="30" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
       <jump line="239" column="41" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/toollib/src/main/java/io/rong/common/fwlog/FwLog.java" />
       <jump line="1943" column="12" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="299" column="29" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/toollib/src/main/java/io/rong/common/fwlog/FwLog.java" />
+      <jump line="1990" column="9" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="1946" column="35" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="1951" column="35" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="1965" column="15" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="1967" column="95" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="34" column="28" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,40 +291,43 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkOiAsCg==</text>
+      <register name="+" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>green</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblJUQ01ldGhvZENhbGxcPg==</text>
+        <text>fwlog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9pbV9wbHVnaW4vcm9uZ2Nsb3VkX2ltX3BsdWdpbi5kYXJ0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkOiAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRndMb2cud3JpdGUoRndMb2cuRSwgRndMb2cuTVNHLCAiTC1yZWdpc3Rlcl90eXBlLVMiLCAiY2xhc3NfbmFtZSIsIGNsYXNzTmFtZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNoaWxkOiAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgX3Nob3dFcnJvckRpYWxvZygnSm9pbiByb29tIGVycm9yOiBjb2RlID0gJyArIGNvZGUudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBudWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgX3Nob3dFcnJvckRpYWxvZygnSm9pbiByb29tIGVycm9yOiBjb2RlID0gJyArIGNvZGUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGNoaWxkOiBudWxsLAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Stack(
       decoration: BoxDecoration(color: Colors.white),
       child: Center(
@@ -330,14 +336,11 @@
       ),
     );</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBidWlsZGNjCg==</text>
-      </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CgogIH0K</text>
+        <text encoding="base64">ICBidWlsZGNjCg==</text>
       </register>
       <register name=":" type="4">
         <text>1947</text>
@@ -346,13 +349,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvblJUQ01ldGhvZENhbGxcPg==</last-search>
+      <last-search>fwlog</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblJUQ01ldGhvZENhbGxcPg==</last-pattern>
+      <last-pattern>fwlog</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxtZXRob2RDaGFubmVsXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
