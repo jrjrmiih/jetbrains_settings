@@ -117,6 +117,7 @@
         <mark key="]" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RTCErrorCode.java" timestamp="1589269211382" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/build.gradle" timestamp="1589255919803">
         <mark key="[" line="36" column="23" />
         <mark key="]" line="36" column="24" />
@@ -130,11 +131,11 @@
         <mark key="]" line="1938" column="0" />
         <mark key="." line="1938" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589265306077">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="16" />
-        <mark key="^" line="16" column="17" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589269297398">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1589255936014">
         <mark key="[" line="29" column="23" />
@@ -264,8 +265,8 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="4">
-        <text>black</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>black</text>
@@ -277,37 +278,37 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9pbV9wbHVnaW4vcm9uZ2Nsb3VkX2ltX3BsdWdpbi5kYXJ0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRvb2xzOnJlcGxhY2U9ImFuZHJvaWQ6bGFiZWwiZGQK</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRndMb2cud3JpdGUoRndMb2cuRSwgRndMb2cuTVNHLCAiTC1yZWdpc3Rlcl90eXBlLVMiLCAiY2xhc3NfbmFtZSIsIGNsYXNzTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRvb2xzOnJlcGxhY2U9ImFuZHJvaWQ6bGFiZWwiZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkOiAsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRndMb2cud3JpdGUoRndMb2cuRSwgRndMb2cuTVNHLCAiTC1yZWdpc3Rlcl90eXBlLVMiLCAiY2xhc3NfbmFtZSIsIGNsYXNzTmFtZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgX3Nob3dFcnJvckRpYWxvZygnSm9pbiByb29tIGVycm9yOiBjb2RlID0gJyArIGNvZGUudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNoaWxkOiAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBudWxsCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgX3Nob3dFcnJvckRpYWxvZygnSm9pbiByb29tIGVycm9yOiBjb2RlID0gJyArIGNvZGUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
