@@ -97,7 +97,6 @@
         <mark key="]" line="330" column="36" />
         <mark key="." line="330" column="36" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13d1ed24fbfc4178a76c923273b0ac26/rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/RTCErrorCode.class" timestamp="1589255636973" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" timestamp="1589277202516">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -111,6 +110,7 @@
         <mark key="^" line="86" column="61" />
         <mark key="." line="86" column="60" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" timestamp="1589278330283" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/build.gradle" timestamp="1589256749030">
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="24" />
@@ -136,12 +136,6 @@
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1589265205851">
         <mark key="'" line="415" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589277613320">
-        <mark key="[" line="22" column="108" />
-        <mark key="]" line="23" column="70" />
-        <mark key="." line="23" column="69" />
-        <mark key="^" line="23" column="70" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1589255936014">
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="24" />
@@ -152,11 +146,11 @@
         <mark key="]" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/src/main/AndroidManifest.xml" timestamp="1589257114360">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="1" column="89" />
-        <mark key="." line="1" column="88" />
-        <mark key="^" line="1" column="89" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/src/main/AndroidManifest.xml" timestamp="1589279192034">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="11" column="64" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/platform_view.dart" timestamp="1589277038890" />
     </filemarks>
@@ -268,8 +262,8 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="4">
-        <text>int</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>int</text>
@@ -281,37 +275,37 @@
         <text>double</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJDRmx1dHRlclJUQ1ZpZXcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTdHJpbmcgX3JpZDsK</text>
+        <text encoding="base64">ICAgICAgICBSb25nUlRDRW5naW5lLnB1Ymxpc2hBVlN0cmVhbSgoaW50IGNvZGUpIHsKICAgICAgICAgIHNldFN0YXRlKCgpIHsKICAgICAgICAgICAgLy8vIOW9k+acrOWcsOinhumikeWPkeW4g+aIkOWKn+S5i+WQju+8jOWGjea4suafk+W3sue7j+WtmOWcqOeahOi/nOerr+eUqOaIt+inhumikQogICAgICAgICAgICBfcmVuZGVyRXhpc3RlZFJlbW90ZXJVc2Vyc0lmTmVlZCgpOwogICAgICAgICAgICBfYWRkSW5mb1N0cmluZygibG9jYWwgdXNlciBwdWJsaXNoIGF2IHN0cmVhbToiICsgY29kZS50b1N0cmluZygpKTsKICAgICAgICAgIH0pOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBtYWluU2Vzc2lvbi52aWV3SWQgPSB2aWV3SWQ7CiAgICAgICAgX2FkZEluZm9TdHJpbmcoInJlbmRlciBsb2NhbCB2aWRlbyBmb3IgdXNlcjoiICsgQ3VycmVudFVzZXJJZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAKICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFJDRmx1dHRlclJUQ1ZpZXcK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBTdHJpbmcgX3JpZDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRvb2xzOnJlcGxhY2U9ImFuZHJvaWQ6bGFiZWwiZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRndMb2cud3JpdGUoRndMb2cuRSwgRndMb2cuTVNHLCAiTC1yZWdpc3Rlcl90eXBlLVMiLCAiY2xhc3NfbmFtZSIsIGNsYXNzTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
