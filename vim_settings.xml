@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxOYXZpZ2F0b3JcPg==</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxkaXNtaXNzQ2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0Q2FsbEJhY2tcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxvblJUQ01ldGhvZENhbGxcPg==</entry>
         <entry>fwlog</entry>
         <entry encoding="base64">XDxjaGlsZFw+</entry>
+        <entry encoding="base64">XDx3aWR0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -98,14 +98,18 @@
         <mark key="." line="330" column="36" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13d1ed24fbfc4178a76c923273b0ac26/rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/RTCErrorCode.class" timestamp="1589255636973" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1589267542668">
-        <mark key="[" line="83" column="40" />
-        <mark key="]" line="85" column="62" />
-        <mark key="." line="85" column="62" />
-        <mark key="^" line="85" column="63" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" timestamp="1589277202516">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/toollib/src/main/java/io/rong/common/fwlog/FwLog.java" timestamp="1589255240878">
-        <mark key="'" line="299" column="29" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/lib/src/rong_rtc_engine.dart" timestamp="1589277214375">
+        <mark key="'" line="192" column="69" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1589277380882">
+        <mark key="]" line="86" column="61" />
+        <mark key="^" line="86" column="61" />
+        <mark key="." line="86" column="60" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/build.gradle" timestamp="1589256749030">
         <mark key="[" line="28" column="23" />
@@ -117,6 +121,12 @@
         <mark key="]" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCView.java" timestamp="1589277186407">
+        <mark key="[" line="60" column="1" />
+        <mark key="]" line="60" column="1" />
+        <mark key="^" line="60" column="1" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RTCErrorCode.java" timestamp="1589269211382" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/build.gradle" timestamp="1589255919803">
         <mark key="[" line="36" column="23" />
@@ -126,16 +136,11 @@
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1589265205851">
         <mark key="'" line="415" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_im_plugin/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589255336747">
-        <mark key="[" line="1938" column="0" />
-        <mark key="]" line="1938" column="0" />
-        <mark key="." line="1938" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589275920069">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="13" column="9" />
-        <mark key="." line="13" column="8" />
-        <mark key="^" line="13" column="9" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589277613320">
+        <mark key="[" line="22" column="108" />
+        <mark key="]" line="23" column="70" />
+        <mark key="." line="23" column="69" />
+        <mark key="^" line="23" column="70" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1589255936014">
         <mark key="[" line="29" column="23" />
@@ -153,14 +158,9 @@
         <mark key="." line="1" column="88" />
         <mark key="^" line="1" column="89" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589255490324">
-        <mark key="'" line="63" column="32" />
-      </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/platform_view.dart" timestamp="1589277038890" />
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/main.dart" />
-      <jump line="7" column="11" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/main.dart" />
-      <jump line="48" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="953" column="18" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="954" column="4" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1350" column="52" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" />
@@ -258,6 +258,9 @@
       <jump line="385" column="45" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" />
       <jump line="393" column="52" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" />
       <jump line="415" column="21" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="205" column="19" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/lib/src/rong_rtc_engine.dart" />
+      <jump line="183" column="25" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/lib/src/rong_rtc_engine.dart" />
+      <jump line="192" column="69" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/lib/src/rong_rtc_engine.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -266,49 +269,49 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>this</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGlsZFw+</text>
+        <text encoding="base64">XDx3aWR0aFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9pbV9wbHVnaW4vcm9uZ2Nsb3VkX2ltX3BsdWdpbi5kYXJ0JzsK</text>
+      <register name="0" type="4">
+        <text>double</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIFJDRmx1dHRlclJUQ1ZpZXcK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBTdHJpbmcgX3JpZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRvb2xzOnJlcGxhY2U9ImFuZHJvaWQ6bGFiZWwiZGQK</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRndMb2cud3JpdGUoRndMb2cuRSwgRndMb2cuTVNHLCAiTC1yZWdpc3Rlcl90eXBlLVMiLCAiY2xhc3NfbmFtZSIsIGNsYXNzTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRvb2xzOnJlcGxhY2U9ImFuZHJvaWQ6bGFiZWwiZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkOiAsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRndMb2cud3JpdGUoRndMb2cuRSwgRndMb2cuTVNHLCAiTC1yZWdpc3Rlcl90eXBlLVMiLCAiY2xhc3NfbmFtZSIsIGNsYXNzTmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
@@ -317,13 +320,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjaGlsZFw+</last-search>
+      <last-search encoding="base64">XDx3aWR0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGlsZFw+</last-pattern>
+      <last-pattern encoding="base64">XDx3aWR0aFw+</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxtZXRob2RDaGFubmVsXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
