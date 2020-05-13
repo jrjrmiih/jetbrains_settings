@@ -108,7 +108,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589337816514">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589338225341">
         <mark key="'" line="234" column="22" />
         <mark key="[" line="330" column="36" />
         <mark key="]" line="330" column="36" />
@@ -134,29 +134,27 @@
         <mark key="]" line="28" column="24" />
         <mark key="." line="28" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCConfig.java" timestamp="1589338272335" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RCFlutterRTCView.java" timestamp="1589277186407">
         <mark key="[" line="60" column="1" />
         <mark key="]" line="60" column="1" />
         <mark key="^" line="60" column="1" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RTCErrorCode.java" timestamp="1589269211382" />
       <file name="$USER_HOME$/Workspace/rc-android/android-rtc-demo/build.gradle" timestamp="1589334319428">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1589265205851">
-        <mark key="'" line="415" column="21" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/lib/src/rong_rtc_config.dart" timestamp="1589338409751" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/global_config.dart" timestamp="1589337254838" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589338013600">
-        <mark key="'" line="31" column="22" />
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="31" column="30" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589338518316">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rongcloud_rtc_plugin/README.md" timestamp="1589338407152" />
       <file name="$USER_HOME$/Workspace/rc-android/android-rtc-demo/app/src/main/java/io/rong/rtcdemo/MainActivity.java" timestamp="1589337835466">
         <mark key="'" line="50" column="1" />
         <mark key="[" line="44" column="47" />
@@ -170,7 +168,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="11" column="64" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/platform_view.dart" timestamp="1589277038890" />
       <file name="/fragment.java" timestamp="1589334394201">
         <mark key="[" line="0" column="0" />
       </file>
@@ -284,10 +281,10 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIFJvbmdSVENFbmdpbmUuc3RhcnRDYXB0dXJlKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgY2hpbGQ6IF93aWRnZXQsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>WRAP_CONTENT</text>
+        <text encoding="base64">IG9uZ1JUQ0VuZ2luZS5jb25maWcoUm9uZ1JUQ0NvbmZpZy5kZWZhdWx0Q29uZmlnKCkpOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydENhcHR1cmVcPg==</text>
@@ -296,37 +293,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmkoVEFHLCAiam9pbiBzdWNjZXNzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJvbmdSVENFbmdpbmUuc3RhcnRDYXB0dXJlKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgY2hpbGQ6IF93aWRnZXQsCg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJvbmdSVENFbmdpbmUuY29uZmlnKFJvbmdSVENDb25maWcuZGVmYXVsdENvbmZpZygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy/liqDlhaXmiL/pl7TmiJDlip/lkI7vvIzlvIDlkK/mkYTlg4/lpLTph4fpm4bop4bpopHmlbDmja4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy/liqDlhaXmiL/pl7TmiJDlip/lkI7vvIzlj5HluIPpu5jorqTpn7Pop4bpopHmtYEKICAgICAgICAgICAgICAgICAgICAgICAgLy/liqDlhaXmiL/pl7TmiJDlip/lkI7vvIzlpoLmnpzmiL/pl7TkuK3lt7LlrZjlnKjnlKjmiLfkuJTlj5HluIPkuobpn7PjgIHop4bpopHmtYHvvIzlsLHorqLpmIXov5znq6/nlKjmiLflj5HluIPnmoTpn7Pop4bpopHmtYEuCg==</text>
+        <text encoding="base64">ICAgIFJvbmdSVENFbmdpbmUuY29uZmlnKFJvbmdSVENDb25maWcuZGVmYXVsdENvbmZpZygpKTtSb25nUlRDRW5naW5lLmNvbmZpZyhjb25mKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaWJlQVZTdHJlYW0ocm9uZ1JUQ1Jvb20pOwo=</text>
+        <text encoding="base64">ICAgIFJvbmdSVENFbmdpbmUuc3RhcnRDYXB0dXJlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHVibGlzaERlZmF1bHRBVlN0cmVhbShyb25nUlRDUm9vbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHJvdGVjdGVkIHZvaWQgb25VaUZhaWxlZChSVENFcnJvckNvZGUgcnRjRXJyb3JDb2RlKSB7CgogICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy/liqDlhaXmiL/pl7TmiJDlip/lkI7vvIzlvIDlkK/mkYTlg4/lpLTph4fpm4bop4bpopHmlbDmja4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVJvbmdSVENSb29tID0gcm9uZ1JUQ1Jvb207Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy/liqDlhaXmiL/pl7TmiJDlip/lkI7vvIzlj5HluIPpu5jorqTpn7Pop4bpopHmtYEKICAgICAgICAgICAgICAgICAgICAgICAgLy/liqDlhaXmiL/pl7TmiJDlip/lkI7vvIzlpoLmnpzmiL/pl7TkuK3lt7LlrZjlnKjnlKjmiLfkuJTlj5HluIPkuobpn7PjgIHop4bpopHmtYHvvIzlsLHorqLpmIXov5znq6/nlKjmiLflj5HluIPnmoTpn7Pop4bpopHmtYEuCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaWJlQVZTdHJlYW0ocm9uZ1JUQ1Jvb20pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
