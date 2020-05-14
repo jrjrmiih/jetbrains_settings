@@ -120,6 +120,11 @@
         <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/.flutter-plugins" timestamp="1589424663017" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1589440674451">
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="4" column="71" />
+        <mark key="." line="4" column="71" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/pubspec.yaml" timestamp="1589424424693" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rtcsdk/test/rongcloud_rtc_plugin_test.dart" timestamp="1589424130329">
         <mark key="[" line="5" column="51" />
