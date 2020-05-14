@@ -85,6 +85,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/unit_test/base_unittest.py" timestamp="1589473529793" />
       <file name="/Python Console" timestamp="1588872293809">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,6 +134,11 @@
         <mark key="]" line="16" column="43" />
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="42" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/rongcloud.py" timestamp="1589473569088">
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="24" column="54" />
+        <mark key="." line="24" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/android/build.gradle" timestamp="1588611206031">
         <mark key="[" line="38" column="38" />
@@ -271,11 +277,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>http://api.cn.ronghub.com;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://api.cn.ronghub.com;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydGNSb29tXD4=</text>
