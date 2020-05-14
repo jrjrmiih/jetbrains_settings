@@ -148,7 +148,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589424634887">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589428203747">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -271,7 +271,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9ydGNfcGx1Z2luL3JvbmdjbG91ZF9ydGNfcGx1Z2luLmRhcnQnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXJfcnRjc2RrL3JvbmdfcnRjX2NvbmZpZy5kYXJ0JzsK</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -283,30 +283,30 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmkoVEFHLCAiam9pbiBzdWNjZXNzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9ydGNfcGx1Z2luL3JvbmdjbG91ZF9ydGNfcGx1Z2luLmRhcnQnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXJfcnRjc2RrL3JvbmdfcnRjX2NvbmZpZy5kYXJ0JzsK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9ydGNfcGx1Z2luL3JvbmdjbG91ZF9ydGNfcGx1Z2luLmRhcnQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text />
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text />
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>/**
  * RongRTCPlugin
  */</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdfcnRjX3BsdWdpbi9yb25nX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5kcm9pZC5lbmFibGVSOD10cnVlCg==</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdfcnRjX3BsdWdpbi9yb25nX3J0Y19wbHVnaW4uZGFydCc7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">YW5kcm9pZC5lbmFibGVSOD10cnVlCg==</text>
@@ -315,7 +315,7 @@
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXV0aG9yOgpob21lcGFnZToK</text>
+        <text encoding="base64">YW5kcm9pZC5lbmFibGVSOD10cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
