@@ -96,16 +96,27 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/example/android/gradle.properties" timestamp="1589422412136">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/gradle.properties" timestamp="1589422435017">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RongcloudRtcPlugin.java" timestamp="1589424497547">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1589424537647">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/java/io/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1589440943062">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/pubspec.yaml" timestamp="1589424818641">
         <mark key="[" line="30" column="39" />
@@ -113,19 +124,23 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="39" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589428203747">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1589428260291">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/.flutter-plugins" timestamp="1589424663017" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1589440674451">
         <mark key="[" line="4" column="70" />
         <mark key="]" line="4" column="71" />
         <mark key="." line="4" column="71" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-imsdk/pubspec.yaml" timestamp="1589424424693" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rtcsdk/test/rongcloud_rtc_plugin_test.dart" timestamp="1589424130329">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="5" column="51" />
@@ -142,24 +157,6 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/lib/rong_rtc_plugin.dart" timestamp="1589423975541" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/example/android/gradle.properties" timestamp="1589422412136">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/gradle.properties" timestamp="1589422435017">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589428203747">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="20" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rtcsdk/pubspec.yaml" timestamp="1589356202675" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/flutter-rtcsdk/android/src/main/AndroidManifest.xml" timestamp="1589422506687">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="33" />
@@ -275,11 +272,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">aW1wb3J0ICd2aWRlb19wYWdlLmRhcnQnOwo=</text>
+      <register name="+" type="4">
+        <text>cloudRtc</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>cloudRtc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRWaWRlb0Zwc1w+</text>
