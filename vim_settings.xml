@@ -115,8 +115,10 @@
         <mark key="'" line="56" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetNewsListRequest.java" timestamp="1589532707583" />
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589537107949">
-        <mark key="[" line="14" column="34" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589537201168">
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="55" />
+        <mark key="." line="17" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/http/client/NNFClient.java" timestamp="1589535955177">
         <mark key="[" line="3" column="0" />
@@ -254,11 +256,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFubm90YXRpb24uTm9uTnVsbDsK</text>
+      <register name="+" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QE5vbk51bGwg</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ29udGV4dFw+</text>
