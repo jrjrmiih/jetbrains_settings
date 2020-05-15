@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
         <entry encoding="base64">XDxfY2hhbm5lbFw+</entry>
         <entry encoding="base64">XDxtZXRob2RDaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxSZW1vdGVVc2VyUHVibGlzaFN0cmVhbXNcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxzZXRWaWRlb1Byb2ZpbGVcPg==</entry>
         <entry encoding="base64">XDxzZXRWaWRlb0Zwc1w+</entry>
         <entry encoding="base64">XDxtQ29udGV4dFw+</entry>
+        <entry encoding="base64">XDxsb25naXR1ZGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -92,50 +92,16 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1589535570453" />
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/build.gradle" timestamp="1589533125245">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetCitiesRequest.java" timestamp="1589531588330" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/build.gradle" timestamp="1589506796987" />
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/build.gradle" timestamp="1589536678203">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="29" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589537040491">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="22" />
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589453181352">
-        <mark key="'" line="56" column="34" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetNewsListRequest.java" timestamp="1589532707583" />
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589537201168">
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="17" column="55" />
-        <mark key="." line="17" column="55" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/http/client/NNFClient.java" timestamp="1589535955177">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76d726ea7bd5e518102cfcabd4f5ec30/jetified-im_lib-2.10.6/jars/classes.jar!/io/rong/imlib/RongIMClient.class" timestamp="1589453152800" />
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/build.gradle" timestamp="1589536418316" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/build.gradle" timestamp="1589533048107" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1589534961638" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RongIMPlugin.java" timestamp="1589453214715">
-        <mark key="[" line="22" column="69" />
-        <mark key="]" line="22" column="93" />
-        <mark key="^" line="22" column="93" />
-        <mark key="." line="22" column="92" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_main.xml" timestamp="1589536820681" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1589453334916">
         <mark key="[" line="26" column="113" />
         <mark key="]" line="26" column="112" />
@@ -144,16 +110,40 @@
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/res/layout/activity_main.xml" timestamp="1589537034113" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetChannelsRequest.java" timestamp="1589534914633" />
-      <file name="/fragment.java" timestamp="1589452939196">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/build.gradle" timestamp="1589533125245">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetCitiesRequest.java" timestamp="1589531588330" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/build.gradle" timestamp="1589536678203">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589453181352">
+        <mark key="'" line="56" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/http/client/NNFClient.java" timestamp="1589535955177">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1589538100203">
+        <mark key="'" line="159" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/build.gradle" timestamp="1589536418316" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RongIMPlugin.java" timestamp="1589453214715">
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="22" column="93" />
+        <mark key="^" line="22" column="93" />
+        <mark key="." line="22" column="92" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_main.xml" timestamp="1589536820681" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFChannelInfo.java" timestamp="1589538174641" />
     </filemarks>
     <jumps>
-      <jump line="34" column="13" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/widgets/loading_dialog.dart" />
-      <jump line="8" column="2" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/widgets/loading_dialog.dart" />
-      <jump line="13" column="11" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/widgets/loading_dialog.dart" />
-      <jump line="167" column="9" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" />
-      <jump line="205" column="41" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" />
       <jump line="206" column="15" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" />
       <jump line="522" column="15" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" />
       <jump line="558" column="6" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" />
@@ -249,6 +239,11 @@
       <jump line="395" column="30" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" />
       <jump line="1933" column="79" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" />
       <jump line="56" column="34" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" />
+      <jump line="314" column="6" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
+      <jump line="467" column="138" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
+      <jump line="474" column="207" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
+      <jump line="480" column="199" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
+      <jump line="159" column="14" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -257,49 +252,49 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>n</text>
+        <text>loginUser(&quot;tester_1&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>loginUser(&quot;tester_1&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ29udGV4dFw+</text>
+        <text encoding="base64">XDxsb25naXR1ZGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFubm90YXRpb24uTm9uTnVsbDsK</text>
+        <text encoding="base64">ICAgIE5OZXdzRmVlZHNTREsgY2xpZW50ID0gbmV3IE5OZXdzRmVlZHNTREsoYnVpbGRlcik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFubm90YXRpb24uTm9uTnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ2JpbnRyYXkuZ3JhZGxlJwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdHJhci5wbGF0Zm9ybVZpZXdSZWdpc3RyeSgpLnJlZ2lzdGVyVmlld0ZhY3RvcnkoInJvbmcuZmx1dHRlci5ydGNsaWIvcnRjX3ZpZXciLCBmYWN0b3J5KTsK</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ2JpbnRyYXkuZ3JhZGxlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZ2lzdHJhci5wbGF0Zm9ybVZpZXdSZWdpc3RyeSgpLnJlZ2lzdGVyVmlld0ZhY3RvcnkoInJvbmcuZmx1dHRlci5ydGNsaWIvcnRjX3ZpZXciLCBmYWN0b3J5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJvbmcuZmx1dHRlci5ydGNsaWIuUkNGbHV0dGVyUlRDV3JhcHBlcjsKaW1wb3J0IGlvLnJvbmcuZmx1dHRlci5ydGNsaWIuUkNGbHV0dGVyUlRDVmlld0ZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIE1ldGhvZENoYW5uZWwgY2hhbm5lbCA9IG5ldyBNZXRob2RDaGFubmVsKHJlZ2lzdHJhci5tZXNzZW5nZXIoKSwgInJvbmdfcnRjbGliIik7CiAgICBjaGFubmVsLnNldE1ldGhvZENhbGxIYW5kbGVyKG5ldyBSb25nUlRDUGx1Z2luKCkpOwoK</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJvbmcuZmx1dHRlci5ydGNsaWIuUkNGbHV0dGVyUlRDV3JhcHBlcjsKaW1wb3J0IGlvLnJvbmcuZmx1dHRlci5ydGNsaWIuUkNGbHV0dGVyUlRDVmlld0ZhY3Rvcnk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIE1ldGhvZENoYW5uZWwgY2hhbm5lbCA9IG5ldyBNZXRob2RDaGFubmVsKHJlZ2lzdHJhci5tZXNzZW5nZXIoKSwgInJvbmdfcnRjbGliIik7CiAgICBjaGFubmVsLnNldE1ldGhvZENhbGxIYW5kbGVyKG5ldyBSb25nUlRDUGx1Z2luKCkpOwoK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChjYWxsLm1ldGhvZC5lcXVhbHMoImdldFBsYXRmb3JtVmVyc2lvbiIpKSB7CiAgICAgIHJlc3VsdC5zdWNjZXNzKCJBbmRyb2lkICIgKyBhbmRyb2lkLm9zLkJ1aWxkLlZFUlNJT04uUkVMRUFTRSk7CiAgICB9IGVsc2UgewogICAgICByZXN1bHQubm90SW1wbGVtZW50ZWQoKTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
@@ -308,9 +303,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtQ29udGV4dFw+</last-search>
+      <last-search encoding="base64">XDxsb25naXR1ZGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ29udGV4dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb25naXR1ZGVcPg==</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxtZXRob2RDaGFubmVsXD4=</last-substitute>
       <last-dir>1</last-dir>
