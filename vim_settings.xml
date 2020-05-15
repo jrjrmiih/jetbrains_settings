@@ -99,9 +99,10 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetCitiesRequest.java" timestamp="1589531588330" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCView.java" timestamp="1589452047260" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/build.gradle" timestamp="1589506796987" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCMethodKey.java" timestamp="1589452049695" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589535043332">
+        <mark key="[" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589453181352">
         <mark key="'" line="56" column="34" />
       </file>
@@ -113,6 +114,7 @@
         <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/build.gradle" timestamp="1589533048107" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1589534961638" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RongIMPlugin.java" timestamp="1589453214715">
         <mark key="[" line="22" column="69" />
         <mark key="]" line="22" column="93" />
@@ -127,7 +129,9 @@
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCConfig.java" timestamp="1589452052484" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589452396762" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/res/layout/activity_main.xml" timestamp="1589533493119" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCLog.java" timestamp="1589452440976" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetChannelsRequest.java" timestamp="1589534914633" />
       <file name="/fragment.java" timestamp="1589452939196">
         <mark key="[" line="0" column="0" />
       </file>
