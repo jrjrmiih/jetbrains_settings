@@ -105,7 +105,7 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589535896803">
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589537040491">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="22" />
         <mark key="^" line="17" column="22" />
@@ -115,17 +115,15 @@
         <mark key="'" line="56" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetNewsListRequest.java" timestamp="1589532707583" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589537107949">
+        <mark key="[" line="14" column="34" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/http/client/NNFClient.java" timestamp="1589535955177">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76d726ea7bd5e518102cfcabd4f5ec30/jetified-im_lib-2.10.6/jars/classes.jar!/io/rong/imlib/RongIMClient.class" timestamp="1589453152800" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCLog.java" timestamp="1589452478247">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/build.gradle" timestamp="1589536418316" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/build.gradle" timestamp="1589533048107" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1589534961638" />
@@ -142,7 +140,7 @@
         <mark key="." line="26" column="111" />
         <mark key="^" line="26" column="112" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/res/layout/activity_main.xml" timestamp="1589536813980" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/res/layout/activity_main.xml" timestamp="1589537034113" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetChannelsRequest.java" timestamp="1589534914633" />
       <file name="/fragment.java" timestamp="1589452939196">
         <mark key="[" line="0" column="0" />
