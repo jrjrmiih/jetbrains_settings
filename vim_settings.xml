@@ -101,8 +101,7 @@
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1589453181352">
         <mark key="'" line="56" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetNewsListRequest.java" timestamp="1589531512020" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/embedding/engine/plugins/FlutterPlugin.java" timestamp="1589451523476" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetNewsListRequest.java" timestamp="1589532707583" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76d726ea7bd5e518102cfcabd4f5ec30/jetified-im_lib-2.10.6/jars/classes.jar!/io/rong/imlib/RongIMClient.class" timestamp="1589453152800" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCLog.java" timestamp="1589452478247">
         <mark key="[" line="10" column="4" />
@@ -115,7 +114,6 @@
         <mark key="^" line="22" column="93" />
         <mark key="." line="22" column="92" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RongcloudImPlugin.java" timestamp="1589451311327" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1589453334916">
         <mark key="[" line="26" column="113" />
         <mark key="]" line="26" column="112" />
