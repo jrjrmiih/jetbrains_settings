@@ -91,7 +91,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1589535570453" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589537040491">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="22" />
@@ -99,9 +98,10 @@
         <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/bintray.gradle" timestamp="1589554509560" />
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1589534961638" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/utils/NNFCryptUtil.java" timestamp="1589589844635">
+        <mark key="'" line="74" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeed/app/src/main/res/layout/activity_main.xml" timestamp="1589537034113" />
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeed/newsfeed-plugin/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetChannelsRequest.java" timestamp="1589534914633" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" timestamp="1589553391824" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/hthttp-gen/com.netease.youliao.newsfeeds/request/GetNewsListRequest.java" timestamp="1589552799742" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/build.gradle" timestamp="1589555348976">
@@ -135,6 +135,7 @@
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/AndroidManifest.xml" timestamp="1589549746382">
         <mark key="[" line="3" column="63" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_method_key.dart" timestamp="1589590235202" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/build.gradle" timestamp="1589555358987">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="4" />
@@ -143,9 +144,9 @@
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_main.xml" timestamp="1589536820681" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFChannelInfo.java" timestamp="1589538174641" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589590207898" />
     </filemarks>
     <jumps>
-      <jump line="558" column="6" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/app.dart" />
       <jump line="42" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/widgets/loading_dialog.dart" />
       <jump line="65" column="11" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="58" column="33" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
@@ -245,6 +246,7 @@
       <jump line="159" column="14" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
       <jump line="448" column="24" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
       <jump line="29" column="31" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" />
+      <jump line="74" column="28" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/utils/NNFCryptUtil.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
