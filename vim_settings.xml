@@ -94,11 +94,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/fragment_news_list.xml" timestamp="1589616445353">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/fragment_news_list.xml" timestamp="1589617591086">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1589603450428">
         <mark key="[" line="0" column="0" />
@@ -116,11 +116,11 @@
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/utils/NNFCryptUtil.java" timestamp="1589589844635">
         <mark key="'" line="74" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1589605150840">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1589617836569">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" timestamp="1589553391824" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/ItemFragment.java" timestamp="1589605490851" />
@@ -260,10 +260,10 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bmFtZT0iY29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZHMudWkuSXRlbUZyYWdtZW50Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydGNSb29tXD4=</text>
@@ -272,37 +272,37 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoVEFHLCAiMTExIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bmFtZT0iY29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZHMudWkuSXRlbUZyYWdtZW50Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvb2xzOmNvbnRleHQ9Ii51aS5JdGVtRnJhZ21lbnQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bmFtZT0iY29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZHMudWkuSXRlbUZyYWdtZW50Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbmRyb2lkOm5hbWU+Cg==</text>
+        <text encoding="base64">ICAgIHRhYkluZGV4ZXIuc2V0dXBXaXRoVmlld1BhZ2VyKG5ld3NQYWdlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbmZsYXRlcjsK</text>
+        <text encoding="base64">ICAgIHRhYkluZGV4ZXIuc2V0dXBXaXRoVmlld1BhZ2VyKG5ld3NQYWdlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluZmxhdGVyLmluZmxhdGUoUi5sYXlvdXQuZnJhZ21lbnRfbmV3c19saXN0LCBjb250YWluZXIsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIHRhYkluZGV4ZXIgPSAoVGFiTGF5b3V0KSBmaW5kVmlld0J5SWQoUi5pZC50bF90YWIpOwogICAgbUNvbnRlbnRWcCA9IChWaWV3UGFnZXIpIGZpbmRWaWV3QnlJZChSLmlkLnZwX2NvbnRlbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIKICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRhYmxlTGF5b3V0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bmFtZT0iY29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZHMudWkuSXRlbUZyYWdtZW50Igo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
+        <text encoding="base64">ICAgIHRvb2xzOmNvbnRleHQ9Ii51aS5JdGVtRnJhZ21lbnQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
