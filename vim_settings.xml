@@ -126,10 +126,11 @@
         <mark key="^" line="26" column="31" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/NNFClientSingleton.java" timestamp="1589647882696">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/NNFClientSingleton.java" timestamp="1589648352097">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="26" column="50" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1589647632725">
         <mark key="'" line="49" column="13" />
@@ -285,7 +286,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICBzdGF0aWMgIHByaXZhdGUgTk5ld3NGZWVkc1NESyBjbGllbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>builder</text>
@@ -297,37 +298,37 @@
         <text encoding="base64">ICBzdGF0aWMgIHByaXZhdGUgTk5ld3NGZWVkc1NESy5CdWlsZGVyIGJ1aWxkZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGF0aWMgIHByaXZhdGUgTk5ld3NGZWVkc1NESyBjbGllbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMuID0gY29udGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBOTmV3c0ZlZWRzU0RLIGNsaWVudCA9CiAgICAgIG5ldyBOTmV3c0ZlZWRzU0RLLkJ1aWxkZXIoKQogICAgICAgICAgLnNldENvbnRleHQoZ2V0Q29udGV4dCgpKQogICAgICAgICAgLnNldEFwcEtleShBUFBfS0VZKQogICAgICAgICAgLnNldEFwcFNlY3JldChBUFBfU0VDUkVUKQogICAgICAgICAgLnNldExvZ0xldmVsKE5ORkxvZ1V0aWwuTE9HX0RFQlVHKQogICAgICAgICAgLmJ1aWxkKCk7CiAgICByZXR1cm47</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChjbGllbnQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGluc3RhbmNlICE9bnVsbCkgcmV0dXJuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZShDTEFTUywgImNsaWVudCBjcmVhdGUgZmFpbGVkISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgIHByaXZhdGUgTk5ld3NGZWVkc1NESyBjbGllbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgIHByaXZhdGUgTk5ld3NGZWVkc1NESyBjbGllbnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgY2xhc3MgTk5GQ2xpZW50SW5zdGFuY2V7CgogICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE5ORkNsaWVudFNpbmdsZXRvbiBpbnN0YW5jZT1uZXcgTk5GQ2xpZW50U2luZ2xldG9uKCk7CiB9</text>
+        <text encoding="base64">ICBzdGF0aWMgIHByaXZhdGUgTk5ld3NGZWVkc1NESyBjbGllbnQ7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHRoaXMuID0gY29udGV4dDsK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
