@@ -83,6 +83,7 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
@@ -113,6 +114,9 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
   <action id="IpnbAddCellBelowAction" />
@@ -122,6 +126,9 @@
   <action id="NextProjectWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="RecentFiles" />
   <action id="ReformatCode">
