@@ -94,11 +94,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/fragment_news_list.xml" timestamp="1589605407221">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="50" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/fragment_news_list.xml" timestamp="1589616445353">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1589603450428">
         <mark key="[" line="0" column="0" />
@@ -260,7 +260,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbmZsYXRlcjsK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bmFtZT0iY29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZHMudWkuSXRlbUZyYWdtZW50Igo=</text>
       </register>
       <register name="-" type="4">
         <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;</text>
@@ -272,37 +272,37 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoVEFHLCAiMTExIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbmZsYXRlcjsK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bmFtZT0iY29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZHMudWkuSXRlbUZyYWdtZW50Igo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluZmxhdGVyLmluZmxhdGUoUi5sYXlvdXQuZnJhZ21lbnRfbmV3c19saXN0LCBjb250YWluZXIsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIHRvb2xzOmNvbnRleHQ9Ii51aS5JdGVtRnJhZ21lbnQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIKICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bmFtZT0iY29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZHMudWkuSXRlbUZyYWdtZW50Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+        <text encoding="base64">ICBhbmRyb2lkOm5hbWU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbmZsYXRlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
+        <text encoding="base64">ICAgIGluZmxhdGVyLmluZmxhdGUoUi5sYXlvdXQuZnJhZ21lbnRfbmV3c19saXN0LCBjb250YWluZXIsIGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIKICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
