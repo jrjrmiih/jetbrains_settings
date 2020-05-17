@@ -100,11 +100,10 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/news_item_small_pic.xml" timestamp="1589686853839">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/news_item_small_pic.xml" timestamp="1589688159569">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/NNFClientSingleton.java" timestamp="1589649520457">
         <mark key="[" line="27" column="0" />
@@ -152,16 +151,16 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/news_item_big_pic.xml" timestamp="1589686889853">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/news_item_big_pic.xml" timestamp="1589688161599">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/news_item_three_pics.xml" timestamp="1589686448284">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="50" column="33" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/news_item_three_pics.xml" timestamp="1589688165004">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFNewsInfo.java" timestamp="1589650044132">
         <mark key="'" line="34" column="30" />
@@ -173,12 +172,12 @@
         <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/rcsticker/src/main/java/io/rong/sticker/widget/DownloadStickerView.java" timestamp="1589681477613" />
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1589686537871">
-        <mark key="'" line="200" column="17" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="188" column="59" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1589688224726">
+        <mark key="'" line="208" column="17" />
+        <mark key="[" line="153" column="4" />
+        <mark key="]" line="153" column="12" />
+        <mark key="^" line="153" column="12" />
+        <mark key="." line="153" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1589646584073">
         <mark key="[" line="0" column="0" />
@@ -293,11 +292,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjEwZHAiCiAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iMTBkcCIK</text>
+      <register name="+" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWN5Y2xlclZpZXdBZGFwdGVyXD4=</text>
@@ -306,37 +305,37 @@
         <text encoding="base64">ICAgICAgICBzbWFsbF9waWMgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLm5ld3Nfc21hbGxfcGljKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjEwZHAiCiAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iMTBkcCIK</text>
+        <text encoding="base64">ICBhbmRyb2lkOmlkPSJAK2lkZGQvbmV3c19pdGVtIgo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bWluSGVpZ2h0PSI4MGRwIgo=</text>
+        <text encoding="base64">ICBhbmRyb2lkOmlkPSJAK2lkL25ld3NfaXRlbSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHZpZXdUeXBlID09IDEgfHwgdmlld1R5cGUgPT0gMykK</text>
+        <text encoding="base64">ICBhbmRyb2lkOmlkPSJAK2lkL25ld3NfaXRlbSIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgIFZpZXcgbmV3c19pdGVtID0gdmlldy5maW5kVmlld0J5SWQoUi5pZC5uZXdzX2l0ZW0pOwogICAgICAgIG5ld3NfaXRlbS5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IE9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKCiAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGNoYW5uZWxOZXdzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBOTkZOZXdzIGdldENoYW5uZWxOZXdzKCkgewo=</text>
+        <text encoding="base64">ICAgIHJlY3ljbGVyVmlldy5zZXRPbkNsaWNrTGlzdGVuZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6dGV4dD0i5LuK5aSp5aSn5LyZ5ZCD5LuA5LmI77yfIgo=</text>
+        <text encoding="base64">ICAgICAgICBWaWV3IG5ld3NfaXRlbSA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubmV3c19pdGVtKTsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjEwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBWaWV3IG5ld3NfaXRlbSA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubmV3c19pdGVtKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
