@@ -111,10 +111,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_main.xml" timestamp="1589689221227">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="30" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_main.xml" timestamp="1589691997361">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/news_item_three_pics.xml" timestamp="1589688165004">
@@ -133,25 +133,25 @@
         <mark key="^" line="152" column="27" />
         <mark key="." line="147" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/AndroidManifest.xml" timestamp="1589689573169">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="5" column="2" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/AndroidManifest.xml" timestamp="1589692206051">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="63" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/java/rym/demo/newsfeed/DetailActivity.java" timestamp="1589690085442">
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/kit/src/kit/java/io/rong/imkit/RongIM.java" timestamp="1589690526622" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/java/rym/demo/newsfeed/DetailActivity.java" timestamp="1589692184279">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="42" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1589689309693">
-        <mark key="'" line="208" column="17" />
-        <mark key="[" line="153" column="4" />
-        <mark key="]" line="153" column="12" />
-        <mark key="^" line="153" column="12" />
-        <mark key="." line="153" column="11" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1589692236256">
+        <mark key="'" line="214" column="17" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/res/layout/fragment_news_detail.xml" timestamp="1589689361446">
         <mark key="[" line="9" column="4" />
@@ -179,16 +179,16 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589689393769">
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1589692107224">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="43" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_detail.xml" timestamp="1589689272400">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="11" column="65" />
-        <mark key="^" line="11" column="65" />
-        <mark key="." line="11" column="64" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_detail.xml" timestamp="1589692011089">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -299,50 +299,50 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="4">
-        <text>activity_detail</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpbnRlbnQuc2V0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>activity_detail</text>
+        <text>uri</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWN5Y2xlclZpZXdBZGFwdGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X21haW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5ERUZBVUxUIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbnRlbnQuc2V0Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLklOVEVSTkVUIiAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkFjdGl2aXR5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLklOVEVSTkVUIiAvPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLklOVEVSTkVUIiAvPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGF0YQogICAgICAgICAgYW5kcm9pZDpob3N0PSJyeW0uZGVtby5uZXdzZmVlZCIKICAgICAgICAgIGFuZHJvaWQ6cGF0aFByZWZpeD0iL25ld3NfZGV0YWlsIgogICAgICAgICAgYW5kcm9pZDpzY2hlbWU9Im5mZiIgLz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBVcmkgdXJpID0gVXJpLnBhcnNlKCJubmY6Ly8iICsgcGFja2FnZU5hbWUpLmJ1aWxkVXBvbigpLmFwcGVuZFBhdGgoIm5ld3NfZGV0YWlsIikuYnVpbGQoKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICA8aW50ZW50LWZpbHRlcj4KICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+CgogICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIiAvPgogICAgICA8L2ludGVudC1maWx0ZXI+</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBVcmkgdXJpID0gVXJpLnBhcnNlKCJubmY6Ly8iICsgcGFja2FnZU5hbWUpLmJ1aWxkVXBvbigpLmFwcGVuZFBhdGgoIm5ld3NfZGV0YWlsIikuYnVpbGQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBVcmkgdXJpID0gVXJpLnBhcnNlKCJubmY6Ly8iICsgcGFja2FnZU5hbWUpLmJ1aWxkVXBvbigpLmFwcGVuZFBhdGgoIm5ld3NfZGV0YWlsIikuYnVpbGQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmVhckxheW91dE1hbmFnZXIgPSBuZXcgTGluZWFyTGF5b3V0TWFuYWdlcihnZXRDb250ZXh0KCkpOwogICAgbGluZWFyTGF5b3V0TWFuYWdlci5zZXRPcmllbnRhdGlvbihMaW5lYXJMYXlvdXRNYW5hZ2VyLlZFUlRJQ0FMKTsKICAgIHJlY3ljbGVyVmlld0FkYXB0ZXIgPSBuZXcgUmVjeWNsZXJBZGFwdGVyKGdldENvbnRleHQoKSk7CiAgICByZWN5Y2xlclZpZXcgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLm5ld3NfbGlzdF92aWV3KTsKICAgIHJlY3ljbGVyVmlldy5zZXRMYXlvdXRNYW5hZ2VyKGxpbmVhckxheW91dE1hbmFnZXIpOwogICAgcmVjeWNsZXJWaWV3LnNldEFkYXB0ZXIocmVjeWNsZXJWaWV3QWRhcHRlcik7CiAgICBpbml0Q29udGVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBTdHJpbmcgcGFja2FnZU5hbWUgPSB2LmdldENvbnRleHQoKS5nZXRBcHBsaWNhdGlvbkluZm8oKS5wYWNrYWdlTmFtZTsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjE2ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbnRlbnQuc2V0UGFja2FnZShwYWNrYWdlTmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
