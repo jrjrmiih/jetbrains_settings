@@ -108,11 +108,10 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1589814904967" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_config.dart" timestamp="1589816374392" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/video/ChannelMediaRelayConfiguration.class" timestamp="1589799954992" />
-      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/build.gradle" timestamp="1589798679887">
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="32" column="54" />
-        <mark key="^" line="29" column="47" />
-        <mark key="." line="32" column="54" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/pubspec.yaml" timestamp="1589816819947">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1589814729657" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/RtcEngine.class" timestamp="1589798869992">
@@ -122,12 +121,12 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/liteav/trtc/impl/TRTCCloudImpl.class" timestamp="1589799474696">
         <mark key="'" line="2085" column="93" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_video_config.dart" timestamp="1589816499522">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_video_config.dart" timestamp="1589816864410">
         <mark key="'" line="3" column="19" />
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="33" />
-        <mark key="^" line="13" column="33" />
-        <mark key="." line="13" column="32" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="22" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/video/CameraCapturerConfiguration.class" timestamp="1589799921652" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1589814969421" />
@@ -255,14 +254,8 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="8">
-        <text>Size
-Size
-Size
-Size
-Size
-Size
-Size</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICBhZ29yYV9ydGNfZW5naW5lOiBeMS4wLjEyCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -273,7 +266,13 @@ Size</text>
       <register name="0" type="2">
         <text encoding="base64">ICBXaWRnZXQgX3dpZGdldDsK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICBhZ29yYV9ydGNfZW5naW5lOiBeMS4wLjEyCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text>^xj0</text>
+      </register>
+      <register name="2" type="8">
         <text>Size
 Size
 Size
@@ -282,26 +281,20 @@ Size
 Size
 Size</text>
       </register>
-      <register name="q" type="4">
-        <text>^xj0</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAvLy8g6KeG6aKR5YiG6L6o546HCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBwcml2YXRlIE1ldGhvZENoYW5uZWwgY2hhbm5lbF9jYXB0dXJlOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWxfY2FwdHVyZSA9IG5ldyBNZXRob2RDaGFubmVsKGZsdXR0ZXJQbHVnaW5CaW5kaW5nLmdldEZsdXR0ZXJFbmdpbmUoKS5nZXREYXJ0RXhlY3V0b3IoKSwgInJvbmdfcnRjbGliIik7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLy8gVGhlIE1ldGhvZENoYW5uZWwgdGhhdCB3aWxsIHRoZSBjb21tdW5pY2F0aW9uIGJldHdlZW4gRmx1dHRlciBhbmQgbmF0aXZlIEFuZHJvaWQKeQo=</text>
+        <text encoding="base64">ICAgIGNoYW5uZWxfY2FwdHVyZSA9IG5ldyBNZXRob2RDaGFubmVsKGZsdXR0ZXJQbHVnaW5CaW5kaW5nLmdldEZsdXR0ZXJFbmdpbmUoKS5nZXREYXJ0RXhlY3V0b3IoKSwgInJvbmdfcnRjbGliIik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAvLy8gVGhlIE1ldGhvZENoYW5uZWwgdGhhdCB3aWxsIHRoZSBjb21tdW5pY2F0aW9uIGJldHdlZW4gRmx1dHRlciBhbmQgbmF0aXZlIEFuZHJvaWQKeQo=</text>
@@ -309,8 +302,8 @@ Size</text>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvLy8KICAvLy8gVGhpcyBsb2NhbCByZWZlcmVuY2Ugc2VydmVzIHRvIHJlZ2lzdGVyIHRoZSBwbHVnaW4gd2l0aCB0aGUgRmx1dHRlciBFbmdpbmUgYW5kIHVucmVnaXN0ZXIgaXQKICAvLy8gd2hlbiB0aGUgRmx1dHRlciBFbmdpbmUgaXMgZGV0YWNoZWQgZnJvbSB0aGUgQWN0aXZpdA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvLy8gVGhlIE1ldGhvZENoYW5uZWwgdGhhdCB3aWxsIHRoZSBjb21tdW5pY2F0aW9uIGJldHdlZW4gRmx1dHRlciBhbmQgbmF0aXZlIEFuZHJvaWQKeQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
