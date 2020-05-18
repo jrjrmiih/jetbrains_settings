@@ -98,11 +98,11 @@
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/basic.dart" timestamp="1589789449687">
         <mark key="'" line="3437" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" timestamp="1589797227461">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="9" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="8" />
+      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" timestamp="1589798589319">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="2" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589792253196">
         <mark key="'" line="470" column="39" />
@@ -129,7 +129,6 @@
         <mark key="[" line="24" column="22" />
         <mark key="]" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/VerifyActivity.java" timestamp="1589784271030" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/stream/local/RongRTCCapture.class" timestamp="1589792121407" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1589793213157">
         <mark key="[" line="16" column="66" />
@@ -159,11 +158,11 @@
         <mark key="^" line="212" column="8" />
         <mark key="." line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/build.gradle" timestamp="1589797622047">
-        <mark key="[" line="30" column="63" />
-        <mark key="]" line="30" column="63" />
+      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/build.gradle" timestamp="1589798679887">
+        <mark key="[" line="32" column="54" />
+        <mark key="]" line="32" column="54" />
         <mark key="^" line="29" column="47" />
-        <mark key="." line="30" column="63" />
+        <mark key="." line="32" column="54" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/trtc/TRTCCloud.class" timestamp="1589797015346" />
       <file name="/fragment.java" timestamp="1589785022279">
