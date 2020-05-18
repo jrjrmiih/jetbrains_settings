@@ -106,6 +106,7 @@
         <mark key="[" line="156" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1589814904967" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_config.dart" timestamp="1589816374392" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/video/ChannelMediaRelayConfiguration.class" timestamp="1589799954992" />
       <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/build.gradle" timestamp="1589798679887">
         <mark key="[" line="32" column="54" />
@@ -113,7 +114,6 @@
         <mark key="^" line="29" column="47" />
         <mark key="." line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/embedding/engine/plugins/FlutterPlugin.java" timestamp="1589793195853" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1589814729657" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/RtcEngine.class" timestamp="1589798869992">
         <mark key="'" line="128" column="0" />
@@ -121,6 +121,13 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/trtc/TRTCCloudDef.class" timestamp="1589799448791" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/liteav/trtc/impl/TRTCCloudImpl.class" timestamp="1589799474696">
         <mark key="'" line="2085" column="93" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_video_config.dart" timestamp="1589816499522">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/video/CameraCapturerConfiguration.class" timestamp="1589799921652" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RongRTCConfig.java" timestamp="1589814969421" />
@@ -132,12 +139,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589792306410">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCConfig.java" timestamp="1589815659366" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" timestamp="1589815062637">
         <mark key="'" line="104" column="15" />
       </file>
@@ -146,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="30" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" />
       <jump line="1933" column="79" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" />
       <jump line="56" column="34" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RCIMFlutterWrapper.java" />
       <jump line="314" column="6" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/newsfeed-plugin/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
@@ -246,6 +247,7 @@
       <jump line="2085" column="93" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/liteav/trtc/impl/TRTCCloudImpl.class" />
       <jump line="54" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="104" column="15" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
+      <jump line="3" column="19" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_video_config.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -253,11 +255,17 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE1ldGhvZENoYW5uZWwgY2hhbm5lbF9jYXB0dXJlOwo=</text>
+      <register name="+" type="8">
+        <text>Size
+Size
+Size
+Size
+Size
+Size
+Size</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb0Zwc1w+</text>
@@ -265,38 +273,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICBXaWRnZXQgX3dpZGdldDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE1ldGhvZENoYW5uZWwgY2hhbm5lbF9jYXB0dXJlOwo=</text>
+      <register name="1" type="8">
+        <text>Size
+Size
+Size
+Size
+Size
+Size
+Size</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWxfY2FwdHVyZSA9IG5ldyBNZXRob2RDaGFubmVsKGZsdXR0ZXJQbHVnaW5CaW5kaW5nLmdldEZsdXR0ZXJFbmdpbmUoKS5nZXREYXJ0RXhlY3V0b3IoKSwgInJvbmdfcnRjbGliIik7Cg==</text>
+        <text encoding="base64">ICAvLy8g6KeG6aKR5YiG6L6o546HCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLy8gVGhlIE1ldGhvZENoYW5uZWwgdGhhdCB3aWxsIHRoZSBjb21tdW5pY2F0aW9uIGJldHdlZW4gRmx1dHRlciBhbmQgbmF0aXZlIEFuZHJvaWQKeQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLy8gVGhlIE1ldGhvZENoYW5uZWwgdGhhdCB3aWxsIHRoZSBjb21tdW5pY2F0aW9uIGJldHdlZW4gRmx1dHRlciBhbmQgbmF0aXZlIEFuZHJvaWQKeQo=</text>
+        <text encoding="base64">ZAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvLy8KICAvLy8gVGhpcyBsb2NhbCByZWZlcmVuY2Ugc2VydmVzIHRvIHJlZ2lzdGVyIHRoZSBwbHVnaW4gd2l0aCB0aGUgRmx1dHRlciBFbmdpbmUgYW5kIHVucmVnaXN0ZXIgaXQKICAvLy8gd2hlbiB0aGUgRmx1dHRlciBFbmdpbmUgaXMgZGV0YWNoZWQgZnJvbSB0aGUgQWN0aXZpdA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIE1ldGhvZENoYW5uZWwgY2hhbm5lbF9jYXB0dXJlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYW5uZWxfY2FwdHVyZSA9IG5ldyBNZXRob2RDaGFubmVsKGZsdXR0ZXJQbHVnaW5CaW5kaW5nLmdldEZsdXR0ZXJFbmdpbmUoKS5nZXREYXJ0RXhlY3V0b3IoKSwgInJvbmdfcnRjbGliIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgLy8gVGhpcyBzdGF0aWMgZnVuY3Rpb24gaXMgb3B0aW9uYWwgYW5kIGVxdWl2YWxlbnQgdG8gb25BdHRhY2hlZFRvRW5naW5lLiBJdCBzdXBwb3J0cyB0aGUgb2xkCiAgLy8gcHJlLUZsdXR0ZXItMS4xMiBBbmRyb2lkIHByb2plY3RzLiBZb3UgYXJlIGVuY291cmFnZWQgdG8gY29udGludWUgc3VwcG9ydGluZwogIC8vIHBsdWdpbiByZWdpc3RyYXRpb24gdmlhIHRoaXMgZnVuY3Rpb24gd2hpbGUgYXBwcyBtaWdyYXRlIHRvIHVzZSB0aGUgbmV3IEFuZHJvaWQgQVBJcwogIC8vIHBvc3QtZmx1dHRlci0xLjEyIHZpYSBodHRwczovL2ZsdXR0ZXIuZGV2L2dvL2FuZHJvaWQtcHJvamVjdC1taWdyYXRpb24uCiAgLy8KICAvLyBJdCBpcyBlbmNvdXJhZ2VkIHRvIHNoYXJlIGxvZ2ljIGJldHdlZW4gb25BdHRhY2hlZFRvRW5naW5lIGFuZCByZWdpc3RlcldpdGggdG8ga2VlcAogIC8vIHRoZW0gZnVuY3Rpb25hbGx5IGVxdWl2YWxlbnQuIE9ubHkgb25lIG9mIG9uQXR0YWNoZWRUb0VuZ2luZSBvciByZWdpc3RlcldpdGggd2lsbCBiZSBjYWxsZWQKICAvLyBkZXBlbmRpbmcgb24gdGhlIHVzZXIncyBwcm9qZWN0LiBvbkF0dGFjaGVkVG9FbmdpbmUgb3IgcmVnaXN0ZXJXaXRoIG11c3QgYm90aCBiZSBkZWZpbmVkCiAgLy8gaW4gdGhlIHNhbWUgY2xhc3MuCiAgcHVibGljIHN0YXRpYyB2b2lkIHJlZ2lzdGVyV2l0aChSZWdpc3RyYXIgcmVnaXN0cmFyKSB7CiAgICBmaW5hbCBNZXRob2RDaGFubmVsIGNoYW5uZWwgPSBuZXcgTWV0aG9kQ2hhbm5lbChyZWdpc3RyYXIubWVzc2VuZ2VyKCksCiAgICAgICAgInJvbmdfcnRjbGliIik7CiAgICBjaGFubmVsLnNldE1ldGhvZENhbGxIYW5kbGVyKG5ldyBSb25nUlRDUGx1Z2luKCkpOwogICAgUkNGbHV0dGVyUlRDV3JhcHBlci5nZXRJbnN0YW5jZSgpLnNhdmVNZXRob2RDaGFubmVsKGNoYW5uZWwpOwogICAgUkNGbHV0dGVyUlRDV3JhcHBlci5nZXRJbnN0YW5jZSgpLnNhdmVDb250ZXh0KHJlZ2lzdHJhci5jb250ZXh0KCkpOwogICAgUkNGbHV0dGVyUlRDVmlld0ZhY3RvcnkgZmFjdG9yeSA9IFJDRmx1dHRlclJUQ1ZpZXdGYWN0b3J5LmdldEluc3RhbmNlKCk7CiAgICBmYWN0b3J5LmluaXRXaXRoTWVzc2VuZ2VyKHJlZ2lzdHJhci5tZXNzZW5nZXIoKSk7CiAgICByZWdpc3RyYXIucGxhdGZvcm1WaWV3UmVnaXN0cnkoKS5yZWdpc3RlclZpZXdGYWN0b3J5KCJyb25nLmZsdXR0ZXIucnRjbGliL3J0Y192aWV3IiwgZmFjdG9yeSk7CiAgfQ==</text>
+        <text encoding="base64">ICAvLy8gVGhlIE1ldGhvZENoYW5uZWwgdGhhdCB3aWxsIHRoZSBjb21tdW5pY2F0aW9uIGJldHdlZW4gRmx1dHRlciBhbmQgbmF0aXZlIEFuZHJvaWQKeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLy8gVGhlIE1ldGhvZENoYW5uZWwgdGhhdCB3aWxsIHRoZSBjb21tdW5pY2F0aW9uIGJldHdlZW4gRmx1dHRlciBhbmQgbmF0aXZlIEFuZHJvaWQKeQo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgLy8gVGhpcyBzdGF0aWMgZnVuY3Rpb24gaXMgb3B0aW9uYWwgYW5kIGVxdWl2YWxlbnQgdG8gb25BdHRhY2hlZFRvRW5naW5lLiBJdCBzdXBwb3J0cyB0aGUgb2xkCiAgLy8gcHJlLUZsdXR0ZXItMS4xMiBBbmRyb2lkIHByb2plY3RzLiBZb3UgYXJlIGVuY291cmFnZWQgdG8gY29udGludWUgc3VwcG9ydGluZwogIC8vIHBsdWdpbiByZWdpc3RyYXRpb24gdmlhIHRoaXMgZnVuY3Rpb24gd2hpbGUgYXBwcyBtaWdyYXRlIHRvIHVzZSB0aGUgbmV3IEFuZHJvaWQgQVBJcwogIC8vIHBvc3QtZmx1dHRlci0xLjEyIHZpYSBodHRwczovL2ZsdXR0ZXIuZGV2L2dvL2FuZHJvaWQtcHJvamVjdC1taWdyYXRpb24uCiAgLy8KICAvLyBJdCBpcyBlbmNvdXJhZ2VkIHRvIHNoYXJlIGxvZ2ljIGJldHdlZW4gb25BdHRhY2hlZFRvRW5naW5lIGFuZCByZWdpc3RlcldpdGggdG8ga2VlcAogIC8vIHRoZW0gZnVuY3Rpb25hbGx5IGVxdWl2YWxlbnQuIE9ubHkgb25lIG9mIG9uQXR0YWNoZWRUb0VuZ2luZSBvciByZWdpc3RlcldpdGggd2lsbCBiZSBjYWxsZWQKICAvLyBkZXBlbmRpbmcgb24gdGhlIHVzZXIncyBwcm9qZWN0LiBvbkF0dGFjaGVkVG9FbmdpbmUgb3IgcmVnaXN0ZXJXaXRoIG11c3QgYm90aCBiZSBkZWZpbmVkCiAgLy8gaW4gdGhlIHNhbWUgY2xhc3MuCiAgcHVibGljIHN0YXRpYyB2b2lkIHJlZ2lzdGVyV2l0aChSZWdpc3RyYXIgcmVnaXN0cmFyKSB7CiAgICBmaW5hbCBNZXRob2RDaGFubmVsIGNoYW5uZWwgPSBuZXcgTWV0aG9kQ2hhbm5lbChyZWdpc3RyYXIubWVzc2VuZ2VyKCksCiAgICAgICAgInJvbmdfcnRjbGliIik7CiAgICBjaGFubmVsLnNldE1ldGhvZENhbGxIYW5kbGVyKG5ldyBSb25nUlRDUGx1Z2luKCkpOwogICAgUkNGbHV0dGVyUlRDV3JhcHBlci5nZXRJbnN0YW5jZSgpLnNhdmVNZXRob2RDaGFubmVsKGNoYW5uZWwpOwogICAgUkNGbHV0dGVyUlRDV3JhcHBlci5nZXRJbnN0YW5jZSgpLnNhdmVDb250ZXh0KHJlZ2lzdHJhci5jb250ZXh0KCkpOwogICAgUkNGbHV0dGVyUlRDVmlld0ZhY3RvcnkgZmFjdG9yeSA9IFJDRmx1dHRlclJUQ1ZpZXdGYWN0b3J5LmdldEluc3RhbmNlKCk7CiAgICBmYWN0b3J5LmluaXRXaXRoTWVzc2VuZ2VyKHJlZ2lzdHJhci5tZXNzZW5nZXIoKSk7CiAgICByZWdpc3RyYXIucGxhdGZvcm1WaWV3UmVnaXN0cnkoKS5yZWdpc3RlclZpZXdGYWN0b3J5KCJyb25nLmZsdXR0ZXIucnRjbGliL3J0Y192aWV3IiwgZmFjdG9yeSk7CiAgfQ==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAvLy8KICAvLy8gVGhpcyBsb2NhbCByZWZlcmVuY2Ugc2VydmVzIHRvIHJlZ2lzdGVyIHRoZSBwbHVnaW4gd2l0aCB0aGUgRmx1dHRlciBFbmdpbmUgYW5kIHVucmVnaXN0ZXIgaXQKICAvLy8gd2hlbiB0aGUgRmx1dHRlciBFbmdpbmUgaXMgZGV0YWNoZWQgZnJvbSB0aGUgQWN0aXZpdA==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
