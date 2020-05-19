@@ -94,17 +94,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589824265066">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589861555240">
         <mark key="'" line="110" column="34" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="63" />
-        <mark key="^" line="112" column="67" />
-        <mark key="." line="108" column="0" />
+        <mark key="[" line="133" column="31" />
+        <mark key="]" line="133" column="47" />
+        <mark key="^" line="133" column="47" />
+        <mark key="." line="133" column="46" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/agora_rtc_engine-1.0.12/lib/src/base.dart" timestamp="1589818732933">
-        <mark key="'" line="526" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_config.dart" timestamp="1589818716946" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCMethodKey.java" timestamp="1589818863485">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="24" />
@@ -113,8 +109,9 @@
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1589822574934" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/plugin/common/MethodCall.java" timestamp="1589821954182" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1589860319916">
-        <mark key="[" line="81" column="60" />
+      <file name="$USER_HOME$/Library/flutter/bin/cache/pkg/sky_engine/lib/async/future.dart" timestamp="1589861625065" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1589861577953">
+        <mark key="[" line="86" column="12" />
         <mark key="]" line="81" column="60" />
         <mark key="^" line="77" column="12" />
         <mark key="." line="81" column="60" />
@@ -151,13 +148,14 @@
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCConfig.java" timestamp="1589819034515" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/kit/src/kit/java/io/rong/imkit/RongIM.java" timestamp="1589854359383" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589860082634">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589860764988">
         <mark key="'" line="61" column="6" />
         <mark key="[" line="82" column="47" />
         <mark key="]" line="82" column="47" />
         <mark key="^" line="83" column="10" />
         <mark key="." line="82" column="47" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/plugin/common/MethodChannel.java" timestamp="1589861432911" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" timestamp="1589820108802">
         <mark key="'" line="136" column="33" />
       </file>
@@ -271,10 +269,10 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text encoding="base64">LCAoY29kZSkgPT4gbnVsbA==</text>
+        <text>rtcErrorCode</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCAoY29kZSkgPT4gbnVsbA==</text>
+        <text>rtcErrorCode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZXZlbnRDaGFubmVsXD4=</text>
