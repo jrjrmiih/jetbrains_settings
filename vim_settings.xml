@@ -143,11 +143,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589864255620">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="8" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589865829502">
+        <mark key="[" line="86" column="8" />
+        <mark key="]" line="73" column="28" />
+        <mark key="." line="73" column="27" />
+        <mark key="^" line="73" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/kit/src/kit/java/io/rong/imkit/RongIM.java" timestamp="1589854359383" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589864147130">
@@ -270,8 +270,8 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="4">
-        <text>widget._rid</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>widget._rid</text>
@@ -283,27 +283,30 @@
         <text>completer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLy8KICAvLy8gW3VzZXJJZF0g6L+c56uv55So5oi3IGlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLy8KICAvLy8gW3VzZXJJZF0g6L+c56uv55So5oi3IGlkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLy8KICAvLy8gW3VzZXJJZF0g6L+c56uv55So5oi3IGlk</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChmaW5pc2hlZCAhPSBudWxsKSB7CiAgICAgIGZpbmlzaGVkKGNvZGUpOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLy8KICAvLy8gW3VzZXJJZF0g6L+c56uv55So5oi3IGlk</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChmaW5pc2hlZCAhPSBudWxsKSB7CiAgICAgIGZpbmlzaGVkKGNvZGUpOwogICAgfQo=</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIChmaW5pc2hlZCAhPSBudWxsKSB7CiAgICAgIGZpbmlzaGVkKGNvZGUpOwogICAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>int code) {
 //          Widget videoView =
 //              RongRTCEngine.createPlatformView(userId, videoWidth.toInt(), videoHeight.toInt(), (viewId) {
@@ -315,14 +318,11 @@
 //          });
         }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChmaW5pc2hlZCAhPSBudWxsKSB7CiAgICAgIGZpbmlzaGVkKGNvZGUpOwogICAgfQo=</text>
-      </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAKICAgIGlmIChmaW5pc2hlZCAhPSBudWxsKSB7CiAgICAgIGZpbmlzaGVkKGNvZGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIChmaW5pc2hlZCAhPSBudWxsKSB7CiAgICAgIGZpbmlzaGVkKGNvZGUpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
