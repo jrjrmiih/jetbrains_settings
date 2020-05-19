@@ -124,7 +124,7 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_room.dart" timestamp="1589888005757">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_room.dart" timestamp="1589930553088">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="12" />
@@ -159,16 +159,16 @@
         <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RongIMPlugin.java" timestamp="1589880708204" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589923936517">
-        <mark key="'" line="76" column="11" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589930697301">
+        <mark key="'" line="99" column="24" />
+        <mark key="[" line="104" column="5" />
+        <mark key="]" line="105" column="26" />
+        <mark key="." line="105" column="25" />
+        <mark key="^" line="105" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" timestamp="1589879185315" />
     </filemarks>
     <jumps>
-      <jump line="169" column="17" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="174" column="17" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="181" column="17" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="186" column="17" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
@@ -268,6 +268,7 @@
       <jump line="75" column="11" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" />
       <jump line="62" column="44" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
       <jump line="53" column="2" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
+      <jump line="98" column="24" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -275,11 +276,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">aW1wb3J0ICdyb25nX3J0Y191c2VyLmRhcnQnCg==</text>
+      <register name="+" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>userList</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySWRcPg==</text>
