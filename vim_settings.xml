@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWV3SWRcPg==</entry>
-        <entry encoding="base64">XDxSb25nSU1DbGllbnRcPg==</entry>
-        <entry encoding="base64">XDxjaGlsZFw+</entry>
         <entry encoding="base64">XDxfcmVtb3RlUmVuZGVyVmlld1w+</entry>
         <entry encoding="base64">XDx2YXIxXD4=</entry>
         <entry encoding="base64">XDxtQ29uZmlnXD4=</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxjYWxsXD4=</entry>
         <entry encoding="base64">XDxfZXZlbnRMaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxfZXZlbnRDaGFubmVsXD4=</entry>
+        <entry encoding="base64">XDxyZW1vdGVBVlN0cmVhbXNcPg==</entry>
+        <entry encoding="base64">XDxyb29tQWN0aW9uTGlzdGVuZXJcPg==</entry>
+        <entry encoding="base64">XDxuZWVkUmVzZXRTdWJzY3JpYmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -101,7 +101,12 @@
         <mark key="^" line="168" column="3" />
         <mark key="." line="168" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1589822574934" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" timestamp="1589866907881">
+        <mark key="'" line="59" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1589866827879">
+        <mark key="'" line="794" column="16" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/plugin/common/MethodCall.java" timestamp="1589821954182" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/util/Map.java" timestamp="1589863444115">
         <mark key="'" line="271" column="24" />
@@ -137,20 +142,14 @@
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/services/platform_channel.dart" timestamp="1589860233651">
         <mark key="'" line="373" column="63" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1589821653132">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589865829502">
-        <mark key="[" line="86" column="8" />
-        <mark key="]" line="73" column="28" />
-        <mark key="." line="73" column="27" />
-        <mark key="^" line="73" column="28" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1589865895815">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="73" column="31" />
+        <mark key="." line="73" column="30" />
+        <mark key="^" line="73" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/kit/src/kit/java/io/rong/imkit/RongIM.java" timestamp="1589854359383" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589864147130">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589866682413">
         <mark key="'" line="182" column="4" />
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
@@ -158,23 +157,9 @@
         <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/plugin/common/MethodChannel.java" timestamp="1589861432911" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" timestamp="1589820108802">
-        <mark key="'" line="136" column="33" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" timestamp="1589866929489" />
     </filemarks>
     <jumps>
-      <jump line="2082" column="11" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/liteav/trtc/impl/TRTCCloudImpl.class" />
-      <jump line="2085" column="93" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/liteav/trtc/impl/TRTCCloudImpl.class" />
-      <jump line="3" column="19" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_video_config.dart" />
-      <jump line="398" column="46" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="451" column="48" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="507" column="45" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="17" column="49" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="53" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="100" column="15" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="180" column="24" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="308" column="36" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
-      <jump line="371" column="39" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="399" column="41" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="426" column="41" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="452" column="43" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
@@ -263,6 +248,18 @@
       <jump line="271" column="24" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/java/util/Map.java" />
       <jump line="323" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" />
       <jump line="186" column="4" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" />
+      <jump line="262" column="15" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="267" column="12" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="268" column="52" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="281" column="12" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="32" column="39" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="38" column="21" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="39" column="68" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="41" column="31" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="59" column="12" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
+      <jump line="620" column="49" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
+      <jump line="794" column="16" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -277,7 +274,7 @@
         <text>widget._rid</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZXZlbnRDaGFubmVsXD4=</text>
+        <text encoding="base64">XDxuZWVkUmVzZXRTdWJzY3JpYmVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>completer</text>
@@ -331,13 +328,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfZXZlbnRDaGFubmVsXD4=</last-search>
+      <last-search encoding="base64">XDxuZWVkUmVzZXRTdWJzY3JpYmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZXZlbnRDaGFubmVsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZWVkUmVzZXRTdWJzY3JpYmVcPg==</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxfYWRkTWV0aG9kQ2FsbEhhbmRsZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
