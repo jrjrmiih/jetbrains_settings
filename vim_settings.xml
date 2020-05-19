@@ -123,7 +123,7 @@
         <mark key="^" line="35" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_method_key.dart" timestamp="1589818608029">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_method_key.dart" timestamp="1589858357827">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="30" />
         <mark key="^" line="2" column="30" />
@@ -147,10 +147,12 @@
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCConfig.java" timestamp="1589819034515" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/kit/src/kit/java/io/rong/imkit/RongIM.java" timestamp="1589854359383" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589857562279">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1589858465687">
+        <mark key="'" line="169" column="0" />
+        <mark key="[" line="55" column="13" />
+        <mark key="]" line="55" column="17" />
+        <mark key="^" line="55" column="17" />
+        <mark key="." line="55" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" timestamp="1589820108802">
         <mark key="'" line="136" column="33" />
@@ -160,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/RtcEngine.class" />
       <jump line="91" column="67" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/trtc/TRTCCloud.class" />
       <jump line="1203" column="62" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/liteav/trtc/impl/TRTCCloudImpl.class" />
       <jump line="2058" column="13" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/liteav/trtc/impl/TRTCCloudImpl.class" />
@@ -260,6 +261,7 @@
       <jump line="203" column="31" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" />
       <jump line="161" column="29" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/agora_rtc_engine-1.0.12/lib/agora_rtc_engine.dart" />
       <jump line="373" column="63" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/services/platform_channel.dart" />
+      <jump line="170" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -267,11 +269,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text encoding="base64">RnV0dXJlPE51bGw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RnV0dXJlPE51bGw+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsXD4=</text>
@@ -280,37 +282,37 @@
         <text encoding="base64">ICAgICAgICByZXNvbHV0aW9uX3N0ciA9ICIzMjB4MjQwIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTWFwIGFyZyA9IGNhbGwuYXJndW1lbnRzOwo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTWFwIGFyZyA9IGNhbGwuYXJndW1lbnRzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9jaGFubmVsLnNldE1ldGhvZENhbGxIYW5kbGVyKAogICAgKGNhbGwsIHJlc3VsdCkgLT4gewogICAgLy8gTm90ZTogdGhpcyBtZXRob2QgaXMgaW52b2tlZCBvbiB0aGUgbWFpbiB0aHJlYWQuCiAgICAvLyBUT0RPCiAgICB9KTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChfZW5naW5lID09IG51bGwpIF9lbmdpbmUgPSBSb25nUlRDRW5naW5lKCk7CiAgICByZXR1cm4gX2VuZ2luZTsK</text>
+        <text encoding="base64">ICAgIF9jaGFubmVsLnNldE1ldGhvZENhbGxIYW5kbGVyKAogICAgKGNhbGwsIHJlc3VsdCkgLT4gewogICAgLy8gTm90ZTogdGhpcyBtZXRob2QgaXMgaW52b2tlZCBvbiB0aGUgbWFpbiB0aHJlYWQuCiAgICAvLyBUT0RPCiAgICB9KTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChfZW5naW5lKQo=</text>
+        <text encoding="base64">ICAgIGlmIChfZW5naW5lID09IG51bGwpIF9lbmdpbmUgPSBSb25nUlRDRW5naW5lKCk7CiAgICByZXR1cm4gX2VuZ2luZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9jaGFubmVsLnNlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKfQo=</text>
+        <text encoding="base64">ICAgIGlmIChfZW5naW5lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -325,7 +327,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxfYWRkTWV0aG9kQ2FsbEhhbmRsZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
