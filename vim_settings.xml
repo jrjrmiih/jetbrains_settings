@@ -115,6 +115,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/foundation/synchronous_future.dart" timestamp="1589887154168">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="42" />
+        <mark key="^" line="39" column="42" />
+        <mark key="." line="39" column="41" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rtc_user.dart" timestamp="1589882783902">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="10" column="6" />
@@ -142,12 +148,6 @@
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/proxy/RongIMSignalWrapper.java" timestamp="1589877358313">
         <mark key="'" line="227" column="6" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/code_result.dart" timestamp="1589876998238">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/room/RongRTCRoom.java" timestamp="1589877114179" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/pubspec.yaml" timestamp="1589879003903">
