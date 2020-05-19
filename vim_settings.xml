@@ -107,9 +107,6 @@
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1589877140527">
-        <mark key="'" line="358" column="49" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/src/main/AndroidManifest.xml" timestamp="1589878447403">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -127,10 +124,11 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_room.dart" timestamp="1589883170094">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_room.dart" timestamp="1589888005757">
         <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1589880880200">
         <mark key="[" line="36" column="0" />
@@ -149,12 +147,12 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/proxy/RongIMSignalWrapper.java" timestamp="1589877358313">
         <mark key="'" line="227" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/room/RongRTCRoom.java" timestamp="1589877114179" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/pubspec.yaml" timestamp="1589879003903">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="27" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/bin/cache/pkg/sky_engine/lib/async/future.dart" timestamp="1589887912358" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/pubspec.yaml" timestamp="1589878248965" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1589877779853">
         <mark key="[" line="78" column="0" />
