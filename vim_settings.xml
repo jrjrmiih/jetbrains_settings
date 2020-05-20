@@ -94,12 +94,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589968828592">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1589972047341">
         <mark key="'" line="66" column="12" />
-        <mark key="[" line="78" column="1" />
-        <mark key="]" line="78" column="1" />
-        <mark key="^" line="78" column="1" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="74" column="28" />
+        <mark key="]" line="74" column="28" />
+        <mark key="^" line="74" column="28" />
+        <mark key="." line="74" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/rong_rtc_user.dart" timestamp="1589969869858">
         <mark key="[" line="1" column="12" />
@@ -110,7 +110,7 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/TestActivityAdatper.java" timestamp="1589968297074">
         <mark key="'" line="222" column="78" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/rong_local_user.dart" timestamp="1589970394895">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/rong_local_user.dart" timestamp="1589971687182">
         <mark key="[" line="18" column="54" />
         <mark key="]" line="18" column="54" />
         <mark key="^" line="18" column="54" />
@@ -129,11 +129,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/rong_remote_user.dart" timestamp="1589970237153">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="12" column="32" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/rong_remote_user.dart" timestamp="1589972072140">
+        <mark key="[" line="15" column="86" />
+        <mark key="]" line="15" column="97" />
+        <mark key="." line="15" column="96" />
+        <mark key="^" line="15" column="97" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/custom/RongRTCVideoFileSender.java" timestamp="1589968017637">
         <mark key="'" line="102" column="49" />
@@ -151,7 +151,12 @@
         <mark key="^" line="173" column="53" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/plugin/common/MethodChannel.java" timestamp="1589970394369" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/plugin/common/MethodChannel.java" timestamp="1589971932330">
+        <mark key="[" line="185" column="3" />
+        <mark key="]" line="185" column="3" />
+        <mark key="^" line="185" column="3" />
+        <mark key="." line="185" column="2" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RoomAgent.java" timestamp="1589970322912">
         <mark key="d" line="57" column="37" />
         <mark key="[" line="60" column="77" />
@@ -275,10 +280,10 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text>String remoteUserId</text>
+        <text>for</text>
       </register>
       <register name="-" type="4">
-        <text>String remoteUserId</text>
+        <text>for</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFN0cmVhbVw+</text>
