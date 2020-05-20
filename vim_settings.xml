@@ -168,14 +168,20 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUserAgent.java" timestamp="1589947724104">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="33" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="21" column="32" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUserAgent.java" timestamp="1589947730672">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="48" />
+        <mark key="^" line="22" column="48" />
+        <mark key="." line="22" column="47" />
       </file>
       <file name="/fragment.java" timestamp="1589941721986">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/StreamAgent.java" timestamp="1589947997321">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -287,7 +293,7 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICBhZ29yYV9ydGNfZW5naW5lOgogICAgZGVwZW5kZW5jeTogImRpcmVjdCBtYWluIgogICAgZGVzY3JpcHRpb246CiAgICAgIG5hbWU6IGFnb3JhX3J0Y19lbmdpbmUKICAgICAgdXJsOiAiaHR0cHM6Ly9wdWIuZmx1dHRlci1pby5jbiIKICAgIHNvdXJjZTogaG9zdGVkCiAgICB2ZXJzaW9uOiAiMS4wLjEyIgo=</text>
+        <text encoding="base64">ICBTdHJpbmcgc2VyaWFsaXplKCkgewogICAgSlNPTk9iamVjdCBqc29uID0gbmV3IEpTT05PYmplY3QoKTsKICAgIGpzb24ucHV0KCJzdHJlYW1JZCIsIHN0cmVhbS5nZXRNZWRpYUlkKCkpOwogICAganNvbi5wdXQoIm1lZGlhVHlwZSIsIHN0cmVhbS5nZXRNZWRpYVR5cGUoKSk7CiAgICBqc29uLnB1dCgidGFnIiwgc3RyZWFtLmdldFRhZygpKTsKICAgIHJldHVybiBqc29uLnRvSlNPTlN0cmluZygpOwogIH0=</text>
       </register>
       <register name="-" type="4">
         <text>userId</text>
@@ -299,37 +305,37 @@
         <text encoding="base64">ICAgICAgc3RyZWFtTGlzdC5hZGQobmV3IFN0cmVhbSgxMDEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhZ29yYV9ydGNfZW5naW5lOgogICAgZGVwZW5kZW5jeTogImRpcmVjdCBtYWluIgogICAgZGVzY3JpcHRpb246CiAgICAgIG5hbWU6IGFnb3JhX3J0Y19lbmdpbmUKICAgICAgdXJsOiAiaHR0cHM6Ly9wdWIuZmx1dHRlci1pby5jbiIKICAgIHNvdXJjZTogaG9zdGVkCiAgICB2ZXJzaW9uOiAiMS4wLjEyIgo=</text>
+        <text encoding="base64">ICBTdHJpbmcgc2VyaWFsaXplKCkgewogICAgSlNPTk9iamVjdCBqc29uID0gbmV3IEpTT05PYmplY3QoKTsKICAgIGpzb24ucHV0KCJzdHJlYW1JZCIsIHN0cmVhbS5nZXRNZWRpYUlkKCkpOwogICAganNvbi5wdXQoIm1lZGlhVHlwZSIsIHN0cmVhbS5nZXRNZWRpYVR5cGUoKSk7CiAgICBqc29uLnB1dCgidGFnIiwgc3RyZWFtLmdldFRhZygpKTsKICAgIHJldHVybiBqc29uLnRvSlNPTlN0cmluZygpOwogIH0=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9CgogIFN0cmluZyBzZXJpYWxpemUoKSB7CiAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdCgpOwogICAganNvbk9iamVjdC5wdXQoInVzZXJJZCIsIHJvbmdVc2VyLmdldFVzZXJJZCgpKTsKICAgIGpzb25PYmplY3QucHV0KCJzdHJlYW0iLCByb25nVXNlci5nZXRSZW1vdGVBVlN0cmVhbXMoKSk7CiAgICBKU09OQXJyYXkganNvbkFycmF5ID0gbmV3IEpTT05BcnJheSgpOwogICAgLy8gICAgZm9yIChSb25nUlRDQVZJbnB1dFN0cmVhbSBzdHJlYW0gOiB1c2VyLmdldFJlbW90ZUFWU3RyZWFtcygpKSB7CiAgICAvLyAgICAgICAgbmV3IFN0cmVhbUFnZW50KHN0cmVhbSkuc2VyaWFsaXplKCk7CiAgICAvLyAgICB9CiAgICAvLyAgICBqc29uQXJyYXkuYWRkKCkKICAgIHJldHVybiBqc29uT2JqZWN0LnRvSlNPTlN0cmluZygpOwogIH0=</text>
+        <text encoding="base64">ICBhZ29yYV9ydGNfZW5naW5lOgogICAgZGVwZW5kZW5jeTogImRpcmVjdCBtYWluIgogICAgZGVzY3JpcHRpb246CiAgICAgIG5hbWU6IGFnb3JhX3J0Y19lbmdpbmUKICAgICAgdXJsOiAiaHR0cHM6Ly9wdWIuZmx1dHRlci1pby5jbiIKICAgIHNvdXJjZTogaG9zdGVkCiAgICB2ZXJzaW9uOiAiMS4wLjEyIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9CgogIFN0cmluZyBzZXJpYWxpemUoKSB7CiAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdCgpOwogICAganNvbk9iamVjdC5wdXQoInVzZXJJZCIsIHJvbmdVc2VyLmdldFVzZXJJZCgpKTsKICAgIGpzb25PYmplY3QucHV0KCJzdHJlYW0iLCByb25nVXNlci5nZXRSZW1vdGVBVlN0cmVhbXMoKSk7CiAgICBKU09OQXJyYXkganNvbkFycmF5ID0gbmV3IEpTT05BcnJheSgpOwogICAgLy8gICAgZm9yIChSb25nUlRDQVZJbnB1dFN0cmVhbSBzdHJlYW0gOiB1c2VyLmdldFJlbW90ZUFWU3RyZWFtcygpKSB7CiAgICAvLyAgICAgICAgbmV3IFN0cmVhbUFnZW50KHN0cmVhbSkuc2VyaWFsaXplKCk7CiAgICAvLyAgICB9CiAgICAvLyAgICBqc29uQXJyYXkuYWRkKCkKICAgIHJldHVybiBqc29uT2JqZWN0LnRvSlNPTlN0cmluZygpOwogIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBBcnJheUxpc3Q8U3RyZWFtQWdlbnQ+IHN0cmVhbUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB1c2VySWQ7Cg==</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBBcnJheUxpc3Q8U3RyZWFtQWdlbnQ+IHN0cmVhbUxpc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pbmRleCA9IGluZGV4Owo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB1c2VySWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBKU09OT2JqZWN0IGpzb247Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pbmRleCA9IGluZGV4Owo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGQK</text>
+        <text encoding="base64">ICBKU09OT2JqZWN0IGpzb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
