@@ -94,34 +94,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1589941735204">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/pubspec.lock" timestamp="1589947659050">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/meta/MetaAVInputStream.java" timestamp="1589943525371">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-        <mark key="^" line="8" column="40" />
+      <file name="/a.dummy" timestamp="1589946112355">
+        <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/meta/LocalUser.java" timestamp="1589940492781">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/meta/RemoteUser.java" timestamp="1589940573561">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" timestamp="1589945020194">
+      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" timestamp="1589946757199">
         <mark key="'" line="48" column="22" />
-        <mark key="[" line="48" column="23" />
-        <mark key="]" line="48" column="23" />
-        <mark key="." line="48" column="22" />
-        <mark key="^" line="48" column="23" />
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="19" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/meta/MetaRongRTCUser.java" timestamp="1589942550843">
         <mark key="[" line="6" column="0" />
@@ -129,10 +116,17 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.71.android/f72f91759a4d14f2033b0313bc912e907545d639/fastjson-1.1.71.android-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1589941645513" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/meta/MetaRemoteUser.java" timestamp="1589944648162">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/pubspec.lock" timestamp="1589947645311" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/meta/MetaRemoteUser.java" timestamp="1589945696891">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/pubspec.yaml" timestamp="1589947297736">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/build.gradle" timestamp="1589943743996">
@@ -141,6 +135,18 @@
         <mark key="^" line="28" column="56" />
         <mark key="." line="28" column="55" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/meta/RemoteUser.java" timestamp="1589940573561">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/build.gradle" timestamp="1589947426881">
+        <mark key="[" line="39" column="1" />
+        <mark key="]" line="39" column="1" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="1" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.71.android/f72f91759a4d14f2033b0313bc912e907545d639/fastjson-1.1.71.android-sources.jar!/com/alibaba/fastjson/serializer/ListSerializer.java" timestamp="1589943647266">
         <mark key="'" line="52" column="33" />
         <mark key="[" line="97" column="42" />
@@ -148,24 +154,25 @@
         <mark key="^" line="97" column="42" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" timestamp="1589940566466" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/build.gradle" timestamp="1589944626365">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="39" column="1" />
-        <mark key="^" line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/user/RongRTCRemoteUser.class" timestamp="1589943543040">
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/user/RongRTCRemoteUser.class" timestamp="1589946853491">
         <mark key="'" line="157" column="16" />
         <mark key="[" line="158" column="3" />
         <mark key="]" line="158" column="3" />
         <mark key="^" line="158" column="3" />
         <mark key="." line="158" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/meta/RongRTCUser.java" timestamp="1589940526453">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/meta/MetaAVInputStream.java" timestamp="1589943525371">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUserAgent.java" timestamp="1589947237416">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="25" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1589941721986">
         <mark key="[" line="0" column="0" />
@@ -279,11 +286,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="4">
-        <text>List</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICBhZ29yYV9ydGNfZW5naW5lOgogICAgZGVwZW5kZW5jeTogImRpcmVjdCBtYWluIgogICAgZGVzY3JpcHRpb246CiAgICAgIG5hbWU6IGFnb3JhX3J0Y19lbmdpbmUKICAgICAgdXJsOiAiaHR0cHM6Ly9wdWIuZmx1dHRlci1pby5jbiIKICAgIHNvdXJjZTogaG9zdGVkCiAgICB2ZXJzaW9uOiAiMS4wLjEyIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>toString</text>
@@ -292,37 +299,37 @@
         <text encoding="base64">ICAgICAgc3RyZWFtTGlzdC5hZGQobmV3IFN0cmVhbSgxMDEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGQK</text>
+        <text encoding="base64">ICBhZ29yYV9ydGNfZW5naW5lOgogICAgZGVwZW5kZW5jeTogImRpcmVjdCBtYWluIgogICAgZGVzY3JpcHRpb246CiAgICAgIG5hbWU6IGFnb3JhX3J0Y19lbmdpbmUKICAgICAgdXJsOiAiaHR0cHM6Ly9wdWIuZmx1dHRlci1pby5jbiIKICAgIHNvdXJjZTogaG9zdGVkCiAgICB2ZXJzaW9uOiAiMS4wLjEyIgo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB9CgogIFN0cmluZyBzZXJpYWxpemUoKSB7CiAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdCgpOwogICAganNvbk9iamVjdC5wdXQoInVzZXJJZCIsIHJvbmdVc2VyLmdldFVzZXJJZCgpKTsKICAgIGpzb25PYmplY3QucHV0KCJzdHJlYW0iLCByb25nVXNlci5nZXRSZW1vdGVBVlN0cmVhbXMoKSk7CiAgICBKU09OQXJyYXkganNvbkFycmF5ID0gbmV3IEpTT05BcnJheSgpOwogICAgLy8gICAgZm9yIChSb25nUlRDQVZJbnB1dFN0cmVhbSBzdHJlYW0gOiB1c2VyLmdldFJlbW90ZUFWU3RyZWFtcygpKSB7CiAgICAvLyAgICAgICAgbmV3IFN0cmVhbUFnZW50KHN0cmVhbSkuc2VyaWFsaXplKCk7CiAgICAvLyAgICB9CiAgICAvLyAgICBqc29uQXJyYXkuYWRkKCkKICAgIHJldHVybiBqc29uT2JqZWN0LnRvSlNPTlN0cmluZygpOwogIH0=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBBcnJheUxpc3Q8U3RyZWFtQWdlbnQ+IHN0cmVhbUxpc3Q7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEluZGV4KFN0cmluZyBpbmRleCkgewogICAgICB0aGlzLmluZGV4ID0gaW5kZXg7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB1c2VySWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pbmRleCA9IGluZGV4Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlbW90ZVVzZXIoU3RyaW5nIGluZGV4KSB7CiAgICAgIHRoaXMuaW5kZXggPSBpbmRleDsKICAgIH0K</text>
+        <text encoding="base64">ICBKU09OT2JqZWN0IGpzb247Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
@@ -337,7 +344,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxfYWRkTWV0aG9kQ2FsbEhhbmRsZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
