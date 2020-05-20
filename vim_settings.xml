@@ -116,9 +116,9 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" timestamp="1589945019062">
+      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" timestamp="1589945020194">
         <mark key="'" line="48" column="22" />
-        <mark key="[" line="48" column="15" />
+        <mark key="[" line="48" column="23" />
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="22" />
         <mark key="^" line="48" column="23" />
@@ -172,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="17" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="221" column="17" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="226" column="17" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
       <jump line="231" column="17" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RongCenterConfig.java" />
@@ -272,6 +271,7 @@
       <jump line="52" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.71.android/f72f91759a4d14f2033b0313bc912e907545d639/fastjson-1.1.71.android-sources.jar!/com/alibaba/fastjson/serializer/ListSerializer.java" />
       <jump line="29" column="5" filename="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" />
       <jump line="46" column="22" filename="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" />
+      <jump line="48" column="22" filename="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
