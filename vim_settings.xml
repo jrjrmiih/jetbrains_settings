@@ -129,11 +129,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/rong_remote_user.dart" timestamp="1589972072140">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/rong_remote_user.dart" timestamp="1589972093262">
         <mark key="[" line="15" column="86" />
-        <mark key="]" line="15" column="97" />
-        <mark key="." line="15" column="96" />
-        <mark key="^" line="15" column="97" />
+        <mark key="]" line="15" column="90" />
+        <mark key="." line="15" column="89" />
+        <mark key="^" line="15" column="90" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/custom/RongRTCVideoFileSender.java" timestamp="1589968017637">
         <mark key="'" line="102" column="49" />
