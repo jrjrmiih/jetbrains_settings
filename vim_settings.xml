@@ -122,13 +122,6 @@
         <mark key="^" line="50" column="36" />
         <mark key="." line="50" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCView.java" timestamp="1590026562928">
-        <mark key="'" line="73" column="4" />
-        <mark key="[" line="54" column="1" />
-        <mark key="]" line="54" column="1" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="1" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/CameraAgent.java" timestamp="1590026798764">
         <mark key="[" line="11" column="63" />
         <mark key="]" line="11" column="22" />
@@ -152,6 +145,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/jenkins_sealtalk.sh" timestamp="1590030883129" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1590028100005">
         <mark key="[" line="216" column="17" />
         <mark key="]" line="216" column="17" />
@@ -176,6 +170,7 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/jenkins_build.sh" timestamp="1590031028049" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1590029403810">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="227" column="38" />
@@ -188,9 +183,6 @@
         <mark key="]" line="10" column="47" />
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="46" />
-      </file>
-      <file name="/fragment.java" timestamp="1590026597559">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
