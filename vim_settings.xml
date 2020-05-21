@@ -129,13 +129,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" timestamp="1590026486153">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="34" column="22" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/CameraAgent.java" timestamp="1590026798764">
         <mark key="[" line="11" column="63" />
         <mark key="]" line="11" column="22" />
@@ -148,11 +141,11 @@
         <mark key="^" line="59" column="17" />
         <mark key="." line="59" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/rong_local_user.dart" timestamp="1590029385208">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/rong_local_user.dart" timestamp="1590029392144">
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="60" />
+        <mark key="^" line="11" column="60" />
+        <mark key="." line="11" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/video_view.dart" timestamp="1590028435021">
         <mark key="[" line="6" column="0" />
@@ -177,18 +170,24 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1590028015311">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/StreamAgent.java" timestamp="1590029408527">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1590029403810">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="227" column="38" />
         <mark key="]" line="227" column="38" />
         <mark key="^" line="227" column="38" />
         <mark key="." line="227" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/media_stream.dart" timestamp="1590029368565">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="22" column="26" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="22" column="25" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/media_stream.dart" timestamp="1590029438489">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="10" column="46" />
       </file>
       <file name="/fragment.java" timestamp="1590026597559">
         <mark key="[" line="0" column="0" />
@@ -302,11 +301,11 @@
       <register name="&quot;" type="4">
         <text>音频流处理</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">aW1wb3J0ICdyb25nX3J0Y19zdHJlYW0uZGFydCc7Cg==</text>
+      <register name="+" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>render</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfd2lkZ2V0XD4=</text>
