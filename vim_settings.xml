@@ -133,11 +133,11 @@
         <mark key="." line="16" column="57" />
         <mark key="^" line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/video_view.dart" timestamp="1590036548255">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="2" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/client/video_view.dart" timestamp="1590042600686">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/embedding/engine/plugins/FlutterPlugin.java" timestamp="1590034810975" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/jenkins_sealtalk.sh" timestamp="1590030883129" />
@@ -291,10 +291,10 @@
         <text>音频流处理</text>
       </register>
       <register name="+" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dHQ6IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dHQ6IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfd2lkZ2V0XD4=</text>
@@ -303,39 +303,39 @@
         <text encoding="base64">ICAgIHN0YXRpYyBSQ0ZsdXR0ZXJSVENWaWV3RmFjdG9yeSBpbnN0YW5jZSA9IG5ldyBSQ0ZsdXR0ZXJSVENWaWV3RmFjdG9yeSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZGdldC5vblRleHRWaWV3Q3JlYXRlZChuZXcgVGV4dFZpZXdDb250cm9sbGVyLl8oaWQpKTsK</text>
+        <text encoding="base64">ICBmaW5hbCBDcmVhdGVkQ2FsbGJhY2sgOwo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh3aWRnZXQub25UZXh0Vmlld0NyZWF0ZWQgPT0gbnVsbCkgewogICAgICByZXR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHdpZGdldC5vblRleHRWaWV3Q3JlYXRlZChuZXcgVGV4dFZpZXdDb250cm9sbGVyLl8oaWQpKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICh3aWRnZXQub25UZXh0Vmlld0NyZWF0ZWQgPT0gbnVsbCkgewogICAgICByZXR1cm47CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHdpZGdldC4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>(id) {
           
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJvbmdNZWRpYVN0cmVhbSA9IHN0cmVhbTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwgPSBuZXcgTWV0aG9kQ2hhbm5lbCgpCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbW90ZVVzZXJMaXN0Cg==</text>
+        <text encoding="base64">ICAgIGNoYW5uZWwgPSBuZXcgTWV0aG9kQ2hhbm5lbCgpCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbW90ZVVzZXJMaXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
