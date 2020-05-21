@@ -126,7 +126,7 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/stream/local/RongRTCCapture.class" timestamp="1590060619297">
         <mark key="'" line="239" column="32" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/stream/local/RongRTCAVOutputStream.class" timestamp="1590060633511">
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/stream/local/RongRTCAVOutputStream.class" timestamp="1590093724039">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="49" column="0" />
@@ -158,11 +158,11 @@
         <mark key="^" line="34" column="22" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/camera.dart" timestamp="1590060593656">
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="14" column="58" />
-        <mark key="^" line="14" column="58" />
-        <mark key="." line="14" column="57" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/camera.dart" timestamp="1590095363705">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Camera.java" timestamp="1590056414597">
         <mark key="[" line="15" column="3" />
@@ -188,11 +188,11 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/media_stream.dart" timestamp="1590060587761">
-        <mark key="[" line="30" column="44" />
-        <mark key="]" line="30" column="44" />
-        <mark key="^" line="30" column="44" />
-        <mark key="." line="30" column="43" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/media_stream.dart" timestamp="1590095368298">
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="^" line="30" column="54" />
+        <mark key="." line="30" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1590060178198">
         <mark key="'" line="45" column="10" />

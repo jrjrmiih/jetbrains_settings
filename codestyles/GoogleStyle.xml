@@ -58,7 +58,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="120" />
+    <option name="RIGHT_MARGIN" value="100" />
   </codeStyleSettings>
   <codeStyleSettings language="ECMA Script Level 4">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
@@ -87,7 +87,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="RIGHT_MARGIN" value="120" />
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
