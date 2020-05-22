@@ -127,10 +127,11 @@
         <mark key="^" line="15" column="54" />
         <mark key="." line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/remote_user.dart" timestamp="1590113657111">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/remote_user.dart" timestamp="1590113685298">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="71" />
+        <mark key="." line="24" column="70" />
+        <mark key="^" line="24" column="71" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/services/platform_channel.dart" timestamp="1590103713783">
         <mark key="'" line="146" column="6" />
