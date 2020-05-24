@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWV3TWFwXD4=</entry>
         <entry encoding="base64">XDxydGNfdmlld1w+</entry>
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry encoding="base64">XDxfcmVtb3RlV2lkZ2V0XD4=</entry>
@@ -24,9 +23,10 @@
         <entry encoding="base64">XDxNZXRob2RfSm9pblJUQ1Jvb21cPg==</entry>
         <entry encoding="base64">XDxyb29tXD4=</entry>
         <entry encoding="base64">XDxNZXRob2RfTGVhdmVSVENSb29tXD4=</entry>
-        <entry encoding="base64">XDxtZXNzZW5nZXJcPg==</entry>
         <entry encoding="base64">XDxyZW1vdGVVc2VyXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxtZXNzZW5nZXJcPg==</entry>
+        <entry encoding="base64">XDxvblVzZXJTdHJlYW1QdWJsaXNoZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
@@ -97,18 +97,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" timestamp="1590290657941">
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="75" column="5" />
-        <mark key="." line="75" column="47" />
-        <mark key="^" line="75" column="5" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" timestamp="1590291517966">
+        <mark key="'" line="89" column="58" />
+        <mark key="[" line="83" column="29" />
+        <mark key="]" line="83" column="29" />
+        <mark key="^" line="83" column="29" />
+        <mark key="." line="83" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/utils/rc_server_api.dart" timestamp="1590231908470" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" timestamp="1590282113197">
-        <mark key="[" line="44" column="35" />
-        <mark key="]" line="45" column="46" />
-        <mark key="." line="45" column="45" />
-        <mark key="^" line="45" column="46" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" timestamp="1590291655465">
+        <mark key="'" line="17" column="74" />
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="12" />
+        <mark key="." line="59" column="11" />
+        <mark key="^" line="59" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/VideoViewManager.java" timestamp="1590285803229">
         <mark key="'" line="300" column="29" />
@@ -119,12 +121,6 @@
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" timestamp="1590233898732" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" timestamp="1590228469115" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/local_user.dart" timestamp="1590222140027">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="1" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/video_view.dart" timestamp="1590287290563">
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="24" />
@@ -176,7 +172,7 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUser.java" timestamp="1590228669071">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUser.java" timestamp="1590290917259">
         <mark key="'" line="30" column="4" />
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="25" />
@@ -189,10 +185,14 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/MediaStream.java" timestamp="1590290682551">
+        <mark key="[" line="62" column="68" />
+        <mark key="]" line="62" column="79" />
+        <mark key="^" line="62" column="79" />
+        <mark key="." line="62" column="78" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="34" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" />
-      <jump line="15" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RtcLog.java" />
       <jump line="21" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RtcLog.java" />
       <jump line="27" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RtcLog.java" />
       <jump line="33" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RtcLog.java" />
@@ -291,57 +291,59 @@
       <jump line="135" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" />
       <jump line="1229" column="61" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
       <jump line="300" column="29" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/VideoViewManager.java" />
+      <jump line="89" column="58" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" />
+      <jump line="17" column="74" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJlbW90ZVVzZXIgcmVtb3RlVXNlciA9IG5ldyBSZW1vdGVVc2VyKFJvb20udGhpcy5tZXNzZW5nZXIsIHJvbmdSZW1vdGVVc2VyKTsKICAgIHJlbW90ZVVzZXJMaXN0LmFkZChyZW1vdGVVc2VyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>remociteUser</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>child</text>
+        <text>remociteUser</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJcPg==</text>
+        <text encoding="base64">XDxvblVzZXJTdHJlYW1QdWJsaXNoZWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB2b2lkIEZ1bmN0aW9uKFJlbW90ZVVzZXIgcmVtb3RlVXNlcikgb25Vc2VySm9pbmVkOwo=</text>
+      <register name="0" type="4">
+        <text>call.arguments['remoteUser']['id']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlbW90ZVVzZXIgcmVtb3RlVXNlciA9IG5ldyBSZW1vdGVVc2VyKFJvb20udGhpcy5tZXNzZW5nZXIsIHJvbmdSZW1vdGVVc2VyKTsKICAgIHJlbW90ZVVzZXJMaXN0LmFkZChyZW1vdGVVc2VyKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExvZ1V0aWwuZChUQUcsICdwdWJsaXNoRGVmYXVsdEFWU3RyZWFtJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIExvZ1V0aWwuZChUQUcsICJvblVzZXJKb2luZWQgIiArIGNhbGwuYXJndW1lbnRzKTsK</text>
+        <text encoding="base64">ICAgIC8vICAgIGNoYW5uZWwuaW52b2tlTWV0aG9kKCJvblJlbW90ZVVzZXJQdWJsaXNoUmVzb3VyY2UiLCBMaXN0IDwgUm9uZ1JUQ0FWSW5wdXRTdHJlYW0gPiBsaXN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVtb3RlVXNlciB1c2VyID0gbmV3IFJlbW90ZVVzZXIuZnJvbUpzb24oY2FsbC5hcmd1bWVudHNbJ3JlbW90ZVVzZXInXSk7CiAgICAgICAgICAgIHJlbW90ZVVzZXJMaXN0LmFkZCh1c2VyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhbGwuYXJndW1lbnRzCg==</text>
+        <text encoding="base64">ICAgIFJlbW90ZVVzZXIgcmVtb3RlVXNlciA9IG5ldyBSZW1vdGVVc2VyKFJvb20udGhpcy5tZXNzZW5nZXIsIHJvbmdSZW1vdGVVc2VyKTsKICAgIHJlbW90ZVVzZXJMaXN0LmFkZChyZW1vdGVVc2VyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIExvZ1V0aWwuZChUQUcsICdwdWJsaXNoRGVmYXVsdEFWU3RyZWFtJyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIExvZ1V0aWwuZChUQUcsICJvblVzZXJKb2luZWQgIiArIGNhbGwuYXJndW1lbnRzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -350,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJcPg==</last-search>
+      <last-search encoding="base64">XDxvblVzZXJTdHJlYW1QdWJsaXNoZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvblVzZXJTdHJlYW1QdWJsaXNoZWRcPg==</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxwYXJzaW5nSGFuZGxlclw+</last-substitute>
       <last-dir>1</last-dir>
