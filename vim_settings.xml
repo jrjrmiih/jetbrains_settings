@@ -105,12 +105,12 @@
         <mark key="." line="83" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/utils/rc_server_api.dart" timestamp="1590231908470" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" timestamp="1590317470202">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" timestamp="1590322267694">
         <mark key="'" line="61" column="39" />
-        <mark key="[" line="64" column="49" />
-        <mark key="]" line="64" column="49" />
-        <mark key="." line="64" column="48" />
-        <mark key="^" line="64" column="49" />
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="14" />
+        <mark key="." line="55" column="13" />
+        <mark key="^" line="55" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/VideoViewManager.java" timestamp="1590285803229">
         <mark key="'" line="300" column="29" />
@@ -294,14 +294,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGNhbGwuYXJndW1lbnRzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TWFwPFN0cmluZywgZHluYW1pYz4g</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">TWFwPFN0cmluZywgZHluYW1pYz4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblVzZXJTdHJlYW1QdWJsaXNoZWRcPg==</text>
@@ -310,7 +310,7 @@
         <text encoding="base64">ICAgICAgICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGNhbGwuYXJndW1lbnRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGpzb25TdHJlYW1MaXN0LnRvCg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
@@ -319,28 +319,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdkYXJ0OmNvbnZlcnQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgdGFyZ2V0VXNlci5zdHJlYW1MaXN0LmFkZEFsbChqc29uU3RyZWFtTGlzdCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdkYXJ0OmNvbnZlcnQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJlbW90ZVVzZXIgdXNlciA9IG5ldyBSZW1vdGVVc2VyLmZyb21Kc29uKGNhbGwuYXJndW1lbnRzWydyZW1vdGVVc2VyJ11bJ2lkJ10pOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgdGFyZ2V0VXNlci5zdHJlYW1MaXN0LmFkZEFsbChqc29uU3RyZWFtTGlzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICh0YXJnZXRVc2VyID09IG51bGwpIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJlbW90ZVVzZXIgdXNlciA9IG5ldyBSZW1vdGVVc2VyLmZyb21Kc29uKGNhbGwuYXJndW1lbnRzWydyZW1vdGVVc2VyJ11bJ2lkJ10pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICh0YXJnZXRVc2VyID09IG51bGwpIHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNoYW5uZWwuaW52b2tlTWV0aG9kKCJvblJlbW90ZVVzZXJQdWJsaXNoUmVzb3VyY2UiLCBMaXN0IDwgUm9uZ1JUQ0FWSW5wdXRTdHJlYW0gPiBsaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
