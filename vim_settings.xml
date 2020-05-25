@@ -116,12 +116,12 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/ios/Classes/RongRTCPlugin.m" timestamp="1590418971811" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" timestamp="1590395269113">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" timestamp="1590424450302">
         <mark key="'" line="44" column="12" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="12" />
+        <mark key="[" line="63" column="54" />
+        <mark key="]" line="63" column="51" />
+        <mark key="." line="63" column="50" />
+        <mark key="^" line="63" column="51" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" timestamp="1590395258674">
         <mark key="'" line="56" column="21" />
@@ -289,53 +289,53 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2ltcG9ydCAiUm9uZ2Nsb3VkSW1QbHVnaW4uaCIK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>remoteUser</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbFVzZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTG9nVXRpbC5kKFRBRywgJ3N1YnNjcmliZUFWU3RyZWFtJyk7Cg==</text>
+        <text encoding="base64">ICAgIFJlbW90ZVVzZXIgdGFyZ2V0VXNlciA9IG5ldyBSZW1vdGVVc2VyLmZyb21Kc29uKGpzb25PYmpbJ3JlbW90ZVVzZXInXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2ltcG9ydCAiUm9uZ2Nsb3VkSW1QbHVnaW4uaCIK</text>
+        <text encoding="base64">ICAgIFJlbW90ZVVzZXIgdGFyZ2V0VXNlciA9IG5ldyBSZW1vdGVVc2VyLmZyb21Kc29uKGpzb25PYmpbJ3JlbW90ZVVzZXInXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICByZW1vdGVVc2VyLihzdHJlYW1MaXN0KS50aGVuKChjb2RlKSB7Ci8vICAgICAgICBMb2dVdGlsLmQoVEFHLCAnc3Vic2NyaWJlQVZTdHJlYW0gdGhlbiBjb2RlID0gJyArIGNvZGUudG9TdHJpbmcoKSk7Ci8vICAgICAgICBpZiAoY29kZSA9PSAwKSB7Cg==</text>
+        <text encoding="base64">I2ltcG9ydCAiUm9uZ2Nsb3VkSW1QbHVnaW4uaCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0KLy8gICAgICB9KTsK</text>
+        <text encoding="base64">Ly8gICAgICByZW1vdGVVc2VyLihzdHJlYW1MaXN0KS50aGVuKChjb2RlKSB7Ci8vICAgICAgICBMb2dVdGlsLmQoVEFHLCAnc3Vic2NyaWJlQVZTdHJlYW0gdGhlbiBjb2RlID0gJyArIGNvZGUudG9TdHJpbmcoKSk7Ci8vICAgICAgICBpZiAoY29kZSA9PSAwKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBWaWRlb1ZpZXcgdmlldyA9IFZpZGVvVmlldyhzdHJlYW0uaWQsIChzZWxmKSB7CiAgICAgICAgICAgICAgICBMb2dVdGlsLmQoVEFHLCAncmVuZGVyVmlldyBpZCA9ICcgKyBzdHJlYW0uaWQpOwogICAgICAgICAgICAgICAgc3RyZWFtLnJlbmRlclZpZXcoc2VsZik7CiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgc2V0U3RhdGUoKCkgewogICAgICAgICAgICAgICAgX3JlbW90ZVZpZGVvVmlld01hcC5wdXRJZkFic2VudChzdHJlYW0uaWQsICgpID0+IHZpZXcpOwogICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIH0KLy8gICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBWaWRlb1ZpZXcgdmlldyA9IFZpZGVvVmlldyhzdHJlYW0uaWQsIChzZWxmKSB7CiAgICAgICAgICAgICAgICBMb2dVdGlsLmQoVEFHLCAncmVuZGVyVmlldyBpZCA9ICcgKyBzdHJlYW0uaWQpOwogICAgICAgICAgICAgICAgc3RyZWFtLnJlbmRlclZpZXcoc2VsZik7CiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgc2V0U3RhdGUoKCkgewogICAgICAgICAgICAgICAgX3JlbW90ZVZpZGVvVmlld01hcC5wdXRJZkFic2VudChzdHJlYW0uaWQsICgpID0+IHZpZXcpOwogICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBNYXA8U3RyaW5nLCBkeW5hbWljPiBqc29uT2JqID0ganNvbkRlY29kZShjYWxsLmFyZ3VtZW50cyk7CiAgICAgICAgICBSZW1vdGVVc2VyIHVzZXIgPSBuZXcgUmVtb3RlVXNlci5mcm9tSnNvbihqc29uT2JqWydyZW1vdGVVc2VyJ10pOwogICAgICAgICAgcmVtb3RlVXNlckxpc3QuYWRkKHVzZXIpOwogICAgICAgICAgaWYgKG9uUmVtb3RlVXNlckpvaW5lZCAhPSBudWxsKSBvblJlbW90ZVVzZXJKb2luZWQodXNlcik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGpzb25TdHIpOwogICAgUmVtb3RlVXNlciB1c2VyID0gbmV3IFJlbW90ZVVzZXIuZnJvbUpzb24oanNvbk9ialsncmVtb3RlVXNlciddKTsKICAgIHJlbW90ZVVzZXJMaXN0LmFkZCh1c2VyKTsKICAgIGlmIChvblJlbW90ZVVzZXJMZWZ0ICE9IG51bGwpIG9uUmVtb3RlVXNlckxlZnQodXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBNYXA8U3RyaW5nLCBkeW5hbWljPiBqc29uT2JqID0ganNvbkRlY29kZShjYWxsLmFyZ3VtZW50cyk7CiAgICAgICAgICBSZW1vdGVVc2VyIHVzZXIgPSBuZXcgUmVtb3RlVXNlci5mcm9tSnNvbihqc29uT2JqWydyZW1vdGVVc2VyJ10pOwogICAgICAgICAgcmVtb3RlVXNlckxpc3QuYWRkKHVzZXIpOwogICAgICAgICAgaWYgKG9uUmVtb3RlVXNlckpvaW5lZCAhPSBudWxsKSBvblJlbW90ZVVzZXJKb2luZWQodXNlcik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGpzb25TdHIpOwogICAgUmVtb3RlVXNlciB1c2VyID0gbmV3IFJlbW90ZVVzZXIuZnJvbUpzb24oanNvbk9ialsncmVtb3RlVXNlciddKTsK</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGpzb25TdHIpOwogICAgUmVtb3RlVXNlciB1c2VyID0gbmV3IFJlbW90ZVVzZXIuZnJvbUpzb24oanNvbk9ialsncmVtb3RlVXNlciddKTsKICAgIHJlbW90ZVVzZXJMaXN0LmFkZCh1c2VyKTsKICAgIGlmIChvblJlbW90ZVVzZXJMZWZ0ICE9IG51bGwpIG9uUmVtb3RlVXNlckxlZnQodXNlcik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7CgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGpzb25TdHIpOwogICAgUmVtb3RlVXNlciB1c2VyID0gbmV3IFJlbW90ZVVzZXIuZnJvbUpzb24oanNvbk9ialsncmVtb3RlVXNlciddKTsK</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
