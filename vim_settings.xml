@@ -150,9 +150,6 @@
         <mark key="." line="28" column="43" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1590285786357">
-        <mark key="'" line="1229" column="61" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Runner/GeneratedPluginRegistrant.m" timestamp="1590389380265" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/services/platform_channel.dart" timestamp="1590325736544">
         <mark key="[" line="409" column="7" />
