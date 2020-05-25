@@ -115,7 +115,12 @@
         <mark key="'" line="56" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Classes/RongImlibPlugin.h" timestamp="1590393615739" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/pubspec.yaml" timestamp="1590396793512" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/pubspec.yaml" timestamp="1590400756957">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1590395137186">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
