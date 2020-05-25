@@ -168,9 +168,15 @@
         <mark key="." line="28" column="43" />
         <mark key="^" line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Classes/RCIMFlutterWrapper.m" timestamp="1590405252641">
+        <mark key="'" line="249" column="17" />
+        <mark key="[" line="249" column="18" />
+        <mark key="]" line="249" column="18" />
+        <mark key="^" line="249" column="18" />
+        <mark key="." line="249" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RtcLog.java" />
       <jump line="12" column="21" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RtcLog.java" />
       <jump line="146" column="31" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" />
       <jump line="114" column="40" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCWrapper.java" />
@@ -270,6 +276,7 @@
       <jump line="49" column="27" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" />
       <jump line="53" column="53" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" />
       <jump line="56" column="21" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" />
+      <jump line="249" column="17" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Classes/RCIMFlutterWrapper.m" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
