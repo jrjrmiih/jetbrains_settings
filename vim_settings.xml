@@ -117,13 +117,7 @@
         <mark key="." line="111" column="37" />
         <mark key="^" line="111" column="38" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/VideoViewManager.java" timestamp="1590285803229">
-        <mark key="'" line="300" column="29" />
-        <mark key="[" line="295" column="17" />
-        <mark key="]" line="295" column="17" />
-        <mark key="^" line="295" column="17" />
-        <mark key="." line="295" column="16" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Classes/RongImlibPlugin.h" timestamp="1590393615739" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.71.android/f72f91759a4d14f2033b0313bc912e907545d639/fastjson-1.1.71.android-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1590324066640">
         <mark key="[" line="576" column="19" />
         <mark key="]" line="576" column="19" />
@@ -137,12 +131,6 @@
         <mark key="^" line="264" column="53" />
         <mark key="." line="264" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/video_view.dart" timestamp="1590287290563">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-        <mark key="." line="15" column="23" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RTCErrorCode.java" timestamp="1590326434455" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/remote_user.dart" timestamp="1590378691499">
         <mark key="[" line="28" column="44" />
@@ -150,6 +138,7 @@
         <mark key="." line="28" column="43" />
         <mark key="^" line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RongIMPlugin.java" timestamp="1590393596334" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Runner/GeneratedPluginRegistrant.m" timestamp="1590389380265" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/services/platform_channel.dart" timestamp="1590325736544">
         <mark key="[" line="409" column="7" />
