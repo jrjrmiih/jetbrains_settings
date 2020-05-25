@@ -111,11 +111,23 @@
         <mark key="." line="14" column="11" />
         <mark key="^" line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Classes/RongIMPlugin.h" timestamp="1590402142343">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" timestamp="1590395258674">
         <mark key="'" line="56" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Classes/RongImlibPlugin.h" timestamp="1590393615739" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/pubspec.yaml" timestamp="1590396793512" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1590395696555">
+        <mark key="'" line="149" column="16" />
+        <mark key="[" line="139" column="47" />
+        <mark key="]" line="139" column="54" />
+        <mark key="." line="139" column="53" />
+        <mark key="^" line="139" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1590395850375">
+        <mark key="'" line="75" column="3" />
+        <mark key="^" line="14" column="1" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1590395137186">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -134,7 +146,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_config.dart" timestamp="1590395918425" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUser.java" timestamp="1590378675961">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="82" column="49" />
+        <mark key="]" line="103" column="23" />
+        <mark key="." line="103" column="22" />
+        <mark key="^" line="103" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/video_view.dart" timestamp="1590395625840">
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="24" />
@@ -153,28 +171,6 @@
         <mark key="." line="28" column="43" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RongIMPlugin.java" timestamp="1590393596334" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Runner/GeneratedPluginRegistrant.m" timestamp="1590389380265" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/CallActivity.java" timestamp="1590378473559" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1590395696555">
-        <mark key="'" line="149" column="16" />
-        <mark key="[" line="139" column="47" />
-        <mark key="]" line="139" column="54" />
-        <mark key="." line="139" column="53" />
-        <mark key="^" line="139" column="54" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1590395850375">
-        <mark key="'" line="75" column="3" />
-        <mark key="^" line="14" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUser.java" timestamp="1590378675961">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="82" column="49" />
-        <mark key="]" line="103" column="23" />
-        <mark key="." line="103" column="22" />
-        <mark key="^" line="103" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/rong_imlib.podspec" timestamp="1590388847652" />
     </filemarks>
     <jumps>
       <jump line="69" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RtcLog.java" />
@@ -342,7 +338,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxwYXJzaW5nSGFuZGxlclw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
