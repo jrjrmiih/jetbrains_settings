@@ -97,12 +97,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" timestamp="1590370479256">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" timestamp="1590377020680">
         <mark key="'" line="125" column="13" />
-        <mark key="[" line="182" column="5" />
-        <mark key="]" line="183" column="77" />
-        <mark key="^" line="183" column="77" />
-        <mark key="." line="183" column="76" />
+        <mark key="[" line="77" column="33" />
+        <mark key="]" line="77" column="33" />
+        <mark key="^" line="77" column="33" />
+        <mark key="." line="77" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCLocalUser.java" timestamp="1590326399137">
         <mark key="[" line="115" column="17" />
@@ -110,12 +110,12 @@
         <mark key="^" line="115" column="17" />
         <mark key="." line="115" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" timestamp="1590376974911">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" timestamp="1590376975526">
         <mark key="'" line="44" column="12" />
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="22" />
-        <mark key="^" line="21" column="23" />
+        <mark key="[" line="111" column="38" />
+        <mark key="]" line="111" column="38" />
+        <mark key="." line="111" column="37" />
+        <mark key="^" line="111" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/VideoViewManager.java" timestamp="1590285803229">
         <mark key="'" line="300" column="29" />
@@ -144,11 +144,11 @@
         <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/RTCErrorCode.java" timestamp="1590326434455" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/remote_user.dart" timestamp="1590337953763">
-        <mark key="[" line="19" column="54" />
-        <mark key="]" line="19" column="54" />
-        <mark key="." line="19" column="53" />
-        <mark key="^" line="19" column="54" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/remote_user.dart" timestamp="1590378691499">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="44" />
+        <mark key="." line="28" column="43" />
+        <mark key="^" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1590285786357">
         <mark key="'" line="1229" column="61" />
@@ -159,6 +159,7 @@
         <mark key="^" line="409" column="7" />
         <mark key="." line="409" column="6" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/CallActivity.java" timestamp="1590378473559" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1590233543781">
         <mark key="'" line="98" column="14" />
         <mark key="[" line="46" column="1" />
@@ -166,25 +167,24 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/lib/rong_im_engine.dart" timestamp="1590232964152" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/events/RongRTCEventsListener.java" timestamp="1590234344245" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1590337474920">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1590377013878">
         <mark key="'" line="141" column="16" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="163" column="17" />
+        <mark key="]" line="163" column="17" />
+        <mark key="^" line="163" column="17" />
+        <mark key="." line="163" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1590317120535">
         <mark key="'" line="75" column="3" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUser.java" timestamp="1590336710130">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUser.java" timestamp="1590378675961">
         <mark key="'" line="30" column="4" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="33" />
+        <mark key="[" line="82" column="49" />
+        <mark key="]" line="103" column="23" />
+        <mark key="." line="103" column="22" />
+        <mark key="^" line="103" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/VideoViewFactory.java" timestamp="1590288313973">
         <mark key="[" line="23" column="0" />
@@ -305,13 +305,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBNYXA8U3RyaW5nLCBkeW5hbWljPiBqc29uT2JqID0ganNvbkRlY29kZShjYWxsLmFyZ3VtZW50cyk7CiAgICAgICAgICBSZW1vdGVVc2VyIHVzZXIgPSBuZXcgUmVtb3RlVXNlci5mcm9tSnNvbihqc29uT2JqWydyZW1vdGVVc2VyJ10pOwogICAgICAgICAgcmVtb3RlVXNlckxpc3QuYWRkKHVzZXIpOwogICAgICAgICAgaWYgKG9uUmVtb3RlVXNlckpvaW5lZCAhPSBudWxsKSBvblJlbW90ZVVzZXJKb2luZWQodXNlcik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>.arguments</text>
+        <text>subscribeAVStream</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblJlbW90ZVVzZXJQdWJsaXNoUmVzb3VyY2VcPg==</text>
@@ -320,37 +320,37 @@
         <text encoding="base64">ICAgICAgICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGNhbGwuYXJndW1lbnRzKTsKICAgICAgICAgIFJlbW90ZVVzZXIgdXNlciA9IG5ldyBSZW1vdGVVc2VyLmZyb21Kc29uKGpzb25PYmpbJ3JlbW90ZVVzZXInXSk7CiAgICAgICAgICByZW1vdGVVc2VyTGlzdC5hZGQodXNlcik7CiAgICAgICAgICBpZiAob25SZW1vdGVVc2VySm9pbmVkICE9IG51bGwpIG9uUmVtb3RlVXNlckpvaW5lZCh1c2VyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBNYXA8U3RyaW5nLCBkeW5hbWljPiBqc29uT2JqID0ganNvbkRlY29kZShjYWxsLmFyZ3VtZW50cyk7CiAgICAgICAgICBSZW1vdGVVc2VyIHVzZXIgPSBuZXcgUmVtb3RlVXNlci5mcm9tSnNvbihqc29uT2JqWydyZW1vdGVVc2VyJ10pOwogICAgICAgICAgcmVtb3RlVXNlckxpc3QuYWRkKHVzZXIpOwogICAgICAgICAgaWYgKG9uUmVtb3RlVXNlckpvaW5lZCAhPSBudWxsKSBvblJlbW90ZVVzZXJKb2luZWQodXNlcik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGpzb25TdHIpOwogICAgUmVtb3RlVXNlciB1c2VyID0gbmV3IFJlbW90ZVVzZXIuZnJvbUpzb24oanNvbk9ialsncmVtb3RlVXNlciddKTsKICAgIHJlbW90ZVVzZXJMaXN0LmFkZCh1c2VyKTsKICAgIGlmIChvblJlbW90ZVVzZXJMZWZ0ICE9IG51bGwpIG9uUmVtb3RlVXNlckxlZnQodXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBNYXA8U3RyaW5nLCBkeW5hbWljPiBqc29uT2JqID0ganNvbkRlY29kZShjYWxsLmFyZ3VtZW50cyk7CiAgICAgICAgICBSZW1vdGVVc2VyIHVzZXIgPSBuZXcgUmVtb3RlVXNlci5mcm9tSnNvbihqc29uT2JqWydyZW1vdGVVc2VyJ10pOwogICAgICAgICAgcmVtb3RlVXNlckxpc3QuYWRkKHVzZXIpOwogICAgICAgICAgaWYgKG9uUmVtb3RlVXNlckpvaW5lZCAhPSBudWxsKSBvblJlbW90ZVVzZXJKb2luZWQodXNlcik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGpzb25TdHIpOwogICAgUmVtb3RlVXNlciB1c2VyID0gbmV3IFJlbW90ZVVzZXIuZnJvbUpzb24oanNvbk9ialsncmVtb3RlVXNlciddKTsK</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGpzb25TdHIpOwogICAgUmVtb3RlVXNlciB1c2VyID0gbmV3IFJlbW90ZVVzZXIuZnJvbUpzb24oanNvbk9ialsncmVtb3RlVXNlciddKTsKICAgIHJlbW90ZVVzZXJMaXN0LmFkZCh1c2VyKTsKICAgIGlmIChvblJlbW90ZVVzZXJMZWZ0ICE9IG51bGwpIG9uUmVtb3RlVXNlckxlZnQodXNlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7CgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb25PYmogPSBqc29uRGVjb2RlKGpzb25TdHIpOwogICAgUmVtb3RlVXNlciB1c2VyID0gbmV3IFJlbW90ZVVzZXIuZnJvbUpzb24oanNvbk9ialsncmVtb3RlVXNlciddKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB7CgogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgTGlzdDxJbnB1dE1lZGlhU3RyZWFtPiB0YXJnZXRTdHJlYW1MaXN0ID0KICAgIGpzb25TdHJlYW1MaXN0Lm1hcCgoc3RyZWFtKSA9PiBJbnB1dE1lZGlhU3RyZWFtLmZyb21Kc29uKHRhcmdldFVzZXIuaWQsIHN0cmVhbSkpLnRvTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAogICAgTGlzdDxJbnB1dE1lZGlhU3RyZWFtPiB0YXJnZXRTdHJlYW1MaXN0ID0KICAgIGpzb25TdHJlYW1MaXN0Lm1hcCgoc3RyZWFtKSA9PiBJbnB1dE1lZGlhU3RyZWFtLmZyb21Kc29uKHRhcmdldFVzZXIuaWQsIHN0cmVhbSkpLnRvTGlzdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhcmdldFVzZXIuc3RyZWFtTGlzdC5yZW1vdmUodGFyZ2V0U3RyZWFtTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRhcmdldFVzZXIuc3RyZWFtTGlzdC5yZW1vdmUodGFyZ2V0U3RyZWFtTGlzdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
