@@ -127,12 +127,6 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1590326460499">
-        <mark key="[" line="264" column="53" />
-        <mark key="]" line="264" column="53" />
-        <mark key="^" line="264" column="53" />
-        <mark key="." line="264" column="52" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/local_user.dart" timestamp="1590395166187">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="1" />
@@ -160,7 +154,6 @@
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/src/main/java/rong/flutter/imlib/RongIMPlugin.java" timestamp="1590393596334" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/ios/Runner/GeneratedPluginRegistrant.m" timestamp="1590389380265" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/CallActivity.java" timestamp="1590378473559" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" timestamp="1590395696555">
         <mark key="'" line="149" column="16" />
         <mark key="[" line="139" column="47" />
