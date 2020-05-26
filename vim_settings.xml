@@ -112,12 +112,11 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/ios/Classes/RongRTCPlugin.m" timestamp="1590526878146">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="17" />
-        <mark key="^" line="22" column="18" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/ios/Classes/RongRTCPlugin.m" timestamp="1590529229928">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="15" />
+        <mark key="^" line="56" column="15" />
+        <mark key="." line="56" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Pods/RongCloudIM/RongCloudIM/RongIMLib.framework/Headers/RCStatusDefine.h" timestamp="1590480588532" />
       <file name="$USER_HOME$/Workspace/rc-ios/rtc-workspace/RongIMLib/RongIMLib/FwLog/RCLogEntity.h" timestamp="1590477578481" />
@@ -131,7 +130,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/ios/Classes/RongRtclibPlugin.m" timestamp="1590418857844" />
-      <file name="/LLDB" timestamp="1590527159567">
+      <file name="/LLDB" timestamp="1590529621235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Pods/RongRTCLib/RTCLib/RongRTCLib.framework/Headers/RongRTCCodeDefine.h" timestamp="1590480759505" />
