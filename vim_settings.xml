@@ -154,15 +154,17 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1590395850375">
-        <mark key="'" line="75" column="3" />
-        <mark key="^" line="14" column="1" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Pods/Headers/Public/rong_rtclib/rong_rtclib-umbrella.h" timestamp="1590422323130">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Pods/Target Support Files/rong_rtclib/rong_rtclib-dummy.m" timestamp="1590424055695">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/.symlinks/plugins/rong_imlib/ios/rong_imlib.podspec" timestamp="1590406523031">
         <mark key="[" line="4" column="28" />
