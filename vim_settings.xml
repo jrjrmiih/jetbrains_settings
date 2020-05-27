@@ -139,12 +139,6 @@
         <mark key="^" line="74" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/build.gradle" timestamp="1590478974177" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/local_user.dart" timestamp="1590460465377">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="30" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/media_stream.dart" timestamp="1590462195031">
         <mark key="[" line="41" column="18" />
         <mark key="]" line="42" column="2" />
@@ -157,7 +151,7 @@
         <mark key="." line="34" column="51" />
         <mark key="^" line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1590530536019">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1590544322851">
         <mark key="[" line="88" column="39" />
         <mark key="]" line="88" column="39" />
         <mark key="^" line="88" column="39" />
@@ -183,6 +177,7 @@
       <file name="/dummy.dart" timestamp="1590461104769">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/bin/cache/pkg/sky_engine/lib/async/async.dart" timestamp="1590544305729" />
     </filemarks>
     <jumps>
       <jump line="102" column="49" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/custom/RongRTCVideoFileSender.java" />
