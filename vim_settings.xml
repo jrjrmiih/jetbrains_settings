@@ -118,11 +118,11 @@
       </file>
       <file name="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSJSONSerialization.h" timestamp="1590531047561" />
       <file name="$USER_HOME$/Workspace/rc-ios/rtc-workspace/RongIMLib/RongIMLib/FwLog/RCFwLog.h" timestamp="1590476189325" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/ios/Classes/RongRTCPlugin.m" timestamp="1590531799684">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/ios/Classes/RongRTCPlugin.m" timestamp="1590542532409">
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="35" />
+        <mark key="^" line="72" column="35" />
+        <mark key="." line="72" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/ios/Classes/agent/RFRoom.h" timestamp="1590530268558">
         <mark key="[" line="0" column="1" />
