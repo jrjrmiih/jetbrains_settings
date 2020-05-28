@@ -103,26 +103,6 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/RtcEngine.class" timestamp="1590660362003" />
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1590633202456">
-        <mark key="[" line="109" column="61" />
-        <mark key="]" line="109" column="61" />
-        <mark key="^" line="109" column="61" />
-        <mark key="." line="109" column="60" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1590529548112">
-        <mark key="[" line="74" column="1" />
-        <mark key="]" line="74" column="1" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="1" />
-      </file>
-      <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/AndroidManifest.xml" timestamp="1590630497108">
-        <mark key="[" line="36" column="63" />
-        <mark key="]" line="36" column="59" />
-        <mark key="^" line="36" column="59" />
-        <mark key="." line="36" column="58" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/core/CameraVideoCapturer.java" timestamp="1590659341280" />
       <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/java/com/testing/demoforsdk/MainActivity.java" timestamp="1590632419907">
         <mark key="[" line="124" column="31" />
         <mark key="]" line="124" column="31" />
@@ -147,6 +127,12 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="15" />
       </file>
+      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1590633202456">
+        <mark key="[" line="109" column="61" />
+        <mark key="]" line="109" column="61" />
+        <mark key="^" line="109" column="61" />
+        <mark key="." line="109" column="60" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RongRTCEngine.java" timestamp="1590651180469">
         <mark key="[" line="12" column="68" />
         <mark key="]" line="12" column="68" />
@@ -157,15 +143,32 @@
         <mark key="'" line="75" column="3" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/CameraSource.class" timestamp="1590660085863" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1590529548112">
+        <mark key="[" line="74" column="1" />
+        <mark key="]" line="74" column="1" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="1" />
+      </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/ad_sdk/src/main/java/com/daomeng/liumang/view/LmManager.java" timestamp="1590650058179">
         <mark key="[" line="495" column="36" />
         <mark key="]" line="495" column="36" />
         <mark key="^" line="495" column="36" />
         <mark key="." line="495" column="35" />
       </file>
+      <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/AndroidManifest.xml" timestamp="1590630497108">
+        <mark key="[" line="36" column="63" />
+        <mark key="]" line="36" column="59" />
+        <mark key="^" line="36" column="59" />
+        <mark key="." line="36" column="58" />
+      </file>
       <file name="/fragment.java" timestamp="1590632553650">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_detail.xml" timestamp="1590705146708">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -274,13 +277,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfb25Mb2dpblByZXNzZWRcPg==</text>
