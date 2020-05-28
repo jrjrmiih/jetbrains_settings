@@ -97,12 +97,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/camera.dart" timestamp="1590460487458">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" timestamp="1590462902901">
         <mark key="'" line="118" column="1" />
         <mark key="[" line="27" column="1" />
@@ -163,17 +157,8 @@
         <mark key="^" line="495" column="36" />
         <mark key="." line="495" column="35" />
       </file>
-      <file name="/dummy.dart" timestamp="1590461104769">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/LogUtil.java" timestamp="1590474114857">
         <mark key="[" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/MediaStream.java" timestamp="1590461688959">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="3" />
-        <mark key="^" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/error_code.dart" timestamp="1590480874083">
         <mark key="[" line="6" column="10" />
