@@ -175,6 +175,12 @@
         <mark key="." line="42" column="1" />
         <mark key="^" line="42" column="2" />
       </file>
+      <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/AndroidManifest.xml" timestamp="1590630138666">
+        <mark key="[" line="36" column="63" />
+        <mark key="]" line="28" column="59" />
+        <mark key="^" line="28" column="59" />
+        <mark key="." line="28" column="58" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/remote_user.dart" timestamp="1590462855430">
         <mark key="[" line="34" column="52" />
         <mark key="]" line="34" column="52" />
