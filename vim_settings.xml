@@ -110,11 +110,11 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/java/com/testing/demoforsdk/MainActivity.java" timestamp="1590620356829">
-        <mark key="[" line="78" column="17" />
-        <mark key="]" line="78" column="17" />
-        <mark key="^" line="78" column="17" />
-        <mark key="." line="78" column="16" />
+      <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/java/com/testing/demoforsdk/MainActivity.java" timestamp="1590630898297">
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="25" />
+        <mark key="^" line="60" column="27" />
+        <mark key="." line="60" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RLogUtil.java" timestamp="1590478277502">
         <mark key="[" line="11" column="3" />
@@ -175,11 +175,11 @@
         <mark key="." line="42" column="1" />
         <mark key="^" line="42" column="2" />
       </file>
-      <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/AndroidManifest.xml" timestamp="1590630138666">
+      <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/AndroidManifest.xml" timestamp="1590630497108">
         <mark key="[" line="36" column="63" />
-        <mark key="]" line="28" column="59" />
-        <mark key="^" line="28" column="59" />
-        <mark key="." line="28" column="58" />
+        <mark key="]" line="36" column="59" />
+        <mark key="^" line="36" column="59" />
+        <mark key="." line="36" column="58" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/remote_user.dart" timestamp="1590462855430">
         <mark key="[" line="34" column="52" />
@@ -293,14 +293,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdfb25Mb2dpblByZXNzZWQgcHJpbnQnKTsKICAgIGxvZygnX29uTG9naW5QcmVzc2VkIGxvZycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>, ''</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfb25Mb2dpblByZXNzZWRcPg==</text>
