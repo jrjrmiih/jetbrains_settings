@@ -97,6 +97,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/AgoraDefaultSource.class" timestamp="1590660179889">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/RtcEngine.class" timestamp="1590660362003" />
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1590633202456">
         <mark key="[" line="109" column="61" />
         <mark key="]" line="109" column="61" />
@@ -128,13 +135,7 @@
         <mark key="^" line="88" column="39" />
         <mark key="." line="88" column="38" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/lib/rong_im_engine.dart" timestamp="1590479365308">
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="35" column="5" />
-        <mark key="." line="35" column="4" />
-        <mark key="^" line="35" column="5" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/IVideoSource.class" timestamp="1590660089553">
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/IVideoSource.class" timestamp="1590660090900">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
@@ -162,12 +163,6 @@
         <mark key="]" line="495" column="36" />
         <mark key="^" line="495" column="36" />
         <mark key="." line="495" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/error_code.dart" timestamp="1590480874083">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="6" column="10" />
       </file>
       <file name="/fragment.java" timestamp="1590632553650">
         <mark key="[" line="0" column="0" />
