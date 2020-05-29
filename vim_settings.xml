@@ -7,48 +7,48 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbG9jYWxWaWV3XD4=</entry>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDxfcmVtb3RlVmlld01hcFw+</entry>
-        <entry encoding="base64">XDxsb2NhbFZpZXdcPg==</entry>
-        <entry encoding="base64">XDxvblBsYXRmb3JtVmlld0NyZWF0ZWRcPg==</entry>
-        <entry encoding="base64">XDxwYXJzaW5nSGFuZGxlclw+</entry>
-        <entry encoding="base64">XDxyZW5kZXJWaWV3XD4=</entry>
-        <entry encoding="base64">XDxNZXRob2RfSm9pblJUQ1Jvb21cPg==</entry>
-        <entry encoding="base64">XDxyb29tXD4=</entry>
-        <entry encoding="base64">XDxNZXRob2RfTGVhdmVSVENSb29tXD4=</entry>
-        <entry encoding="base64">XDxyZW1vdGVVc2VyXD4=</entry>
-        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
-        <entry encoding="base64">XDxtZXNzZW5nZXJcPg==</entry>
-        <entry encoding="base64">XDxvblVzZXJTdHJlYW1QdWJsaXNoZWRcPg==</entry>
-        <entry encoding="base64">XDxvblJlbW90ZVVzZXJQdWJsaXNoUmVzb3VyY2VcPg==</entry>
-        <entry encoding="base64">XDxsb2NhbFVzZXJcPg==</entry>
-        <entry encoding="base64">XDxyZW1vdGVBVlN0cmVhbXNcPg==</entry>
-        <entry encoding="base64">XDxkZWZhdWx0QXVkaW9TdHJlYW1cPg==</entry>
-        <entry encoding="base64">XDxfcmVtb3RlVmlkZW9WaWV3TWFwXD4=</entry>
-        <entry encoding="base64">XDxfb25Mb2dpblByZXNzZWRcPg==</entry>
+        <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
+        <entry encoding="base64">XDxfY2hhbm5lbFw+</entry>
+        <entry encoding="base64">XDxtZXRob2RDaGFubmVsXD4=</entry>
+        <entry encoding="base64">XDxSZW1vdGVVc2VyUHVibGlzaFN0cmVhbXNcPg==</entry>
+        <entry encoding="base64">XDxydGNSb29tXD4=</entry>
+        <entry>init</entry>
+        <entry encoding="base64">XDxyb29tSWRcPg==</entry>
+        <entry encoding="base64">XDxjb2RlXD4=</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxqb2luUlRDUm9vbVw+</entry>
+        <entry encoding="base64">XDxvblJUQ01ldGhvZENhbGxcPg==</entry>
+        <entry>fwlog</entry>
+        <entry encoding="base64">XDxjaGlsZFw+</entry>
+        <entry encoding="base64">XDx3aWR0aFw+</entry>
+        <entry encoding="base64">XDxzdGFydENhcHR1cmVcPg==</entry>
+        <entry encoding="base64">XDx2aWRlb1RyYWNrXD4=</entry>
+        <entry encoding="base64">XDxyb25nUlRDVmlkZW9WaWV3XD4=</entry>
+        <entry encoding="base64">XDxzZXRWaWRlb1Byb2ZpbGVcPg==</entry>
+        <entry encoding="base64">XDxzZXRWaWRlb0Zwc1w+</entry>
+        <entry encoding="base64">XDx0YWdzXD4=</entry>
       </history-search>
       <history-cmd>
+        <entry>38</entry>
+        <entry>226</entry>
+        <entry>2</entry>
+        <entry>set ignorecase</entry>
+        <entry>pwd</entry>
         <entry encoding="base64">JzwsJz5zL1xcIi8iL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1N5c3RlbVwuZ2V0ZW52L2dldFZhbHVlL2c=</entry>
         <entry>17</entry>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry>W</entry>
         <entry>set keep-english-in-normal</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
+        <entry>set nokeep-english-in-normal-and-restore-in-insert</entry>
+        <entry>nohl</entry>
         <entry>delma</entry>
         <entry>delm!</entry>
         <entry>marks</entry>
         <entry>1947</entry>
         <entry>285</entry>
-        <entry>set nokeep-english-in-normal-and-restore-in-insert</entry>
-        <entry encoding="base64">OnNldCBrZWVwLWVuZ2xpc2gtaW4tbm9ybWFsIA==</entry>
-        <entry encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</entry>
-        <entry>nohol</entry>
-        <entry>nohl</entry>
-        <entry>39</entry>
-        <entry>41</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,11 +97,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/unit_test/push_unittest.py" timestamp="1590733258412">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="6" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1590726081929">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/AgoraDefaultSource.class" timestamp="1590660179889">
         <mark key="[" line="7" column="49" />
         <mark key="]" line="7" column="49" />
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/setup.py" timestamp="1590733341541">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/java/com/testing/demoforsdk/MainActivity.java" timestamp="1590632419907">
         <mark key="[" line="124" column="31" />
@@ -109,11 +124,17 @@
         <mark key="^" line="124" column="31" />
         <mark key="." line="124" column="30" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/unit_test/message_unittest.py" timestamp="1590736721590">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1590544322851">
         <mark key="[" line="88" column="39" />
         <mark key="]" line="88" column="39" />
-        <mark key="^" line="88" column="39" />
         <mark key="." line="88" column="38" />
+        <mark key="^" line="88" column="39" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/IVideoSource.class" timestamp="1590660090900">
         <mark key="[" line="7" column="18" />
@@ -143,7 +164,14 @@
         <mark key="'" line="75" column="3" />
         <mark key="^" line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/unit_test/user_unittest.py" timestamp="1590736007841">
+        <mark key="[" line="12" column="66" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" timestamp="1590529548112">
+        <mark key="'" line="80" column="25" />
         <mark key="[" line="74" column="1" />
         <mark key="]" line="74" column="1" />
         <mark key="." line="74" column="0" />
@@ -164,6 +192,9 @@
       <file name="/fragment.java" timestamp="1590632553650">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/message.py" timestamp="1590736586242">
+        <mark key="'" line="130" column="30" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_detail.xml" timestamp="1590705146708">
         <mark key="[" line="12" column="43" />
         <mark key="]" line="14" column="15" />
@@ -172,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="49" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/custom/RongRTCVideoFileSender.java" />
-      <jump line="224" column="64" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/TestActivityAdatper.java" />
       <jump line="222" column="78" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/TestActivityAdatper.java" />
       <jump line="25" column="18" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
       <jump line="63" column="16" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
@@ -272,57 +301,59 @@
       <jump line="72" column="2" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="76" column="11" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="77" column="9" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
+      <jump line="129" column="30" filename="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/message.py" />
+      <jump line="130" column="30" filename="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/message.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>CCC</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>CCC</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb25Mb2dpblByZXNzZWRcPg==</text>
+        <text encoding="base64">XDx0b191c2VyX2lkc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdGF0aWMgY29uc3QgaW50IEFMUkVBRFlfSk9JTkVEID0gNTAwMDI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdfb25Mb2dpblByZXNzZWQgcHJpbnQnKTsKICAgIGxvZygnX29uTG9naW5QcmVzc2VkIGxvZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXApCg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmICgpIHsKICAgICAgICAgICAgICBfc2hvd0Vycm9yRGlhbG9nKCdBbHJlYWR5IGluIHJvb20uIEV4aXQgbm93IScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0aWMgY29uc3QgaW50IEFMUkVBRFlfSk9JTkVEID0gNTAwMDI7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdfb25Mb2dpblByZXNzZWQgcHJpbnQnKTsKICAgIGxvZygnX29uTG9naW5QcmVzc2VkIGxvZycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLy8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmICgpIHsKICAgICAgICAgICAgICBfc2hvd0Vycm9yRGlhbG9nKCdBbHJlYWR5IGluIHJvb20uIEV4aXQgbm93IScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLy8KICAvLy9bdG9rZW5dIOiejeS6kSBpbSB0b2tlbgogIC8vLwogIC8vL1tjb2RlXSDlj4Lop4EgW1JDRXJyb3JDb2RlXQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgY29uc3QgaW50IEFMUkVBRFlfSk9JTkVEID0gNTAwMDI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgUm9uZ1JUQ0VuZ2luZS5qb2luUlRDUm9vbShfcmlkQ29udHJvbGxlci50ZXh0KS50aGVuKChyZXN1bHQpIHsK</text>
+        <text encoding="base64">ICAvLy8gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkxPR19OID0gSW50ZWdlci5NQVhfVkFMVUU7Cg==</text>
+        <text encoding="base64">ICAvLy8KICAvLy9bdG9rZW5dIOiejeS6kSBpbSB0b2tlbgogIC8vLwogIC8vL1tjb2RlXSDlj4Lop4EgW1JDRXJyb3JDb2RlXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgTE9HX1dBUk4gPSA0Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgUm9uZ1JUQ0VuZ2luZS5qb2luUlRDUm9vbShfcmlkQ29udHJvbGxlci50ZXh0KS50aGVuKChyZXN1bHQpIHsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgTE9HX0lORk8gPSAzOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgUkxPR19OID0gSW50ZWdlci5NQVhfVkFMVUU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
@@ -331,13 +362,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfb25Mb2dpblByZXNzZWRcPg==</last-search>
+      <last-search encoding="base64">XDx0b191c2VyX2lkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb25Mb2dpblByZXNzZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0b191c2VyX2lkc1w+</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxwYXJzaW5nSGFuZGxlclw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
