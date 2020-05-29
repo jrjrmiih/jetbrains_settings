@@ -7,6 +7,7 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
+        <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
         <entry encoding="base64">XDxfY2hhbm5lbFw+</entry>
         <entry encoding="base64">XDxtZXRob2RDaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxSZW1vdGVVc2VyUHVibGlzaFN0cmVhbXNcPg==</entry>
@@ -26,7 +27,6 @@
         <entry encoding="base64">XDxzZXRWaWRlb1Byb2ZpbGVcPg==</entry>
         <entry encoding="base64">XDxzZXRWaWRlb0Zwc1w+</entry>
         <entry encoding="base64">XDx0YWdzXD4=</entry>
-        <entry encoding="base64">XDx0b191c2VyX2lkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -107,6 +107,9 @@
       <file name="/Python Console" timestamp="1590726081929">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCAVInputStream.java" timestamp="1590747202719">
+        <mark key="[" line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/AgoraDefaultSource.class" timestamp="1590660179889">
         <mark key="[" line="7" column="49" />
         <mark key="]" line="7" column="49" />
@@ -131,18 +134,13 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1590544322851">
-        <mark key="[" line="88" column="39" />
-        <mark key="]" line="88" column="39" />
-        <mark key="^" line="88" column="39" />
-        <mark key="." line="88" column="38" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/IVideoSource.class" timestamp="1590660090900">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/user/RongRTCLocalUser.java" timestamp="1590747349675" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/core/CameraCapturer.java" timestamp="1590659307192">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="21" column="16" />
@@ -160,10 +158,6 @@
         <mark key="]" line="12" column="68" />
         <mark key="^" line="12" column="68" />
         <mark key="." line="12" column="67" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" timestamp="1590530052916">
-        <mark key="'" line="75" column="3" />
-        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/unit_test/user_unittest.py" timestamp="1590736007841">
         <mark key="[" line="12" column="66" />
