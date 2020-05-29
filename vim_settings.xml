@@ -103,6 +103,7 @@
         <mark key="^" line="44" column="6" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/app/MyApplication.java" timestamp="1590741740862" />
       <file name="/Python Console" timestamp="1590726081929">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,8 +134,8 @@
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1590544322851">
         <mark key="[" line="88" column="39" />
         <mark key="]" line="88" column="39" />
-        <mark key="." line="88" column="38" />
         <mark key="^" line="88" column="39" />
+        <mark key="." line="88" column="38" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/IVideoSource.class" timestamp="1590660090900">
         <mark key="[" line="7" column="18" />
@@ -368,7 +369,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxwYXJzaW5nSGFuZGxlclw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
