@@ -102,6 +102,12 @@
     <filemarks>
       <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/app/MyApplication.java" timestamp="1590741740862" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/callback/RCRTCJoinRoomCallBack.java" timestamp="1590750365852" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/settings.gradle" timestamp="1590765227416">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="43" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/settings.gradle" timestamp="1590750821520">
         <mark key="[" line="34" column="17" />
         <mark key="]" line="34" column="17" />
@@ -117,6 +123,12 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/stream/RCAudioOutputStream.java" timestamp="1590750597271" />
       <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/ad_sdk/build.gradle" timestamp="1590746520787" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCUser.java" timestamp="1590750983066" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/build.gradle" timestamp="1590765444867">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="1" />
+        <mark key="^" line="34" column="1" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" timestamp="1590750370185">
         <mark key="[" line="67" column="59" />
         <mark key="]" line="67" column="59" />
@@ -137,12 +149,6 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCAVInputStream.java" timestamp="1590747202719">
         <mark key="[" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/unit_test/message_unittest.py" timestamp="1590736721590">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/user/RongRTCLocalUser.java" timestamp="1590750889909" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCLocalUser.java" timestamp="1590752336934" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCEngine.java" timestamp="1590750555264">
@@ -153,9 +159,6 @@
         <mark key="^" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/stream/IRCRTCVideoSource.java" timestamp="1590750591026" />
-      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/message.py" timestamp="1590736586242">
-        <mark key="'" line="130" column="30" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCConfig.java" timestamp="1590750362632" />
     </filemarks>
     <jumps>
@@ -263,53 +266,53 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>rtclib</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QocGF0aDogJzpuZXdzZmVlZC1wbHVnaW4nKQo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>rtclib</text>
+        <text encoding="base64">cGF0aDog</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSQ1JUQ0VuZ2luZUNyZWF0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJvamVjdCgnOnJ0Y2xpYicpLnByb2plY3REaXIgPSBuZXcgRmlsZSgiYW5kcm9pZC1ydGNzZGsvcnRjbGliIikK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QocGF0aDogJzpuZXdzZmVlZC1wbHVnaW4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QocGF0aDogJzpuZXdzZmVlZC1wbHVnaW4nKQo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgdm9pZCBhc3MoKSB7CiAgICAgICAgYXNkZmFzZGYKICAgIH0=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGFzZGY7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgdm9pZCBhc3MoKSB7CiAgICAgICAgYXNkZmFzZGYKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXApCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGFzZGY7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChyZXApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdfb25Mb2dpblByZXNzZWQgcHJpbnQnKTsKICAgIGxvZygnX29uTG9naW5QcmVzc2VkIGxvZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmICgpIHsKICAgICAgICAgICAgICBfc2hvd0Vycm9yRGlhbG9nKCdBbHJlYWR5IGluIHJvb20uIEV4aXQgbm93IScpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdfb25Mb2dpblByZXNzZWQgcHJpbnQnKTsKICAgIGxvZygnX29uTG9naW5QcmVzc2VkIGxvZycpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0aWMgY29uc3QgaW50IEFMUkVBRFlfSk9JTkVEID0gNTAwMDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmICgpIHsKICAgICAgICAgICAgICBfc2hvd0Vycm9yRGlhbG9nKCdBbHJlYWR5IGluIHJvb20uIEV4aXQgbm93IScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
