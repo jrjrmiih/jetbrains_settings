@@ -18,6 +18,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="CIDR.Lang.SwitchHeaderSource">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
@@ -65,6 +68,7 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -83,8 +87,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="GotoChangedFile" />
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="shift meta i" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
@@ -92,10 +97,10 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift meta u" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="GotoImplementation">
-    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -113,6 +118,9 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
   <action id="IpnbAddCellBelowAction" />
@@ -123,6 +131,10 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="ParameterInfo" />
   <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta l" />
