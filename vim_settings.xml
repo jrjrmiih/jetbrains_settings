@@ -100,20 +100,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/settings.gradle" timestamp="1590765227416">
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/settings.gradle" timestamp="1590768490537">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="44" />
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1590750490677">
-        <mark key="[" line="76" column="29" />
-        <mark key="]" line="76" column="52" />
-        <mark key="^" line="76" column="52" />
-        <mark key="." line="76" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590767515111">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/settings.gradle" timestamp="1590750821520">
         <mark key="[" line="34" column="17" />
@@ -127,30 +118,45 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/AndroidManifest.xml" timestamp="1590767960024">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/AndroidManifest.xml" timestamp="1590768813836">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="41" />
+        <mark key="." line="29" column="40" />
+        <mark key="^" line="29" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCEngine.java" timestamp="1590750555264">
-        <mark key="'" line="28" column="24" />
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="33" />
-        <mark key="^" line="28" column="34" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1590769810434">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/build.gradle" timestamp="1590767125703">
-        <mark key="[" line="37" column="85" />
-        <mark key="]" line="39" column="24" />
-        <mark key="^" line="39" column="24" />
-        <mark key="." line="39" column="23" />
+      <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/build.gradle" timestamp="1590769662944">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="60" />
+        <mark key="^" line="29" column="49" />
+        <mark key="." line="29" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" timestamp="1590750370185">
-        <mark key="[" line="67" column="59" />
-        <mark key="]" line="67" column="59" />
-        <mark key="^" line="67" column="59" />
-        <mark key="." line="67" column="58" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/settings.gradle" timestamp="1590768480887">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590767515111">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/AndroidManifest.xml" timestamp="1590769548185">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/build.gradle" timestamp="1590768451462" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1590769475363">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -259,52 +265,52 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0icnltLmRlbW8ubmV3c2ZlZWQuTWFpbkFjdGl2aXR5IiAvPgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3QuZXh0Omp1bml0OjEuMS4xJwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMi4wJwo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-plugin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMQVVOQ0hFUlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5ERUZBVUxUIiAvPgo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0icnltLmRlbW8ubmV3c2ZlZWQuTWFpbkFjdGl2aXR5IiAvPgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3QuZXh0Omp1bml0OjEuMS4xJwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMi4wJwo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5hcHBjb21wYXQ6YXBwY29tcGF0OjEuMS4wJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICDjgIAK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0OmNvbnN0cmFpbnRsYXlvdXQ6MS4xLjMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2ludGVudC1maWx0ZXI+Cg==</text>
+        <text encoding="base64">ICAgIG4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW50ZW50LWZpbHRlcj4K</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0icnltLmRlbW8ubmV3c2ZlZWQuTWFpbkFjdGl2aXR5IiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5ERUZBVUxUIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLlJFUVVFU1RfSU5TVEFMTF9QQUNLQUdFUyIgLz4gPCEtLSBzdXBwcmVzcyBEZXByZWNhdGVkQ2xhc3NVc2FnZUluc3BlY3Rpb24gLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICDjgIAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLldSSVRFX0VYVEVSTkFMX1NUT1JBR0UiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2ludGVudC1maWx0ZXI+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkFDQ0VTU19XSUZJX1NUQVRFIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW50ZW50LWZpbHRlcj4K</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
