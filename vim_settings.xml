@@ -99,11 +99,11 @@
     <filemarks>
       <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/app/MyApplication.java" timestamp="1590741740862" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/callback/RCRTCJoinRoomCallBack.java" timestamp="1590750365852" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/settings.gradle" timestamp="1590750788417">
-        <mark key="[" line="39" column="66" />
-        <mark key="]" line="39" column="66" />
-        <mark key="^" line="39" column="69" />
-        <mark key="." line="39" column="66" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/settings.gradle" timestamp="1590750821520">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="17" />
+        <mark key="^" line="34" column="17" />
+        <mark key="." line="34" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/stream/RCAudioOutputStream.java" timestamp="1590750597271" />
       <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/ad_sdk/build.gradle" timestamp="1590746520787" />
