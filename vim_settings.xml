@@ -110,7 +110,7 @@
       <file name="/Dummy.txt" timestamp="1590771962629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/src/main/AndroidManifest.xml" timestamp="1590774697914">
+      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/src/main/AndroidManifest.xml" timestamp="1590795300755">
         <mark key="[" line="65" column="76" />
         <mark key="]" line="65" column="76" />
         <mark key="^" line="65" column="76" />
@@ -161,17 +161,18 @@
         <mark key="^" line="38" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/build.gradle" timestamp="1590772334121" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/adsdk/src/main/java/com/daomeng/liumang/bean/response/Ad.java" timestamp="1590795763119" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/build.gradle" timestamp="1590771442269">
         <mark key="[" line="34" column="5" />
         <mark key="]" line="34" column="5" />
         <mark key="^" line="34" column="5" />
         <mark key="." line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1590773811771">
-        <mark key="[" line="32" column="51" />
-        <mark key="]" line="32" column="51" />
-        <mark key="." line="32" column="50" />
-        <mark key="^" line="32" column="51" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1590795646575">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="24" column="5" />
+        <mark key="^" line="24" column="5" />
+        <mark key="." line="24" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/settings.gradle" timestamp="1590771761804">
         <mark key="[" line="0" column="27" />
