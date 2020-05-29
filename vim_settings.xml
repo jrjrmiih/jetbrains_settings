@@ -100,13 +100,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/NewsActivity.java" timestamp="1590772481144" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/settings.gradle" timestamp="1590771440342">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="44" />
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="43" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590771962629">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/adsdk/build.gradle" timestamp="1590771708794">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/AndroidManifest.xml" timestamp="1590769548185">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1590770871587">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="26" />
@@ -130,39 +146,24 @@
         <mark key="." line="38" column="36" />
         <mark key="^" line="38" column="37" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/build.gradle" timestamp="1590772334121" />
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/build.gradle" timestamp="1590771442269">
         <mark key="[" line="34" column="5" />
         <mark key="]" line="34" column="5" />
         <mark key="^" line="34" column="5" />
         <mark key="." line="34" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1590772466498">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/settings.gradle" timestamp="1590771761804">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590771962629">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/AndroidManifest.xml" timestamp="1590769548185">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="35" />
-        <mark key="^" line="24" column="35" />
-        <mark key="." line="24" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1590770871587">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/build.gradle" timestamp="1590768451462" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1590769475363">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="42" />
-        <mark key="^" line="5" column="42" />
-        <mark key="." line="5" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/AndroidManifest.xml" timestamp="1590772193927">
         <mark key="[" line="26" column="45" />
@@ -337,7 +338,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxwYXJzaW5nSGFuZGxlclw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
