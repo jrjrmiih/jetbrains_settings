@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
-        <entry encoding="base64">XDxfY2hhbm5lbFw+</entry>
         <entry encoding="base64">XDxtZXRob2RDaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxSZW1vdGVVc2VyUHVibGlzaFN0cmVhbXNcPg==</entry>
         <entry encoding="base64">XDxydGNSb29tXD4=</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxzZXRWaWRlb1Byb2ZpbGVcPg==</entry>
         <entry encoding="base64">XDxzZXRWaWRlb0Zwc1w+</entry>
         <entry encoding="base64">XDx0YWdzXD4=</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVTdHJlYW1JZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -107,26 +107,28 @@
       <file name="/Python Console" timestamp="1590726081929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCAVInputStream.java" timestamp="1590747202719">
-        <mark key="[" line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/mediaio/AgoraDefaultSource.class" timestamp="1590660179889">
         <mark key="[" line="7" column="49" />
         <mark key="]" line="7" column="49" />
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="48" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCLocalUserStreamEvents.java" timestamp="1590748403991" />
+      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1590633202456">
+        <mark key="[" line="109" column="61" />
+        <mark key="]" line="109" column="61" />
+        <mark key="^" line="109" column="61" />
+        <mark key="." line="109" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/ad_sdk/build.gradle" timestamp="1590746520787" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCAVInputStream.java" timestamp="1590747202719">
+        <mark key="[" line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/setup.py" timestamp="1590733341541">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="17" />
-      </file>
-      <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/java/com/testing/demoforsdk/MainActivity.java" timestamp="1590632419907">
-        <mark key="[" line="124" column="31" />
-        <mark key="]" line="124" column="31" />
-        <mark key="^" line="124" column="31" />
-        <mark key="." line="124" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/unit_test/message_unittest.py" timestamp="1590736721590">
         <mark key="[" line="25" column="24" />
@@ -141,17 +143,18 @@
         <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/user/RongRTCLocalUser.java" timestamp="1590747349675" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCLocalUser.java" timestamp="1590748371263">
+        <mark key="'" line="31" column="19" />
+        <mark key="[" line="104" column="34" />
+        <mark key="]" line="104" column="34" />
+        <mark key="^" line="104" column="34" />
+        <mark key="." line="104" column="33" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/core/CameraCapturer.java" timestamp="1590659307192">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="21" column="16" />
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="15" />
-      </file>
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1590633202456">
-        <mark key="[" line="109" column="61" />
-        <mark key="]" line="109" column="61" />
-        <mark key="^" line="109" column="61" />
-        <mark key="." line="109" column="60" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RongRTCEngine.java" timestamp="1590651180469">
         <mark key="[" line="12" column="68" />
@@ -165,22 +168,13 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/ad_sdk/build.gradle" timestamp="1590746520787" />
       <file name="$USER_HOME$/Temp/yyx_sdk/ad_sdk/src/main/java/com/daomeng/liumang/view/LmManager.java" timestamp="1590650058179">
         <mark key="[" line="495" column="36" />
         <mark key="]" line="495" column="36" />
         <mark key="^" line="495" column="36" />
         <mark key="." line="495" column="35" />
       </file>
-      <file name="$USER_HOME$/Downloads/DemoForSdk/app/src/main/AndroidManifest.xml" timestamp="1590630497108">
-        <mark key="[" line="36" column="63" />
-        <mark key="]" line="36" column="59" />
-        <mark key="^" line="36" column="59" />
-        <mark key="." line="36" column="58" />
-      </file>
-      <file name="/fragment.java" timestamp="1590632553650">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCRemoteUser.java" timestamp="1590748424645" />
       <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/message.py" timestamp="1590736586242">
         <mark key="'" line="130" column="30" />
       </file>
@@ -192,9 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="78" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/TestActivityAdatper.java" />
-      <jump line="25" column="18" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="63" column="16" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
       <jump line="45" column="47" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" />
       <jump line="53" column="47" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" />
       <jump line="55" column="6" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCViewFactory.java" />
@@ -292,6 +283,9 @@
       <jump line="77" column="9" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/login_page.dart" />
       <jump line="129" column="30" filename="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/message.py" />
       <jump line="130" column="30" filename="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/message.py" />
+      <jump line="104" column="33" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCLocalUser.java" />
+      <jump line="51" column="119" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCLocalUser.java" />
+      <jump line="31" column="19" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/center/RCLocalUser.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,7 +300,7 @@
         <text>CCC</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b191c2VyX2lkc1w+</text>
+        <text encoding="base64">XDxjcmVhdGVTdHJlYW1JZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdGF0aWMgY29uc3QgaW50IEFMUkVBRFlfSk9JTkVEID0gNTAwMDI7Cg==</text>
@@ -351,13 +345,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0b191c2VyX2lkc1w+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVTdHJlYW1JZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b191c2VyX2lkc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVTdHJlYW1JZFw+</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxwYXJzaW5nSGFuZGxlclw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
