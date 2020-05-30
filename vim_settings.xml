@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGlsZFw+</entry>
         <entry encoding="base64">XDx3aWR0aFw+</entry>
         <entry encoding="base64">XDxzdGFydENhcHR1cmVcPg==</entry>
         <entry encoding="base64">XDx2aWRlb1RyYWNrXD4=</entry>
@@ -20,13 +19,14 @@
         <entry encoding="base64">XDxSQ0VuZ2luZVw+</entry>
         <entry encoding="base64">XDxSQ1JUQ0VuZ2luZUNyZWF0b3JcPg==</entry>
         <entry encoding="base64">XDxMQVVOQ0hFUlw+</entry>
-        <entry encoding="base64">XDxteUFkYXB0ZXJcPg==</entry>
         <entry encoding="base64">XDxUSFJFRV9JTUdfQU5EX1RFWFRcPg==</entry>
         <entry encoding="base64">XDxhZHNcPg==</entry>
-        <entry encoding="base64">XDxhZExpc3RcPg==</entry>
-        <entry encoding="base64">XDxtRGF0YVw+</entry>
-        <entry encoding="base64">XDxsb2FkTGlzdEFkXD4=</entry>
         <entry encoding="base64">XDxtTG9hZE1vcmVMaXN0ZW5lclw+</entry>
+        <entry encoding="base64">XDxub3dTaG93XD4=</entry>
+        <entry encoding="base64">XDxsb2FkTGlzdEFkXD4=</entry>
+        <entry encoding="base64">XDxteUFkYXB0ZXJcPg==</entry>
+        <entry encoding="base64">XDxtRGF0YVw+</entry>
+        <entry encoding="base64">XDxhZExpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -95,6 +95,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -112,11 +115,11 @@
         <mark key="." line="66" column="52" />
         <mark key="^" line="66" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1590826758157">
-        <mark key="[" line="60" column="10" />
-        <mark key="]" line="60" column="10" />
-        <mark key="^" line="83" column="62" />
-        <mark key="." line="60" column="10" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1590827214758">
+        <mark key="[" line="114" column="40" />
+        <mark key="]" line="102" column="16" />
+        <mark key="^" line="61" column="18" />
+        <mark key="." line="102" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/adsdk/src/main/AndroidManifest.xml" timestamp="1590774023790" />
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" timestamp="1590821305239">
@@ -178,11 +181,12 @@
         <mark key="^" line="144" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/build.gradle" timestamp="1590772334121" />
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1590825065453">
-        <mark key="[" line="79" column="31" />
-        <mark key="]" line="79" column="31" />
-        <mark key="^" line="79" column="31" />
-        <mark key="." line="79" column="30" />
+      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1590828239454">
+        <mark key="'" line="300" column="24" />
+        <mark key="[" line="149" column="26" />
+        <mark key="]" line="149" column="26" />
+        <mark key="^" line="149" column="26" />
+        <mark key="." line="149" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1590820120977">
         <mark key="[" line="20" column="10" />
@@ -192,20 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="58" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" />
-      <jump line="46" column="24" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" />
-      <jump line="17" column="12" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="54" column="53" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="55" column="40" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="80" column="8" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="239" column="32" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/stream/local/RongRTCCapture.class" />
-      <jump line="62" column="6" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCAVInputStream.java" />
-      <jump line="177" column="28" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" />
-      <jump line="18" column="21" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/MediaStream.java" />
-      <jump line="131" column="15" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/services/platform_channel.dart" />
-      <jump line="146" column="6" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/services/platform_channel.dart" />
-      <jump line="32" column="32" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="93" column="36" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/platform_view.dart" />
       <jump line="214" column="9" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/platform_view.dart" />
       <jump line="232" column="36" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/platform_view.dart" />
       <jump line="45" column="48" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/embedding/engine/systemchannels/PlatformViewsChannel.java" />
@@ -268,23 +258,12 @@
       <jump line="30" column="2" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/AndroidManifest.xml" />
       <jump line="32" column="56" filename="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/AndroidManifest.xml" />
       <jump line="438" column="0" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="43" column="22" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="62" column="30" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="44" column="26" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="178" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="323" column="31" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="146" column="33" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="311" column="28" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="149" column="25" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="116" column="28" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="46" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="110" column="30" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="155" column="17" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="208" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="61" column="39" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="73" column="16" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="79" column="17" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="66" column="16" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="86" column="33" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" />
       <jump line="87" column="15" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" />
@@ -292,21 +271,46 @@
       <jump line="16" column="30" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" />
       <jump line="61" column="28" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" />
       <jump line="95" column="12" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" />
+      <jump line="119" column="36" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="47" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="105" column="20" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="79" column="17" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="137" column="25" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="153" column="15" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="43" column="22" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="125" column="24" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="62" column="30" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="116" column="28" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="122" column="24" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="46" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="61" column="39" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="306" column="16" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="307" column="28" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="311" column="28" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="149" column="25" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="155" column="17" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="208" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="219" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="230" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="245" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="260" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="300" column="24" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>NewsFeeds</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>NewsFeeds</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtTG9hZE1vcmVMaXN0ZW5lclw+</text>
+        <text encoding="base64">XDxhZExpc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaW5pdE5ld3NGZWVkcygpOwo=</text>
@@ -351,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtTG9hZE1vcmVMaXN0ZW5lclw+</last-search>
+      <last-search encoding="base64">XDxhZExpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtTG9hZE1vcmVMaXN0ZW5lclw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZExpc3RcPg==</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
