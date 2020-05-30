@@ -128,10 +128,10 @@
         <mark key="^" line="94" column="26" />
         <mark key="." line="94" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1590820127158">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1590844024612">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/adsdk/src/main/java/com/daomeng/liumang/bean/response/Ad.java" timestamp="1590797931100" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2e451f3d4a22dd12f5269cec6e5975/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class" timestamp="1590839048817">
@@ -160,11 +160,11 @@
         <mark key="^" line="75" column="1" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1590843259642">
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="40" column="5" />
-        <mark key="." line="40" column="4" />
-        <mark key="^" line="40" column="5" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1590843990458">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="39" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/adsdk/src/main/java/com/daomeng/liumang/view/LmManager.java" timestamp="1590798650081">
         <mark key="[" line="295" column="73" />
@@ -172,12 +172,12 @@
         <mark key="^" line="295" column="73" />
         <mark key="." line="295" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590843514507">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590843517857">
         <mark key="'" line="126" column="29" />
         <mark key="[" line="193" column="27" />
-        <mark key="]" line="197" column="7" />
-        <mark key="." line="197" column="6" />
-        <mark key="^" line="197" column="7" />
+        <mark key="]" line="193" column="40" />
+        <mark key="." line="193" column="39" />
+        <mark key="^" line="193" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFNewsInfo.java" timestamp="1590830498588" />
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1590840429322">
@@ -300,8 +300,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -316,37 +316,37 @@
         <text encoding="base64">ICAgICAgICAgIHZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0Lm9ubHlfaW1hZ2VfaXRlbSwgcGFyZW50LCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ubm9zdHJhMTMudW5pdmVyc2FsaW1hZ2Vsb2FkZXI6dW5pdmVyc2FsLWltYWdlLWxvYWRlcjoxLjkuNScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVUcmVlKGRpcjogJ2xpYnMnLCBpbmNsdWRlOiBbJyouYWFyJywgJyouamFyJ10pCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ubm9zdHJhMTMudW5pdmVyc2FsaW1hZ2Vsb2FkZXI6dW5pdmVyc2FsLWltYWdlLWxvYWRlcjoxLjkuNScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyNS4zLjEnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydDpkZXNpZ246MjguMC4wJwo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVUcmVlKGRpcjogJ2xpYnMnLCBpbmNsdWRlOiBbJyouYWFyJywgJyouamFyJ10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVkICdjb20uYWxpYmFiYTpmYXN0anNvbjoxLjIuNjgnCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyNS4zLjEnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydDpkZXNpZ246MjguMC4wJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgeyBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewoKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVkICdjb20uYWxpYmFiYTpmYXN0anNvbjoxLjIuNjgnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZCA9IGFkTGlzdC5nZXQoaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgeyBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewoKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhZCA9IGFkTGlzdC5nZXQoaSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBudWxkZAo=</text>
+        <text encoding="base64">ICAgICAgICBhZCA9IGFkTGlzdC5nZXQoaSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBudWxkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
