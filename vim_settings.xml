@@ -185,14 +185,14 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/gradle.properties" timestamp="1590844241392">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/gradle.properties" timestamp="1590846310276">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/app/build.gradle" timestamp="1590844545133" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/AndroidManifest.xml" timestamp="1590845608703">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/AndroidManifest.xml" timestamp="1590846296306">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="17" />
         <mark key="." line="22" column="16" />
@@ -304,14 +304,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDwhLS0g5Y+v6YCJ77yM56m/5bGx55Sy5o+Q5L6b4oCc6I635Y+W5Zyw55CG5L2N572u5p2D6ZmQ4oCd5ZKM4oCc5LiN57uZ5LqI5Zyw55CG5L2N572u5p2D6ZmQ77yM5byA5Y+R6ICF5Lyg5YWl5Zyw55CG5L2N572u5Y+C5pWw4oCd5Lik56eN5pa55byP5LiK5oql55So5oi35L2N572u77yM5Lik56eN5pa55byP5Z2H5Y+v5LiN6YCJ77yM5re75Yqg5L2N572u5p2D6ZmQ5oiW5Y+C5pWw5bCG5biu5Yqp5oqV5pS+5a6a5L2N5bm/5ZGKIC0tPg==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzlhYHorrjnqIvluo/ojrflj5bnvZHnu5znirbmgIFcPg==</text>
