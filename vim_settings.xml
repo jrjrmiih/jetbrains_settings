@@ -7,12 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aWR0aFw+</entry>
-        <entry encoding="base64">XDxzdGFydENhcHR1cmVcPg==</entry>
-        <entry encoding="base64">XDx2aWRlb1RyYWNrXD4=</entry>
-        <entry encoding="base64">XDxyb25nUlRDVmlkZW9WaWV3XD4=</entry>
-        <entry encoding="base64">XDxzZXRWaWRlb1Byb2ZpbGVcPg==</entry>
-        <entry encoding="base64">XDxzZXRWaWRlb0Zwc1w+</entry>
         <entry encoding="base64">XDx0YWdzXD4=</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVTdHJlYW1JZFw+</entry>
@@ -25,8 +19,14 @@
         <entry encoding="base64">XDxub3dTaG93XD4=</entry>
         <entry encoding="base64">XDxsb2FkTGlzdEFkXD4=</entry>
         <entry encoding="base64">XDxteUFkYXB0ZXJcPg==</entry>
-        <entry encoding="base64">XDxtRGF0YVw+</entry>
         <entry encoding="base64">XDxhZExpc3RcPg==</entry>
+        <entry encoding="base64">XDxtRGF0YVw+</entry>
+        <entry encoding="base64">XDxTbWFsbEltYWdBbmRUZXh0Vmlld0hvbGRlclw+</entry>
+        <entry encoding="base64">XDxMT0FEX01PUkVfVklFV1w+</entry>
+        <entry encoding="base64">XDxMb2FkTW9yZVZpZXdIb2xkZXJcPg==</entry>
+        <entry encoding="base64">XDxjaGFubmVsTmV3c1w+</entry>
+        <entry encoding="base64">XDxUWVBFX0FEX0JJR19JTUdfVEVYVFw+</entry>
+        <entry encoding="base64">XDxUWVBFX0FEX1RIUkVFX0lNR19URVhUXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -42,13 +42,13 @@
         <entry>set keep-english-in-normal</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>set nokeep-english-in-normal-and-restore-in-insert</entry>
-        <entry>nohl</entry>
         <entry>delma</entry>
         <entry>delm!</entry>
         <entry>marks</entry>
         <entry>1947</entry>
         <entry>285</entry>
         <entry>wq</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,11 +115,10 @@
         <mark key="." line="66" column="52" />
         <mark key="^" line="66" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1590827214758">
-        <mark key="[" line="114" column="40" />
-        <mark key="]" line="102" column="16" />
-        <mark key="^" line="61" column="18" />
-        <mark key="." line="102" column="16" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1590829226026">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/adsdk/src/main/AndroidManifest.xml" timestamp="1590774023790" />
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" timestamp="1590821305239">
@@ -174,19 +173,20 @@
         <mark key="^" line="295" column="73" />
         <mark key="." line="295" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590820370441">
-        <mark key="[" line="144" column="65" />
-        <mark key="]" line="144" column="65" />
-        <mark key="." line="144" column="64" />
-        <mark key="^" line="144" column="65" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590831787889">
+        <mark key="'" line="127" column="29" />
+        <mark key="[" line="215" column="20" />
+        <mark key="]" line="215" column="20" />
+        <mark key="." line="215" column="19" />
+        <mark key="^" line="215" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/yyx_sdk/app/build.gradle" timestamp="1590772334121" />
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1590828239454">
-        <mark key="'" line="300" column="24" />
-        <mark key="[" line="149" column="26" />
-        <mark key="]" line="149" column="26" />
-        <mark key="^" line="149" column="26" />
-        <mark key="." line="149" column="25" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFNewsInfo.java" timestamp="1590830498588" />
+      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1590828562936">
+        <mark key="'" line="338" column="29" />
+        <mark key="[" line="122" column="25" />
+        <mark key="]" line="122" column="25" />
+        <mark key="^" line="122" column="25" />
+        <mark key="." line="122" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1590820120977">
         <mark key="[" line="20" column="10" />
@@ -196,47 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="9" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/platform_view.dart" />
-      <jump line="232" column="36" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/platform_view.dart" />
-      <jump line="45" column="48" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/e4055ce9aaca6abd844ddd2e459be4bce0239ee5/flutter_embedding_debug-1.0.0-6bc433c6b6b5b98dcf4cc11aff31cdee90849f32-sources.jar!/io/flutter/embedding/engine/systemchannels/PlatformViewsChannel.java" />
-      <jump line="117" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/test_page.dart" />
-      <jump line="9" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/test_page.dart" />
-      <jump line="29" column="32" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="42" column="37" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="43" column="23" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="22" column="22" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" />
-      <jump line="14" column="15" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" />
-      <jump line="15" column="15" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" />
-      <jump line="88" column="50" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" />
-      <jump line="16" column="17" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="30" column="33" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="7" column="28" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="13" column="13" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="96" column="15" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="103" column="12" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="23" column="22" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" />
-      <jump line="110" column="14" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" />
-      <jump line="69" column="18" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" />
-      <jump line="68" column="54" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" />
-      <jump line="72" column="5" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" />
-      <jump line="22" column="32" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUser.java" />
-      <jump line="30" column="4" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/RemoteUser.java" />
-      <jump line="135" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" />
-      <jump line="1229" column="61" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
-      <jump line="300" column="29" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/VideoViewManager.java" />
-      <jump line="89" column="58" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" />
-      <jump line="17" column="74" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" />
-      <jump line="61" column="39" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" />
-      <jump line="75" column="3" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/rong_rtc_engine.dart" />
-      <jump line="142" column="16" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/lib/video_page.dart" />
-      <jump line="19" column="6" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" />
-      <jump line="52" column="12" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/lib/room.dart" />
-      <jump line="125" column="13" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/src/main/java/rong/flutter/rtclib/agent/Room.java" />
-      <jump line="49" column="27" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" />
-      <jump line="53" column="53" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" />
-      <jump line="56" column="21" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03abff1ea94f959ae6715720d72517f6/jetified-rtc_lib-3.2.2/jars/classes.jar!/cn/rongcloud/rtc/room/RongRTCRoom.class" />
       <jump line="59" column="27" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCLocalUser.java" />
       <jump line="147" column="54" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
       <jump line="32" column="39" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
@@ -280,10 +239,6 @@
       <jump line="43" column="22" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="125" column="24" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="62" column="30" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="116" column="28" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="122" column="24" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="46" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="61" column="39" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="306" column="16" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="307" column="28" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
@@ -296,48 +251,93 @@
       <jump line="245" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="260" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="300" column="24" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="46" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="61" column="39" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="116" column="28" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="122" column="24" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="229" column="44" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="231" column="73" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="232" column="86" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="233" column="85" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="234" column="16" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="235" column="16" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="236" column="16" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="237" column="16" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="289" column="42" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="388" column="29" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="391" column="19" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="173" column="31" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="343" column="19" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="164" column="31" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="163" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="200" column="38" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="201" column="57" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="285" column="38" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="338" column="29" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="149" column="21" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="154" column="35" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="158" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="162" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="176" column="43" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="184" column="10" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="185" column="13" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="115" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="196" column="36" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="150" column="21" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="151" column="64" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="155" column="35" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="159" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="163" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="177" column="43" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="190" column="13" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="194" column="6" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="195" column="36" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="116" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="125" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="126" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBwcml2YXRlIGZpbmFsIGludCBUWVBFX05FV1NfU01BTExfUElDID0gMTsK</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">U01BTExfUElDIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZExpc3RcPg==</text>
+        <text encoding="base64">XDxUWVBFX0FEX1RIUkVFX0lNR19URVhUXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaW5pdE5ld3NGZWVkcygpOwo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBwcml2YXRlIGZpbmFsIGludCBUWVBFX05FV1NfU01BTExfUElDID0gMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoIldyb25nIEFEIHR5cGUhIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgaW5pdENvbnRlbnQoKSB7fQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLTE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC0xOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWQudHlwZTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBMaXN0PEFkPiBsaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CgogICAgICAgICAgICAgICAgICBTdHJpbmcgaWQgPSAiMzk2IjsgLy8g5bm/5ZGK5L2NaWQKICAgICAgICAgICAgICAgICAgQWQgYWQgPSBtYXAuZ2V0KGlkKTsKICAgICAgICAgICAgICAgICAgbm93U2hvdy5hZGQoYWQpOwogICAgICAgICAgICAgICAgICBpZiAoYWQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGlmIChteUxpc3RWaWV3ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgIG15TGlzdFZpZXcuc2V0TG9hZGluZ0ZpbmlzaCgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhZHMgPT0gbnVsbCB8fCBhZHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgVFRvYXN0LnNob3coRmVlZFJlY3ljbGVyQWN0aXZpdHkudGhpcywgIm9uCiAgICAgICAgICAgICAgICAgICAgLy8gRmVlZEFkTG9hZGVkOiBhZCBpcyBudWxsISIpOwogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBMSVNUX0lURU1fQ09VTlQ7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgbURhdGEuYWRkKG51bGwpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgaW50IGNvdW50ID0gbm93U2hvdy5zaXplKCk7CiAgICAgICAgICAgICAgICAgICAgLy8gaW50IHJhbmRvbSA9IChpbnQpIChNYXRoLnJhbmRvbSgpICogTElTVF9JVEVNX0NPVU5UKSArIGNvdW50IC0KICAgICAgICAgICAgICAgICAgICAvLyBMSVNUX0lURU1fQ09VTlQ7CiAgICAgICAgICAgICAgICAgICAgaW50IHJhbmRvbSA9IGNvdW50ICogTElTVF9JVEVNX0NPVU5UIC0gMTsKICAgICAgICAgICAgICAgICAgICBtRGF0YS5zZXQocmFuZG9tLCBhZCk7CgogICAgICAgICAgICAgICAgICAgIG15QWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpOwogICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGlmIChteUxpc3RWaWV3ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgIG15TGlzdFZpZXcuc2V0TG9hZGluZ0ZpbmlzaCgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGFkLmdldE5hdGl2ZV9tYXRlcmlhbCgpLmdldE5hdGl2ZV9tYXRlcmlhbF90eXBlKCkKICAgICAgICAgICAgPT0gRmFzdGVuRW50aXR5LlRZUEVfVEhSRUVfSU1HX0FORF9URVhUKSB7IC8vIOerlueJiOWbvueJhwogICAgICAgICAgcmV0dXJuIFRIUkVFX0lNR19BTkRfVEVYVDsKICAgICAgICB9IGVsc2UgaWYgKGFkLmdldE5hdGl2ZV9tYXRlcmlhbCgpLmdldE5hdGl2ZV9tYXRlcmlhbF90eXBlKCkgPT0gRmFzdGVuRW50aXR5LlRZUEVfVklERU8pIHsKICAgICAgICAgIHJldHVybiBUWVBFX1ZJREVPOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAvLyBUVG9hc3Quc2hvdyhtQ29udGV4dCwgIuWbvueJh+Wxleekuuagt+W8j+mUmeivryIpOwogICAgICAgICAgTG9nVXRpbC5kKCLlub/lkYrnsbvlnovplJnor68iKTsKICAgICAgICAgIHJldHVybiBOT1JNQUxfSVRFTTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QocGF0aDogJzphZHNkaycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -346,22 +346,22 @@
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGNvbnRleHQsICLlhbPpl60iLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGFkLmdldE5hdGl2ZV9tYXRlcmlhbCgpLmdldE5hdGl2ZV9tYXRlcmlhbF90eXBlKCkKICAgICAgICAgICAgPT0gRmFzdGVuRW50aXR5LlRZUEVfQklHX0lNR19BTkRfVEVYVCkgewogICAgICAgICAgcmV0dXJuIEJJR19JTUdfQU5EX1RFWFQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohl</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhZExpc3RcPg==</last-search>
+      <last-search encoding="base64">XDxUWVBFX0FEX1RIUkVFX0lNR19URVhUXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZExpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxUWVBFX0FEX1RIUkVFX0lNR19URVhUXD4=</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
