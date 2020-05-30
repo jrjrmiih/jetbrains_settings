@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVTdHJlYW1JZFw+</entry>
         <entry encoding="base64">XDxSQ0VuZ2luZVw+</entry>
         <entry encoding="base64">XDxSQ1JUQ0VuZ2luZUNyZWF0b3JcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxUWVBFX0FEX0JJR19JTUdfVEVYVFw+</entry>
         <entry encoding="base64">XDxUWVBFX0FEX1RIUkVFX0lNR19URVhUXD4=</entry>
         <entry encoding="base64">XDzlhYHorrjnqIvluo/ojrflj5bnvZHnu5znirbmgIFcPg==</entry>
+        <entry encoding="base64">XDxsaW5lYXJMYXlvdXRNYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -164,12 +164,12 @@
         <mark key="^" line="295" column="73" />
         <mark key="." line="295" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590846348751">
-        <mark key="'" line="126" column="29" />
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="33" />
-        <mark key="^" line="6" column="34" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590847780890">
+        <mark key="'" line="46" column="30" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFNewsInfo.java" timestamp="1590830498588" />
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1590844997282">
@@ -200,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="27" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCLocalUser.java" />
       <jump line="147" column="54" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
       <jump line="32" column="39" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
       <jump line="39" column="68" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" />
@@ -300,6 +299,7 @@
       <jump line="116" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="125" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="126" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="46" column="30" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +314,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzlhYHorrjnqIvluo/ojrflj5bnvZHnu5znirbmgIFcPg==</text>
+        <text encoding="base64">XDxsaW5lYXJMYXlvdXRNYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBBZCBhZCA9IChBZCkgaXRlbUxpc3QuZ2V0KHBvc2l0aW9uKTsK</text>
@@ -359,12 +359,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDzlhYHorrjnqIvluo/ojrflj5bnvZHnu5znirbmgIFcPg==</last-search>
+      <last-search encoding="base64">XDxsaW5lYXJMYXlvdXRNYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzlhYHorrjnqIvluo/ojrflj5bnvZHnu5znirbmgIFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5lYXJMYXlvdXRNYW5hZ2VyXD4=</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
