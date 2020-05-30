@@ -148,18 +148,13 @@
         <mark key="^" line="42" column="64" />
         <mark key="." line="42" column="63" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/adsdk/src/main/java/com/daomeng/liumang/view/LmManager.java" timestamp="1590798650081">
-        <mark key="[" line="295" column="73" />
-        <mark key="]" line="295" column="73" />
-        <mark key="^" line="295" column="73" />
-        <mark key="." line="295" column="72" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590859512496">
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6ea81d70105761dec3047e62881c907/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1590859724323" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590860944167">
         <mark key="'" line="238" column="19" />
-        <mark key="[" line="52" column="1" />
-        <mark key="]" line="52" column="1" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="1" />
+        <mark key="[" line="79" column="59" />
+        <mark key="]" line="110" column="19" />
+        <mark key="." line="110" column="18" />
+        <mark key="^" line="110" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1590856254495" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFNewsInfo.java" timestamp="1590830498588" />
@@ -299,7 +294,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXRlbUxpc3QuYWRkKDUsIEFkKTsK</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -314,31 +309,31 @@
         <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgImNvbnRleHQxID0gIiArIGdldENvbnRleHQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXRlbUxpc3QuYWRkKDUsIEFkKTsK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluaXROZXdzRmVlZHMoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgImNvbnRleHQxID0gIiArIGdldENvbnRleHQoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlY3ljbGVyVmlld0FkYXB0ZXIgPSBuZXcgUmVjeWNsZXJBZGFwdGVyKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgImNvbnRleHQyID0gIiArIGdldENvbnRleHQoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGluaXROZXdzRmVlZHMoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgImNvbnRleHQxID0gIiArIGdldENvbnRleHQoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlY3ljbGVyVmlld0FkYXB0ZXIgPSBuZXcgUmVjeWNsZXJBZGFwdGVyKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgImNvbnRleHQyID0gIiArIGdldENvbnRleHQoKSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJlY3ljbGVyQWRhcHRlcihDb250ZXh0IGNvbnRleHQpIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluaXROZXdzRmVlZHMoKTsK</text>
+        <text encoding="base64">ICAgIFJlY3ljbGVyQWRhcHRlcihDb250ZXh0IGNvbnRleHQpIHsKICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
