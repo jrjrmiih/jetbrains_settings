@@ -103,32 +103,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCLocalUser.java" timestamp="1590934782671" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1590861914018">
         <mark key="'" line="39" column="38" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
         <mark key="^" line="107" column="31" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9dd2deaab706d3895af17a4f73c15a6a/jars/classes.jar!/com/daomeng/liumang/FastenEntity.class" timestamp="1590858651655" />
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" timestamp="1590853989903">
-        <mark key="'" line="42" column="54" />
-        <mark key="[" line="94" column="26" />
-        <mark key="]" line="94" column="26" />
-        <mark key="^" line="94" column="26" />
-        <mark key="." line="94" column="25" />
-      </file>
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1590858645503" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1590844377472">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2e451f3d4a22dd12f5269cec6e5975/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class" timestamp="1590839048817">
-        <mark key="[" line="5989" column="30" />
-        <mark key="]" line="5989" column="30" />
-        <mark key="^" line="5989" column="30" />
-        <mark key="." line="5989" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/AndroidManifest.xml" timestamp="1590845819562">
         <mark key="[" line="29" column="54" />
@@ -142,7 +123,6 @@
         <mark key="^" line="42" column="64" />
         <mark key="." line="42" column="63" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6ea81d70105761dec3047e62881c907/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1590859724323" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590863967915">
         <mark key="'" line="238" column="19" />
         <mark key="[" line="335" column="19" />
@@ -150,7 +130,18 @@
         <mark key="." line="335" column="20" />
         <mark key="^" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFConstants.java" timestamp="1590862142682" />
+      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" timestamp="1590853989903">
+        <mark key="'" line="42" column="54" />
+        <mark key="[" line="94" column="26" />
+        <mark key="]" line="94" column="26" />
+        <mark key="^" line="94" column="26" />
+        <mark key="." line="94" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1590844377472">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1590862655582">
         <mark key="'" line="168" column="24" />
         <mark key="[" line="157" column="3" />
@@ -158,7 +149,12 @@
         <mark key="^" line="160" column="20" />
         <mark key="." line="160" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFNewsInfo.java" timestamp="1590830498588" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2e451f3d4a22dd12f5269cec6e5975/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class" timestamp="1590839048817">
+        <mark key="[" line="5989" column="30" />
+        <mark key="]" line="5989" column="30" />
+        <mark key="^" line="5989" column="30" />
+        <mark key="." line="5989" column="29" />
+      </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1590858470004">
         <mark key="'" line="338" column="29" />
         <mark key="[" line="103" column="29" />
@@ -178,7 +174,6 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/build.gradle" timestamp="1590844545133" />
       <file name="/fragment.java" timestamp="1590857904627">
         <mark key="[" line="0" column="0" />
       </file>
