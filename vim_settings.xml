@@ -110,14 +110,8 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="107" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCLocalUser.java" timestamp="1590940190844" />
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" timestamp="1590853989903">
-        <mark key="'" line="42" column="54" />
-        <mark key="[" line="94" column="26" />
-        <mark key="]" line="94" column="26" />
-        <mark key="^" line="94" column="26" />
-        <mark key="." line="94" column="25" />
-      </file>
+      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" timestamp="1590941537939" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCLocalUser.java" timestamp="1590940353111" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/internal/RtcEngineImpl.class" timestamp="1590939498017">
         <mark key="'" line="474" column="31" />
       </file>
@@ -126,6 +120,7 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1590940105765">
         <mark key="'" line="101" column="5" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-engine-video/1.7.5/e28b80d9a2d0385e288dcfbcc99cf7fefb1d9f9e/express-engine-video-1.7.5-sources.jar!/im/zego/zegoexpress/ZegoExpressEngineJni.java" timestamp="1590941665987" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/user/RongRTCUser.java" timestamp="1590939052950" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCUser.java" timestamp="1590940186365" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1590863967915">
@@ -156,9 +151,6 @@
         <mark key="]" line="31" column="12" />
         <mark key="^" line="31" column="12" />
         <mark key="." line="31" column="11" />
-      </file>
-      <file name="/fragment.java" timestamp="1590857904627">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
