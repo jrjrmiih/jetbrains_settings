@@ -103,7 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCLocalUser.java" timestamp="1590934782671" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1590861914018">
         <mark key="'" line="39" column="38" />
         <mark key="[" line="107" column="0" />
@@ -111,12 +110,22 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="107" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/AndroidManifest.xml" timestamp="1590845819562">
-        <mark key="[" line="29" column="54" />
-        <mark key="]" line="29" column="54" />
-        <mark key="." line="29" column="53" />
-        <mark key="^" line="29" column="54" />
+      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" timestamp="1590853989903">
+        <mark key="'" line="42" column="54" />
+        <mark key="[" line="94" column="26" />
+        <mark key="]" line="94" column="26" />
+        <mark key="^" line="94" column="26" />
+        <mark key="." line="94" column="25" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/internal/RtcEngineImpl.class" timestamp="1590939498017">
+        <mark key="'" line="474" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/room/RongRTCRoom.java" timestamp="1590938944795" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/user/RongRTCRemoteUser.java" timestamp="1590937898281" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1590939221574">
+        <mark key="'" line="61" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/user/RongRTCUser.java" timestamp="1590939052950" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1590847058143">
         <mark key="[" line="41" column="56" />
         <mark key="]" line="42" column="64" />
@@ -130,30 +139,13 @@
         <mark key="." line="335" column="20" />
         <mark key="^" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" timestamp="1590853989903">
-        <mark key="'" line="42" column="54" />
-        <mark key="[" line="94" column="26" />
-        <mark key="]" line="94" column="26" />
-        <mark key="^" line="94" column="26" />
-        <mark key="." line="94" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1590844377472">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/RongRTCEngine.java" timestamp="1590939020302" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1590862655582">
         <mark key="'" line="168" column="24" />
         <mark key="[" line="157" column="3" />
         <mark key="]" line="160" column="20" />
         <mark key="^" line="160" column="20" />
         <mark key="." line="160" column="19" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2e451f3d4a22dd12f5269cec6e5975/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class" timestamp="1590839048817">
-        <mark key="[" line="5989" column="30" />
-        <mark key="]" line="5989" column="30" />
-        <mark key="^" line="5989" column="30" />
-        <mark key="." line="5989" column="29" />
       </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1590858470004">
         <mark key="'" line="338" column="29" />
@@ -177,16 +169,8 @@
       <file name="/fragment.java" timestamp="1590857904627">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/AndroidManifest.xml" timestamp="1590846296306">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="17" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="15" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="43" column="22" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="125" column="24" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="62" column="30" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
@@ -285,6 +269,8 @@
       <jump line="301" column="37" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
       <jump line="314" column="18" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
       <jump line="164" column="24" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
+      <jump line="61" column="15" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" />
+      <jump line="474" column="31" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/internal/RtcEngineImpl.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
