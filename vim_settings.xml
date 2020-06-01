@@ -103,10 +103,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1590940105765">
-        <mark key="'" line="101" column="5" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1591004816482" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/device/privatecloud/ServerUtils.java" timestamp="1591005450770">
+        <mark key="'" line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/device/privatecloud/ServerConfigActivity.java" timestamp="1591006502374">
+        <mark key="[" line="108" column="29" />
+        <mark key="]" line="108" column="29" />
+        <mark key="^" line="108" column="29" />
+        <mark key="." line="108" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591004856135">
         <mark key="'" line="127" column="29" />
         <mark key="[" line="202" column="20" />
@@ -114,15 +120,11 @@
         <mark key="^" line="202" column="20" />
         <mark key="." line="202" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/device/privatecloud/ServerUtils.java" timestamp="1591005450770">
-        <mark key="'" line="20" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/settings.gradle" timestamp="1590940000594">
-        <mark key="'" line="18" column="17" />
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="12" />
-        <mark key="^" line="31" column="12" />
-        <mark key="." line="31" column="11" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/gradle.properties" timestamp="1591006782201">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -231,7 +233,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChnZXRDb250ZXh0KCkgPT0gbnVsbCkgcmV0dXJuOwo=</text>
+        <text>android.injected.testOnly=false</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -246,31 +248,31 @@
         <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgInNob3dBZCgpIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChnZXRDb250ZXh0KCkgPT0gbnVsbCkgcmV0dXJuOwo=</text>
+        <text>android.injected.testOnly=false</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChnZXRDb250ZXh0KCkgPT0gbnVsbCkgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChnZXRDb250ZXh0KCkgPT0gbnVsbCkgcmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhdGljIGZpbmFsIFN0cmluZyBhID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChnZXRDb250ZXh0KCkgPT0gbnVsbCkgcmV0dXJuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZmluYWwgQ2xhc3M8Pz4gQ0xBU1MgPSBOZXdzTWFpbkZyYWdtZW50LmNsYXNzOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTk5GTG9nVXRpbC5kKCJSWU1fREciLCAiZ2V0SXRlbSA9ICIgKyBpKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3RhdGljIGZpbmFsIFN0cmluZyBhID0gJyc7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzdGF0aWMgZmluYWwgQ2xhc3M8Pz4gQ0xBU1MgPSBOZXdzTWFpbkZyYWdtZW50LmNsYXNzOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaXRlbUxpc3QuYWRkKDUsIEFkKTsK</text>
+        <text encoding="base64">ICAgICAgTk5GTG9nVXRpbC5kKCJSWU1fREciLCAiZ2V0SXRlbSA9ICIgKyBpKTsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
