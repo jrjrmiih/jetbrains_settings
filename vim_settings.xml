@@ -154,12 +154,12 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Objects.java" timestamp="1591034130333" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1591064804894" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591064876876">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591064923815">
         <mark key="'" line="391" column="13" />
-        <mark key="[" line="390" column="44" />
-        <mark key="]" line="391" column="14" />
-        <mark key="." line="391" column="13" />
-        <mark key="^" line="391" column="14" />
+        <mark key="[" line="391" column="20" />
+        <mark key="]" line="391" column="20" />
+        <mark key="." line="391" column="19" />
+        <mark key="^" line="391" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591064705529">
         <mark key="[" line="135" column="52" />
