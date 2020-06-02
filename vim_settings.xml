@@ -153,12 +153,12 @@
         <mark key="^" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Objects.java" timestamp="1591034130333" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591036470209">
-        <mark key="'" line="352" column="0" />
-        <mark key="[" line="357" column="1" />
-        <mark key="]" line="357" column="1" />
-        <mark key="." line="357" column="0" />
-        <mark key="^" line="357" column="1" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591064212270">
+        <mark key="'" line="353" column="0" />
+        <mark key="[" line="82" column="51" />
+        <mark key="]" line="83" column="28" />
+        <mark key="." line="83" column="27" />
+        <mark key="^" line="83" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591009185453" />
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1591035562553">
