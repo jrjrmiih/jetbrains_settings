@@ -104,11 +104,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/DetailFragment.java" timestamp="1591034420584" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1591085854458">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="41" column="48" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1591087665911">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="40" />
+        <mark key="." line="38" column="38" />
+        <mark key="^" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1591085295176">
         <mark key="'" line="32" column="24" />
@@ -117,10 +117,10 @@
         <mark key="^" line="65" column="51" />
         <mark key="." line="65" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1591085868545">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1591087687644">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/LoadMoreView.java" timestamp="1591034424066">
         <mark key="[" line="35" column="57" />
@@ -128,10 +128,11 @@
         <mark key="^" line="35" column="57" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1591085888672">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1591087689724">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="40" />
+        <mark key="^" line="64" column="40" />
+        <mark key="." line="64" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/ResizableImageView.java" timestamp="1591079711534">
         <mark key="[" line="7" column="34" />
@@ -158,24 +159,24 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/5f95e3cc34b116a8024f2af42f66e257d2e28ccb/glide-4.9.0-sources.jar!/com/bumptech/glide/Glide.java" timestamp="1591065188680" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/5f95e3cc34b116a8024f2af42f66e257d2e28ccb/glide-4.9.0-sources.jar!/com/bumptech/glide/request/target/BaseTarget.java" timestamp="1591066029684" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1591064804894" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591085421471">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591087905075">
         <mark key="'" line="333" column="37" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="333" column="38" />
+        <mark key="[" line="237" column="15" />
+        <mark key="]" line="221" column="18" />
+        <mark key="." line="221" column="17" />
+        <mark key="^" line="221" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591083013706">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1591078649888">
+      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1591088188383">
         <mark key="'" line="70" column="8" />
-        <mark key="[" line="294" column="56" />
-        <mark key="]" line="294" column="56" />
-        <mark key="^" line="294" column="56" />
-        <mark key="." line="294" column="55" />
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="^" line="364" column="0" />
+        <mark key="." line="364" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8e903249edd82e4741cea5d801f01ec/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class" timestamp="1591036315955" />
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/res/layout/load_more_view.xml" timestamp="1591034254525">
@@ -293,53 +294,53 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>cover_big_failed</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzRmVlZHNTREtcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVxdWVzdE1hbmFnZXIgc21hbGxQaWNSZXF1ZXN0TWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9uZXdzX2Nsb3NlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbWFsbEhvbGRlci4K</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50UmlnaHQ9InRydWUiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IlgiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjEwc3AiCiAgICAgICAgICAgIHRvb2xzOmlnbm9yZT0iUnRsSGFyZGNvZGVkLFNtYWxsU3AiIC8+</text>
+        <text encoding="base64">ICAgICAgICBzbWFsbEhvbGRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIHByb3RlY3RlZCAgdm9pZCBzZXRDbG9zZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IlgiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMHNwIgogICAgICAgICAgICAgICAgdG9vbHM6aWdub3JlPSJSdGxIYXJkY29kZWQsU21hbGxTcCIgLz4=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50UmlnaHQ9InRydWUiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IlgiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjEwc3AiCiAgICAgICAgICAgIHRvb2xzOmlnbm9yZT0iUnRsSGFyZGNvZGVkLFNtYWxsU3AiIC8+</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25Ub3A9IkAraWQvbmV3c19jYXRhbG9nIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnbkJvdHRvbT0iQCtpZC9uZXdzX2NhdGFsb2ciCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIxZHAiCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlY3ljbGVyQWRhcHRlcigpIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIxZHAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
