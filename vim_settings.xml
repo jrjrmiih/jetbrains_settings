@@ -153,14 +153,20 @@
         <mark key="^" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Objects.java" timestamp="1591034130333" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591064212270">
-        <mark key="'" line="353" column="0" />
-        <mark key="[" line="82" column="51" />
-        <mark key="]" line="83" column="28" />
-        <mark key="." line="83" column="27" />
-        <mark key="^" line="83" column="28" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1591064804894" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591064876876">
+        <mark key="'" line="391" column="13" />
+        <mark key="[" line="390" column="44" />
+        <mark key="]" line="391" column="14" />
+        <mark key="." line="391" column="13" />
+        <mark key="^" line="391" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591009185453" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591064705529">
+        <mark key="[" line="135" column="52" />
+        <mark key="]" line="135" column="52" />
+        <mark key="^" line="135" column="56" />
+        <mark key="." line="135" column="52" />
+      </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1591035562553">
         <mark key="'" line="70" column="8" />
         <mark key="[" line="70" column="14" />
@@ -186,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="260" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="300" column="24" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="46" column="21" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
@@ -286,18 +291,19 @@
       <jump line="70" column="8" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="368" column="15" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="360" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
+      <jump line="391" column="13" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_loading_smallr_failed</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_loading_smallr_failed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtSGFuZGxlclw+</text>
