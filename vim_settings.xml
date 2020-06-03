@@ -103,11 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/DetailFragment.java" timestamp="1591112200749">
-        <mark key="[" line="144" column="12" />
-        <mark key="]" line="144" column="12" />
-        <mark key="." line="144" column="12" />
-        <mark key="^" line="157" column="39" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/DetailFragment.java" timestamp="1591151129041">
+        <mark key="[" line="46" column="55" />
+        <mark key="]" line="46" column="55" />
+        <mark key="." line="46" column="55" />
+        <mark key="^" line="46" column="56" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/DimenHelper.java" timestamp="1591110674203">
         <mark key="[" line="19" column="7" />
@@ -134,29 +134,27 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NestedScrollingDetailContainer.java" timestamp="1591091064111">
-        <mark key="'" line="523" column="20" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/gradle/wrapper/gradle-wrapper.properties" timestamp="1591137993690">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingDetailContainer.java" timestamp="1591111220165">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingDetailContainer.java" timestamp="1591151162455">
         <mark key="'" line="420" column="14" />
         <mark key="[" line="22" column="84" />
         <mark key="]" line="22" column="84" />
         <mark key="^" line="22" column="84" />
         <mark key="." line="22" column="83" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/WebViewHolder.java" timestamp="1591138197168" />
+      <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/WebViewHolder.java" timestamp="1591151358437" />
       <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/slideconflict/SlideConfictActivity.java" timestamp="1591138159915">
         <mark key="[" line="26" column="23" />
         <mark key="]" line="26" column="23" />
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="22" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/wrapcontent/WrapContentActivity.java" timestamp="1591151253386" />
       <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/gradle/wrapper/gradle-wrapper.properties" timestamp="1591137975710" />
       <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/build.gradle" timestamp="1591138106366">
         <mark key="[" line="26" column="0" />
@@ -169,28 +167,30 @@
         <mark key="." line="44" column="21" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591111846975">
-        <mark key="'" line="483" column="51" />
+      <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/res/layout/activity_recyclerview.xml" timestamp="1591151451593">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591151053249">
+        <mark key="'" line="330" column="12" />
         <mark key="[" line="237" column="15" />
         <mark key="]" line="221" column="18" />
         <mark key="." line="221" column="17" />
         <mark key="^" line="221" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/fragment_news_detail.xml" timestamp="1591149424216">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/fragment_news_detail.xml" timestamp="1591151103937">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/build.gradle" timestamp="1591137801406">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="56" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591089228249">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/build.gradle" timestamp="1591137787844">
         <mark key="[" line="8" column="0" />
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="46" column="30" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="95" column="8" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" />
       <jump line="99" column="15" filename="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/view/LoadMoreRecyclerView.java" />
@@ -305,18 +304,19 @@
       <jump line="23" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingDetailContainer.java" />
       <jump line="483" column="51" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="420" column="14" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingDetailContainer.java" />
+      <jump line="330" column="12" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JvbGxiYXJzPSJ2ZXJ0aWNhbCIK</text>
+      <register name="&quot;" type="4">
+        <text>news_list_view</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>grey</text>
+        <text>news_list_view</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUQUdfTkVTVEVEX1NDUk9MTF9XRUJWSUVXXD4=</text>
@@ -325,37 +325,37 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JvbGxiYXJzPSJ2ZXJ0aWNhbCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JvbGxiYXJzPSJ2ZXJ0aWNhbCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JvbGxiYXJzPSJ2ZXJ0aWNhbCIK</text>
+        <text encoding="base64">ICAgIFJlY3ljbGVyVmlldyByZWN5Y2xlclZpZXcgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLm5ld3NfbGlzdF92aWV3KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JvbGxiYXJTaXplPSI1ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6c2Nyb2xsYmFyVGh1bWJWZXJ0aWNhbD0iIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzcGF0aCAnY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOjIuMy4wJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5ub3N0cmExMy51bml2ZXJzYWxpbWFnZWxvYWRlcjp1bml2ZXJzYWwtaW1hZ2UtbG9hZGVyOjEuOS41Jwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICA8Y29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZHMudWkubmVzdGVkLk5lc3RlZFNjcm9sbGluZ0RldGFpbENvbnRhaW5lcgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbmVzdGVkX2NvbnRhaW5lciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KCiAgICAgICAgPGNvbS5uZXRlYXNlLnlvdWxpYW8ubmV3c2ZlZWRzLnVpLm5lc3RlZC5OZXN0ZWRTY3JvbGxpbmdXZWJWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbmV3c19kZXRhaWxfd2ViX3ZpZXciCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOnRhZz0ibmVzdGVkX3Njcm9sbF93ZWJ2aWV3IiAvPgoKICAgICAgICA8YW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5SZWN5Y2xlclZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9uZXdzX2RldGFpbF9yZWxhdGVkX2xpc3QiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOnNjcm9sbGJhcnM9InZlcnRpY2FsIgogICAgICAgICAgICBhbmRyb2lkOnRhZz0ibmVzdGVkX3Njcm9sbF9yZWN5Y2xlcnZpZXciIC8+CiAgICA8L2NvbS5uZXRlYXNlLnlvdWxpYW8ubmV3c2ZlZWRzLnVpLm5lc3RlZC5OZXN0ZWRTY3JvbGxpbmdEZXRhaWxDb250YWluZXI+</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JvbGxiYXJzPSJ2ZXJ0aWNhbCIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JvbGxiYXJzPSJ2ZXJ0aWNhbCIK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9hcHBseSBmcm9tOiAnYmludHJheS5ncmFkbGUnCgovL1Byb3BlcnRpZXMgcHJvcGVydGllcyA9IG5ldyBQcm9wZXJ0aWVzKCkKLy9wcm9wZXJ0aWVzLmxvYWQocHJvamVjdC5yb290UHJvamVjdC5maWxlKCdsb2NhbC5wcm9wZXJ0aWVzJykubmV3RGF0YUlucHV0U3RyZWFtKCkpCi8vCi8vdXBsb2FkQXJjaGl2ZXMgewovLyAgICByZXBvc2l0b3JpZXMubWF2ZW5EZXBsb3llciB7Ci8vICAgICAgICAvLyBtYXZlbiBzYXZlUGF0aAovLyAgICAgICAgZGVmIGRlcGxveVBhdGggPSBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJtYXZlbi5sb2NhbCIpCi8vICAgICAgICByZXBvc2l0b3J5KHVybDogImZpbGU6Ly8ke2RlcGxveVBhdGh9IikKLy8gICAgICAgIHBvbS5wcm9qZWN0IHsKLy8gICAgICAgICAgICBncm91cElkICJjb20ubmV0ZWFzZS55b3VsaWFvIgovLyAgICAgICAgICAgIGFydGlmYWN0SWQgIm5ld3NmZWVkcy1kYXRhIgovLyAgICAgICAgICAgIHZlcnNpb24gIiRyb290UHJvamVjdC5kYXRhU2RrVmVyc2lvbk5hbWUiCi8vICAgICAgICB9Ci8vICAgIH0KLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JvbGxiYXJTaXplPSI1ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6c2Nyb2xsYmFyVGh1bWJWZXJ0aWNhbD0iIgo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjguMC4wJwo=</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCAnY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOjIuMy4wJwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
