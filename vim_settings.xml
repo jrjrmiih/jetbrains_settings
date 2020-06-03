@@ -115,12 +115,6 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1591087689724">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="40" />
-        <mark key="^" line="64" column="40" />
-        <mark key="." line="64" column="39" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingWebView.java" timestamp="1591110641179">
         <mark key="'" line="270" column="0" />
         <mark key="[" line="56" column="18" />
@@ -128,7 +122,7 @@
         <mark key="^" line="56" column="18" />
         <mark key="." line="56" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1591138102694" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1591138354341" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/res/layout/news_item_related.xml" timestamp="1591111462135">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -150,7 +144,8 @@
         <mark key="^" line="22" column="84" />
         <mark key="." line="22" column="83" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/slideconflict/SlideConfictActivity.java" timestamp="1591138146762">
+      <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/WebViewHolder.java" timestamp="1591138197168" />
+      <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/slideconflict/SlideConfictActivity.java" timestamp="1591138159915">
         <mark key="[" line="26" column="23" />
         <mark key="]" line="26" column="23" />
         <mark key="^" line="26" column="23" />
