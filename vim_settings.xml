@@ -147,10 +147,11 @@
         <mark key="^" line="22" column="84" />
         <mark key="." line="22" column="83" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/WebViewHolder.java" timestamp="1591152397388">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/WebViewHolder.java" timestamp="1591152398089">
+        <mark key="[" line="44" column="1" />
+        <mark key="]" line="44" column="1" />
         <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/WebViewInRecyclerView/app/src/main/java/com/wangng/webviewinrecyclerview/slideconflict/SlideConfictActivity.java" timestamp="1591138159915">
         <mark key="[" line="26" column="23" />
