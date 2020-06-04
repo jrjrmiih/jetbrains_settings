@@ -113,23 +113,11 @@
       <file name="/a.dummy" timestamp="1591240198762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFAdInfo.java" timestamp="1591240194891">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="36" />
-        <mark key="^" line="9" column="37" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/remote/response/NNFHttpRequestListener.java" timestamp="1591240912692">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="9" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFAdLocalion.java" timestamp="1591240196048">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="42" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFAdDetail.java" timestamp="1591240291912">
         <mark key="[" line="2" column="19" />
@@ -165,7 +153,6 @@
         <mark key="'" line="234" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFNews.java" timestamp="1591240861428" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/remote/response/HttpCitiesRequestListener.java" timestamp="1591239396206" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/device/privatecloud/ServerConfigActivity.java" timestamp="1591253125337" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFChannels.java" timestamp="1591240829823" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591249287705">
@@ -181,12 +168,15 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/settings.gradle" timestamp="1591254832481">
+        <mark key="'" line="18" column="19" />
+        <mark key="[" line="3" column="17" />
+      </file>
       <file name="/fragment.java" timestamp="1591240539168">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="15" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="360" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="391" column="18" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="432" column="8" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
@@ -286,6 +276,7 @@
       <jump line="260" column="36" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFConfig.java" />
       <jump line="40" column="16" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFConfig.java" />
       <jump line="234" column="8" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFConfig.java" />
+      <jump line="17" column="19" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/settings.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
