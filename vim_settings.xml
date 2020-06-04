@@ -124,7 +124,7 @@
         <mark key="." line="694" column="86" />
         <mark key="n" line="694" column="86" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/trtc/TRTCCloudListener.class" timestamp="1591258919398" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/trtc/TRTCCloudListener.class" timestamp="1591261528493" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/IMLibRTCClient.java" timestamp="1591260510644">
         <mark key="[" line="937" column="9" />
         <mark key="]" line="937" column="9" />
@@ -144,15 +144,26 @@
         <mark key="^" line="416" column="12" />
         <mark key="." line="416" column="11" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/IRtcEngineEventHandler.class" timestamp="1591258817629" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/io/rong/imlib/IHandler.java" timestamp="1591259899607" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.java" timestamp="1591261200438" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.java" timestamp="1591263646880">
+        <mark key="'" line="115" column="38" />
+        <mark key="[" line="115" column="39" />
+        <mark key="]" line="115" column="39" />
+        <mark key="^" line="115" column="39" />
+        <mark key="." line="115" column="38" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioOutputStream.java" timestamp="1591260547872" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/RtcEngine.class" timestamp="1591258948597" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCResultCallBack.java" timestamp="1591259872019" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCRemoteUser.java" timestamp="1591260945972" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCUser.java" timestamp="1591260664492" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCMicOutputStream.java" timestamp="1591261148349" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-engine-video/1.7.5/e28b80d9a2d0385e288dcfbcc99cf7fefb1d9f9e/express-engine-video-1.7.5-sources.jar!/im/zego/zegoexpress/callback/IZegoEventHandler.java" timestamp="1591261548916">
+        <mark key="[" line="349" column="17" />
+        <mark key="]" line="349" column="17" />
+        <mark key="^" line="349" column="17" />
+        <mark key="." line="349" column="16" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-engine-video/1.7.5/e28b80d9a2d0385e288dcfbcc99cf7fefb1d9f9e/express-engine-video-1.7.5-sources.jar!/im/zego/zegoexpress/callback/IZegoMixerStartCallback.java" timestamp="1591259838851" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoStreamConfig.java" timestamp="1591261075300" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c06e8ef27c1b7532476ceb40afa73f3/jetified-LiteAVSDK_TRTC-7.2.8927/jars/classes.jar!/com/tencent/trtc/TRTCCloud.class" timestamp="1591259048085">
@@ -163,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="445" column="8" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="162" column="27" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="177" column="10" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="333" column="37" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
@@ -263,6 +273,7 @@
       <jump line="831" column="47" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" />
       <jump line="848" column="35" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" />
       <jump line="849" column="46" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" />
+      <jump line="115" column="38" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
