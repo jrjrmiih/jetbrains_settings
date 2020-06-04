@@ -110,6 +110,7 @@
         <mark key="^" line="115" column="39" />
         <mark key="." line="115" column="38" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLiveInfo.h" timestamp="1591269067422" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.m" timestamp="1591266358103">
         <mark key="'" line="83" column="16" />
         <mark key="[" line="37" column="4" />
@@ -123,30 +124,23 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" timestamp="1591259936497">
-        <mark key="'" line="849" column="46" />
-        <mark key="[" line="694" column="87" />
-        <mark key="]" line="694" column="87" />
-        <mark key="^" line="694" column="87" />
-        <mark key="." line="694" column="86" />
-        <mark key="n" line="694" column="86" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.h" timestamp="1591266030856" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/IMLibRTCClient.java" timestamp="1591260510644">
-        <mark key="[" line="937" column="9" />
-        <mark key="]" line="937" column="9" />
-        <mark key="^" line="937" column="9" />
-        <mark key="." line="937" column="8" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/IRtcChannelEventHandler.class" timestamp="1591261268886">
         <mark key="[" line="84" column="40" />
         <mark key="]" line="84" column="40" />
         <mark key="^" line="84" column="40" />
         <mark key="." line="84" column="39" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RongRTCEventClient.m" timestamp="1591268836865">
+        <mark key="[" line="369" column="1" />
+        <mark key="]" line="369" column="1" />
+        <mark key="^" line="369" column="1" />
+        <mark key="." line="369" column="0" />
+      </file>
       <file name="/" timestamp="1591265166024">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RongRTCEventClient.h" timestamp="1591268787966" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-engine-video/1.7.5/e28b80d9a2d0385e288dcfbcc99cf7fefb1d9f9e/express-engine-video-1.7.5-sources.jar!/im/zego/zegoexpress/callback/IZegoEventHandler.java" timestamp="1591261548916">
         <mark key="[" line="349" column="17" />
         <mark key="]" line="349" column="17" />
