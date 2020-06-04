@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2FkTW9yZVZIXD4=</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
         <entry encoding="base64">XDxUWVBFX0RFVEFJTF9USVRMRVw+</entry>
         <entry encoding="base64">XDxUaXRsZVZIXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxjb21wbGV0aW9uXD4=</entry>
         <entry encoding="base64">XDxsb2NhbEFWU3RyZWFtc1w+</entry>
         <entry encoding="base64">XDxhdlN0cmVhbXNcPg==</entry>
+        <entry encoding="base64">XDxtTWF4Q2FjaGVDb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -117,25 +117,19 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/IAudioEffectManager.class" timestamp="1591261345043">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="17" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCRemoteUser.java" timestamp="1591267163718" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1591265984681" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/IRtcChannelEventHandler.class" timestamp="1591261268886">
-        <mark key="[" line="84" column="40" />
-        <mark key="]" line="84" column="40" />
-        <mark key="^" line="84" column="40" />
-        <mark key="." line="84" column="39" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RongRTCEventClient.m" timestamp="1591268836865">
         <mark key="[" line="369" column="1" />
         <mark key="]" line="369" column="1" />
         <mark key="^" line="369" column="1" />
         <mark key="." line="369" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1591305258560">
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="41" column="5" />
+        <mark key="." line="41" column="4" />
+        <mark key="^" line="41" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCLocalUser.java" timestamp="1591269386405" />
       <file name="/" timestamp="1591265166024">
@@ -147,14 +141,23 @@
         <mark key="^" line="349" column="17" />
         <mark key="." line="349" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591303223616">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="37" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591304728127">
+        <mark key="'" line="1049" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFDatabase.java" timestamp="1591304294890">
+        <mark key="[" line="337" column="52" />
+        <mark key="]" line="337" column="52" />
+        <mark key="^" line="337" column="52" />
+        <mark key="." line="337" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.h" timestamp="1591266873314">
         <mark key="'" line="26" column="68" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/client/AdClient.java" timestamp="1591304803915">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" timestamp="1591266070225">
         <mark key="'" line="2314" column="27" />
@@ -163,13 +166,11 @@
         <mark key="^" line="2319" column="1" />
         <mark key="." line="2319" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1591305022255">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="24" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" />
-      <jump line="523" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NestedScrollingDetailContainer.java" />
-      <jump line="100" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingDetailContainer.java" />
-      <jump line="66" column="41" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingWebView.java" />
-      <jump line="80" column="33" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingWebView.java" />
       <jump line="270" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingWebView.java" />
       <jump line="368" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingDetailContainer.java" />
       <jump line="350" column="24" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingDetailContainer.java" />
@@ -265,12 +266,17 @@
       <jump line="86" column="42" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.m" />
       <jump line="82" column="46" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.m" />
       <jump line="83" column="16" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.m" />
+      <jump line="1122" column="6" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
+      <jump line="57" column="14" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
+      <jump line="109" column="34" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
+      <jump line="118" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
+      <jump line="1057" column="16" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uc3F1YXJldXAub2todHRwMzpva2h0dHA6NC43LjInCg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -279,13 +285,13 @@
         <text>NNFChannels</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdlN0cmVhbXNcPg==</text>
+        <text encoding="base64">XDxtTWF4Q2FjaGVDb3VudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdGF0aWMgZmluYWwgU3RyaW5nIEFEX0FQUF9LRVkgPSAiRDU3MzkwQ0I4MUYzMDM1MDg1QkM1M0RCMjQwOUY1RUIiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uc3F1YXJldXAub2todHRwMzpva2h0dHA6NC43LjInCg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
@@ -294,7 +300,7 @@
         <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -303,19 +309,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIHZvaWQgb25IdHRwU3VjY2Vzc1Jlc3BvbnNlKE9iamVjdCByZXN1bHQpIHt9</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIHZvaWQgb25IdHRwU3VjY2Vzc1Jlc3BvbnNlKE9iamVjdCByZXN1bHQpIHt9</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluaXRBZEluZm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -324,13 +330,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhdlN0cmVhbXNcPg==</last-search>
+      <last-search encoding="base64">XDxtTWF4Q2FjaGVDb3VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdlN0cmVhbXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtTWF4Q2FjaGVDb3VudFw+</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
