@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMT0FEX01PUkVfUExBQ0VIT0xERVJcPg==</entry>
-        <entry encoding="base64">XDxUWVBFX1ZJRVdfTE9BRF9NT1JFXD4=</entry>
-        <entry encoding="base64">XDx3ZWJWaWV3XD4=</entry>
         <entry encoding="base64">XDxMb2FkTW9yZVZIXD4=</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
         <entry encoding="base64">XDxUWVBFX0RFVEFJTF9USVRMRVw+</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxtU2VydmVyVHlwZVw+</entry>
         <entry encoding="base64">XDxDb25uZWN0Q2FsbGJhY2tcPg==</entry>
         <entry>callback</entry>
+        <entry encoding="base64">XDxjb21wbGV0aW9uXD4=</entry>
+        <entry encoding="base64">XDxsb2NhbEFWU3RyZWFtc1w+</entry>
+        <entry encoding="base64">XDxhdlN0cmVhbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -93,24 +93,16 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCRemoteUser.java" timestamp="1591267163718" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1591265984681" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/IMLibRTCClient.java" timestamp="1591260510644">
-        <mark key="[" line="937" column="9" />
-        <mark key="]" line="937" column="9" />
-        <mark key="^" line="937" column="9" />
-        <mark key="." line="937" column="8" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.java" timestamp="1591263646880">
         <mark key="'" line="115" column="38" />
         <mark key="[" line="115" column="39" />
@@ -118,33 +110,42 @@
         <mark key="^" line="115" column="39" />
         <mark key="." line="115" column="38" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/IRtcChannelEventHandler.class" timestamp="1591261268886">
-        <mark key="[" line="84" column="40" />
-        <mark key="]" line="84" column="40" />
-        <mark key="^" line="84" column="40" />
-        <mark key="." line="84" column="39" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/RCRTCLocalUser.java" timestamp="1591259880835">
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="24" />
-        <mark key="^" line="36" column="24" />
-        <mark key="." line="36" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCLocalUser.java" timestamp="1591269386405" />
-      <file name="/" timestamp="1591265166024">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-engine-video/1.7.5/e28b80d9a2d0385e288dcfbcc99cf7fefb1d9f9e/express-engine-video-1.7.5-sources.jar!/im/zego/zegoexpress/callback/IZegoEventHandler.java" timestamp="1591261548916">
-        <mark key="[" line="349" column="17" />
-        <mark key="]" line="349" column="17" />
-        <mark key="^" line="349" column="17" />
-        <mark key="." line="349" column="16" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLiveInfo.h" timestamp="1591269067422" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.m" timestamp="1591266358103">
+        <mark key="'" line="83" column="16" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="3" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/IAudioEffectManager.class" timestamp="1591261345043">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.h" timestamp="1591266030856" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/IRtcChannelEventHandler.class" timestamp="1591261268886">
+        <mark key="[" line="84" column="40" />
+        <mark key="]" line="84" column="40" />
+        <mark key="^" line="84" column="40" />
+        <mark key="." line="84" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RongRTCEventClient.m" timestamp="1591268836865">
+        <mark key="[" line="369" column="1" />
+        <mark key="]" line="369" column="1" />
+        <mark key="^" line="369" column="1" />
+        <mark key="." line="369" column="0" />
+      </file>
+      <file name="/" timestamp="1591265166024">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RongRTCEventClient.h" timestamp="1591268787966" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-engine-video/1.7.5/e28b80d9a2d0385e288dcfbcc99cf7fefb1d9f9e/express-engine-video-1.7.5-sources.jar!/im/zego/zegoexpress/callback/IZegoEventHandler.java" timestamp="1591261548916">
+        <mark key="[" line="349" column="17" />
+        <mark key="]" line="349" column="17" />
+        <mark key="^" line="349" column="17" />
+        <mark key="." line="349" column="16" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-engine-video/1.7.5/e28b80d9a2d0385e288dcfbcc99cf7fefb1d9f9e/express-engine-video-1.7.5-sources.jar!/im/zego/zegoexpress/ZegoExpressEngine.java" timestamp="1591260681598">
         <mark key="'" line="714" column="52" />
@@ -153,22 +154,19 @@
         <mark key="^" line="416" column="12" />
         <mark key="." line="416" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" timestamp="1591259936497">
-        <mark key="'" line="849" column="46" />
-        <mark key="[" line="694" column="87" />
-        <mark key="]" line="694" column="87" />
-        <mark key="^" line="694" column="87" />
-        <mark key="." line="694" column="86" />
-        <mark key="n" line="694" column="86" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.h" timestamp="1591266873314">
+        <mark key="'" line="26" column="68" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCRemoteUser.h" timestamp="1591266973821" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" timestamp="1591266070225">
+        <mark key="'" line="2314" column="27" />
+        <mark key="[" line="2319" column="1" />
+        <mark key="]" line="2319" column="1" />
+        <mark key="^" line="2319" column="1" />
+        <mark key="." line="2319" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="27" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
-      <jump line="177" column="10" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
-      <jump line="333" column="37" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" />
-      <jump line="58" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" />
-      <jump line="65" column="8" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" />
-      <jump line="69" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" />
       <jump line="33" column="24" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" />
       <jump line="523" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NestedScrollingDetailContainer.java" />
       <jump line="100" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/nested/NestedScrollingDetailContainer.java" />
@@ -263,6 +261,12 @@
       <jump line="848" column="35" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" />
       <jump line="849" column="46" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" />
       <jump line="115" column="38" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.java" />
+      <jump line="2311" column="91" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" />
+      <jump line="2314" column="27" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" />
+      <jump line="26" column="68" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.h" />
+      <jump line="86" column="42" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.m" />
+      <jump line="82" column="46" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.m" />
+      <jump line="83" column="16" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.m" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -277,7 +281,7 @@
         <text>NNFChannels</text>
       </register>
       <register name="/" type="4">
-        <text>callback</text>
+        <text encoding="base64">XDxhdlN0cmVhbXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdGF0aWMgZmluYWwgU3RyaW5nIEFEX0FQUF9LRVkgPSAiRDU3MzkwQ0I4MUYzMDM1MDg1QkM1M0RCMjQwOUY1RUIiOwo=</text>
@@ -322,13 +326,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>callback</last-search>
+      <last-search encoding="base64">XDxhdlN0cmVhbXNcPg==</last-search>
       <last-offset />
-      <last-pattern>callback</last-pattern>
+      <last-pattern encoding="base64">XDxhdlN0cmVhbXNcPg==</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
