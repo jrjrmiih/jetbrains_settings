@@ -155,6 +155,7 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCMicOutputStream.java" timestamp="1591345902381" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/youliao/newsfeeds/serverapi/ConstDef.java" timestamp="1591321891417">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="2" column="7" />
@@ -170,12 +171,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.2/c5c4b2e00cd8458c8430925231fa0444c4780579/okhttp-4.7.2-sources.jar!/okhttp3/Request.kt" timestamp="1591305417845" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNewsFeedsSDK.java" timestamp="1591304728127">
         <mark key="'" line="1049" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFDatabase.java" timestamp="1591304294890">
-        <mark key="[" line="337" column="52" />
-        <mark key="]" line="337" column="52" />
-        <mark key="^" line="337" column="52" />
-        <mark key="." line="337" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/settings.gradle" timestamp="1591344954694">
         <mark key="[" line="4" column="10" />
