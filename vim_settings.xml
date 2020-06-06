@@ -131,12 +131,6 @@
       </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" timestamp="1591438034929" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53b2073d8edc83955652909be36d2820/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/listener/FeedNativeAd.class" timestamp="1591442329338" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/hthttp-gen/com.netease.youliao.newsfeeds/model/NNFAdDetail.java" timestamp="1591432109730">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b108f0cb8ed5ca24723d17e45ec15656/jars/classes.jar!/a/a/a/h/m.class" timestamp="1591441346538">
         <mark key="'" line="199" column="19" />
       </file>
@@ -146,13 +140,13 @@
         <mark key="^" line="59" column="55" />
         <mark key="." line="59" column="54" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53b2073d8edc83955652909be36d2820/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/FastenEntity.class" timestamp="1591444613274" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b108f0cb8ed5ca24723d17e45ec15656/jars/classes.jar!/com/daomeng/liumang/listener/FeedNativeAd.class" timestamp="1591441535062" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591443012645">
-        <mark key="'" line="189" column="73" />
-        <mark key="[" line="112" column="62" />
-        <mark key="]" line="113" column="46" />
-        <mark key="." line="113" column="45" />
-        <mark key="^" line="113" column="46" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591445193476">
+        <mark key="'" line="188" column="73" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1591438048717">
         <mark key="[" line="75" column="17" />
@@ -185,8 +179,12 @@
         <mark key="." line="149" column="6" />
         <mark key="^" line="149" column="7" />
       </file>
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1591443149178">
-        <mark key="'" line="391" column="16" />
+      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1591444586326">
+        <mark key="'" line="397" column="16" />
+        <mark key="[" line="88" column="81" />
+        <mark key="]" line="89" column="55" />
+        <mark key="^" line="89" column="55" />
+        <mark key="." line="89" column="54" />
       </file>
       <file name="/fragment.java" timestamp="1591435924408">
         <mark key="[" line="0" column="0" />
@@ -298,13 +296,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluaXRMbU1hbmFnZXIoIjUiLCAyMyk7Cg==</text>
+        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgInNob3dBZCgpID0gIiArIGdldENvbnRleHQoKSk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>arr</text>
+        <text>NNewsFeedsSDK.getInstance().getContext()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUQUdcPg==</text>
@@ -313,37 +311,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGluaXRMbU1hbmFnZXIoIjIiLCA0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluaXRMbU1hbmFnZXIoIjUiLCAyMyk7Cg==</text>
+        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgInNob3dBZCgpID0gIiArIGdldENvbnRleHQoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBOTmV3c0ZlZWRzU0RLLmdldEluc3RhbmNlKCkuZ2V0Q29udGV4dCgpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlZUltZ1RleHRIb2xkZXIuaXRlbVZpZXcuc2V0T25DbGlja0xpc3RlbmVyKHYgLT4gY2xpY2tNc2codi5nZXRDb250ZXh0KCksIGFkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaWdJbWFnZVRleHRIb2xkZXIuaXRlbVZpZXcuc2V0T25DbGlja0xpc3RlbmVyKHYgLT4gY2xpY2tNc2codi5nZXRDb250ZXh0KCksIGFkKSk7CiAgICAgICAgc21hbGxJbWFnZVRleHRIb2xkZXIK</text>
+        <text encoding="base64">ICAgIGxvYWROZXdzRmVlZHMoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzbWFsbEltYWdlVGV4dEhvbGRlci5pdGVtVmlldy5zZXRPbkNsaWNrTGlzdGVuZXIodiAtPiBjbGlja01zZyh2LmdldENvbnRleHQoKSwgYWQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZUhvbGRlci5pdGVtVmlldy5zZXRPbkNsaWNrTGlzdGVuZXIodiAtPiBjbGlja01zZyh2LmdldENvbnRleHQoKSwgYWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluaXRMbU1hbmFnZXIoIjUiLCAyMyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0SG9sZGVyLml0ZW1WaWV3LnNldE9uQ2xpY2tMaXN0ZW5lcigoVmlldyB2KSAtPiBjbGlja01zZyh2LmdldENvbnRleHQoKSwgYWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJlZUltZ1RleHRIb2xkZXIuaXRlbVZpZXcuc2V0T25DbGlja0xpc3RlbmVyKHYgLT4gY2xpY2tNc2codi5nZXRDb250ZXh0KCksIGFkKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
