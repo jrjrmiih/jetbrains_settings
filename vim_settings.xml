@@ -142,11 +142,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53b2073d8edc83955652909be36d2820/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/FastenEntity.class" timestamp="1591444613274" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b108f0cb8ed5ca24723d17e45ec15656/jars/classes.jar!/com/daomeng/liumang/listener/FeedNativeAd.class" timestamp="1591441535062" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591445193476">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591445194541">
         <mark key="'" line="188" column="73" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
+        <mark key="[" line="99" column="1" />
+        <mark key="]" line="99" column="1" />
         <mark key="." line="99" column="0" />
+        <mark key="^" line="99" column="1" />
       </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1591438048717">
         <mark key="[" line="75" column="17" />
