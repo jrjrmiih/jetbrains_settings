@@ -93,43 +93,24 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/LoadMoreOnScrollListener.java" timestamp="1591436652093">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1591494492900">
         <mark key="'" line="30" column="24" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53b2073d8edc83955652909be36d2820/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/bean/response/Ad.class" timestamp="1591440202762">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="13" column="30" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53b2073d8edc83955652909be36d2820/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1591495059612">
         <mark key="'" line="289" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591495344371">
-        <mark key="'" line="191" column="73" />
-        <mark key="[" line="115" column="62" />
-        <mark key="]" line="115" column="62" />
-        <mark key="." line="115" column="61" />
-        <mark key="^" line="115" column="62" />
       </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1591494525552">
         <mark key="[" line="75" column="17" />
@@ -142,6 +123,35 @@
         <mark key="]" line="9" column="27" />
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b108f0cb8ed5ca24723d17e45ec15656/jars/classes.jar!/a/a/a/h/m.class" timestamp="1591441346538">
+        <mark key="'" line="199" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" timestamp="1591494906908">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="20" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/LoadMoreOnScrollListener.java" timestamp="1591436652093">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53b2073d8edc83955652909be36d2820/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/bean/response/Ad.class" timestamp="1591440202762">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591495344371">
+        <mark key="'" line="191" column="73" />
+        <mark key="[" line="115" column="62" />
+        <mark key="]" line="115" column="62" />
+        <mark key="." line="115" column="61" />
+        <mark key="^" line="115" column="62" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFConstants.java" timestamp="1591486274009">
         <mark key="[" line="35" column="0" />
@@ -162,8 +172,8 @@
         <mark key="." line="63" column="13" />
         <mark key="^" line="63" column="14" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b108f0cb8ed5ca24723d17e45ec15656/jars/classes.jar!/a/a/a/h/m.class" timestamp="1591441346538">
-        <mark key="'" line="199" column="19" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.h" timestamp="1591583157620">
+        <mark key="'" line="26" column="68" />
       </file>
       <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1591494668318">
         <mark key="'" line="26" column="32" />
@@ -177,13 +187,6 @@
         <mark key="]" line="22" column="22" />
         <mark key="^" line="22" column="22" />
         <mark key="." line="22" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" timestamp="1591494906908">
-        <mark key="'" line="17" column="22" />
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="32" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="20" column="31" />
       </file>
     </filemarks>
     <jumps>
