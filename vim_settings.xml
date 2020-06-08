@@ -103,12 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/ChatManager.h" timestamp="1591600147198">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="27" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" timestamp="1591617356777">
         <mark key="'" line="114" column="41" />
       </file>
@@ -121,12 +115,6 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioFileSource.java" timestamp="1591609891354" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/RtcEngine.class" timestamp="1591608921014" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCMicOutputStream.java" timestamp="1591622081190" />
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/ChatManager.m" timestamp="1591600313978">
-        <mark key="[" line="270" column="46" />
-        <mark key="]" line="270" column="46" />
-        <mark key="^" line="270" column="46" />
-        <mark key="." line="270" column="45" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCEngineImpl.java" timestamp="1591609010480" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioStreamConfig.java" timestamp="1591610522234">
         <mark key="[" line="8" column="18" />
@@ -138,6 +126,7 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCFileVideoOutputStream.java" timestamp="1591610182515" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1591616592803" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoView.java" timestamp="1591603077629" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/AndroidManifest.xml" timestamp="1591628893335" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" timestamp="1591616823427">
         <mark key="'" line="130" column="57" />
         <mark key="[" line="112" column="32" />
@@ -145,12 +134,27 @@
         <mark key="^" line="112" column="32" />
         <mark key="." line="112" column="31" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/build.gradle" timestamp="1591628544336">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCLocalUser.java" timestamp="1591622492004" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591629136012">
+        <mark key="'" line="187" column="73" />
+        <mark key="[" line="112" column="53" />
+        <mark key="]" line="112" column="53" />
+        <mark key="." line="112" column="53" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioOutputStream.java" timestamp="1591622558686" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1591628757586">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoStreamConfig.java" timestamp="1591603084056" />
     </filemarks>
     <jumps>
-      <jump line="5" column="37" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCCameraOutputStream.java" />
       <jump line="10" column="73" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCCameraOutputStream.java" />
       <jump line="163" column="13" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/youliao/newsfeeds/ui/NewsListFragment.java" />
       <jump line="337" column="19" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/youliao/newsfeeds/ui/NewsListFragment.java" />
@@ -250,18 +254,19 @@
       <jump line="109" column="13" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
       <jump line="130" column="57" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
       <jump line="114" column="41" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" />
+      <jump line="25" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>RongRTCVideoCaptureParam</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>RongRTCVideoCaptureParam</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJlYW1zXD4=</text>
@@ -270,37 +275,37 @@
         <text encoding="base64">ICBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUF9LRVkgPSAiYjU2NTdlYTQ4ZmNiNDNlNzhmMDM4MGRiOTNjY2FmYzgiOwogIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVBQX1NFQ1JFVCA9ICJlYjJkNDgyNTU1N2E0ZWZiYjhhODI1NjlhYjUxMzRhOSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTk5GTG9nVXRpbC5zTG9nTGV2ZWwgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgTk5GTG9nVXRpbC5kKCJSWU1fREciLCAib25TdWNjZXNzISBpID0gIiArIGZpbmFsSSArICI7IHNpemUgPSAiICsgbGlzdC5zaXplKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExtTWFuYWdlci5nZXRJbnN0YW5jZSgpLnNob3dOZXdzKHRoaXMsZnJhbWVMYXlvdXQsYXBwa2V5LHNlY3JldGtleSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgInNob3dGZWVkQWQgY29udGV4dCA9ICIgKyBnZXRDb250ZXh0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgTk5GTG9nVXRpbC5kKCJSWU1fREciLCAic2hvd0ZlZWRBZCBpID0gIiArIGkgKyAiOyBjb250ZXh0ID0gIiArIGdldENvbnRleHQoKSk7CiAgICAgIGludCBmaW5hbEkgPSBpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgInNob3dGZWVkQWQhIik7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTA7IGkrKykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQWRTZXJ2ZXJBcHBLZXk9ICJENTczOTBDQjgxRjMwMzUwODVCQzUzREIyNDA5RjVFQiI7Ci8vICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFkU2VydmVyVG9rZW4gPSAiMDJENjNFMzI0NDk5M0YyQkExNzI3OUI0OTQ2QTg5MzAiOwo=</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTA7IGkrKykgewogICAgICBOTkZMb2dVdGlsLmQoIlJZTV9ERyIsICJzaG93RmVlZEFkIGkgPSAiICsgaSArICI7IGNvbnRleHQgPSAiICsgdGhpcyk7CiAgICAgIGludCBmaW5hbEkgPSBpOwogICAgICBMbU1hbmFnZXIuZ2V0SW5zdGFuY2UoKQogICAgICAgICAgICAgIC5hZGQoIjM5NiIsIDApCiAgICAgICAgICAgICAgLnNob3dGZWVkQWQoCiAgICAgICAgICAgICAgICAgICAgICB0aGlzLAogICAgICAgICAgICAgICAgICAgICAgbmV3IEZlZWRBZExvYWRMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoaW50IGksIFN0cmluZyBzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgTk5GTG9nVXRpbC5kKCJSWU1fREciLCAib25FcnJvciEgaSA9ICIgKyBpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3VjY2VzcyhMaXN0PEZlZWROYXRpdmVBZD4gbGlzdCkgewogICAgICAgICAgICAgICAgICAgICAgICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgIm9uU3VjY2VzcyEgaSA9ICIgKyBmaW5hbEkgKyAiOyBzaXplID0gIiArIGxpc3Quc2l6ZSgpKTsKLy8gICAgICAgICAgICAgICAgICByZWN5Y2xlclZpZXdBZGFwdGVyLnNldEFkKGxpc3QuZ2V0KDApLCBwb3MpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgInNob3dBZCgpID0gIiArIGdldENvbnRleHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vbm9pbnNwZWN0aW9uIEdyYWRsZURlcGVuZGVuY3kK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBOTmV3c0ZlZWRzU0RLLmdldEluc3RhbmNlKCkuZ2V0Q29udGV4dCgpLAo=</text>
+        <text encoding="base64">ICAgICAgTk5GTG9nVXRpbC5zTG9nTGV2ZWwgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIExtTWFuYWdlci5nZXRJbnN0YW5jZSgpLnNob3dOZXdzKHRoaXMsZnJhbWVMYXlvdXQsYXBwa2V5LHNlY3JldGtleSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE5ORkxvZ1V0aWwuZCgiUllNX0RHIiwgInNob3dGZWVkQWQgY29udGV4dCA9ICIgKyBnZXRDb250ZXh0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -315,7 +320,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
