@@ -103,7 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.h" timestamp="1591352670473" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtcsdk_restruct/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.java" timestamp="1591263646880">
         <mark key="'" line="115" column="38" />
         <mark key="[" line="115" column="39" />
@@ -127,7 +126,6 @@
       <file name="/" timestamp="1591346474291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RongRTCEventClient.h" timestamp="1591346295843" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-engine-video/1.7.5/e28b80d9a2d0385e288dcfbcc99cf7fefb1d9f9e/express-engine-video-1.7.5-sources.jar!/im/zego/zegoexpress/callback/IZegoEventHandler.java" timestamp="1591261548916">
         <mark key="[" line="349" column="17" />
         <mark key="]" line="349" column="17" />
@@ -147,17 +145,8 @@
         <mark key="^" line="416" column="12" />
         <mark key="." line="416" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Stream/RCRTCVideoSourceInterface.h" timestamp="1591356303967" />
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.h" timestamp="1591345838002">
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.h" timestamp="1591583157620">
         <mark key="'" line="26" column="68" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RTCMixer/RongRTCAudioDevice.h" timestamp="1591345824227" />
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" timestamp="1591266070225">
-        <mark key="'" line="2315" column="27" />
-        <mark key="[" line="2320" column="1" />
-        <mark key="]" line="2320" column="1" />
-        <mark key="^" line="2320" column="1" />
-        <mark key="." line="2320" column="0" />
       </file>
     </filemarks>
     <jumps>
