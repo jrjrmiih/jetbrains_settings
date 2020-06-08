@@ -137,11 +137,11 @@
         <mark key="^" line="75" column="17" />
         <mark key="." line="75" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1591494727581">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="30" column="18" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="30" column="17" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1591582132926">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFConstants.java" timestamp="1591486274009">
         <mark key="[" line="35" column="0" />
@@ -172,11 +172,11 @@
         <mark key="^" line="78" column="16" />
         <mark key="." line="78" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1591495418806">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="74" />
-        <mark key="^" line="19" column="74" />
-        <mark key="." line="19" column="73" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1591582496831">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" timestamp="1591494906908">
         <mark key="'" line="17" column="22" />
@@ -352,7 +352,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
