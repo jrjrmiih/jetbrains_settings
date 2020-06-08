@@ -103,30 +103,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/Delegate/ChatRongRTCNetworkMonitorDelegateImpl.h" timestamp="1591600003631" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/ChatManager.h" timestamp="1591600147198">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="28" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1591494492900">
-        <mark key="'" line="30" column="24" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/test-enemy/app/src/main/java/rym/demo/enemy/MainActivity.java" timestamp="1591608740014">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="10" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/Delegate/ChatRongRTCRoomDelegateImpl.h" timestamp="1591600000269" />
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Stream/RCRTCVideoStreamParam.h" timestamp="1591601015815" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioFileSource.java" timestamp="1591609891354" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da74a81db36e01c4ffd16a293881872c/jetified-full-sdk-3.0.0/jars/libs/agora-rtc-sdk.jar!/io/agora/rtc/RtcEngine.class" timestamp="1591608921014" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCMicOutputStream.java" timestamp="1591610520576" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53b2073d8edc83955652909be36d2820/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1591495059612">
         <mark key="'" line="289" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591495344371">
-        <mark key="'" line="191" column="73" />
-        <mark key="[" line="115" column="62" />
-        <mark key="]" line="115" column="62" />
-        <mark key="." line="115" column="61" />
-        <mark key="^" line="115" column="62" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/ChatManager.m" timestamp="1591600313978">
         <mark key="[" line="270" column="46" />
@@ -134,40 +127,30 @@
         <mark key="^" line="270" column="46" />
         <mark key="." line="270" column="45" />
       </file>
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1591494525552">
-        <mark key="[" line="75" column="17" />
-        <mark key="]" line="75" column="17" />
-        <mark key="^" line="75" column="17" />
-        <mark key="." line="75" column="16" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/build.gradle" timestamp="1591582132926">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="27" />
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFConstants.java" timestamp="1591486274009">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="37" column="81" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCEngineImpl.java" timestamp="1591609010480" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioStreamConfig.java" timestamp="1591610522234">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/WelcomeActivity.java" timestamp="1591494528139">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="28" column="23" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCFileVideoOutputStream.java" timestamp="1591610182515" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoView.java" timestamp="1591603077629" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsListFragment.java" timestamp="1591495344371">
+        <mark key="'" line="191" column="73" />
+        <mark key="[" line="115" column="62" />
+        <mark key="]" line="115" column="62" />
+        <mark key="." line="115" column="61" />
+        <mark key="^" line="115" column="62" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.h" timestamp="1591583157620">
         <mark key="'" line="26" column="68" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Stream/RCRTCVideoStreamParam.m" timestamp="1591600116983" />
-      <file name="$USER_HOME$/Temp/yyx_sdk/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" timestamp="1591494668318">
-        <mark key="'" line="26" column="32" />
-        <mark key="[" line="78" column="16" />
-        <mark key="]" line="78" column="16" />
-        <mark key="^" line="78" column="16" />
-        <mark key="." line="78" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1591582496831">
         <mark key="[" line="22" column="22" />
@@ -175,13 +158,7 @@
         <mark key="^" line="22" column="22" />
         <mark key="." line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" timestamp="1591494906908">
-        <mark key="'" line="17" column="22" />
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="32" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="20" column="31" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoStreamConfig.java" timestamp="1591603084056" />
     </filemarks>
     <jumps>
       <jump line="86" column="42" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLocalUser.m" />
