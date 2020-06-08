@@ -109,11 +109,12 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1591494492900">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/ui/NewsMainFragment.java" timestamp="1591586242752">
         <mark key="'" line="30" column="24" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="23" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53b2073d8edc83955652909be36d2820/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/bean/response/Ad.class" timestamp="1591440202762">
         <mark key="[" line="13" column="31" />
@@ -143,7 +144,7 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFConstants.java" timestamp="1591486274009">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/core/NNFConstants.java" timestamp="1591585992362">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
