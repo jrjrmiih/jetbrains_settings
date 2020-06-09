@@ -127,11 +127,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsClosedDialog.java" timestamp="1591694343537">
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="32" column="1" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="1" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsClosedDialog.java" timestamp="1591694347751">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_news_closed.xml" timestamp="1591694200866">
         <mark key="[" line="8" column="23" />
@@ -139,7 +139,7 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1591686154257" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1591695801672" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/Display.java" timestamp="1591692418063" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/utils/NNFLogUtil.java" timestamp="1591672625795">
         <mark key="[" line="14" column="41" />
@@ -165,11 +165,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsListFragment.java" timestamp="1591693524582">
-        <mark key="[" line="189" column="77" />
-        <mark key="]" line="189" column="77" />
-        <mark key="^" line="189" column="77" />
-        <mark key="." line="189" column="76" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsListFragment.java" timestamp="1591695485303">
+        <mark key="[" line="459" column="21" />
+        <mark key="]" line="459" column="21" />
+        <mark key="." line="459" column="20" />
+        <mark key="^" line="459" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/values/styles.xml" timestamp="1591686774535">
         <mark key="[" line="7" column="50" />
@@ -177,6 +177,7 @@
         <mark key="^" line="7" column="54" />
         <mark key="." line="7" column="53" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/docs/qa/debug.md" timestamp="1591695651837" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29e2727cb3e7b3ad6292855055b1a52f/appcompat-v7-28.0.0/jars/classes.jar!/android/support/v7/app/AppCompatActivity.class" timestamp="1591693168316" />
       <file name="/fragment.java" timestamp="1591692792176">
         <mark key="[" line="0" column="0" />
@@ -288,14 +289,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KEltYWdlVmlldykg</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIOiuvue9rmRpYWxvZ+eahOWuveW6puS4uuW9k+WJjeaJi+acuuWxj+W5leeahOWuveW6pg==</text>
+        <text encoding="base64">KEltYWdlVmlldykg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidG5fbmV3X2Nsb3NlXD4=</text>
