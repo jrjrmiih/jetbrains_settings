@@ -103,12 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNFConstants.java" timestamp="1591698684398">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="1" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/java/rym/demo/newsfeed/DetailActivity.java" timestamp="1591744803721">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="32" />
@@ -140,12 +134,6 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsClosedDialog.java" timestamp="1591694347751">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/res/layout/activity_main.xml" timestamp="1591744552362">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -167,8 +155,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04f80e0f087e532b9d33ebe0c9d7f42f/viewpager-28.0.0/jars/classes.jar!/android/support/v4/view/ViewPager.class" timestamp="1591744023657" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioInputStream.java" timestamp="1591754329050" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1591744516958" />
-      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values/attrs.xml" timestamp="1591739641240" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsListFragment.java" timestamp="1591746234253">
         <mark key="'" line="353" column="6" />
         <mark key="[" line="364" column="33" />
