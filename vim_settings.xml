@@ -103,67 +103,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_news_closed_bg.xml" timestamp="1591694085398">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="1" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCLiveInfo.h" timestamp="1591760500819">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="28" />
+        <mark key="^" line="40" column="28" />
+        <mark key="." line="40" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.h" timestamp="1591757558118">
-        <mark key="[" line="48" column="1" />
-        <mark key="]" line="48" column="1" />
-        <mark key="^" line="48" column="1" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1591685413653">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNewsFeedsSDK.java" timestamp="1591673098897">
-        <mark key="'" line="1116" column="16" />
-        <mark key="[" line="142" column="5" />
-        <mark key="]" line="142" column="5" />
-        <mark key="^" line="142" column="5" />
-        <mark key="." line="142" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsCloseDialog.java" timestamp="1591685401870">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/drawable/dialog_news_closed_bg.xml" timestamp="1591694181337">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsListFragment.java" timestamp="1591695485303">
-        <mark key="[" line="459" column="21" />
-        <mark key="]" line="459" column="21" />
-        <mark key="." line="459" column="20" />
-        <mark key="^" line="459" column="21" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RongRTCNotificationDefine.h" timestamp="1591760462854">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine+Private.h" timestamp="1591754248961" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsClosedDialog.java" timestamp="1591694347751">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.h" timestamp="1591760530932">
+        <mark key="[" line="141" column="85" />
+        <mark key="]" line="141" column="10" />
+        <mark key="^" line="141" column="10" />
+        <mark key="." line="141" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_news_closed.xml" timestamp="1591694200866">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="7" column="23" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCUser.h" timestamp="1591760540535">
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/values/styles.xml" timestamp="1591686774535">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="54" />
-        <mark key="^" line="7" column="54" />
-        <mark key="." line="7" column="53" />
-      </file>
-      <file name="/fragment.java" timestamp="1591692792176">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RongRTCEventClient.h" timestamp="1591760440839">
+        <mark key="[" line="102" column="23" />
+        <mark key="]" line="102" column="23" />
+        <mark key="^" line="102" column="23" />
+        <mark key="." line="102" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -271,8 +240,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KEltYWdlVmlldykg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -296,16 +265,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgLy8gICAgICBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zIGJ0blBhcmFtcyA9CiAgICAgIC8vICAgICAgICAgIG5ldyBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zKDAsIFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuV1JBUF9DT05URU5UKTsKICAgICAgLy8gICAgICBidG4uc2V0TGF5b3V0UGFyYW1zKGJ0blBhcmFtcyk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBhcHA6bGF5b3V0X2NvbHVtbldlaWdodD0iMSI=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -317,7 +286,7 @@
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICA8IS0t6K6+572u5ZyG6KeS55qE6KeS5bqmLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
