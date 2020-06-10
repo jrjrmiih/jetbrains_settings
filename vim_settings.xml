@@ -143,6 +143,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04f80e0f087e532b9d33ebe0c9d7f42f/viewpager-28.0.0/jars/classes.jar!/android/support/v4/view/ViewPager.class" timestamp="1591744023657" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCCameraOutputStream.java" timestamp="1591768235444">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="8" />
+        <mark key="^" line="39" column="8" />
+        <mark key="." line="39" column="7" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioInputStream.java" timestamp="1591754329050" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/java/rym/demo/newsfeed/MainActivity.java" timestamp="1591744516958" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsListFragment.java" timestamp="1591746234253">
@@ -163,12 +169,6 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1591740377995">
-        <mark key="[" line="62" column="34" />
-        <mark key="]" line="62" column="38" />
-        <mark key="^" line="62" column="38" />
-        <mark key="." line="62" column="37" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/view/View.class" timestamp="1591744009252">
         <mark key="[" line="0" column="1" />
