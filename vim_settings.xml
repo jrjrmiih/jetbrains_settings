@@ -153,6 +153,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/adapter/NewsFeedEventListener.java" timestamp="1591785483302">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/NewsListFragment.java" timestamp="1591746234253">
         <mark key="'" line="353" column="6" />
         <mark key="[" line="364" column="33" />
@@ -166,11 +172,11 @@
         <mark key="." line="28" column="26" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/adapter/NewsFeedClient.java" timestamp="1591779436842">
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="29" column="14" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="29" column="13" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/ui/adapter/NewsFeedClient.java" timestamp="1591785732498">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="13" />
+        <mark key="^" line="35" column="13" />
+        <mark key="." line="35" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/McuConfigDialog.java" timestamp="1591779886467" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1591769496029">
@@ -178,11 +184,11 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/docs/qa/debug.md" timestamp="1591781231973">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="4" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/docs/qa/debug.md" timestamp="1591785394787">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/res/layout/activity_main.xml" timestamp="1591744552362">
         <mark key="[" line="5" column="0" />
@@ -295,14 +301,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Nullable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ29udGV4dFw+</text>
@@ -311,37 +317,37 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBXRUJfVklFV19QTEFDRUhPTERFUiA9IDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgPSA7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFZpZXdQYWdlciBuZXdzUGFnZXIgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLm5ld3NfcGFnZXIpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMubGlzdGVuZXIgPSBsaXN0ZW5lcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgPSA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJvbmcuaW1saWIubW9kZWwuUlRDU3RhdHVzRGF0ZTsK</text>
+        <text encoding="base64">ICAgIFZpZXdQYWdlciBuZXdzUGFnZXIgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLm5ld3NfcGFnZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJvbmcuaW1saWIubW9kZWwuUlRDU3RhdHVzRGF0ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vd2ViVmlldy5sb2FkRGF0YSh2YXJqcyArIGNzcyArIG5ld3NEZXRhaWxzLmNvbnRlbnQsICJ0ZXh0L2h0bWwiLCAiVVRGLTgiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJvbmcuaW1saWIubW9kZWwuUlRDU3RhdHVzRGF0ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9UaGVtZS5BcHBDb21wYXQuTGlnaHQuTm9BY3Rpb25CYXIiCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJvbmcuaW1saWIubW9kZWwuUlRDU3RhdHVzRGF0ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vd2ViVmlldy5sb2FkRGF0YSh2YXJqcyArIGNzcyArIG5ld3NEZXRhaWxzLmNvbnRlbnQsICJ0ZXh0L2h0bWwiLCAiVVRGLTgiKTsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIHZvaWQgb25Gb2N1c0NoYW5nZShWaWV3IHYsIGJvb2xlYW4gaGFzRm9jdXMpIHsKICAgICAgICAgICAgTk5GTG9nVXRpbC5kKFRBRywgInYgPSAiICsgdiArICI7IGZvY3VzID0gIiArIGhhc0ZvY3VzKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9UaGVtZS5BcHBDb21wYXQuTGlnaHQuTm9BY3Rpb25CYXIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
