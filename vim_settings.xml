@@ -122,6 +122,12 @@
         <mark key="^" line="64" column="1" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/java/rym/demo/rcrtc/MainActivity.java" timestamp="1591771457180">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1591769496029">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -138,7 +144,6 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04f80e0f087e532b9d33ebe0c9d7f42f/viewpager-28.0.0/jars/classes.jar!/android/support/v4/view/ViewPager.class" timestamp="1591744023657" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCCameraOutputStream.java" timestamp="1591768235444">
         <mark key="[" line="39" column="8" />
         <mark key="]" line="39" column="8" />
