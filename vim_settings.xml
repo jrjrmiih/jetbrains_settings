@@ -110,7 +110,6 @@
         <mark key="." line="58" column="59" />
         <mark key="^" line="58" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNFConstants.java" timestamp="1591787865050" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/AdModel.java" timestamp="1591790300543">
         <mark key="[" line="18" column="30" />
         <mark key="]" line="15" column="0" />
@@ -154,6 +153,7 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="34" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/ad_item_small_img_text.xml" timestamp="1591810145154" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1591795839927" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591809761860">
         <mark key="'" line="88" column="92" />
@@ -195,9 +195,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1591787818163">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
