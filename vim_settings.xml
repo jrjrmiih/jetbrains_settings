@@ -152,12 +152,12 @@
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/ad_item_small_img_text.xml" timestamp="1591810145154" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1591795839927" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591863038234">
-        <mark key="'" line="93" column="24" />
-        <mark key="[" line="340" column="46" />
-        <mark key="]" line="340" column="47" />
-        <mark key="." line="340" column="46" />
-        <mark key="^" line="340" column="47" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591863789599">
+        <mark key="'" line="92" column="24" />
+        <mark key="[" line="357" column="72" />
+        <mark key="]" line="358" column="62" />
+        <mark key="." line="358" column="61" />
+        <mark key="^" line="358" column="62" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFAdTemplates.java" timestamp="1591862535114" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFAdLocations.java" timestamp="1591862563051" />
@@ -296,14 +296,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZpbmFsIGludCBub3dQb3MgPSBuZXdzVG90YWw7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZE1vZGVsXD4=</text>
@@ -312,37 +312,37 @@
         <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbmFsIGludCBub3dQb3MgPSBuZXdzVG90YWw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXRlbS5sb2NhdGlvbi5lcXVhbHMoInRvcCIpKSB0b3BJZCA9IFN0cmluZy52YWx1ZU9mKGl0ZW0uZGV0YWlsWzBdLmFkc3BhY2VJZCk7CiAgICAgICAgaWYgKGl0ZW0ubG9jYXRpb24uZXF1YWxzKCJib3R0b20iKSkgYm90dG9tSWQgPSBTdHJpbmcudmFsdWVPZihpdGVtLmRldGFpbFswXS5hZHNwYWNlSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXRlbS5sb2NhdGlvbi5lcXVhbHMoInRvcCIpKSB0b3BJZCA9IFN0cmluZy52YWx1ZU9mKGl0ZW0uZGV0YWlsWzBdLmFkc3BhY2VJZCk7CiAgICAgICAgaWYgKGl0ZW0ubG9jYXRpb24uZXF1YWxzKCJib3R0b20iKSkgYm90dG9tSWQgPSBTdHJpbmcudmFsdWVPZihpdGVtLmRldGFpbFswXS5hZHNwYWNlSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXRlbS5sb2NhdGlvbi5lcXVhbHMoInRvcCIpKSB0b3BJZCA9IFN0cmluZy52YWx1ZU9mKGl0ZW0uZGV0YWlsWzBdLmFkc3BhY2VJZCk7CiAgICAgICAgaWYgKGl0ZW0ubG9jYXRpb24uZXF1YWxzKCJib3R0b20iKSkgYm90dG9tSWQgPSBTdHJpbmcudmFsdWVPZihpdGVtLmRldGFpbFswXS5hZHNwYWNlSWQpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBMSVNUID0gImxpc3QiOwogIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERFVEFJTCA9ICJkZXRhaWwiOwogIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFTEFURUQgPSAicmVsYXRlZCI7CgogIEBTdHJpbmdEZWYoe0xJU1QsIERFVEFJTCwgUkVMQVRFRH0pCiAgQFJldGVudGlvbihSZXRlbnRpb25Qb2xpY3kuU09VUkNFKQogIHB1YmxpYyBAaW50ZXJmYWNlIEFkVHlwZSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAodHlwZSkK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBMSVNUID0gImxpc3QiOwogIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERFVEFJTCA9ICJkZXRhaWwiOwogIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFTEFURUQgPSAicmVsYXRlZCI7CgogIEBTdHJpbmdEZWYoe0xJU1QsIERFVEFJTCwgUkVMQVRFRH0pCiAgQFJldGVudGlvbihSZXRlbnRpb25Qb2xpY3kuU09VUkNFKQogIHB1YmxpYyBAaW50ZXJmYWNlIEFkVHlwZSB7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIHN3aXRjaCAodHlwZSkK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
