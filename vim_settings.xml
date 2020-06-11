@@ -156,12 +156,12 @@
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/ad_item_small_img_text.xml" timestamp="1591810145154" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1591795839927" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591810423279">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591860238635">
         <mark key="'" line="120" column="16" />
-        <mark key="[" line="210" column="20" />
-        <mark key="]" line="210" column="20" />
-        <mark key="." line="210" column="19" />
-        <mark key="^" line="210" column="20" />
+        <mark key="[" line="94" column="37" />
+        <mark key="]" line="94" column="37" />
+        <mark key="." line="94" column="36" />
+        <mark key="^" line="94" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFAdTemplates.java" timestamp="1591808888394" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFAdLocations.java" timestamp="1591804812160" />
@@ -300,8 +300,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgbWF4ID0gYWQubG9jYXRpb25zWzBdLmRldGFpbFthZC5sb2NhdGlvbnNbMF0uZGV0YWlsLmxlbmd0aCAtIDFdLnNlcmlhbE5vOwo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -316,37 +316,37 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gVFlQRV9ERVRBSUxfVElUTEU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbWF4ID0gYWQubG9jYXRpb25zWzBdLmRldGFpbFthZC5sb2NhdGlvbnNbMF0uZGV0YWlsLmxlbmd0aCAtIDFdLnNlcmlhbE5vOwo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzTWFyayA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubmV3c19tYXJrKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzTWFyayA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubmV3c19tYXJrKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdzTWFyayA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubmV3c19tYXJrKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoIldyb25nIGl0ZW0gdHlwZSEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXdzTWFyayA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubmV3c19tYXJrKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoIldyb25nIGl0ZW0gdHlwZSEiKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBvc2l0aW9uID4gVFlQRV9BRF9CT1RUT00pIHsKICAgICAgICByZXR1cm4gVFlQRV9ERVRBSUxfUkVMQVRFRF9ORVdTOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoIldyb25nIGl0ZW0gdHlwZSEiKTsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVFlQRV9ERVRBSUxfVElUTEU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoIldyb25nIGl0ZW0gdHlwZSEiKTsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
