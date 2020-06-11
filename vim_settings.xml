@@ -192,8 +192,11 @@
       <file name="/fragment.java" timestamp="1590632553650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/message.py" timestamp="1590736586242">
+      <file name="$USER_HOME$/Workspace/rc-python/server-sdk-python/rongcloud/message.py" timestamp="1590745697809">
         <mark key="'" line="130" column="30" />
+        <mark key="[" line="326" column="40" />
+        <mark key="]" line="326" column="41" />
+        <mark key="." line="326" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/NewsFeedDemo/app/src/main/res/layout/activity_detail.xml" timestamp="1590705146708">
         <mark key="[" line="12" column="43" />
@@ -368,7 +371,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxwYXJzaW5nSGFuZGxlclw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
