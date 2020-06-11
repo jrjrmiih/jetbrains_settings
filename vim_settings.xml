@@ -112,6 +112,13 @@
       <file name="$USER_HOME$/Workspace/rc-python/ticket-stat/ticket.py" timestamp="1591842753331">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591863038234">
+        <mark key="'" line="93" column="24" />
+        <mark key="[" line="340" column="46" />
+        <mark key="]" line="340" column="47" />
+        <mark key="." line="340" column="46" />
+        <mark key="^" line="340" column="47" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AdViewHolder.java" timestamp="1591810410218">
         <mark key="'" line="56" column="2" />
         <mark key="[" line="11" column="4" />
@@ -131,6 +138,12 @@
         <mark key="^" line="1124" column="12" />
         <mark key="." line="1124" column="11" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/java/rym/demo/rcrtc/MainActivity.java" timestamp="1591771457180">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1591795830229">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="40" />
@@ -144,29 +157,24 @@
         <mark key="^" line="654" column="35" />
         <mark key="." line="654" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1591795853770">
-        <mark key="[" line="36" column="35" />
-        <mark key="]" line="36" column="35" />
-        <mark key="^" line="36" column="35" />
-        <mark key="." line="36" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/ad_item_small_img_text.xml" timestamp="1591810145154" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1591795839927" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591863038234">
-        <mark key="'" line="93" column="24" />
-        <mark key="[" line="340" column="46" />
-        <mark key="]" line="340" column="47" />
-        <mark key="." line="340" column="46" />
-        <mark key="^" line="340" column="47" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFAdTemplates.java" timestamp="1591862535114" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFAdLocations.java" timestamp="1591862563051" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1591861384832">
         <mark key="'" line="75" column="90" />
         <mark key="[" line="87" column="52" />
         <mark key="]" line="87" column="52" />
         <mark key="^" line="87" column="52" />
         <mark key="." line="87" column="51" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1591795853770">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="35" />
+        <mark key="^" line="36" column="35" />
+        <mark key="." line="36" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Login/LoginManager.h" timestamp="1591874409001">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedEventListener.java" timestamp="1591803058092">
         <mark key="[" line="3" column="1" />
@@ -357,7 +365,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
