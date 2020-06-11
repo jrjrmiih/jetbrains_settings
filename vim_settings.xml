@@ -7,9 +7,14 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
+        <entry encoding="base64">XDxvdXRwdXRTdHJlYW1zXD4=</entry>
+        <entry encoding="base64">XDxzdHJlYW1zXD4=</entry>
+        <entry encoding="base64">XDxtTG9nTGV2ZWxcPg==</entry>
         <entry encoding="base64">XDxidG5fbmV3X2Nsb3NlXD4=</entry>
+        <entry encoding="base64">XDxpdGVtTGlzdFw+</entry>
         <entry encoding="base64">XDxBUFBfS0VZXD4=</entry>
         <entry encoding="base64">XDxUWVBFX0RFVEFJTF9XRUJfVklFV1w+</entry>
+        <entry encoding="base64">XDx3ZWJWaWV3XD4=</entry>
         <entry encoding="base64">XDxuZXdzX2l0ZW1fc21hbGxfcGljXD4=</entry>
         <entry encoding="base64">XDxhZFRlbXBsYXRlTGlzdFw+</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0XD4=</entry>
@@ -22,11 +27,6 @@
         <entry>class</entry>
         <entry encoding="base64">XDxuZXdzVG90YWxcPg==</entry>
         <entry encoding="base64">XDxhZE1vZGVsXD4=</entry>
-        <entry encoding="base64">XDxwb3NcPg==</entry>
-        <entry encoding="base64">XDxtYXhcPg==</entry>
-        <entry encoding="base64">XDx3ZWJWaWV3XD4=</entry>
-        <entry encoding="base64">XDxpdGVtTGlzdFw+</entry>
-        <entry encoding="base64">XDxOZXdzU21hbGxQaWNWSFw+</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -103,88 +103,118 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/ListViewHolder.java" timestamp="1591873794968">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="37" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/AdModel.java" timestamp="1591862888572">
+        <mark key="[" line="68" column="27" />
+        <mark key="]" line="68" column="39" />
+        <mark key="^" line="68" column="39" />
+        <mark key="." line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AdViewHolder.java" timestamp="1591873823982">
-        <mark key="'" line="64" column="2" />
-        <mark key="[" line="99" column="2" />
-        <mark key="]" line="99" column="2" />
-        <mark key="^" line="188" column="3" />
-        <mark key="." line="99" column="2" />
+      <file name="$USER_HOME$/Workspace/rc-python/ticket-stat/ticket.py" timestamp="1591842753331">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1591873905435">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591863038234">
+        <mark key="'" line="93" column="24" />
+        <mark key="[" line="340" column="46" />
+        <mark key="]" line="340" column="47" />
+        <mark key="." line="340" column="46" />
+        <mark key="^" line="340" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1591874020657">
-        <mark key="'" line="204" column="21" />
-        <mark key="[" line="205" column="27" />
-        <mark key="]" line="205" column="27" />
-        <mark key="." line="205" column="26" />
-        <mark key="^" line="205" column="27" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AdViewHolder.java" timestamp="1591810410218">
+        <mark key="'" line="56" column="2" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1591869551728">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1591809699026">
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="53" />
+        <mark key="." line="263" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNewsFeedsSDK.java" timestamp="1591795469567">
+        <mark key="'" line="817" column="11" />
+        <mark key="[" line="1124" column="12" />
+        <mark key="]" line="1124" column="12" />
+        <mark key="^" line="1124" column="12" />
+        <mark key="." line="1124" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/java/rym/demo/rcrtc/MainActivity.java" timestamp="1591771457180">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1591795830229">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="40" />
         <mark key="^" line="38" column="40" />
-        <mark key="." line="68" column="0" />
+        <mark key="." line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/ad_item_only_text.xml" timestamp="1591869776038">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" timestamp="1591792548681">
+        <mark key="'" line="507" column="31" />
+        <mark key="[" line="654" column="35" />
+        <mark key="]" line="654" column="35" />
+        <mark key="^" line="654" column="35" />
+        <mark key="." line="654" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsViewHolder.java" timestamp="1591873580363">
-        <mark key="[" line="89" column="54" />
-        <mark key="]" line="89" column="54" />
-        <mark key="^" line="89" column="54" />
-        <mark key="." line="89" column="53" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1591861384832">
+        <mark key="'" line="75" column="90" />
+        <mark key="[" line="87" column="52" />
+        <mark key="]" line="87" column="52" />
+        <mark key="^" line="87" column="52" />
+        <mark key="." line="87" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1591869589781">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1591795853770">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="35" />
+        <mark key="^" line="36" column="35" />
+        <mark key="." line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCCameraOutputStream.java" timestamp="1591872226977">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="8" />
-        <mark key="^" line="39" column="8" />
-        <mark key="." line="39" column="7" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Login/LoginManager.h" timestamp="1591874409001">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1591869547424">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedEventListener.java" timestamp="1591803058092">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591873955957">
-        <mark key="'" line="348" column="28" />
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="374" column="0" />
-        <mark key="." line="374" column="0" />
-        <mark key="^" line="67" column="92" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" timestamp="1591808100268">
+        <mark key="'" line="22" column="46" />
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="43" />
+        <mark key="^" line="37" column="43" />
+        <mark key="." line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AllViewHolder.java" timestamp="1591873974019" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/StorageHandler.java" timestamp="1591870571935">
-        <mark key="[" line="7" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListDivider.java" timestamp="1591873035626">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/docs/qa/debug.md" timestamp="1591872117152">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/docs/qa/debug.md" timestamp="1591805965232">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8e903249edd82e4741cea5d801f01ec/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class" timestamp="1591873557019" />
+      <file name="/fragment.java" timestamp="1591810294661">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
+      <jump line="122" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" />
+      <jump line="128" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" />
+      <jump line="134" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" />
+      <jump line="17" column="22" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" />
+      <jump line="289" column="35" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53b2073d8edc83955652909be36d2820/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" />
+      <jump line="288" column="66" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
+      <jump line="298" column="44" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
+      <jump line="321" column="68" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
+      <jump line="331" column="29" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
+      <jump line="339" column="42" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
+      <jump line="47" column="36" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
+      <jump line="434" column="13" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
+      <jump line="102" column="32" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
+      <jump line="107" column="6" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
       <jump line="109" column="13" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
       <jump line="130" column="57" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" />
       <jump line="114" column="41" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" />
@@ -258,6 +288,7 @@
       <jump line="61" column="39" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
       <jump line="207" column="22" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="336" column="10" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
+      <jump line="116" column="25" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
       <jump line="46" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
       <jump line="47" column="43" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
       <jump line="85" column="21" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
@@ -269,105 +300,57 @@
       <jump line="74" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
       <jump line="75" column="90" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
       <jump line="94" column="24" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="345" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="53" column="16" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/AdModel.java" />
-      <jump line="116" column="35" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="158" column="30" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="189" column="12" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="191" column="27" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="210" column="56" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="53" column="8" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="121" column="48" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="60" column="12" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="91" column="16" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="171" column="8" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="315" column="19" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="344" column="8" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="348" column="28" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="204" column="21" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXRlYXNlLnlvdWxpYW8ubmV3c2ZlZWRraXQuTmV3c0xpc3RGcmFnbWVudC5SZWN5Y2xlckFkYXB0ZXIuTmV3c0JpZ1BpY1ZIOwppbXBvcnQgY29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZGtpdC5OZXdzTGlzdEZyYWdtZW50LlJlY3ljbGVyQWRhcHRlci5OZXdzU21hbGxQaWNWSDsKaW1wb3J0IGNvbS5uZXRlYXNlLnlvdWxpYW8ubmV3c2ZlZWRraXQuTmV3c0xpc3RGcmFnbWVudC5SZWN5Y2xlckFkYXB0ZXIuTmV3c1RocmVlUGljc1ZIOwo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOZXdzU21hbGxQaWNWSFw+</text>
+        <text encoding="base64">XDxhZE1vZGVsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaXRlbUxpc3QuYWRkKG5ldyBBZFRvcEJsYW5rSXRlbSgpKTsK</text>
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXRlYXNlLnlvdWxpYW8ubmV3c2ZlZWRraXQuTmV3c0xpc3RGcmFnbWVudC5SZWN5Y2xlckFkYXB0ZXIuTmV3c0JpZ1BpY1ZIOwppbXBvcnQgY29tLm5ldGVhc2UueW91bGlhby5uZXdzZmVlZGtpdC5OZXdzTGlzdEZyYWdtZW50LlJlY3ljbGVyQWRhcHRlci5OZXdzU21hbGxQaWNWSDsKaW1wb3J0IGNvbS5uZXRlYXNlLnlvdWxpYW8ubmV3c2ZlZWRraXQuTmV3c0xpc3RGcmFnbWVudC5SZWN5Y2xlckFkYXB0ZXIuTmV3c1RocmVlUGljc1ZIOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXRlbS5sb2NhdGlvbi5lcXVhbHMoInRvcCIpKSB0b3BJZCA9IFN0cmluZy52YWx1ZU9mKGl0ZW0uZGV0YWlsWzBdLmFkc3BhY2VJZCk7CiAgICAgICAgaWYgKGl0ZW0ubG9jYXRpb24uZXF1YWxzKCJib3R0b20iKSkgYm90dG9tSWQgPSBTdHJpbmcudmFsdWVPZihpdGVtLmRldGFpbFswXS5hZHNwYWNlSWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXRlbS5sb2NhdGlvbi5lcXVhbHMoInRvcCIpKSB0b3BJZCA9IFN0cmluZy52YWx1ZU9mKGl0ZW0uZGV0YWlsWzBdLmFkc3BhY2VJZCk7CiAgICAgICAgaWYgKGl0ZW0ubG9jYXRpb24uZXF1YWxzKCJib3R0b20iKSkgYm90dG9tSWQgPSBTdHJpbmcudmFsdWVPZihpdGVtLmRldGFpbFswXS5hZHNwYWNlSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIEFkQmxhbmtWSCBleHRlbmRzIFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyIHsKICAgICAgcHVibGljIEFkQmxhbmtWSChWaWV3IHZpZXcpIHsKICAgICAgICBzdXBlcih2aWV3KTsKICAgICAgfQogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>private class RelatedVH extends RecyclerView.ViewHolder {
-      private TextView newsTitle;
-      private TextView newsMark;
-      private TextView newsCatalog;
-      private ImageView smallPic;
-      private View newsCloseBtn;
-
-      RelatedVH(View view) {
-        super(view);
-        newsTitle = view.findViewById(R.id.news_title);
-        newsMark = view.findViewById(R.id.news_mark);
-        newsCatalog = view.findViewById(R.id.news_catalog);
-        smallPic = view.findViewById(R.id.news_small_pic);
-        newsCloseBtn = view.findViewById(R.id.news_close);
-      }
-
-      private void setSmallPic(String url) {
-        Glide.with(RecyclerAdapter.this.inflater.getContext())
-            .load(url)
-            .placeholder(R.drawable.cover_small_loading)
-            .fallback(R.drawable.cover_small_failed)
-            .into(smallPic);
-      }
-
-      protected void setTitleCatalog(String title, String mark, String catalog) {
-        newsTitle.setText(title);
-        if (mark != null) {
-          newsMark.setVisibility(View.VISIBLE);
-          newsMark.setText(mark);
-        }
-        newsCatalog.setText(catalog);
-      }
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBMSVNUID0gImxpc3QiOwogIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERFVEFJTCA9ICJkZXRhaWwiOwogIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFTEFURUQgPSAicmVsYXRlZCI7CgogIEBTdHJpbmdEZWYoe0xJU1QsIERFVEFJTCwgUkVMQVRFRH0pCiAgQFJldGVudGlvbihSZXRlbnRpb25Qb2xpY3kuU09VUkNFKQogIHB1YmxpYyBAaW50ZXJmYWNlIEFkVHlwZSB7fQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN3aXRjaCAodHlwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgTGlzdFZpZXdIb2xkZXIuTG9hZE1vcmVWSAo=</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBUWVBFX0RFVEFJTF9SRUxBVEVEX05FV1MgPSA0Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -376,13 +359,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxOZXdzU21hbGxQaWNWSFw+</last-search>
+      <last-search encoding="base64">XDxhZE1vZGVsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOZXdzU21hbGxQaWNWSFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZE1vZGVsXD4=</last-pattern>
       <last-replace>getValue</last-replace>
-      <last-substitute encoding="base64">XDxpdGVtTGlzdFw+</last-substitute>
+      <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
