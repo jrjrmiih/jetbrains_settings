@@ -119,12 +119,12 @@
       <file name="/a.dummy" timestamp="1591873905435">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1591900544542">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1591928173648">
         <mark key="'" line="32" column="53" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="159" column="0" />
+        <mark key="[" line="112" column="28" />
+        <mark key="]" line="112" column="28" />
+        <mark key="." line="112" column="27" />
+        <mark key="^" line="112" column="28" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28314ba6b75b3f5a5af12e25eaa76b9d/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1591897547547" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbe6f0de6e1c9c9050f92d7e9a01783d/jars/classes.jar!/com/daomeng/liumang/FastenEntity.class" timestamp="1591897508991" />
@@ -181,7 +181,7 @@
         <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8e903249edd82e4741cea5d801f01ec/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class" timestamp="1591873557019" />
-      <file name="/fragment.java" timestamp="1591899266239">
+      <file name="/fragment.java" timestamp="1591927548292">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
