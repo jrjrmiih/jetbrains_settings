@@ -103,12 +103,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1591899655633">
+        <mark key="[" line="117" column="32" />
+        <mark key="]" line="117" column="32" />
+        <mark key="^" line="116" column="15" />
+        <mark key="." line="117" column="32" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/AdModel.java" timestamp="1591900327665">
         <mark key="'" line="53" column="16" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
         <mark key="^" line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592003957482">
+        <mark key="'" line="321" column="20" />
+        <mark key="[" line="317" column="25" />
+        <mark key="]" line="317" column="25" />
+        <mark key="^" line="317" column="25" />
+        <mark key="." line="317" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1591928173648">
         <mark key="'" line="32" column="53" />
@@ -117,29 +130,6 @@
         <mark key="." line="112" column="27" />
         <mark key="^" line="112" column="28" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28314ba6b75b3f5a5af12e25eaa76b9d/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1591897547547" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbe6f0de6e1c9c9050f92d7e9a01783d/jars/classes.jar!/com/daomeng/liumang/FastenEntity.class" timestamp="1591897508991" />
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/AndroidManifest.xml" timestamp="1591950697288">
-        <mark key="[" line="16" column="79" />
-        <mark key="]" line="16" column="79" />
-        <mark key="." line="16" column="78" />
-        <mark key="^" line="16" column="79" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/java/rym/demo/rcrtc/MainActivity.java" timestamp="1591952533922">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="52" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/build.gradle" timestamp="1591951449985" />
-      <file name="$USER_HOME$/Workspace/android-space/TestWebView/build.gradle" timestamp="1591951419731" />
-      <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/java/cn/cbg/testwebview/MainActivity.java" timestamp="1591952337471">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/res/layout/activity_main.xml" timestamp="1591951220594" />
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/gradle/wrapper/gradle-wrapper.properties" timestamp="1591951591340" />
       <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/res/layout/full_screen.xml" timestamp="1591951217670">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="26" />
@@ -151,13 +141,22 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/MainActivity.java" timestamp="1591897503525" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1591900505761">
-        <mark key="'" line="321" column="20" />
-        <mark key="[" line="167" column="7" />
-        <mark key="]" line="167" column="7" />
-        <mark key="^" line="167" column="7" />
-        <mark key="." line="167" column="6" />
+      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/AndroidManifest.xml" timestamp="1591950697288">
+        <mark key="[" line="16" column="79" />
+        <mark key="]" line="16" column="79" />
+        <mark key="." line="16" column="78" />
+        <mark key="^" line="16" column="79" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/java/rym/demo/rcrtc/MainActivity.java" timestamp="1591952533922">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="35" column="52" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/java/cn/cbg/testwebview/MainActivity.java" timestamp="1591952337471">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/related_item_webview.xml" timestamp="1591898193500">
         <mark key="[" line="8" column="27" />
@@ -165,14 +164,6 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1591899655633">
-        <mark key="[" line="117" column="32" />
-        <mark key="]" line="117" column="32" />
-        <mark key="^" line="116" column="15" />
-        <mark key="." line="117" column="32" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestWebView/gradle/wrapper/gradle-wrapper.properties" timestamp="1591951455408" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28314ba6b75b3f5a5af12e25eaa76b9d/ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/FastenEntity.class" timestamp="1591897598366" />
       <file name="/fragment.java" timestamp="1591927548292">
         <mark key="[" line="0" column="0" />
       </file>
@@ -343,7 +334,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
