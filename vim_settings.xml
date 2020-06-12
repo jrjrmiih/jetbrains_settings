@@ -136,10 +136,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/res/layout/activity_main.xml" timestamp="1591952313955">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/res/layout/activity_main.xml" timestamp="1592004060194">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/AndroidManifest.xml" timestamp="1591950697288">
         <mark key="[" line="16" column="79" />
@@ -273,14 +274,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>match_parent</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNeVdlYlZpZXdDbGllbnRcPg==</text>
