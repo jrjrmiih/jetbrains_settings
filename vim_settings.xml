@@ -103,52 +103,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/AdModel.java" timestamp="1592005028634">
-        <mark key="'" line="53" column="16" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-rtc-quick-start/app/src/main/java/cn/rongcloud/quickstart/MyApp.java" timestamp="1592039285769">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592003957482">
-        <mark key="'" line="321" column="20" />
-        <mark key="[" line="317" column="25" />
-        <mark key="]" line="317" column="25" />
-        <mark key="." line="317" column="24" />
-        <mark key="^" line="317" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Utilities/RCRTCLogUtility.h" timestamp="1592020690918" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-rtc-quick-start/app/src/main/java/cn/rongcloud/quickstart/MainActivity.java" timestamp="1592039372560" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCTimingLogService.m_dir/fragment.m" timestamp="1592030504652">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592005088353">
-        <mark key="'" line="32" column="53" />
-        <mark key="[" line="86" column="55" />
-        <mark key="]" line="86" column="55" />
-        <mark key="." line="86" column="54" />
-        <mark key="^" line="86" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m_dir/fragment.m" timestamp="1592030498223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/AndroidManifest.xml" timestamp="1591950697288">
-        <mark key="[" line="16" column="79" />
-        <mark key="]" line="16" column="79" />
-        <mark key="." line="16" column="78" />
-        <mark key="^" line="16" column="79" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/java/rym/demo/rcrtc/MainActivity.java" timestamp="1591952533922">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="52" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/java/cn/cbg/testwebview/MainActivity.java" timestamp="1592004191731">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-rtc-quick-start/app/src/main/java/cn/rongcloud/quickstart/RoomInfoMessage.java" timestamp="1592039310246" />
       <file name="/LLDB" timestamp="1592029727947">
         <mark key="[" line="0" column="0" />
       </file>
@@ -158,38 +125,21 @@
         <mark key="^" line="19" column="85" />
         <mark key="." line="19" column="84" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/res/layout/full_screen.xml" timestamp="1591951217670">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/res/layout/activity_main.xml" timestamp="1592005285362">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="33" />
-        <mark key="^" line="18" column="34" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m" timestamp="1592030239935">
         <mark key="[" line="359" column="85" />
         <mark key="]" line="359" column="85" />
         <mark key="^" line="359" column="85" />
         <mark key="." line="359" column="84" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCTimingLogService.m" timestamp="1592029656908" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Utilities/RCRTCLogUtility.m" timestamp="1592020716430">
         <mark key="[" line="664" column="6" />
         <mark key="]" line="664" column="6" />
         <mark key="^" line="664" column="6" />
         <mark key="." line="664" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1591927548292">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" timestamp="1592020666577">
         <mark key="'" line="2309" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCCSVLogManager.m" timestamp="1592029520204" />
     </filemarks>
     <jumps>
       <jump line="146" column="12" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNewsFeedsSDK.java" />
@@ -297,13 +247,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNeVdlYlZpZXdDbGllbnRcPg==</text>
