@@ -157,13 +157,7 @@
         <mark key="]" line="263" column="53" />
         <mark key="." line="263" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNewsFeedsSDK.java" timestamp="1591795469567">
-        <mark key="'" line="817" column="11" />
-        <mark key="[" line="1124" column="12" />
-        <mark key="]" line="1124" column="12" />
-        <mark key="^" line="1124" column="12" />
-        <mark key="." line="1124" column="11" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m" timestamp="1592029881485" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1591795830229">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="40" />
@@ -177,16 +171,10 @@
         <mark key="^" line="37" column="43" />
         <mark key="." line="37" column="42" />
       </file>
-      <file name="/LLDB" timestamp="1592019229502">
+      <file name="/LLDB" timestamp="1592029727947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" timestamp="1591792548681">
-        <mark key="'" line="507" column="31" />
-        <mark key="[" line="654" column="35" />
-        <mark key="]" line="654" column="35" />
-        <mark key="^" line="654" column="35" />
-        <mark key="." line="654" column="34" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCTimingLogService.m" timestamp="1592029656908" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/docs/qa/debug.md" timestamp="1591805965232">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -205,7 +193,7 @@
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" timestamp="1592020666577">
         <mark key="'" line="2309" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCCSVLogManager.m" timestamp="1592029174625" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCCSVLogManager.m" timestamp="1592029520204" />
     </filemarks>
     <jumps>
       <jump line="134" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" />
