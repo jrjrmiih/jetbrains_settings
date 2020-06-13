@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdXRwdXRTdHJlYW1zXD4=</entry>
         <entry encoding="base64">XDxzdHJlYW1zXD4=</entry>
         <entry encoding="base64">XDxtTG9nTGV2ZWxcPg==</entry>
         <entry encoding="base64">XDxidG5fbmV3X2Nsb3NlXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>class</entry>
         <entry encoding="base64">XDxuZXdzVG90YWxcPg==</entry>
         <entry encoding="base64">XDxhZE1vZGVsXD4=</entry>
+        <entry encoding="base64">XDxjb21wbGV0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -132,6 +132,7 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="34" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Utilities/RCRTCLogUtility.h" timestamp="1592020690918" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AdViewHolder.java" timestamp="1591810410218">
         <mark key="'" line="56" column="2" />
         <mark key="[" line="11" column="4" />
@@ -198,13 +199,20 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Utilities/RCRTCLogUtility.m" timestamp="1592020716430">
+        <mark key="[" line="664" column="6" />
+        <mark key="]" line="664" column="6" />
+        <mark key="^" line="664" column="6" />
+        <mark key="." line="664" column="5" />
+      </file>
       <file name="/fragment.java" timestamp="1591810294661">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" timestamp="1592020666577">
+        <mark key="'" line="2309" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" />
-      <jump line="128" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" />
       <jump line="134" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" />
       <jump line="17" column="22" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/newsfeed/src/main/java/com/netease/youliao/newsfeeds/utils/NNFLogUtil.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-demo/app/src/main/java/rym/demo/newsfeed/MainActivity.java" />
@@ -303,6 +311,8 @@
       <jump line="74" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
       <jump line="75" column="90" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
       <jump line="94" column="24" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
+      <jump line="2304" column="90" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" />
+      <jump line="2309" column="27" filename="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +327,7 @@
         <text>int</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZE1vZGVsXD4=</text>
+        <text encoding="base64">XDxjb21wbGV0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
@@ -362,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhZE1vZGVsXD4=</last-search>
+      <last-search encoding="base64">XDxjb21wbGV0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZE1vZGVsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wbGV0aW9uXD4=</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
