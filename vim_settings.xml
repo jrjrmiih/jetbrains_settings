@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5fbmV3X2Nsb3NlXD4=</entry>
         <entry encoding="base64">XDxpdGVtTGlzdFw+</entry>
         <entry encoding="base64">XDxBUFBfS0VZXD4=</entry>
         <entry encoding="base64">XDxUWVBFX0RFVEFJTF9XRUJfVklFV1w+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxjb21wbGV0aW9uXD4=</entry>
         <entry encoding="base64">XDxjdXN0b21WaWV3XD4=</entry>
         <entry encoding="base64">XDxuZXdzRGV0YWlsc1w+</entry>
+        <entry encoding="base64">XDx3ZWJWaWV3SXRlbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -112,12 +112,12 @@
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCTimingLogService.m_dir/fragment.m" timestamp="1592030504652">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592040292665">
-        <mark key="'" line="52" column="25" />
-        <mark key="[" line="179" column="6" />
-        <mark key="]" line="179" column="6" />
-        <mark key="." line="179" column="5" />
-        <mark key="^" line="179" column="6" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592042410897">
+        <mark key="'" line="53" column="15" />
+        <mark key="[" line="92" column="30" />
+        <mark key="]" line="92" column="30" />
+        <mark key="." line="92" column="30" />
+        <mark key="^" line="54" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m_dir/fragment.m" timestamp="1592030498223">
         <mark key="[" line="0" column="0" />
@@ -135,27 +135,28 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/fragment_news_detail.xml" timestamp="1592039625814">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/related_item_webview.xml" timestamp="1592042329233">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/fragment_news_detail.xml" timestamp="1592042294849">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1592041783336">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/res/layout/activity_main.xml" timestamp="1592040511926">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m" timestamp="1592030239935">
-        <mark key="[" line="359" column="85" />
-        <mark key="]" line="359" column="85" />
-        <mark key="^" line="359" column="85" />
-        <mark key="." line="359" column="84" />
+      <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/res/layout/activity_main.xml" timestamp="1592042281244">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1592041792775">
         <mark key="[" line="5" column="26" />
@@ -164,10 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/common/NFLog.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
-      <jump line="77" column="34" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
-      <jump line="42" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
       <jump line="43" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
       <jump line="44" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
       <jump line="45" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
@@ -264,21 +261,25 @@
       <jump line="109" column="16" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="115" column="34" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="52" column="25" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
+      <jump line="85" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
+      <jump line="86" column="22" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
+      <jump line="226" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
+      <jump line="53" column="15" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>wrap_content</text>
+        <text>WebView webView</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>WebView webView</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdzRGV0YWlsc1w+</text>
+        <text encoding="base64">XDx3ZWJWaWV3SXRlbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZm9yIChOTkZBZERldGFpbCBpdGVtIDogYWREZXRhaWxzKSB7Cg==</text>
@@ -323,9 +324,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxuZXdzRGV0YWlsc1w+</last-search>
+      <last-search encoding="base64">XDx3ZWJWaWV3SXRlbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdzRGV0YWlsc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWJWaWV3SXRlbVw+</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
