@@ -123,6 +123,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-rtc-quick-start/app/src/main/java/cn/rongcloud/quickstart/RoomInfoMessage.java" timestamp="1592039310246" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1592041788169">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/java/cn/cbg/testwebview/MainActivity.java" timestamp="1592039974398">
         <mark key="'" line="44" column="10" />
         <mark key="[" line="8" column="26" />
@@ -130,13 +135,15 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="/LLDB" timestamp="1592029727947">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/fragment_news_detail.xml" timestamp="1592039625814">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1592041783336">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/res/layout/activity_main.xml" timestamp="1592040511926">
         <mark key="[" line="18" column="29" />
@@ -149,6 +156,11 @@
         <mark key="]" line="359" column="85" />
         <mark key="^" line="359" column="85" />
         <mark key="." line="359" column="84" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1592041792775">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
     </filemarks>
     <jumps>
