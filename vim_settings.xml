@@ -116,12 +116,12 @@
         <mark key="." line="8" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-rtc-quick-start/app/src/main/java/cn/rongcloud/quickstart/MainActivity.java" timestamp="1592039372560" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592092557717">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592097257164">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="307" column="95" />
-        <mark key="]" line="308" column="46" />
-        <mark key="." line="308" column="45" />
-        <mark key="^" line="308" column="46" />
+        <mark key="[" line="210" column="109" />
+        <mark key="]" line="210" column="109" />
+        <mark key="." line="210" column="108" />
+        <mark key="^" line="210" column="109" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-rtc-quick-start/app/src/main/java/cn/rongcloud/quickstart/RoomInfoMessage.java" timestamp="1592039310246" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsItemTypeDef.java" timestamp="1592091380209">
@@ -141,11 +141,11 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/related_item_webview.xml" timestamp="1592089715184">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/related_item_webview.xml" timestamp="1592097236392">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AllViewHolder.java" timestamp="1592090633581">
         <mark key="[" line="69" column="19" />
@@ -297,53 +297,53 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgRnJhbWVMYXlvdXQuTGF5b3V0UGFyYW1zIGxwID0KICAgICAgICAgIG5ldyBGcmFtZUxheW91dC5MYXlvdXRQYXJhbXMoTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCwgTGF5b3V0UGFyYW1zLldSQVBfQ09OVEVOVCk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWJWaWV3SXRlbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSI1ZHAiCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjVkcCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgRnJhbWVMYXlvdXQuTGF5b3V0UGFyYW1zIGxwID0KICAgICAgICAgIG5ldyBGcmFtZUxheW91dC5MYXlvdXRQYXJhbXMoTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCwgTGF5b3V0UGFyYW1zLldSQVBfQ09OVEVOVCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJlbnQuZ2V0QWRhcHRlcigpID09IG51bGwpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgbHAuc2V0TWFyZ2lucygxNSwgMCwgMTUsIDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW50IHR5cGUgPSBwYXJlbnQuZ2V0QWRhcHRlcigpLmdldEl0ZW1WaWV3VHlwZShpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHdlYlZpZXcuc2V0TGF5b3V0UGFyYW1zKGxwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlY3ljbGVyVmlldy5zZXRUYWcoIk5ld3NEZXRhaWxGcmFnbWVudCIpOwo=</text>
+        <text encoding="base64">ZGQgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSIxNGRwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHR5cGUgPT0gVFlQRV9ERVRBSUxfVElUTEUKICAgICAgICAgIHx8IHR5cGUgPT0gVFlQRV9BRF9CSUdfSU1HX1RFWFQKICAgICAgICAgIHx8IHR5cGUgPT0gVFlQRV9BRF9PTkxZX0lNQUdFCiAgICAgICAgICB8fCB0eXBlID09IFRZUEVfQURfU01BTExfSU1HX1RFWFQKICAgICAgICAgIHx8IHR5cGUgPT0gVFlQRV9BRF9USFJFRV9JTUdfVEVYVAogICAgICAgICAgfHwgdHlwZSA9PSBUWVBFX0FEX1ZJREVPKSB7CiAgICAgICAgUmVjeWNsZXJWaWV3LkxheW91dFBhcmFtcyBwYXJhbXMgPSAoUmVjeWNsZXJWaWV3LkxheW91dFBhcmFtcykgY2hpbGQuZ2V0TGF5b3V0UGFyYW1zKCk7CiAgICAgICAgaW50IGxlZnQgPSBjaGlsZC5nZXRMZWZ0KCk7CiAgICAgICAgaW50IHJpZ2h0ID0gY2hpbGQuZ2V0UmlnaHQoKTsKICAgICAgICBpbnQgdG9wID0gY2hpbGQuZ2V0Qm90dG9tKCkgKyBwYXJhbXMuYm90dG9tTWFyZ2luOwogICAgICAgIGludCBib3R0b20gPSB0b3AgKyBkaXZpZGVyLmdldEludHJpbnNpY0hlaWdodCgpOwogICAgICAgIGRpdmlkZXIuc2V0Qm91bmRzKGxlZnQsIHRvcCwgcmlnaHQsIGJvdHRvbSk7CiAgICAgICAgZGl2aWRlci5kcmF3KGMpOwogICAgICAgIHJldHVybjsKICAgICAgfQo=</text>
+        <text encoding="base64">ICBhbmRyb2lkOnBhZGRpbmdSaWdodD0iMTRkcCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCB0eXBlID0gcGFyZW50LmdldEFkYXB0ZXIoKS5nZXRJdGVtVmlld1R5cGUoaSk7Cg==</text>
+        <text encoding="base64">ICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSIxNGRwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhcmVudC5nZXRBZGFwdGVyKCkgPT0gbnVsbCkgcmV0dXJuOwogICAgICBpbnQgdHlwZSA9IHBhcmVudC5nZXRBZGFwdGVyKCkuZ2V0SXRlbVZpZXdUeXBlKGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZAo=</text>
+        <text encoding="base64">ICAgIGlmIChwYXJlbnQuZ2V0QWRhcHRlcigpID09IG51bGwpIHJldHVybjsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBPYmplY3QgaXRlbSA9Cg==</text>
+        <text encoding="base64">ICAgICAgaW50IHR5cGUgPSBwYXJlbnQuZ2V0QWRhcHRlcigpLmdldEl0ZW1WaWV3VHlwZShpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
