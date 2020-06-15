@@ -121,11 +121,11 @@
       <file name="/LLDB" timestamp="1592192234037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/ViewController.m" timestamp="1592197634765">
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="16" />
-        <mark key="^" line="54" column="16" />
-        <mark key="." line="54" column="15" />
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/ViewController.m" timestamp="1592199799360">
+        <mark key="[" line="64" column="1" />
+        <mark key="]" line="64" column="1" />
+        <mark key="^" line="64" column="1" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/Custom/RCRTCFileSource.m" timestamp="1592196991499">
         <mark key="[" line="188" column="41" />
@@ -139,7 +139,8 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCLibDefine.h" timestamp="1592197631768" />
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCVideoInputStream.h" timestamp="1592199084756" />
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCLibDefine.h" timestamp="1592197702914" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m" timestamp="1592030239935">
         <mark key="[" line="359" column="85" />
         <mark key="]" line="359" column="85" />
@@ -155,9 +156,6 @@
         <mark key="]" line="664" column="6" />
         <mark key="^" line="664" column="6" />
         <mark key="." line="664" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" timestamp="1592020666577">
-        <mark key="'" line="2309" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -265,14 +263,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>firstObject</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgW3N0cmVhbSBzZXRWaWRlb1ZpZXc6dmlkZW9WaWV3XTsK</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>firstObject</text>
+        <text encoding="base64">ZGU8IyhSQ1JUQ1JlbW90ZVZpZGVvVmlldyAqKXJlbmRlciM+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNeVdlYlZpZXdDbGllbnRcPg==</text>
@@ -281,7 +279,7 @@
         <text encoding="base64">ICBbW1tSQ1JUQ0VuZ2luZSBzaGFyZWRJbnN0YW5jZV0gZGVmYXVsdFZpZGVvU3RyZWFtXSBzZXRWaWRlb1ZpZXc6bG9jYWxWaWV3XTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgW3N0cmVhbSBzZXRWaWRlb1ZpZXc6dmlkZW9WaWV3XTsK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
@@ -290,19 +288,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBbW1JDSU1DbGllbnQgc2hhcmVkUkNJTUNsaWVudF0gY29ubmVjdFdpdGhUb2tlbjpAInhsRWhvcFM0Y29kRU1hU3FDY1QxejgyeXEraGZFbHVMalo3OEUxcW80aEV4MTZRMkRldVlQNzFjcXpyZU02aWh3ZjN0cU9JcWNuenhxNzZmR1B0YUFialFEUHN3TDdEWTlOMjY4cU9OYWFNPSIgZGJPcGVuZWQ6XihSQ0RCRXJyb3JDb2RlIGNvZGUpIHsKICAgIAogIH0gIHN1Y2Nlc3M6XigKICAgICAgTlNTdHJpbmcgKnVzZXJJZCkgewogICAgLy8g5Yqg5YWl5oi/6Ze0CiAgICBbW1JDUlRDRW5naW5lIHNoYXJlZEluc3RhbmNlXSBqb2luUm9vbTpAIkhlbGxvUlRDIiBjb21wbGV0aW9uOl4oUkNSVENSb29tICpfTnVsbGFibGUgcm9vbSwKICAgICAgICBSQ1JUQ0NvZGUgY29kZSkgewogICAgICByb29tLmRlbGVnYXRlID0gc2VsZjsKICAgICAgc2VsZi5yb29tID0gcm9vbTsKICAgICAgLy8g5Y+R5biD6LWE5rqQCiAgICAgIFtyb29tLmxvY2FsVXNlciBwdWJsaXNoRGVmYXVsdFN0cmVhbTpeKEJPT0wgaXNTdWNjZXNzLCBSQ1JUQ0NvZGUgZGVzYykgewoKICAgICAgfV07CiAgICB9XTsKCiAgfSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3I6XihSQ0Nvbm5lY3RFcnJvckNvZGUgc3RhdHVzKSB7CgogIH0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRva2VuSW5jb3JyZWN0Ol57CgogIH1dOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIERMb2coQCJNQ2xpZW50IGNvbm5lY3RXaXRoVG9rZW4gRXJyb3I6ICV6ZCIsIHN0YXR1cyk7CiAgICAgICAgaWYgKHN0YXR1cyA9PSBSQ19DT05OX1RPS0VOX0lOQ09SUkVDVCkgewogICAgICAgICAgZGlzcGF0Y2hfYXN5bmMoZGlzcGF0Y2hfZ2V0X21haW5fcXVldWUoKSwgXnsKICAgICAgICAgICAgW3NlbGYubG9naW5WaWV3QnVpbGRlciBzaG93VmFsaWRhdGVWaWV3OllFU107CiAgICAgICAgICB9KTsKICAgICAgICB9</text>
+        <text encoding="base64">ICAKICBbW1JDSU1DbGllbnQgc2hhcmVkUkNJTUNsaWVudF0gY29ubmVjdFdpdGhUb2tlbjpAInhsRWhvcFM0Y29kRU1hU3FDY1QxejgyeXEraGZFbHVMalo3OEUxcW80aEV4MTZRMkRldVlQNzFjcXpyZU02aWh3ZjN0cU9JcWNuenhxNzZmR1B0YUFialFEUHN3TDdEWTlOMjY4cU9OYWFNPSIgZGJPcGVuZWQ6XihSQ0RCRXJyb3JDb2RlIGNvZGUpIHsKICAgIAogIH0gIHN1Y2Nlc3M6XigKICAgICAgTlNTdHJpbmcgKnVzZXJJZCkgewogICAgLy8g5Yqg5YWl5oi/6Ze0CiAgICBbW1JDUlRDRW5naW5lIHNoYXJlZEluc3RhbmNlXSBqb2luUm9vbTpAIkhlbGxvUlRDIiBjb21wbGV0aW9uOl4oUkNSVENSb29tICpfTnVsbGFibGUgcm9vbSwKICAgICAgICBSQ1JUQ0NvZGUgY29kZSkgewogICAgICByb29tLmRlbGVnYXRlID0gc2VsZjsKICAgICAgc2VsZi5yb29tID0gcm9vbTsKICAgICAgLy8g5Y+R5biD6LWE5rqQCiAgICAgIFtyb29tLmxvY2FsVXNlciBwdWJsaXNoRGVmYXVsdFN0cmVhbTpeKEJPT0wgaXNTdWNjZXNzLCBSQ1JUQ0NvZGUgZGVzYykgewoKICAgICAgfV07CiAgICB9XTsKCiAgfSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3I6XihSQ0Nvbm5lY3RFcnJvckNvZGUgc3RhdHVzKSB7CgogIH0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRva2VuSW5jb3JyZWN0Ol57CgogIH1dOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERMb2coQCJNQ2xpZW50IGRiT3BlbmVkIGNvZGU6ICV6ZCIsIGNvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgIERMb2coQCJNQ2xpZW50IGNvbm5lY3RXaXRoVG9rZW4gRXJyb3I6ICV6ZCIsIHN0YXR1cyk7CiAgICAgICAgaWYgKHN0YXR1cyA9PSBSQ19DT05OX1RPS0VOX0lOQ09SUkVDVCkgewogICAgICAgICAgZGlzcGF0Y2hfYXN5bmMoZGlzcGF0Y2hfZ2V0X21haW5fcXVldWUoKSwgXnsKICAgICAgICAgICAgW3NlbGYubG9naW5WaWV3QnVpbGRlciBzaG93VmFsaWRhdGVWaWV3OllFU107CiAgICAgICAgICB9KTsKICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIERMb2coQCJNQ2xpZW50IGRiT3BlbmVkIGNvZGU6ICV6ZCIsIGNvZGUpOwo=</text>
@@ -311,7 +309,7 @@
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBbW1JvbmdSVENBVkNhcHR1cmVyIHNoYXJlZEluc3RhbmNlXSBzdGFydENhcHR1cmVdOwo=</text>
+        <text encoding="base64">ICAgIERMb2coQCJNQ2xpZW50IGRiT3BlbmVkIGNvZGU6ICV6ZCIsIGNvZGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
