@@ -103,6 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/ViewController.m" timestamp="1592193835013">
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="23" />
+        <mark key="^" line="35" column="23" />
+        <mark key="." line="35" column="22" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/AdModel.java" timestamp="1592005028634">
         <mark key="'" line="53" column="16" />
         <mark key="[" line="77" column="0" />
@@ -124,6 +130,7 @@
         <mark key="^" line="19" column="85" />
         <mark key="." line="19" column="84" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RongRTCLib.h" timestamp="1592193372096" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCTimingLogService.m_dir/fragment.m" timestamp="1592030504652">
         <mark key="[" line="0" column="0" />
       </file>
