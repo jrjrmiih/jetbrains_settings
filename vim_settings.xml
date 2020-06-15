@@ -133,12 +133,6 @@
         <mark key="." line="86" column="54" />
         <mark key="^" line="86" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/res/layout/full_screen.xml" timestamp="1591951217670">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m_dir/fragment.m" timestamp="1592030498223">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,12 +141,6 @@
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="33" />
         <mark key="^" line="18" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/RcrtcDemo/app/src/main/AndroidManifest.xml" timestamp="1591950697288">
-        <mark key="[" line="16" column="79" />
-        <mark key="]" line="16" column="79" />
-        <mark key="." line="16" column="78" />
-        <mark key="^" line="16" column="79" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m" timestamp="1592030239935">
         <mark key="[" line="359" column="85" />
@@ -166,24 +154,27 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/Custom/RCRTCFileSource.m_dir/fragment.m" timestamp="1592037366854">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/java/cn/cbg/testwebview/MainActivity.java" timestamp="1592004191731">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1592036060208">
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1592037366212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCTimingLogService.m" timestamp="1592036055746" />
+      <file name="/LLDB" timestamp="1592037433842">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCTimingLogService.m" timestamp="1592037365813" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Utilities/RCRTCLogUtility.m" timestamp="1592020716430">
         <mark key="[" line="664" column="6" />
         <mark key="]" line="664" column="6" />
         <mark key="^" line="664" column="6" />
         <mark key="." line="664" column="5" />
-      </file>
-      <file name="/fragment.java" timestamp="1591927548292">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Engine/RCRTCEngine.m" timestamp="1592020666577">
         <mark key="'" line="2309" column="27" />
