@@ -118,7 +118,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCCameraOutputStream.h" timestamp="1592196337869" />
-      <file name="/LLDB" timestamp="1592192234037">
+      <file name="/LLDB" timestamp="1592201773599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/ViewController.m" timestamp="1592199799360">
@@ -147,16 +147,10 @@
         <mark key="^" line="359" column="85" />
         <mark key="." line="359" column="84" />
       </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1592037366212">
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1592201804658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCRoomEventDelegate.h" timestamp="1592197557750" />
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Utilities/RCRTCLogUtility.m" timestamp="1592020716430">
-        <mark key="[" line="664" column="6" />
-        <mark key="]" line="664" column="6" />
-        <mark key="^" line="664" column="6" />
-        <mark key="." line="664" column="5" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="146" column="12" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNewsFeedsSDK.java" />
