@@ -144,7 +144,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
-    <option name="RIGHT_MARGIN" value="100" />
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="0" />

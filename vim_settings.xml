@@ -103,26 +103,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/ViewController.m" timestamp="1592196641099">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="66" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCLocalVideoView.h" timestamp="1592195811861" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/AdModel.java" timestamp="1592005028634">
-        <mark key="'" line="53" column="16" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongIMLib.framework/Headers/RCIMClient.h" timestamp="1592196954697" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCTimingLogService.m_dir/fragment.m" timestamp="1592030504652">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/Custom/RCRTCFileSource.m" timestamp="1592192236862" />
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Login/LoginManager.h" timestamp="1592018916463">
-        <mark key="[" line="19" column="85" />
-        <mark key="]" line="19" column="85" />
-        <mark key="^" line="19" column="85" />
-        <mark key="." line="19" column="84" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Login/LoginViewController.m" timestamp="1592196990679" />
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCLocalUser.h" timestamp="1592195907468" />
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCEngine.h" timestamp="1592196607767" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m_dir/fragment.m" timestamp="1592030498223">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/Custom/RCRTCFileSource.m_dir/fragment.m" timestamp="1592037366854">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCCameraOutputStream.h" timestamp="1592196337869" />
+      <file name="/LLDB" timestamp="1592192234037">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/ViewController.m" timestamp="1592197634765">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="16" />
+        <mark key="^" line="54" column="16" />
+        <mark key="." line="54" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/Custom/RCRTCFileSource.m" timestamp="1592196991499">
+        <mark key="[" line="188" column="41" />
+        <mark key="]" line="188" column="41" />
+        <mark key="^" line="188" column="41" />
+        <mark key="." line="188" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RongRTCLib.h" timestamp="1592196234103">
         <mark key="[" line="39" column="32" />
@@ -130,43 +139,17 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCTimingLogService.m_dir/fragment.m" timestamp="1592030504652">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592005088353">
-        <mark key="'" line="32" column="53" />
-        <mark key="[" line="86" column="55" />
-        <mark key="]" line="86" column="55" />
-        <mark key="." line="86" column="54" />
-        <mark key="^" line="86" column="55" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCLocalUser.h" timestamp="1592195907468" />
-      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCEngine.h" timestamp="1592196607767" />
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m_dir/fragment.m" timestamp="1592030498223">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestWebView/app/src/main/res/layout/activity_main.xml" timestamp="1592005285362">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="33" />
-        <mark key="^" line="18" column="34" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCLibDefine.h" timestamp="1592197631768" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-imsdk/imlib/RongIMLib/FwLog/RCLogUploader.m" timestamp="1592030239935">
         <mark key="[" line="359" column="85" />
         <mark key="]" line="359" column="85" />
         <mark key="^" line="359" column="85" />
         <mark key="." line="359" column="84" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-sealrtc/SealRTC/Chat/Custom/RCRTCFileSource.m_dir/fragment.m" timestamp="1592037366854">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCCameraOutputStream.h" timestamp="1592196337869" />
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1592037366212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1592192234037">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/RTCQuickStartDemo/RTCQuickStartDemo/frameworks/RongRTCLib.framework/Headers/RCRTCRoomEventDelegate.h" timestamp="1592197557750" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/ios-rtcsdk/RongRTCLib/RongRTCLib/Utilities/RCRTCLogUtility.m" timestamp="1592020716430">
         <mark key="[" line="664" column="6" />
         <mark key="]" line="664" column="6" />
@@ -282,14 +265,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBbW1JvbmdSVENBVkNhcHR1cmVyIHNoYXJlZEluc3RhbmNlXSBzdGFydENhcHR1cmVdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>firstObject</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCMoUkNSVENMb2NhbFZpZGVvVmlldyAqKXJlbmRlciM+</text>
+        <text>firstObject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNeVdlYlZpZXdDbGllbnRcPg==</text>
@@ -298,37 +281,37 @@
         <text encoding="base64">ICBbW1tSQ1JUQ0VuZ2luZSBzaGFyZWRJbnN0YW5jZV0gZGVmYXVsdFZpZGVvU3RyZWFtXSBzZXRWaWRlb1ZpZXc6bG9jYWxWaWV3XTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBbW1JvbmdSVENBVkNhcHR1cmVyIHNoYXJlZEluc3RhbmNlXSBzdGFydENhcHR1cmVdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBbW1JvbmdSVENBVkNhcHR1cmVyIHNoYXJlZEluc3RhbmNlXSBzZXRWaWRlb1JlbmRlcjpsb2NhbFZpZXddOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIE5GTG9nLmQoIlJZTV9ERyIsICJsYXN0ISEhISIpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2b2lkIHNldFdlYlZpZXcoKSB7CiAgICBXZWJTZXR0aW5ncyB3ZWJTZXR0aW5ncyA9IHdlYlZpZXcuZ2V0U2V0dGluZ3MoKTsKICAgIHdlYlNldHRpbmdzLnNldEphdmFTY3JpcHRFbmFibGVkKHRydWUpOwogIH0=</text>
+        <text encoding="base64">ICAKICBbW1JDSU1DbGllbnQgc2hhcmVkUkNJTUNsaWVudF0gY29ubmVjdFdpdGhUb2tlbjpAInhsRWhvcFM0Y29kRU1hU3FDY1QxejgyeXEraGZFbHVMalo3OEUxcW80aEV4MTZRMkRldVlQNzFjcXpyZU02aWh3ZjN0cU9JcWNuenhxNzZmR1B0YUFialFEUHN3TDdEWTlOMjY4cU9OYWFNPSIgZGJPcGVuZWQ6XihSQ0RCRXJyb3JDb2RlIGNvZGUpIHsKICAgIAogIH0gIHN1Y2Nlc3M6XigKICAgICAgTlNTdHJpbmcgKnVzZXJJZCkgewogICAgLy8g5Yqg5YWl5oi/6Ze0CiAgICBbW1JDUlRDRW5naW5lIHNoYXJlZEluc3RhbmNlXSBqb2luUm9vbTpAIkhlbGxvUlRDIiBjb21wbGV0aW9uOl4oUkNSVENSb29tICpfTnVsbGFibGUgcm9vbSwKICAgICAgICBSQ1JUQ0NvZGUgY29kZSkgewogICAgICByb29tLmRlbGVnYXRlID0gc2VsZjsKICAgICAgc2VsZi5yb29tID0gcm9vbTsKICAgICAgLy8g5Y+R5biD6LWE5rqQCiAgICAgIFtyb29tLmxvY2FsVXNlciBwdWJsaXNoRGVmYXVsdFN0cmVhbTpeKEJPT0wgaXNTdWNjZXNzLCBSQ1JUQ0NvZGUgZGVzYykgewoKICAgICAgfV07CiAgICB9XTsKCiAgfSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3I6XihSQ0Nvbm5lY3RFcnJvckNvZGUgc3RhdHVzKSB7CgogIH0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRva2VuSW5jb3JyZWN0Ol57CgogIH1dOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldFdlYlZpZXcoKTsK</text>
+        <text encoding="base64">ICAgICAgIERMb2coQCJNQ2xpZW50IGNvbm5lY3RXaXRoVG9rZW4gRXJyb3I6ICV6ZCIsIHN0YXR1cyk7CiAgICAgICAgaWYgKHN0YXR1cyA9PSBSQ19DT05OX1RPS0VOX0lOQ09SUkVDVCkgewogICAgICAgICAgZGlzcGF0Y2hfYXN5bmMoZGlzcGF0Y2hfZ2V0X21haW5fcXVldWUoKSwgXnsKICAgICAgICAgICAgW3NlbGYubG9naW5WaWV3QnVpbGRlciBzaG93VmFsaWRhdGVWaWV3OllFU107CiAgICAgICAgICB9KTsKICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdlYlZpZXcuc2V0V2ViVmlld0NsaWVudChuZXcgTXlXZWJWaWV3Q2xpZW50KCkpOwo=</text>
+        <text encoding="base64">ICAgIERMb2coQCJNQ2xpZW50IGRiT3BlbmVkIGNvZGU6ICV6ZCIsIGNvZGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUHJvZ3Jlc3NCYXIgcHJvZ3Jlc3NCYXI7Cg==</text>
+        <text encoding="base64">ICAgIERMb2coQCJNQ2xpZW50IGRiT3BlbmVkIGNvZGU6ICV6ZCIsIGNvZGUpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcm9ncmVzc0Jhcj1maW5kVmlld0J5SWQoUi5pZC5wcm9ncmVzcyk7Cg==</text>
+        <text encoding="base64">ICBbW1JvbmdSVENBVkNhcHR1cmVyIHNoYXJlZEluc3RhbmNlXSBzdGFydENhcHR1cmVdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
