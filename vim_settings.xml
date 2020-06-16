@@ -127,7 +127,7 @@
         <mark key="^" line="45" column="42" />
         <mark key="." line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/related_item_title.xml" timestamp="1592273157753">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/related_item_title.xml" timestamp="1592293480746">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="38" />
@@ -147,6 +147,12 @@
         <mark key="]" line="64" column="28" />
         <mark key="." line="64" column="27" />
         <mark key="^" line="64" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_news_closed.xml" timestamp="1592293816767">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="25" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1592273117515">
         <mark key="[" line="10" column="40" />
@@ -172,17 +178,17 @@
         <mark key="." line="15" column="73" />
         <mark key="^" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_news_close_item_above.xml" timestamp="1592293540817">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="38" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/ad_item_three_img_text.xml" timestamp="1592272991218">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1592271196242">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="34" />
-        <mark key="^" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/ad_item_small_img_text.xml" timestamp="1592273037426">
         <mark key="[" line="63" column="0" />
@@ -195,17 +201,11 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_report_error_item.xml" timestamp="1592272939898">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_report_error_item.xml" timestamp="1592293100384">
         <mark key="[" line="9" column="40" />
         <mark key="]" line="8" column="38" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="37" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/res/values/styles.xml" timestamp="1592271181580">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1592273143464">
         <mark key="[" line="72" column="46" />
@@ -325,20 +325,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXBvcnRFcnJvclZIXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2ViVmlldy5sb2FkRGF0YSh2YXJqcyArIGNzcyArIG5ld3MuY29udGVudCwgInRleHQvaHRtbDsgY2hhcnNldD1VVEYtOCIsIG51bGwpOwo=</text>
+        <text encoding="base64">IDxpbmNsdWRlCiAgIGFuZHJvaWQ6aWQ9IkAraWQvY2xvc2Vfbm90X2ludGVyZXN0aW5nIgogICBsYXlvdXQ9IkBsYXlvdXQvZGlhbG9nX25ld3NfY2xvc2VfaXRlbV9hYm92ZSIvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -346,32 +346,32 @@
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBTdHJpbmcgdmFyanMgPQogICAgICAvLyAgICAgICAgICAiPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPiBcbndpbmRvdy5vbmxvYWQgPSBmdW5jdGlvbigpXG57dmFyICRpbWcgPQogICAgICAvLyBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaW1nJyk7Zm9yKHZhciBwIGluICAkaW1nKXskaW1nW3BdLnN0eWxlLndpZHRoID0gJzEwMCUnOwogICAgICAvLyAkaW1nW3BdLnN0eWxlLmhlaWdodCA9J2F1dG8nfX08L3NjcmlwdD4iOwogICAgICAvLyAgICAgIFN0cmluZyBjc3MgPQogICAgICAvLyAgICAgICAgICAiPHN0eWxlPlxuaHRtbCxib2R5e1xuICAgIGZvbnQtZmFtaWx5OlNvdXJjZSBIYW4gU2FucyBDTiBOb3JtYWw7XG4KICAgICAgLy8gbGluZS1oZWlnaHQ6MS44O1xufVxuaW1nLHZpZGVvIHtcbiAgICBtYXgtd2lkdGg6MTAwJTtcbn1cbjwvc3R5bGU+Ijs=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PFJlbGF0aXZlTGF5b3V0CiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjU3ZHAiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpwYWRkaW5nPSIxNGRwIj4KCiAgICA8SW1hZ2VWaWV3CiAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIKICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvbmV3c19jbG9zZV9pY29uMSIgLz4KCiAgICA8VGV4dFZpZXcKICAgICAgYW5kcm9pZDppbmNsdWRlRm9udFBhZGRpbmc9ImZhbHNlIgogICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxMGRwIgogICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICBhbmRyb2lkOnRleHQ9IuS4jeaEn+WFtOi2oyIKICAgICAgdG9vbHM6aWdub3JlPSJSdGxIYXJkY29kZWQiIC8+CgogICAgPFZpZXcKICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSIjRjJGMkYyIgogICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudEJvdHRvbT0idHJ1ZSIKICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIxZHAiCiAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiIC8+CiAgPC9SZWxhdGl2ZUxheW91dD4=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgd2ViVmlldy5sb2FkRGF0YSh2YXJqcyArIGNzcyArIG5ld3MuY29udGVudCwgInRleHQvaHRtbDsgY2hhcnNldD1VVEYtOCIsIG51bGwpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgYW5kcm9pZDpwYWRkaW5nPSIxNGRwIg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2ViVmlldy5sb2FkRGF0YSh2YXJqcyArIGNzcyArIG5ld3MuY29udGVudCwgInRleHQvaHRtbDsgY2hhcnNldD1VVEYtOCIsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2ViVmlldy5zZXRXZWJWaWV3Q2xpZW50KG5ldyBNeVdlYlZpZXdDbGllbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2ViVmlldy5zZXRXZWJWaWV3Q2xpZW50KG5ldyBNeVdlYlZpZXdDbGllbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2ViVmlldy5sb2FkVXJsKG5ld3MudmlkZW9zWzBdLm1wNFNkVXJsKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgYXBwOmNvbHVtbkNvdW50PSIyIg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOeUseS6jue9kemhteS4iuaYr+ayoeacieadg+mZkOiuv+mXruacrOWcsOeahGFzc2V05paH5Lu25aS555qE77yM5Zug5q2k5oiR5Lus6ZyA6KaB5oum5oiq6K+35rGC5p2l5Yqg6L295pys5Zyw55qE5paH5Lu277yM5aaC5p6c5piv5Luj56CB54mH5q615Y+v5Lul55u05o6l55SoYXNzZXTmlofku7blpLnvvIzmiJHov5nph4zmm7/mjaLkuoZgZmlsZToKICAgIC8vIGFuZHJvaWRfYXNzZXRzL2DkuLogYCoqaW5qZWN0aW9uKiovYOS6hu+8jOaIkeS7rOi/mOmcgOimgemHjeWGmWBzaG91bGRJbnRlcmNlcHRSZXF1ZXN0YAogICAgLy8g5Zyo6K+35rGC5Li65oiR5Lus6L+Z5Liq5a2X5L2T5paH5Lu255qE5pe25YCZ77yM5Yqg6L295pys5Zyw5paH5Lu277yaCg==</text>
+        <text encoding="base64">ICBhbmRyb2lkOmlkPSJAK2lkL2dyaWRfbGF5b3V0X25ld3NfY2xvc2VkIgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
