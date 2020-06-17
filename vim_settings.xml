@@ -128,11 +128,11 @@
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1592402594030">
-        <mark key="[" line="69" column="42" />
-        <mark key="]" line="70" column="41" />
-        <mark key="^" line="70" column="41" />
-        <mark key="." line="70" column="40" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1592402776793">
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="28" />
+        <mark key="^" line="68" column="28" />
+        <mark key="." line="69" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/build.gradle" timestamp="1592371799282">
         <mark key="[" line="29" column="34" />
@@ -317,19 +317,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>wrap_content</text>
+        <text>0</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXBvcnRFcnJvclZIXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTBkcCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
