@@ -110,6 +110,12 @@
         <mark key="^" line="207" column="1" />
         <mark key="." line="207" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNewsFeedsSDK.java" timestamp="1592394527135">
+        <mark key="[" line="823" column="15" />
+        <mark key="]" line="823" column="15" />
+        <mark key="^" line="823" column="15" />
+        <mark key="." line="823" column="14" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_report_error.xml" timestamp="1592391255983">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="11" column="38" />
@@ -121,12 +127,6 @@
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1592273129285">
-        <mark key="[" line="45" column="44" />
-        <mark key="]" line="45" column="42" />
-        <mark key="^" line="45" column="42" />
-        <mark key="." line="45" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/build.gradle" timestamp="1592371799282">
         <mark key="[" line="29" column="34" />
