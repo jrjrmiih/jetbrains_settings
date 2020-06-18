@@ -169,6 +169,12 @@
         <mark key="^" line="240" column="16" />
         <mark key="." line="240" column="15" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/calllib/src/main/java/io/rong/calllib/RongCallEngine.java" timestamp="1592470936629">
+        <mark key="[" line="1174" column="64" />
+        <mark key="]" line="1174" column="64" />
+        <mark key="^" line="1174" column="64" />
+        <mark key="." line="1174" column="63" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/java/rym/demo/newsfeed/App.java" timestamp="1592443668336">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="26" column="30" />
@@ -181,12 +187,6 @@
         <mark key="]" line="682" column="47" />
         <mark key="^" line="682" column="47" />
         <mark key="." line="682" column="46" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1592411044781">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="56" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1592413033382">
         <mark key="[" line="0" column="0" />
