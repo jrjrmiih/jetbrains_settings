@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDx0YWJJbmRleGVyXD4=</entry>
         <entry encoding="base64">XDxtQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxuZXdzTGlzdEZyYWdtZW50c1w+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxvdGhlclJlYXNvblw+</entry>
         <entry encoding="base64">XDxSZXBvcnRFcnJvclZIXD4=</entry>
         <entry encoding="base64">XDxHbGlkZVw+</entry>
+        <entry encoding="base64">XDxzdGV0aG9NYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -103,6 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/client/NNFUrlConnectionClient.java" timestamp="1592445922170">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592413507880">
         <mark key="'" line="26" column="20" />
         <mark key="[" line="180" column="55" />
@@ -110,17 +116,19 @@
         <mark key="^" line="180" column="55" />
         <mark key="." line="180" column="54" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/HtmlScraper.java" timestamp="1592445633096" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592413594487">
         <mark key="[" line="345" column="57" />
         <mark key="]" line="345" column="57" />
         <mark key="^" line="331" column="69" />
         <mark key="." line="345" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNewsFeedsSDK.java" timestamp="1592394527135">
-        <mark key="[" line="823" column="15" />
-        <mark key="]" line="823" column="15" />
-        <mark key="^" line="823" column="15" />
-        <mark key="." line="823" column="14" />
+      <file name="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/Networker.java" timestamp="1592445913853">
+        <mark key="'" line="80" column="22" />
+        <mark key="[" line="118" column="9" />
+        <mark key="]" line="118" column="9" />
+        <mark key="^" line="118" column="9" />
+        <mark key="." line="118" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsClosedDialog.java" timestamp="1592411749634">
         <mark key="[" line="24" column="33" />
@@ -145,12 +153,6 @@
         <mark key="]" line="153" column="44" />
         <mark key="^" line="153" column="44" />
         <mark key="." line="153" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/drawable/btn_news_close_press.xml" timestamp="1592394063555">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_news_closed.xml" timestamp="1592404953858">
         <mark key="[" line="8" column="28" />
@@ -177,12 +179,6 @@
         <mark key="." line="26" column="29" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/drawable/btn_news_close_default.xml" timestamp="1592394065922">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="2" column="29" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/5f95e3cc34b116a8024f2af42f66e257d2e28ccb/glide-4.9.0-sources.jar!/com/bumptech/glide/RequestBuilder.java" timestamp="1592412853091">
         <mark key="[" line="682" column="47" />
         <mark key="]" line="682" column="47" />
@@ -206,9 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="24" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="208" column="21" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="233" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="102" column="19" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="294" column="19" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
       <jump line="395" column="15" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
@@ -306,6 +299,9 @@
       <jump line="26" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
       <jump line="136" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AllViewHolder.java" />
       <jump line="180" column="49" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AllViewHolder.java" />
+      <jump line="55" column="45" filename="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/Networker.java" />
+      <jump line="60" column="6" filename="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/Networker.java" />
+      <jump line="80" column="22" filename="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/Networker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +316,7 @@
         <text>wrap_content</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHbGlkZVw+</text>
+        <text encoding="base64">XDxzdGV0aG9NYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>cover</text>
@@ -365,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxHbGlkZVw+</last-search>
+      <last-search encoding="base64">XDxzdGV0aG9NYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHbGlkZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGV0aG9NYW5hZ2VyXD4=</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
