@@ -103,19 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/calllib/src/main/java/io/rong/calllib/RongCallManager.java" timestamp="1592471016844">
-        <mark key="[" line="3347" column="24" />
-        <mark key="]" line="3347" column="24" />
-        <mark key="^" line="3347" column="24" />
-        <mark key="." line="3347" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" timestamp="1592447093242">
-        <mark key="'" line="293" column="20" />
-        <mark key="[" line="239" column="17" />
-        <mark key="]" line="239" column="17" />
-        <mark key="^" line="239" column="17" />
-        <mark key="." line="239" column="16" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592520119200">
         <mark key="[" line="477" column="0" />
         <mark key="]" line="477" column="0" />
@@ -155,6 +142,12 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="207" column="42" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1592555544259">
+        <mark key="[" line="86" column="43" />
+        <mark key="]" line="86" column="43" />
+        <mark key="^" line="86" column="43" />
+        <mark key="." line="86" column="42" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsClosedDialog.java" timestamp="1592522121145">
         <mark key="'" line="57" column="6" />
         <mark key="[" line="57" column="39" />
@@ -180,12 +173,6 @@
         <mark key="]" line="18" column="94" />
         <mark key="^" line="124" column="59" />
         <mark key="." line="18" column="94" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/calllib/src/main/java/io/rong/calllib/RongCallEngine.java" timestamp="1592471014634">
-        <mark key="[" line="1174" column="64" />
-        <mark key="]" line="1174" column="64" />
-        <mark key="^" line="1174" column="64" />
-        <mark key="." line="1174" column="63" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/res/Resources.java" timestamp="1592519916687" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListDivider.java" timestamp="1592520014752">
