@@ -142,12 +142,7 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="207" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1592555544259">
-        <mark key="[" line="86" column="43" />
-        <mark key="]" line="86" column="43" />
-        <mark key="^" line="86" column="43" />
-        <mark key="." line="86" column="42" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1592556517237" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsClosedDialog.java" timestamp="1592522121145">
         <mark key="'" line="57" column="6" />
         <mark key="[" line="57" column="39" />
