@@ -103,9 +103,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592625708136">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592625714317">
         <mark key="'" line="108" column="25" />
-        <mark key="[" line="108" column="1" />
+        <mark key="[" line="108" column="17" />
         <mark key="]" line="108" column="1" />
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="1" />
