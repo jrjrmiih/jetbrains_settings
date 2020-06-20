@@ -136,12 +136,12 @@
         <mark key="^" line="242" column="24" />
         <mark key="." line="242" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592660565626">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592660566046">
         <mark key="'" line="355" column="30" />
-        <mark key="[" line="209" column="24" />
-        <mark key="]" line="209" column="24" />
-        <mark key="." line="209" column="23" />
-        <mark key="^" line="209" column="24" />
+        <mark key="[" line="209" column="56" />
+        <mark key="]" line="209" column="56" />
+        <mark key="." line="209" column="55" />
+        <mark key="^" line="209" column="56" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1592556517237" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0d8631342a4303db742e938087ddab9/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1592647122185">
