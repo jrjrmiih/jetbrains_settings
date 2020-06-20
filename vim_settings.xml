@@ -172,10 +172,11 @@
         <mark key="." line="18" column="94" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/AndroidManifest.xml" timestamp="1592646939576" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1592648213156">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1592648302541">
+        <mark key="[" line="120" column="43" />
+        <mark key="]" line="120" column="43" />
+        <mark key="." line="120" column="42" />
+        <mark key="^" line="120" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/LoadMoreOnScrollListener.java" timestamp="1592618345875" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build.gradle" timestamp="1592648200836">
