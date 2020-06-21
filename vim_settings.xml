@@ -128,6 +128,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/Rebound-RecyclerView-Android/app/build.gradle" timestamp="1592755875082" />
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values/attrs.xml" timestamp="1592742197902" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build/intermediates/packaged_res/debug/layout/fragment_news_main.xml" timestamp="1592745484808">
         <mark key="[" line="13" column="27" />
@@ -157,12 +158,6 @@
         <mark key="]" line="25" column="34" />
         <mark key="." line="25" column="34" />
         <mark key="^" line="27" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AllViewHolder.java" timestamp="1592723391798">
-        <mark key="'" line="32" column="36" />
-        <mark key="[" line="96" column="5" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1592755305543">
         <mark key="[" line="61" column="0" />
