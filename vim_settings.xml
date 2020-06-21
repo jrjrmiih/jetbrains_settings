@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" timestamp="1592715091877">
+      <file name="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" timestamp="1592716221314">
         <mark key="'" line="152" column="31" />
         <mark key="[" line="294" column="19" />
         <mark key="]" line="294" column="19" />
@@ -116,11 +116,11 @@
         <mark key="^" line="56" column="26" />
         <mark key="." line="56" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592715247376">
-        <mark key="[" line="370" column="57" />
-        <mark key="]" line="371" column="31" />
-        <mark key="." line="371" column="30" />
-        <mark key="^" line="371" column="31" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592718532106">
+        <mark key="[" line="132" column="21" />
+        <mark key="]" line="133" column="65" />
+        <mark key="^" line="133" column="65" />
+        <mark key="." line="133" column="64" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/Networker.java" timestamp="1592710891684">
         <mark key="'" line="133" column="10" />
@@ -131,13 +131,6 @@
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/report/SessionHandler.java" timestamp="1592712120642" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/operation/ResponseHandleRequest.java" timestamp="1592712183931" />
-      <file name="$USER_HOME$/Workspace/android-space/stetho/stetho-urlconnection/src/main/java/com/facebook/stetho/urlconnection/StethoURLConnectionManager.java" timestamp="1592705616322">
-        <mark key="'" line="57" column="8" />
-        <mark key="[" line="58" column="23" />
-        <mark key="]" line="58" column="23" />
-        <mark key="^" line="58" column="23" />
-        <mark key="." line="58" column="22" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/core/Request.java" timestamp="1592711929129">
         <mark key="'" line="12" column="28" />
         <mark key="[" line="151" column="14" />
@@ -145,17 +138,16 @@
         <mark key="^" line="151" column="14" />
         <mark key="." line="151" column="13" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1592717673542">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/APODActivity.java" timestamp="1592710838611">
         <mark key="[" line="130" column="13" />
         <mark key="]" line="130" column="13" />
         <mark key="^" line="130" column="13" />
         <mark key="." line="130" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNFConfig.java" timestamp="1592708955009">
-        <mark key="[" line="88" column="25" />
-        <mark key="]" line="88" column="25" />
-        <mark key="^" line="88" column="25" />
-        <mark key="." line="88" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-urlconnection/1.5.1/a8c01af291aa21c8d7423152c9c2bc2691ed17d6/stetho-urlconnection-1.5.1-sources.jar!/com/facebook/stetho/urlconnection/StethoURLConnectionManagerImpl.java" timestamp="1592709618289" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/client/NNFUrlConnectionClient.java" timestamp="1592713318193">
@@ -165,12 +157,18 @@
         <mark key="^" line="96" column="29" />
         <mark key="." line="96" column="28" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-urlconnection/1.5.1/a8c01af291aa21c8d7423152c9c2bc2691ed17d6/stetho-urlconnection-1.5.1-sources.jar!/com/facebook/stetho/urlconnection/StethoURLConnectionManager.java" timestamp="1592705853625" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592715251599">
-        <mark key="[" line="213" column="11" />
-        <mark key="]" line="213" column="11" />
-        <mark key="." line="213" column="10" />
-        <mark key="^" line="213" column="11" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592718372058">
+        <mark key="[" line="159" column="15" />
+        <mark key="]" line="159" column="15" />
+        <mark key="." line="159" column="14" />
+        <mark key="^" line="159" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsClosedDialog.java" timestamp="1592717880199">
+        <mark key="'" line="58" column="6" />
+        <mark key="[" line="24" column="79" />
+        <mark key="]" line="24" column="79" />
+        <mark key="." line="24" column="78" />
+        <mark key="^" line="24" column="79" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AllViewHolder.java" timestamp="1592714808101">
         <mark key="'" line="32" column="36" />
@@ -178,13 +176,19 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_news_closed.xml" timestamp="1592716786197">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/StorageHandler.java" timestamp="1592712106505">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="14" />
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/report/NNFTracker.java" timestamp="1592712116324">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/report/NNFTracker.java" timestamp="1592716850635">
         <mark key="'" line="296" column="63" />
         <mark key="[" line="102" column="15" />
         <mark key="]" line="102" column="15" />
@@ -314,96 +318,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>new FeedNativeAd.ShowViewListener() {
-            @Override
-            public void onAdClicked(View var1, FeedNativeAd var2) {}
-
-            @Override
-            public void onAdShow(FeedNativeAd var1) {
-              var1.setDownlandListener(
-                  new FeedNativeAd.DownloadListener() {
-                    @Override
-                    public void onClickDownload() {}
-
-                    @Override
-                    public void onDownloading(
-                        long totalBytes, long currBytes, String fileName, String appName) {}
-
-                    @Override
-                    public void onDownloadPaused(
-                        long totalBytes, long currBytes, String fileName, String appName) {}
-
-                    @Override
-                    public void onDownloadFailed(
-                        long totalBytes, long currBytes, String fileName, String appName) {}
-
-                    @Override
-                    public void onInstalled(String fileName, String appName) {}
-
-                    @Override
-                    public void onDownloadFinished(
-                        long totalBytes, String fileName, String appName) {}
-                  });
-            }
-
-            @Override
-            public void onAdShowError(int code, String msg) {}
-
-            @Override
-            public void onAdClose(FeedNativeAd var1) {}
-          }</text>
+        <text>back</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>printStackTrace</text>
+        <text>back</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGV0aG9NYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBOTkZUcmFja2VyLmdldEluc3RhbmNlKCkudHJhY2tOZXdzQ2xpY2soaW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBORkxvZy5kKCJSWU1fREciLCAiTmV3c0RldGFpbEZyYWdtZW50IGJhY2soKSIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>new FeedNativeAd.ShowViewListener() {
-            @Override
-            public void onAdClicked(View var1, FeedNativeAd var2) {}
-
-            @Override
-            public void onAdShow(FeedNativeAd var1) {
-              var1.setDownlandListener(
-                  new FeedNativeAd.DownloadListener() {
-                    @Override
-                    public void onClickDownload() {}
-
-                    @Override
-                    public void onDownloading(
-                        long totalBytes, long currBytes, String fileName, String appName) {}
-
-                    @Override
-                    public void onDownloadPaused(
-                        long totalBytes, long currBytes, String fileName, String appName) {}
-
-                    @Override
-                    public void onDownloadFailed(
-                        long totalBytes, long currBytes, String fileName, String appName) {}
-
-                    @Override
-                    public void onInstalled(String fileName, String appName) {}
-
-                    @Override
-                    public void onDownloadFinished(
-                        long totalBytes, String fileName, String appName) {}
-                  });
-            }
-
-            @Override
-            public void onAdShowError(int code, String msg) {}
-
-            @Override
-            public void onAdClose(FeedNativeAd var1) {}
-          }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
@@ -412,28 +342,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUb2FzdFV0aWwuc2hvdygi5LiL6L295aSx6LSl77yaIithcHBOYW1lKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBoYXNEZWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUb2FzdFV0aWwuc2hvdygi5LiL6L295pqC5YGc77yaIithcHBOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgYnRuLnNldE9uQ2xpY2tMaXN0ZW5lcigodikgLT4gewogICAgICAgIE5ORlRyYWNrZXIuZ2V0SW5zdGFuY2UoKS50cmFja05ld3NGZWVkYmFjayhuZXdzSW5mbywgbmV3IFN0cmluZ1tdIHtuYW1lfSk7CiAgICAgICAgZGlzbWlzcygpOyAKICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUb2FzdFV0aWwuc2hvdygi5LiL6L295Lit77yaIithcHBOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG5ld3NJbmZvLnJlYWRTdGF0dXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUb2FzdFV0aWwuc2hvdygi54K55Ye75byA5aeL5LiL6L29Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBORkxvZy5kKCJSWU1fREciLCAibG9hZE5ld3NEZXRhaWwiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRvYXN0VXRpbC5zaG93KCLngrnlh7vmiJDlip8iKTsK</text>
+        <text encoding="base64">ICAgIE5GTG9nLmQoIlJZTV9ERyIsICJOZXdzRGV0YWlsRnJhZ21lbnQgb25SZXN1bWUoKSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRvYXN0VXRpbC5zaG93KHZhcjEuZ2V0SWQoKSsi5bGV56S65oiQ5Yqf77yaIit2YXIxLmdldFRpdGxlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUb2FzdFV0aWwuc2hvdygi5a6J6KOF5a6M5oiQ77yaIithcHBOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vVG9hc3QubWFrZVRleHQoZ2V0QWN0aXZpdHkoKSwgIuaMieS6hui/lOWbnumUriIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
