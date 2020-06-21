@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wbGV0aW9uXD4=</entry>
         <entry encoding="base64">XDxjdXN0b21WaWV3XD4=</entry>
         <entry encoding="base64">XDxuZXdzRGV0YWlsc1w+</entry>
         <entry encoding="base64">XDx3ZWJWaWV3SXRlbVw+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxMbU1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxiaWRcPg==</entry>
         <entry encoding="base64">XDxmZWVkTmF0aXZlQWRzXD4=</entry>
+        <entry encoding="base64">XDxGZWVkRXhwcmVzc1ZpZXdIb2xkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -103,19 +103,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" timestamp="1592660480505">
-        <mark key="'" line="22" column="32" />
-        <mark key="[" line="239" column="21" />
-        <mark key="]" line="239" column="21" />
-        <mark key="^" line="239" column="21" />
-        <mark key="." line="239" column="20" />
+      <file name="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" timestamp="1592698395197">
+        <mark key="'" line="152" column="31" />
+        <mark key="[" line="294" column="19" />
+        <mark key="]" line="294" column="19" />
+        <mark key="^" line="294" column="19" />
+        <mark key="." line="294" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592657606495">
-        <mark key="'" line="192" column="52" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592698641040">
+        <mark key="[" line="547" column="23" />
+        <mark key="]" line="547" column="23" />
+        <mark key="^" line="547" column="23" />
+        <mark key="." line="547" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedListener.java" timestamp="1592651389794">
         <mark key="[" line="2" column="35" />
@@ -136,12 +135,11 @@
         <mark key="^" line="242" column="24" />
         <mark key="." line="242" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592660566046">
-        <mark key="'" line="355" column="30" />
-        <mark key="[" line="209" column="56" />
-        <mark key="]" line="209" column="56" />
-        <mark key="." line="209" column="55" />
-        <mark key="^" line="209" column="56" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592699144571">
+        <mark key="[" line="372" column="1" />
+        <mark key="]" line="372" column="1" />
+        <mark key="." line="372" column="0" />
+        <mark key="^" line="372" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1592556517237" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0d8631342a4303db742e938087ddab9/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1592647122185">
@@ -157,19 +155,9 @@
         <mark key="^" line="79" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AllViewHolder.java" timestamp="1592660375997">
-        <mark key="'" line="220" column="49" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+        <mark key="'" line="210" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/AndroidManifest.xml" timestamp="1592646939576" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1592657490072">
-        <mark key="[" line="48" column="35" />
-        <mark key="]" line="48" column="38" />
-        <mark key="." line="48" column="37" />
-        <mark key="^" line="48" column="38" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1592651544996">
         <mark key="'" line="25912" column="45" />
         <mark key="[" line="0" column="1" />
@@ -193,15 +181,6 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8e903249edd82e4741cea5d801f01ec/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class" timestamp="1592625394976" />
     </filemarks>
     <jumps>
-      <jump line="173" column="30" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="206" column="31" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="51" column="15" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="253" column="21" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="115" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="351" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="372" column="25" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="201" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="441" column="15" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="236" column="25" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="443" column="25" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="475" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
@@ -277,8 +256,6 @@
       <jump line="109" column="25" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="108" column="17" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
       <jump line="106" column="8" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedRecyclerActivity.java" />
-      <jump line="239" column="24" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
-      <jump line="240" column="56" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
       <jump line="266" column="33" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
       <jump line="74" column="8" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
@@ -293,57 +270,68 @@
       <jump line="25912" column="45" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" />
       <jump line="178" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="193" column="52" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
+      <jump line="294" column="56" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="236" column="44" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="238" column="63" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="239" column="27" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="240" column="25" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="245" column="45" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="298" column="33" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="338" column="29" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="341" column="19" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="152" column="31" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
+      <jump line="255" column="27" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfSBlbHNlIGlmIChob2xkZXIgaW5zdGFuY2VvZiBBZE9ubHlUZXh0VkgpIHsKICAgICAgICBBZE9ubHlUZXh0VkggdGV4dEhvbGRlciA9IChBZE9ubHlUZXh0VkgpIGhvbGRlcjsKICAgICAgICBmaW5hbCBGZWVkTmF0aXZlQWQgYWQgPSAoRmVlZE5hdGl2ZUFkKSBpdGVtTGlzdC5nZXQocG9zaXRpb24pOwogICAgICAgIHRleHRIb2xkZXIub25seVRleHQuc2V0VGV4dChhZC5nZXRUaXRsZSgpICE9IG51bGwgPyBhZC5nZXRUaXRsZSgpIDogIiIpOwogICAgICAgIGFkLnNldENyZWF0ZVZpZXdMaXN0ZW5lcigKICAgICAgICAgICAgdGV4dEhvbGRlci5pdGVtVmlldywKICAgICAgICAgICAgdGV4dEhvbGRlci5pdGVtVmlldywKICAgICAgICAgICAgbmV3IEZlZWROYXRpdmVBZC5TaG93Vmlld0xpc3RlbmVyKCkgewogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWRDbGlja2VkKFZpZXcgdmlldywgRmVlZE5hdGl2ZUFkIGZlZWROYXRpdmVBZCkge30KCiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25BZFNob3coRmVlZE5hdGl2ZUFkIGZlZWROYXRpdmVBZCkge30KCiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25BZFNob3dFcnJvcihpbnQgaSwgU3RyaW5nIHMpIHt9CiAgICAgICAgICAgIH0pOwogICAgICB9IGVsc2UgaWYgKGhvbGRlciBpbnN0YW5jZW9mIEFkT25seUltYWdlVkgpIHsKICAgICAgICBBZE9ubHlJbWFnZVZIIGltYWdlSG9sZGVyID0gKEFkT25seUltYWdlVkgpIGhvbGRlcjsKICAgICAgICBmaW5hbCBGZWVkTmF0aXZlQWQgYWQgPSAoRmVlZE5hdGl2ZUFkKSBpdGVtTGlzdC5nZXQocG9zaXRpb24pOwogICAgICAgIEdsaWRlLndpdGgoaW5mbGF0ZXIuZ2V0Q29udGV4dCgpKS5sb2FkKGFkLmdldEltYWdlVXJsKCkpLmludG8oaW1hZ2VIb2xkZXIuaW1hZ2VWaWV3KTsKICAgICAgICBhZC5zZXRDcmVhdGVWaWV3TGlzdGVuZXIoaW1hZ2VIb2xkZXIuaXRlbVZpZXcsIGltYWdlSG9sZGVyLml0ZW1WaWV3LCBudWxsKTsKICAgICAgfSBlbHNlIGlmIChob2xkZXIgaW5zdGFuY2VvZiBBZFNtYWxsSW1hZ2VUZXh0VkgpIHsKICAgICAgICBBZFNtYWxsSW1hZ2VUZXh0Vkggc21hbGxJbWFnZVRleHRIb2xkZXIgPSAoQWRTbWFsbEltYWdlVGV4dFZIKSBob2xkZXI7CiAgICAgICAgZmluYWwgRmVlZE5hdGl2ZUFkIGFkID0gKEZlZWROYXRpdmVBZCkgaXRlbUxpc3QuZ2V0KHBvc2l0aW9uKTsKICAgICAgICBHbGlkZS53aXRoKGluZmxhdGVyLmdldENvbnRleHQoKSkKICAgICAgICAgICAgLmxvYWQoYWQuZ2V0SW1hZ2VVcmwoKS5nZXQoMCkpCiAgICAgICAgICAgIC5pbnRvKHNtYWxsSW1hZ2VUZXh0SG9sZGVyLmltZyk7CiAgICAgICAgR2xpZGUud2l0aChpbmZsYXRlci5nZXRDb250ZXh0KCkpLmxvYWQoYWQuZ2V0TG9nb1VybCgpKS5pbnRvKHNtYWxsSW1hZ2VUZXh0SG9sZGVyLmxvZ28pOwoK</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>adList.get(0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWVkTmF0aXZlQWRzXD4=</text>
+        <text encoding="base64">XDxGZWVkRXhwcmVzc1ZpZXdIb2xkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsaXN0ZW5lciAhPSBudWxsKSBsaXN0ZW5lci5vblN1Y2Nlc3MoZmVlZE5hdGl2ZUFkcy5nZXQoMCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZCA9IGFkTGlzdC5nZXQoaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIGlmIChob2xkZXIgaW5zdGFuY2VvZiBBZE9ubHlUZXh0VkgpIHsKICAgICAgICBBZE9ubHlUZXh0VkggdGV4dEhvbGRlciA9IChBZE9ubHlUZXh0VkgpIGhvbGRlcjsKICAgICAgICBmaW5hbCBGZWVkTmF0aXZlQWQgYWQgPSAoRmVlZE5hdGl2ZUFkKSBpdGVtTGlzdC5nZXQocG9zaXRpb24pOwogICAgICAgIHRleHRIb2xkZXIub25seVRleHQuc2V0VGV4dChhZC5nZXRUaXRsZSgpICE9IG51bGwgPyBhZC5nZXRUaXRsZSgpIDogIiIpOwogICAgICAgIGFkLnNldENyZWF0ZVZpZXdMaXN0ZW5lcigKICAgICAgICAgICAgdGV4dEhvbGRlci5pdGVtVmlldywKICAgICAgICAgICAgdGV4dEhvbGRlci5pdGVtVmlldywKICAgICAgICAgICAgbmV3IEZlZWROYXRpdmVBZC5TaG93Vmlld0xpc3RlbmVyKCkgewogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWRDbGlja2VkKFZpZXcgdmlldywgRmVlZE5hdGl2ZUFkIGZlZWROYXRpdmVBZCkge30KCiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25BZFNob3coRmVlZE5hdGl2ZUFkIGZlZWROYXRpdmVBZCkge30KCiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25BZFNob3dFcnJvcihpbnQgaSwgU3RyaW5nIHMpIHt9CiAgICAgICAgICAgIH0pOwogICAgICB9IGVsc2UgaWYgKGhvbGRlciBpbnN0YW5jZW9mIEFkT25seUltYWdlVkgpIHsKICAgICAgICBBZE9ubHlJbWFnZVZIIGltYWdlSG9sZGVyID0gKEFkT25seUltYWdlVkgpIGhvbGRlcjsKICAgICAgICBmaW5hbCBGZWVkTmF0aXZlQWQgYWQgPSAoRmVlZE5hdGl2ZUFkKSBpdGVtTGlzdC5nZXQocG9zaXRpb24pOwogICAgICAgIEdsaWRlLndpdGgoaW5mbGF0ZXIuZ2V0Q29udGV4dCgpKS5sb2FkKGFkLmdldEltYWdlVXJsKCkpLmludG8oaW1hZ2VIb2xkZXIuaW1hZ2VWaWV3KTsKICAgICAgICBhZC5zZXRDcmVhdGVWaWV3TGlzdGVuZXIoaW1hZ2VIb2xkZXIuaXRlbVZpZXcsIGltYWdlSG9sZGVyLml0ZW1WaWV3LCBudWxsKTsKICAgICAgfSBlbHNlIGlmIChob2xkZXIgaW5zdGFuY2VvZiBBZFNtYWxsSW1hZ2VUZXh0VkgpIHsKICAgICAgICBBZFNtYWxsSW1hZ2VUZXh0Vkggc21hbGxJbWFnZVRleHRIb2xkZXIgPSAoQWRTbWFsbEltYWdlVGV4dFZIKSBob2xkZXI7CiAgICAgICAgZmluYWwgRmVlZE5hdGl2ZUFkIGFkID0gKEZlZWROYXRpdmVBZCkgaXRlbUxpc3QuZ2V0KHBvc2l0aW9uKTsKICAgICAgICBHbGlkZS53aXRoKGluZmxhdGVyLmdldENvbnRleHQoKSkKICAgICAgICAgICAgLmxvYWQoYWQuZ2V0SW1hZ2VVcmwoKS5nZXQoMCkpCiAgICAgICAgICAgIC5pbnRvKHNtYWxsSW1hZ2VUZXh0SG9sZGVyLmltZyk7CiAgICAgICAgR2xpZGUud2l0aChpbmZsYXRlci5nZXRDb250ZXh0KCkpLmxvYWQoYWQuZ2V0TG9nb1VybCgpKS5pbnRvKHNtYWxsSW1hZ2VUZXh0SG9sZGVyLmxvZ28pOwoK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmFkX2l0ZW1fb25seV9pbWFnZSwgcGFyZW50LCBmYWxzZSk7CiAgICAgICAgICByZXR1cm4gbmV3IEFkT25seUltYWdlVkgodmlldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbWFsbEltYWdlVGV4dEhvbGRlci50aXRsZS5zZXRUZXh0KGFkLmdldFRpdGxlKCkgIT0gbnVsbCA/IGFkLmdldFRpdGxlKCkgOiAiIik7CiAgICAgICAgc21hbGxJbWFnZVRleHRIb2xkZXIubXNnLnNldFRleHQoYWQuZ2V0RGVzY3JpcHRpb24oKSAhPSBudWxsID8gYWQuZ2V0RGVzY3JpcHRpb24oKSA6ICIiKTsKICAgICAgICBzbWFsbEltYWdlVGV4dEhvbGRlci5hcHBOYW1lLnNldFRleHQoYWQuZ2V0QXBwTmFtZSgpICE9IG51bGwgPyBhZC5nZXRBcHBOYW1lKCkgOiAiIik7CiAgICAgICAgYWQuc2V0Q3JlYXRlVmlld0xpc3RlbmVyKAogICAgICAgICAgICBzbWFsbEltYWdlVGV4dEhvbGRlci5pdGVtVmlldywKICAgICAgICAgICAgc21hbGxJbWFnZVRleHRIb2xkZXIuaXRlbVZpZXcsCiAgICAgICAgICAgIG5ldyBGZWVkTmF0aXZlQWQuU2hvd1ZpZXdMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFkQ2xpY2tlZChWaWV3IHZpZXcsIEZlZWROYXRpdmVBZCBmZWVkTmF0aXZlQWQpIHt9CgogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWRTaG93KEZlZWROYXRpdmVBZCBmZWVkTmF0aXZlQWQpIHt9CgogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWRTaG93RXJyb3IoaW50IGksIFN0cmluZyBzKSB7fQogICAgICAgICAgICB9KTsKICAgICAgfSBlbHNlIGlmIChob2xkZXIgaW5zdGFuY2VvZiBBZEJpZ0ltYWdlVGV4dFZIKSB7CiAgICAgICAgQWRCaWdJbWFnZVRleHRWSCBiaWdJbWFnZVRleHRIb2xkZXIgPSAoQWRCaWdJbWFnZVRleHRWSCkgaG9sZGVyOwogICAgICAgIGZpbmFsIEZlZWROYXRpdmVBZCBhZCA9IChGZWVkTmF0aXZlQWQpIGl0ZW1MaXN0LmdldChwb3NpdGlvbik7CiAgICAgICAgR2xpZGUud2l0aChpbmZsYXRlci5nZXRDb250ZXh0KCkpCiAgICAgICAgICAgIC5sb2FkKGFkLmdldEltYWdlVXJsKCkuZ2V0KDApKQogICAgICAgICAgICAuaW50byhiaWdJbWFnZVRleHRIb2xkZXIuaW1nKTsKICAgICAgICBHbGlkZS53aXRoKGluZmxhdGVyLmdldENvbnRleHQoKSkubG9hZChhZC5nZXRMb2dvVXJsKCkpLmludG8oYmlnSW1hZ2VUZXh0SG9sZGVyLmxvZ28pOwogICAgICAgIGJpZ0ltYWdlVGV4dEhvbGRlci50aXRsZS5zZXRUZXh0KGFkLmdldFRpdGxlKCkgIT0gbnVsbCA/IGFkLmdldFRpdGxlKCkgOiAiIik7CiAgICAgICAgYmlnSW1hZ2VUZXh0SG9sZGVyLm1zZy5zZXRUZXh0KGFkLmdldERlc2NyaXB0aW9uKCkgIT0gbnVsbCA/IGFkLmdldERlc2NyaXB0aW9uKCkgOiAiIik7CiAgICAgICAgYmlnSW1hZ2VUZXh0SG9sZGVyLmFwcE5hbWUuc2V0VGV4dChhZC5nZXRBcHBOYW1lKCkgIT0gbnVsbCA/IGFkLmdldEFwcE5hbWUoKSA6ICIiKTsKICAgICAgICBhZC5zZXRDcmVhdGVWaWV3TGlzdGVuZXIoCiAgICAgICAgICAgIGJpZ0ltYWdlVGV4dEhvbGRlci5pdGVtVmlldywKICAgICAgICAgICAgYmlnSW1hZ2VUZXh0SG9sZGVyLml0ZW1WaWV3LAogICAgICAgICAgICBuZXcgRmVlZE5hdGl2ZUFkLlNob3dWaWV3TGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25BZENsaWNrZWQoVmlldyB2aWV3LCBGZWVkTmF0aXZlQWQgZmVlZE5hdGl2ZUFkKSB7fQoKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFkU2hvdyhGZWVkTmF0aXZlQWQgZmVlZE5hdGl2ZUFkKSB7fQoKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFkU2hvd0Vycm9yKGludCBpLCBTdHJpbmcgcykge30KICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmFkX2l0ZW1fb25seV90ZXh0LCBwYXJlbnQsIGZhbHNlKTsKICAgICAgICAgIHJldHVybiBuZXcgQWRPbmx5VGV4dFZIKHZpZXcpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoaW50IGksIFN0cmluZyBzKSB7CiAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblN1Y2Nlc3MoTGlzdDxGZWVkTmF0aXZlQWQ+IGFkTGlzdCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmFkX2l0ZW1fc21hbGxfaW1nX3RleHQsIHBhcmVudCwgZmFsc2UpOwogICAgICAgICAgcmV0dXJuIG5ldyBBZFNtYWxsSW1hZ2VUZXh0Vkgodmlldyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmFkX2l0ZW1fYmlnX2ltZ190ZXh0LCBwYXJlbnQsIGZhbHNlKTsKICAgICAgICAgIHJldHVybiBuZXcgQWRCaWdJbWFnZVRleHRWSCh2aWV3KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTkZMb2cuZShUQUcsICJvbkVycm9yISBzID0gIiArIHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmFkX2l0ZW1fdGhyZWVfaW1nX3RleHQsIHBhcmVudCwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIGlmIChob2xkZXIgaW5zdGFuY2VvZiBBZE9ubHlJbWFnZVZIKSB7CiAgICAgICAgQWRPbmx5SW1hZ2VWSCBpbWFnZUhvbGRlciA9IChBZE9ubHlJbWFnZVZIKSBob2xkZXI7CiAgICAgICAgZmluYWwgRmVlZE5hdGl2ZUFkIGFkID0gKEZlZWROYXRpdmVBZCkgaXRlbUxpc3QuZ2V0KHBvc2l0aW9uKTsKICAgICAgICBHbGlkZS53aXRoKGluZmxhdGVyLmdldENvbnRleHQoKSkubG9hZChhZC5nZXRJbWFnZVVybCgpKS5pbnRvKGltYWdlSG9sZGVyLmltYWdlVmlldyk7CiAgICAgICAgYWQuc2V0Q3JlYXRlVmlld0xpc3RlbmVyKGltYWdlSG9sZGVyLml0ZW1WaWV3LCBpbWFnZUhvbGRlci5pdGVtVmlldywgbnVsbCk7CiAgICAgIH0gZWxzZSBpZiAoaG9sZGVyIGluc3RhbmNlb2YgQWRTbWFsbEltYWdlVGV4dFZIKSB7CiAgICAgICAgQWRTbWFsbEltYWdlVGV4dFZIIHNtYWxsSW1hZ2VUZXh0SG9sZGVyID0gKEFkU21hbGxJbWFnZVRleHRWSCkgaG9sZGVyOwogICAgICAgIGZpbmFsIEZlZWROYXRpdmVBZCBhZCA9IChGZWVkTmF0aXZlQWQpIGl0ZW1MaXN0LmdldChwb3NpdGlvbik7CiAgICAgICAgR2xpZGUud2l0aChpbmZsYXRlci5nZXRDb250ZXh0KCkpCiAgICAgICAgICAgIC5sb2FkKGFkLmdldEltYWdlVXJsKCkuZ2V0KDApKQogICAgICAgICAgICAuaW50byhzbWFsbEltYWdlVGV4dEhvbGRlci5pbWcpOwogICAgICAgIEdsaWRlLndpdGgoaW5mbGF0ZXIuZ2V0Q29udGV4dCgpKS5sb2FkKGFkLmdldExvZ29VcmwoKSkuaW50byhzbWFsbEltYWdlVGV4dEhvbGRlci5sb2dvKTsKICAgICAgICBzbWFsbEltYWdlVGV4dEhvbGRlci50aXRsZS5zZXRUZXh0KGFkLmdldFRpdGxlKCkgIT0gbnVsbCA/IGFkLmdldFRpdGxlKCkgOiAiIik7CiAgICAgICAgc21hbGxJbWFnZVRleHRIb2xkZXIubXNnLnNldFRleHQoYWQuZ2V0RGVzY3JpcHRpb24oKSAhPSBudWxsID8gYWQuZ2V0RGVzY3JpcHRpb24oKSA6ICIiKTsKICAgICAgICBzbWFsbEltYWdlVGV4dEhvbGRlci5hcHBOYW1lLnNldFRleHQoYWQuZ2V0QXBwTmFtZSgpICE9IG51bGwgPyBhZC5nZXRBcHBOYW1lKCkgOiAiIik7CiAgICAgICAgYWQuc2V0Q3JlYXRlVmlld0xpc3RlbmVyKAogICAgICAgICAgICBzbWFsbEltYWdlVGV4dEhvbGRlci5pdGVtVmlldywKICAgICAgICAgICAgc21hbGxJbWFnZVRleHRIb2xkZXIuaXRlbVZpZXcsCiAgICAgICAgICAgIG5ldyBGZWVkTmF0aXZlQWQuU2hvd1ZpZXdMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFkQ2xpY2tlZChWaWV3IHZpZXcsIEZlZWROYXRpdmVBZCBmZWVkTmF0aXZlQWQpIHt9CgogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWRTaG93KEZlZWROYXRpdmVBZCBmZWVkTmF0aXZlQWQpIHt9CgogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWRTaG93RXJyb3IoaW50IGksIFN0cmluZyBzKSB7fQogICAgICAgICAgICB9KTsKICAgICAgfSBlbHNlIGlmIChob2xkZXIgaW5zdGFuY2VvZiBBZEJpZ0ltYWdlVGV4dFZIKSB7CiAgICAgICAgQWRCaWdJbWFnZVRleHRWSCBiaWdJbWFnZVRleHRIb2xkZXIgPSAoQWRCaWdJbWFnZVRleHRWSCkgaG9sZGVyOwogICAgICAgIGZpbmFsIEZlZWROYXRpdmVBZCBhZCA9IChGZWVkTmF0aXZlQWQpIGl0ZW1MaXN0LmdldChwb3NpdGlvbik7CiAgICAgICAgR2xpZGUud2l0aChpbmZsYXRlci5nZXRDb250ZXh0KCkpCiAgICAgICAgICAgIC5sb2FkKGFkLmdldEltYWdlVXJsKCkuZ2V0KDApKQogICAgICAgICAgICAuaW50byhiaWdJbWFnZVRleHRIb2xkZXIuaW1nKTsKICAgICAgICBHbGlkZS53aXRoKGluZmxhdGVyLmdldENvbnRleHQoKSkubG9hZChhZC5nZXRMb2dvVXJsKCkpLmludG8oYmlnSW1hZ2VUZXh0SG9sZGVyLmxvZ28pOwogICAgICAgIGJpZ0ltYWdlVGV4dEhvbGRlci50aXRsZS5zZXRUZXh0KGFkLmdldFRpdGxlKCkgIT0gbnVsbCA/IGFkLmdldFRpdGxlKCkgOiAiIik7CiAgICAgICAgYmlnSW1hZ2VUZXh0SG9sZGVyLm1zZy5zZXRUZXh0KGFkLmdldERlc2NyaXB0aW9uKCkgIT0gbnVsbCA/IGFkLmdldERlc2NyaXB0aW9uKCkgOiAiIik7CiAgICAgICAgYmlnSW1hZ2VUZXh0SG9sZGVyLmFwcE5hbWUuc2V0VGV4dChhZC5nZXRBcHBOYW1lKCkgIT0gbnVsbCA/IGFkLmdldEFwcE5hbWUoKSA6ICIiKTsKICAgICAgICBhZC5zZXRDcmVhdGVWaWV3TGlzdGVuZXIoCiAgICAgICAgICAgIGJpZ0ltYWdlVGV4dEhvbGRlci5pdGVtVmlldywKICAgICAgICAgICAgYmlnSW1hZ2VUZXh0SG9sZGVyLml0ZW1WaWV3LAogICAgICAgICAgICBuZXcgRmVlZE5hdGl2ZUFkLlNob3dWaWV3TGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25BZENsaWNrZWQoVmlldyB2aWV3LCBGZWVkTmF0aXZlQWQgZmVlZE5hdGl2ZUFkKSB7fQoKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFkU2hvdyhGZWVkTmF0aXZlQWQgZmVlZE5hdGl2ZUFkKSB7fQoKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFkU2hvd0Vycm9yKGludCBpLCBTdHJpbmcgcykge30KICAgICAgICAgICAgfSk7CiAgICAgIH0gZWxzZSBpZiAoaG9sZGVyIGluc3RhbmNlb2YgQWRUaHJlZUltYWdlVGV4dFZIKSB7CiAgICAgICAgQWRUaHJlZUltYWdlVGV4dFZIIHRocmVlSW1nVGV4dEhvbGRlciA9IChBZFRocmVlSW1hZ2VUZXh0VkgpIGhvbGRlcjsKICAgICAgICBmaW5hbCBGZWVkTmF0aXZlQWQgYWQgPSAoRmVlZE5hdGl2ZUFkKSBpdGVtTGlzdC5nZXQocG9zaXRpb24pOwogICAgICAgIExpc3Q8U3RyaW5nPiBpbWdVcmxMaXN0ID0gYWQuZ2V0SW1hZ2VVcmwoKTsKICAgICAgICBMaXN0PEltYWdlVmlldz4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGxpc3QuYWRkKHRocmVlSW1nVGV4dEhvbGRlci5pbWcxKTsKICAgICAgICBsaXN0LmFkZCh0aHJlZUltZ1RleHRIb2xkZXIuaW1nMik7CiAgICAgICAgbGlzdC5hZGQodGhyZWVJbWdUZXh0SG9sZGVyLmltZzMpOwogICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgaW1nVXJsTGlzdC5zaXplKCk7IGorKykKICAgICAgICAgIEdsaWRlLndpdGgoaW5mbGF0ZXIuZ2V0Q29udGV4dCgpKS5sb2FkKGltZ1VybExpc3QuZ2V0KGopKS5pbnRvKGxpc3QuZ2V0KGopKTsKICAgICAgICBHbGlkZS53aXRoKGluZmxhdGVyLmdldENvbnRleHQoKSkubG9hZChhZC5nZXRMb2dvVXJsKCkpLmludG8odGhyZWVJbWdUZXh0SG9sZGVyLmxvZ28pOwogICAgICAgIHRocmVlSW1nVGV4dEhvbGRlci50aXRsZS5zZXRUZXh0KGFkLmdldFRpdGxlKCkgIT0gbnVsbCA/IGFkLmdldFRpdGxlKCkgOiAiIik7CiAgICAgICAgdGhyZWVJbWdUZXh0SG9sZGVyLm1zZy5zZXRUZXh0KGFkLmdldERlc2NyaXB0aW9uKCkgIT0gbnVsbCA/IGFkLmdldERlc2NyaXB0aW9uKCkgOiAiIik7CiAgICAgICAgdGhyZWVJbWdUZXh0SG9sZGVyLmFwcE5hbWUuc2V0VGV4dChhZC5nZXRBcHBOYW1lKCkgIT0gbnVsbCA/IGFkLmdldEFwcE5hbWUoKSA6ICIiKTsKICAgICAgICBhZC5zZXRDcmVhdGVWaWV3TGlzdGVuZXIoCiAgICAgICAgICAgIHRocmVlSW1nVGV4dEhvbGRlci5pdGVtVmlldywKICAgICAgICAgICAgdGhyZWVJbWdUZXh0SG9sZGVyLml0ZW1WaWV3LAogICAgICAgICAgICBuZXcgRmVlZE5hdGl2ZUFkLlNob3dWaWV3TGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25BZENsaWNrZWQoVmlldyB2aWV3LCBGZWVkTmF0aXZlQWQgZmVlZE5hdGl2ZUFkKSB7fQoKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFkU2hvdyhGZWVkTmF0aXZlQWQgZmVlZE5hdGl2ZUFkKSB7fQoKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFkU2hvd0Vycm9yKGludCBpLCBTdHJpbmcgcykge30KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBuZXcgQWRUaHJlZUltYWdlVGV4dFZIKHZpZXcpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgQWRPbmx5VGV4dFZIIHRleHRIb2xkZXIgPSAoQWRPbmx5VGV4dFZIKSBob2xkZXI7CiAgICAgICAgZmluYWwgRmVlZE5hdGl2ZUFkIGFkID0gKEZlZWROYXRpdmVBZCkgaXRlbUxpc3QuZ2V0KHBvc2l0aW9uKTsKICAgICAgICB0ZXh0SG9sZGVyLm9ubHlUZXh0LnNldFRleHQoYWQuZ2V0VGl0bGUoKSAhPSBudWxsID8gYWQuZ2V0VGl0bGUoKSA6ICIiKTsKICAgICAgICBhZC5zZXRDcmVhdGVWaWV3TGlzdGVuZXIoCiAgICAgICAgICAgIHRleHRIb2xkZXIuaXRlbVZpZXcsCiAgICAgICAgICAgIHRleHRIb2xkZXIuaXRlbVZpZXcsCiAgICAgICAgICAgIG5ldyBGZWVkTmF0aXZlQWQuU2hvd1ZpZXdMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFkQ2xpY2tlZChWaWV3IHZpZXcsIEZlZWROYXRpdmVBZCBmZWVkTmF0aXZlQWQpIHt9CgogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWRTaG93KEZlZWROYXRpdmVBZCBmZWVkTmF0aXZlQWQpIHt9CgogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWRTaG93RXJyb3IoaW50IGksIFN0cmluZyBzKSB7fQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kYW9tZW5nLmxpdW1hbmcubGlzdGVuZXIuRmVlZEFkTG9hZExpc3RlbmVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kRGF0YShmZWVkRXhwcmVzc1ZpZXdIb2xkZXIuaXRlbVZpZXcsYWQpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihpbnQgaSwgU3RyaW5nIHMpIHsKICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3VjY2VzcyhMaXN0PEZlZWROYXRpdmVBZD4gYWRMaXN0KSB7CiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRWaWV3KGFkLGZlZWRFeHByZXNzVmlld0hvbGRlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -352,13 +340,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmZWVkTmF0aXZlQWRzXD4=</last-search>
+      <last-search encoding="base64">XDxGZWVkRXhwcmVzc1ZpZXdIb2xkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWVkTmF0aXZlQWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxGZWVkRXhwcmVzc1ZpZXdIb2xkZXJcPg==</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
