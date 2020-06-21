@@ -145,12 +145,12 @@
         <mark key="." line="88" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-urlconnection/1.5.1/a8c01af291aa21c8d7423152c9c2bc2691ed17d6/stetho-urlconnection-1.5.1-sources.jar!/com/facebook/stetho/urlconnection/StethoURLConnectionManagerImpl.java" timestamp="1592709618289" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/client/NNFUrlConnectionClient.java" timestamp="1592711152115">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/client/NNFUrlConnectionClient.java" timestamp="1592713318193">
         <mark key="'" line="129" column="26" />
-        <mark key="[" line="129" column="27" />
-        <mark key="]" line="129" column="27" />
-        <mark key="^" line="129" column="27" />
-        <mark key="." line="129" column="26" />
+        <mark key="[" line="96" column="29" />
+        <mark key="]" line="96" column="29" />
+        <mark key="^" line="96" column="29" />
+        <mark key="." line="96" column="28" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-urlconnection/1.5.1/a8c01af291aa21c8d7423152c9c2bc2691ed17d6/stetho-urlconnection-1.5.1-sources.jar!/com/facebook/stetho/urlconnection/StethoURLConnectionManager.java" timestamp="1592705853625" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592711579581">
@@ -183,12 +183,12 @@
         <mark key="^" line="102" column="15" />
         <mark key="." line="102" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/core/AdapterCall.java" timestamp="1592712395757">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/core/AdapterCall.java" timestamp="1592713525980">
         <mark key="'" line="34" column="22" />
-        <mark key="[" line="164" column="32" />
-        <mark key="]" line="165" column="30" />
-        <mark key="." line="165" column="29" />
-        <mark key="^" line="165" column="30" />
+        <mark key="[" line="148" column="1" />
+        <mark key="]" line="148" column="1" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="148" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/java/rym/demo/newsfeed/App.java" timestamp="1592711151640">
         <mark key="[" line="14" column="40" />
@@ -202,7 +202,7 @@
         <mark key="." line="62" column="60" />
         <mark key="^" line="62" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1592711332097">
+      <file name="/fragment.java" timestamp="1592713314054">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
