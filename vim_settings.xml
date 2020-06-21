@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZFw+</entry>
         <entry>show</entry>
         <entry encoding="base64">XDxMbU1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxiaWRcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxyZXNldFw+</entry>
         <entry encoding="base64">XDxzZXRWaXNpYmlsaXR5XD4=</entry>
         <entry encoding="base64">XDxsb2FkRmVlZEFkXD4=</entry>
+        <entry encoding="base64">XDx0YWJJbmRleGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -110,19 +110,13 @@
         <mark key="^" line="294" column="19" />
         <mark key="." line="294" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/operation/AbstractRequest.java" timestamp="1592712446379">
-        <mark key="[" line="56" column="26" />
-        <mark key="]" line="56" column="26" />
-        <mark key="^" line="56" column="26" />
-        <mark key="." line="56" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592725308372">
         <mark key="'" line="476" column="0" />
         <mark key="[" line="404" column="0" />
         <mark key="]" line="404" column="0" />
         <mark key="." line="404" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/operation/ResponseHandleRequest.java" timestamp="1592712183931" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/values/colors.xml" timestamp="1592746401709" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1592717673542">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -135,7 +129,9 @@
         <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values/attrs.xml" timestamp="1592742197902" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/client/NNFUrlConnectionClient.java" timestamp="1592713318193" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build/intermediates/packaged_res/debug/layout/fragment_news_main.xml" timestamp="1592745484808">
+        <mark key="[" line="13" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592724314466">
         <mark key="'" line="154" column="20" />
         <mark key="[" line="172" column="64" />
@@ -163,11 +159,11 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/drawable/tab_layout_indicator.xml" timestamp="1592742414778">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="31" />
-        <mark key="^" line="9" column="32" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/drawable/tab_layout_indicator.xml" timestamp="1592746630231">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/report/NNFTracker.java" timestamp="1592716850635">
         <mark key="'" line="296" column="63" />
@@ -188,19 +184,27 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" timestamp="1592741858720" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/fragment_news_main.xml" timestamp="1592742490778">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a45d6a10a27fd0e5d078192d6ec0193/design-28.0.0/res/values/values.xml" timestamp="1592747362316" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" timestamp="1592746613659">
+        <mark key="'" line="25" column="20" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1592713314054">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/values/styles.xml" timestamp="1592747426395">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/fragment_news_main.xml" timestamp="1592747422461">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="55" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsReportErrorDialog.java" />
       <jump line="17" column="32" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/common/NFLog.java" />
       <jump line="826" column="13" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/core/NNewsFeedsSDK.java" />
       <jump line="99" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AllViewHolder.java" />
@@ -300,57 +304,58 @@
       <jump line="184" column="9" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="200" column="9" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="481" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
+      <jump line="26" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcDp0YWJJbmRpY2F0b3JDb2xvcj0iIzAxQkRCRSIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBhcHA6dGFiVGV4dEFwcGVhcmFuY2U9IkBzdHlsZS9UYWJMYXlvdXRUZXh0U3R5bGUi</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>Bottom</text>
+        <text>000000</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkRmVlZEFkXD4=</text>
+        <text encoding="base64">XDx0YWJJbmRleGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBORkxvZy5kKCJSWU1fREciLCAiTmV3c0RldGFpbEZyYWdtZW50IGJhY2soKSIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcDp0YWJJbmRpY2F0b3JDb2xvcj0iIzAxQkRCRSIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBhcHA6dGFiVGV4dEFwcGVhcmFuY2U9IkBzdHlsZS9UYWJMYXlvdXRUZXh0U3R5bGUi</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6dGV4dFNpemUiPjE2c3A8L2l0ZW0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0g6K6+572u5Y+z6L656LedIC0tPgo=</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6dGV4dFNpemUiPjE2c3A8L2l0ZW0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdGFiSW5kZXhlci5zZXRUYWJNb2RlKFRhYkxheW91dC5NT0RFX1NDUk9MTEFCTEUpOwovLyAgICB0YWJJbmRleGVyLnNldFRhYlRleHRDb2xvcnMoQ29sb3IuR1JBWSwgQ29sb3IuQkxBQ0spOwovLyAgICB0YWJJbmRleGVyLnNldFNlbGVjdGVkVGFiSW5kaWNhdG9yQ29sb3IoQ29sb3IuQkxVRSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdGFiSW5kZXhlci5zZXRUYWJNb2RlKFRhYkxheW91dC5NT0RFX1NDUk9MTEFCTEUpOwovLyAgICB0YWJJbmRleGVyLnNldFRhYlRleHRDb2xvcnMoQ29sb3IuR1JBWSwgQ29sb3IuQkxBQ0spOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBhcHA6dGFiU2VsZWN0ZWRUZXh0Q29sb3I9IiMwMUJEQkUi</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBhcHA6dGFiTW9kZT0ic2Nyb2xsYWJsZSIKICAgIGFwcDp0YWJTZWxlY3RlZFRleHRDb2xvcj0iIzAxQkRCRSI=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcDp0YWJJbmRpY2F0b3JDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHNpemUKICAgICAgICBhbmRyb2lkOmhlaWdodD0iNWRwIgogICAgICAgIGFuZHJvaWQ6d2lkdGg9IjIwZHAiIC8+Cg==</text>
+        <text encoding="base64">ICA8IS0tIOiuvue9riBJbmRpY2F0b3Ig6auY5bqmIC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -359,13 +364,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2FkRmVlZEFkXD4=</last-search>
+      <last-search encoding="base64">XDx0YWJJbmRleGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkRmVlZEFkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YWJJbmRleGVyXD4=</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
