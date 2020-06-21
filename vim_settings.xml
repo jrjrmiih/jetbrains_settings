@@ -142,6 +142,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="56" column="32" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/client/NNFUrlConnectionClient.java" timestamp="1592705384989">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592702310816">
         <mark key="[" line="207" column="55" />
         <mark key="]" line="207" column="41" />
@@ -149,7 +155,7 @@
         <mark key="^" line="207" column="41" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c478a397c2db4f3f2af8fdf0b8dc6ee/support-fragment-28.0.0/jars/classes.jar!/android/support/v4/app/Fragment.class" timestamp="1592701716955" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/build.gradle" timestamp="1592704804752">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/build.gradle" timestamp="1592705369737">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="53" />
         <mark key="." line="37" column="0" />
@@ -199,13 +205,12 @@
         <mark key="^" line="212" column="38" />
         <mark key="." line="212" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build.gradle" timestamp="1592648200836">
-        <mark key="[" line="49" column="74" />
-        <mark key="]" line="49" column="74" />
-        <mark key="." line="49" column="73" />
-        <mark key="^" line="49" column="74" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build.gradle" timestamp="1592705376326">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="62" column="61" />
+        <mark key="." line="62" column="60" />
+        <mark key="^" line="62" column="61" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8e903249edd82e4741cea5d801f01ec/recyclerview-v7-28.0.0/jars/classes.jar!/android/support/v7/widget/RecyclerView.class" timestamp="1592625394976" />
     </filemarks>
     <jumps>
       <jump line="472" column="18" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
@@ -373,7 +378,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
