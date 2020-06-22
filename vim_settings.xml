@@ -114,12 +114,6 @@
         <mark key="^" line="67" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" timestamp="1592818158463" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1592753752225">
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="49" column="25" />
-        <mark key="." line="49" column="24" />
-        <mark key="^" line="49" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1592755305543">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="15" />
@@ -142,6 +136,11 @@
         <mark key="]" line="4" column="14" />
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build.gradle" timestamp="1592837638984">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -250,7 +249,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluaXRGb250KCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5IGZpbGVzKCdsaWJzL0dEVFNESy51bmlvbk5vcm1hbC40LjE5MS4xMDYxLmFhcicpCg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -265,28 +264,28 @@
         <text encoding="base64">ICAgICAgICBpZiAoY2xvc2VkTGlzdGVuZXIgIT0gbnVsbCkgY2xvc2VkTGlzdGVuZXIuT25DbG9zZWQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluaXRGb250KCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5IGZpbGVzKCdsaWJzL0dEVFNESy51bmlvbk5vcm1hbC40LjE5MS4xMDYxLmFhcicpCg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluaXRGb250KCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluaXRGb250KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluaXQoQyk7Cg==</text>
+        <text encoding="base64">ICAgIGluaXRGb250KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluaXRGb250KGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgIGluaXQoQyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGluaXRGb250KGNvbnRleHQpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -295,7 +294,7 @@
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
