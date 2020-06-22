@@ -104,12 +104,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCVideoInputFrameListener.java" timestamp="1592792894333" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592807202218">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592808655570">
         <mark key="'" line="500" column="0" />
-        <mark key="[" line="238" column="20" />
-        <mark key="]" line="234" column="171" />
-        <mark key="." line="234" column="170" />
-        <mark key="^" line="234" column="171" />
+        <mark key="[" line="234" column="206" />
+        <mark key="]" line="234" column="207" />
+        <mark key="." line="234" column="207" />
+        <mark key="^" line="234" column="178" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_small_pic.xml" timestamp="1592752229756">
         <mark key="[" line="54" column="30" />
