@@ -148,6 +148,7 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="41" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCRoomImpl.java" timestamp="1592905021101" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
