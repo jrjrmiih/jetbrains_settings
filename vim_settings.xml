@@ -108,7 +108,6 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/5f95e3cc34b116a8024f2af42f66e257d2e28ccb/glide-4.9.0-sources.jar!/com/bumptech/glide/load/resource/bitmap/CircleCrop.java" timestamp="1592953184685" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592952596664">
         <mark key="'" line="52" column="53" />
         <mark key="[" line="372" column="29" />
@@ -116,7 +115,6 @@
         <mark key="." line="235" column="15" />
         <mark key="^" line="235" column="16" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/text/SimpleDateFormat.java" timestamp="1592953830688" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsDetails.java" timestamp="1592953035978">
         <mark key="[" line="25" column="36" />
         <mark key="]" line="25" column="25" />
@@ -148,7 +146,6 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1592896618997" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/ptr/indicator/PtrIndicator.java" timestamp="1592834006798">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="14" />
@@ -167,7 +164,12 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Date.java" timestamp="1592953573002" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/login_page.dart" timestamp="1592963644275">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="34" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build.gradle" timestamp="1592875816814">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -183,8 +185,6 @@
       <file name="/fragment.java" timestamp="1592952180634">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCRoomImpl.java" timestamp="1592905021101" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/text/format/DateFormat.java" timestamp="1592953594972" />
     </filemarks>
     <jumps>
       <jump line="327" column="20" filename="$USER_HOME$/Workspace/android-space/yys_sdk_demo/app/src/main/java/com/testing/mysdkdemo/activity/FeedExpressRecyclerActivity.java" />
