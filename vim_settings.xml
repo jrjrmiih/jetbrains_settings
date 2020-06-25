@@ -123,19 +123,13 @@
         <mark key="^" line="826" column="15" />
         <mark key="." line="826" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/java/rym/demo/newsfeed/App.java" timestamp="1592755466135">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="14" column="78" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/cube_ptr_classic_default_header.xml" timestamp="1592876688220">
         <mark key="[" line="6" column="42" />
         <mark key="]" line="6" column="42" />
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/ios/rong_imlib.podspec" timestamp="1592984754913" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/ios/rong_imlib.podspec" timestamp="1592984794076" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/related_item_title.xml" timestamp="1592954422471">
         <mark key="[" line="38" column="33" />
         <mark key="]" line="38" column="34" />
@@ -178,6 +172,7 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/ios/rong_rtclib.podspec" timestamp="1592984817271" />
       <file name="/fragment.java" timestamp="1592952180634">
         <mark key="[" line="0" column="0" />
       </file>
