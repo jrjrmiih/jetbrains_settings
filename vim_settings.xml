@@ -103,12 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1593093686121">
-        <mark key="'" line="275" column="22" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="161" column="26" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1593097804327">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
+        <mark key="^" line="211" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1593058877878">
         <mark key="'" line="378" column="93" />
@@ -146,11 +145,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1593055723332">
-        <mark key="[" line="139" column="1" />
-        <mark key="]" line="139" column="1" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="139" column="1" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" timestamp="1593097248004">
+        <mark key="[" line="117" column="51" />
+        <mark key="]" line="117" column="51" />
+        <mark key="." line="117" column="50" />
+        <mark key="^" line="117" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1593052854514">
         <mark key="[" line="15" column="37" />
@@ -163,6 +162,9 @@
         <mark key="]" line="57" column="24" />
         <mark key="^" line="57" column="24" />
         <mark key="." line="57" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" timestamp="1593095955555">
+        <mark key="[" line="55" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1593052848038">
         <mark key="[" line="15" column="37" />
@@ -291,52 +293,52 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluaXROZXdzU2hvd1RpbWVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTkZMb2cuZChUQUcsICJyZXBvcnQgcmVwb3J0TGlzdCBzaXplID0gIiArIHJlcG9ydExpc3Quc2l6ZSgpKTsK</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VmlzaWJsZVBvc2l0aW9uIA==</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtTGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgImZpcnN0IHZpc2libGUgcG9zID0gIiArIGZpcnN0VmlzaWJsZVBvc2l0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgcmVjeWNsZXJWaWV3QWRhcHRlci5zdGFydFJlcG9ydFRpbWVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluaXROZXdzU2hvd1RpbWVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTkZMb2cuZChUQUcsICJyZXBvcnQgcmVwb3J0TGlzdCBzaXplID0gIiArIHJlcG9ydExpc3Quc2l6ZSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBORkxvZy5kKFRBRywgInJlcG9ydCBjYWNoZUxpc3Qgc2l6ZSA9ICIgKyBjYWNoZUxpc3Quc2l6ZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBORkxvZy5kKFRBRywgImZpcnN0ID0gIiArIGZpcnN0ICsgIjsgbGFzdCA9ICIgKyBsYXN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZXIucG9zdCh0aW1lcik7Cg==</text>
+        <text encoding="base64">ICAgICAgTkZMb2cuZChUQUcsICJpbnZpc2libGUiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHZUaW1lLnNldFRleHQoIuW9k+WJjeiuoeaVsOWAvDoiK21Db3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgTkZMb2cuZChUQUcsICJ2aXNpYmxlIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbUNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgInZpc2libGUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgImxhc3QgdmlzaWJsZSBwb3MgPSAiICsgZmlyc3RWaXNpYmxlUG9zaXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgImludmlzaWJsZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIEFkQmxhbmtJdGVtIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgImluaXROZXdzU2hvd1RpbWVyIik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVmlld0F0dGFjaGVkVG9XaW5kb3coQE5vbk51bGwgVmlld0hvbGRlciBob2xkZXIpIHsKICAgICAgc3VwZXIub25WaWV3QXR0YWNoZWRUb1dpbmRvdyhob2xkZXIpOwoKICAgICAgaWYgKGhvbGRlciBpbnN0YW5jZW9mIE5ld3NTbWFsbFBpY1ZIKSB7CiAgICAgICAgTmV3c1NtYWxsUGljVkggc21hbGxIb2xkZXIgPSAoTmV3c1NtYWxsUGljVkgpIGhvbGRlcjsKICAgICAgICBORkxvZy5kKCJSWU1fREciLCAic21hbGwgcG9zID0gIiArIGhvbGRlci5nZXRQb3NpdGlvbigpKTsKICAgICAgfSBlbHNlIGlmIChob2xkZXIgaW5zdGFuY2VvZiBOZXdzQmlnUGljVkgpIHsKICAgICAgICBOZXdzQmlnUGljVkggYmlnSG9sZGVyID0gKE5ld3NCaWdQaWNWSCkgaG9sZGVyOwogICAgICAgIE5GTG9nLmQoIlJZTV9ERyIsICJiaWcgcG9zID0gIiArIGhvbGRlci5nZXRQb3NpdGlvbigpKTsKICAgICAgfSBlbHNlIGlmIChob2xkZXIgaW5zdGFuY2VvZiBOZXdzVGhyZWVQaWNzVkgpIHsKICAgICAgICBORkxvZy5kKCJSWU1fREciLCAidGhyZWUgcG9zID0gIiArIGhvbGRlci5nZXRQb3NpdGlvbigpKTsKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -351,7 +353,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
