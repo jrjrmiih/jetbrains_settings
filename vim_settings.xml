@@ -124,10 +124,11 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6aa6dc213b99fc6754ee1357c7cf1f02/yyx_ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1593222002273" />
       <file name="/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.class" timestamp="1593189495634" />
-      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593228267665">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="36" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593228268231">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="37" column="4" />
+        <mark key="^" line="37" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/settings.gradle" timestamp="1593188516915">
         <mark key="[" line="0" column="36" />
