@@ -103,12 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/src/main/res/layout/activity_detail.xml" timestamp="1593187802932">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1593226429463">
         <mark key="'" line="382" column="93" />
         <mark key="[" line="430" column="9" />
@@ -162,6 +156,12 @@
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/settings.gradle" timestamp="1593221424041">
         <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/ios/rong_rtclib.podspec" timestamp="1593312207715">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/AndroidManifest.xml" timestamp="1593228182181">
         <mark key="[" line="20" column="1" />
