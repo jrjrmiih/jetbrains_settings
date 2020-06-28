@@ -127,8 +127,13 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/pubspec.yaml" timestamp="1593327691268" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1593329868689" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rong_method_key.dart" timestamp="1593342049443">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/video_page.dart" timestamp="1593328744594">
         <mark key="[" line="112" column="31" />
         <mark key="]" line="112" column="31" />
@@ -159,23 +164,17 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1593341921528">
-        <mark key="[" line="72" column="27" />
-        <mark key="]" line="72" column="32" />
-        <mark key="^" line="72" column="32" />
-        <mark key="." line="72" column="31" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1593342119700">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rong_rtc_engine.dart" timestamp="1593330820835">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/pubspec.yaml" timestamp="1593327852210">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/ios/.symlinks/plugins/rongcloud_im_plugin/example/ios/Runner.xcodeproj/project.pbxproj" timestamp="1593329059743" />
     </filemarks>
