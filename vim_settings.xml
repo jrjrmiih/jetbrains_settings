@@ -117,18 +117,13 @@
         <mark key="." line="63" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6aa6dc213b99fc6754ee1357c7cf1f02/yyx_ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1593222002273" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/pubspec.yaml" timestamp="1593324587018" />
       <file name="/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.class" timestamp="1593189495634" />
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593228268231">
         <mark key="[" line="37" column="5" />
         <mark key="]" line="37" column="5" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/settings.gradle" timestamp="1593188516915">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1593228243948">
         <mark key="[" line="57" column="0" />
@@ -188,6 +183,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/pubspec.yaml" timestamp="1593324546425" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build.gradle" timestamp="1593221558618">
         <mark key="[" line="64" column="32" />
         <mark key="]" line="64" column="32" />
