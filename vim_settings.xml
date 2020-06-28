@@ -110,6 +110,12 @@
         <mark key="." line="63" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/android/build.gradle" timestamp="1593327001825" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/room/RongRTCRoom.java" timestamp="1593329884084">
+        <mark key="[" line="402" column="17" />
+        <mark key="]" line="402" column="17" />
+        <mark key="^" line="402" column="17" />
+        <mark key="." line="402" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/login_page.dart" timestamp="1593328935490">
         <mark key="[" line="82" column="19" />
         <mark key="]" line="82" column="19" />
@@ -123,16 +129,11 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="5" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1593329868689" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1593228243948">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/build.gradle" timestamp="1593227067457">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="46" column="13" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/video_page.dart" timestamp="1593328744594">
         <mark key="[" line="112" column="31" />
@@ -169,12 +170,6 @@
         <mark key="]" line="12" column="7" />
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="7" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Handler.java" timestamp="1593226706676">
-        <mark key="[" line="106" column="1" />
-        <mark key="]" line="106" column="1" />
-        <mark key="^" line="106" column="1" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/newsfeed/AndroidManifest.xml" timestamp="1593228209657">
         <mark key="[" line="18" column="0" />
