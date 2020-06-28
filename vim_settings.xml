@@ -116,6 +116,7 @@
         <mark key="^" line="63" column="33" />
         <mark key="." line="63" column="32" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/android/build.gradle" timestamp="1593327001825" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6aa6dc213b99fc6754ee1357c7cf1f02/yyx_ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1593222002273" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/pubspec.yaml" timestamp="1593324587018" />
       <file name="/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.class" timestamp="1593189495634" />
@@ -183,7 +184,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/pubspec.yaml" timestamp="1593324546425" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/pubspec.yaml" timestamp="1593327176425">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build.gradle" timestamp="1593221558618">
         <mark key="[" line="64" column="32" />
         <mark key="]" line="64" column="32" />
@@ -297,7 +303,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzphZGxpYicpCg==</text>
+        <text encoding="base64">ICByb25nX2ltbGliOgogICAgcGF0aDogLi4vcm9uZy1pbWxpYgo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -312,13 +318,13 @@
         <text encoding="base64">ICAgIE5GTG9nLmQoIlJZTV9ERyIsICJsb2FkRmVlZEFkIGJlZm9yZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzphZGxpYicpCg==</text>
+        <text encoding="base64">ICByb25nX2ltbGliOgogICAgcGF0aDogLi4vcm9uZy1pbWxpYgo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzphZGxpYicpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -327,10 +333,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -342,7 +348,7 @@
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
