@@ -104,10 +104,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1593361020778">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="33" />
-        <mark key="^" line="67" column="20" />
-        <mark key="." line="67" column="19" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="33" />
+        <mark key="^" line="54" column="20" />
+        <mark key="." line="54" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1593352749465">
         <mark key="'" line="58" column="16" />
@@ -155,24 +155,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/local.properties" timestamp="1593362008185">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/lib/video_view.dart" timestamp="1593331597743">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1593361796361">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="45" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="28" column="44" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/pubspec.yaml" timestamp="1593328849449">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="28" />
-      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1593362224563" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/room/RongRTCRoom.java" timestamp="1593330052879">
         <mark key="[" line="414" column="17" />
         <mark key="]" line="414" column="17" />
@@ -190,18 +184,6 @@
         <mark key="]" line="6" column="14" />
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/pubspec.yaml" timestamp="1593328847142">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_three_pics.xml" timestamp="1593361076530">
-        <mark key="[" line="68" column="1" />
-        <mark key="]" line="68" column="1" />
-        <mark key="^" line="68" column="1" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/main.dart" timestamp="1593328877843">
         <mark key="[" line="12" column="7" />
@@ -316,7 +298,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iNWRwIgo=</text>
+        <text encoding="base64">bmRrLmRpcj0vVXNlcnMvemhhbmdsZWkvTGlicmFyeS9BbmRyb2lkL3Nkay9uZGsvMjAuMC41NTk0NTcwCg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -331,16 +313,16 @@
         <text encoding="base64">ICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiMzMzMzMzMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iNWRwIgo=</text>
+        <text encoding="base64">bmRrLmRpcj0vVXNlcnMvemhhbmdsZWkvTGlicmFyeS9BbmRyb2lkL3Nkay9uZGsvMjAuMC41NTk0NTcwCg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iNWRwIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDp0ZXh0PSLmtYvor5XnlKjkvosiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgYW5kcm9pZDp0ZXh0PSLmtYvor5XnlKjkvosiCg==</text>
@@ -361,7 +343,7 @@
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByb25nY2xvdWRfaW1fcGx1Z2luOiBeMi4xLjAK</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDp0ZXh0PSLmtYvor5XnlKjkvosiCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
