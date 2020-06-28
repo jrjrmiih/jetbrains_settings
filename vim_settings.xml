@@ -117,9 +117,14 @@
         <mark key="." line="63" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/android/build.gradle" timestamp="1593327001825" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/login_page.dart" timestamp="1593328163140">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="34" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6aa6dc213b99fc6754ee1357c7cf1f02/yyx_ad_sdk-release/jars/classes.jar!/com/daomeng/liumang/view/LmManager.class" timestamp="1593222002273" />
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/pubspec.yaml" timestamp="1593324587018" />
-      <file name="/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.class" timestamp="1593189495634" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-imlib/pubspec.yaml" timestamp="1593327691268" />
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593228268231">
         <mark key="[" line="37" column="5" />
         <mark key="]" line="37" column="5" />
@@ -131,20 +136,24 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1593189488709">
-        <mark key="'" line="347" column="27" />
-        <mark key="[" line="406" column="32" />
-        <mark key="]" line="406" column="32" />
-        <mark key="." line="406" column="31" />
-        <mark key="^" line="406" column="32" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/build.gradle" timestamp="1593227067457">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="46" column="13" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/pubspec.yaml" timestamp="1593313778087" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/video_page.dart" timestamp="1593328105798">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/pubspec.yaml" timestamp="1593328297255">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="23" />
+        <mark key="^" line="30" column="23" />
+        <mark key="." line="30" column="22" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/adlib/build.gradle" timestamp="1593226297943">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="27" />
@@ -154,8 +163,8 @@
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/settings.gradle" timestamp="1593221424041">
         <mark key="[" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/ios/rong_rtclib.podspec" timestamp="1593312207715">
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/ios/rong_rtclib.podspec" timestamp="1593328056689">
+        <mark key="[" line="18" column="27" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -184,11 +193,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/pubspec.yaml" timestamp="1593327176425">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/pubspec.yaml" timestamp="1593327852210">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/build.gradle" timestamp="1593221558618">
         <mark key="[" line="64" column="32" />
@@ -324,19 +333,19 @@
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzphZGxpYicpCg==</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByb25nX2ltbGliOgogICAgcGF0aDogLi4vcm9uZy1pbWxpYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzphZGxpYicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -348,7 +357,7 @@
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
