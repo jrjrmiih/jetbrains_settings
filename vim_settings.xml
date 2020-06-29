@@ -109,11 +109,40 @@
         <mark key="^" line="63" column="33" />
         <mark key="." line="63" column="32" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/ios/Classes/RongRTCPlugin.m" timestamp="1593331283760">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593228268231">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="37" column="4" />
+        <mark key="^" line="37" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/newsfeed/AndroidManifest.xml" timestamp="1593228209657">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/ios/Runner/GeneratedPluginRegistrant.m" timestamp="1593412379923" />
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/video_page.dart" timestamp="1593328744594">
         <mark key="[" line="112" column="31" />
         <mark key="]" line="112" column="31" />
         <mark key="^" line="112" column="31" />
         <mark key="." line="112" column="30" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1593228243948">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/pubspec.yaml" timestamp="1593327852210">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/pubspec.yaml" timestamp="1593328849449">
         <mark key="[" line="29" column="15" />
@@ -162,34 +191,6 @@
         <mark key="]" line="12" column="7" />
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/ios/Classes/RongRTCPlugin.m" timestamp="1593331283760">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593228268231">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="5" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="37" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/newsfeed/AndroidManifest.xml" timestamp="1593228209657">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1593228243948">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/pubspec.yaml" timestamp="1593327852210">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="35" />
       </file>
     </filemarks>
     <jumps>
