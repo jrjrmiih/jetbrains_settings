@@ -142,14 +142,15 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_room.dart" timestamp="1593397941164">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/TextView.java" timestamp="1593363290978" />
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values/attrs.xml" timestamp="1593363360751" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a45d6a10a27fd0e5d078192d6ec0193/design-28.0.0/jars/classes.jar!/android/support/design/widget/TabLayout.class" timestamp="1593363513660" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/local.properties" timestamp="1593362008185">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/drawable/dialog_news_closed_bg.xml" timestamp="1593365032442">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
