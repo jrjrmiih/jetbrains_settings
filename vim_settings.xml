@@ -126,6 +126,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1593501250678">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="41" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/res/layout/activity_main.xml" timestamp="1593444695672" />
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593484407232">
         <mark key="[" line="47" column="0" />
@@ -156,9 +162,6 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/docs/SUMMARY.md" timestamp="1593443791552">
-        <mark key="[" line="24" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/settings.gradle" timestamp="1593445112755">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="28" />
@@ -166,12 +169,6 @@
         <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/build.gradle" timestamp="1593491655769" />
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1593412877962">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="40" />
-        <mark key="^" line="18" column="40" />
-        <mark key="." line="18" column="39" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/rong_rtclib.iml" timestamp="1593491694873">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -291,14 +288,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICB0ZXN0SW1wbGVtZW50YXRpb24gJ2p1bml0Omp1bml0OjQuMTInCiAgICBhbmRyb2lkVGVzdEltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LnRlc3Q6cnVubmVyOjEuMC4yJwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvOmVzcHJlc3NvLWNvcmU6My4wLjInCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCAnfj4gNC4wLjAuMSc=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>, ':newsfeed', ':adlib'</text>
+        <text encoding="base64">LCAnfj4gNC4wLjAuMSc=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWJWaWV3XD4=</text>
