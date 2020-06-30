@@ -108,12 +108,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1593513939217">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1593514083924">
         <mark key="'" line="249" column="6" />
-        <mark key="[" line="194" column="15" />
-        <mark key="]" line="194" column="20" />
-        <mark key="^" line="194" column="20" />
-        <mark key="." line="194" column="19" />
+        <mark key="[" line="259" column="45" />
+        <mark key="]" line="259" column="45" />
+        <mark key="^" line="259" column="45" />
+        <mark key="." line="259" column="44" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/newsfeed/build.gradle" timestamp="1593484135526">
         <mark key="[" line="63" column="0" />
@@ -132,11 +132,11 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1593514078689">
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1593514081075">
         <mark key="[" line="48" column="24" />
-        <mark key="]" line="46" column="9" />
-        <mark key="^" line="46" column="9" />
-        <mark key="." line="46" column="8" />
+        <mark key="]" line="48" column="25" />
+        <mark key="^" line="48" column="25" />
+        <mark key="." line="48" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593484407232">
         <mark key="[" line="47" column="0" />
@@ -160,7 +160,12 @@
         <mark key="^" line="36" column="5" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1593514061056" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1593514149573">
+        <mark key="[" line="184" column="55" />
+        <mark key="]" line="184" column="55" />
+        <mark key="^" line="184" column="55" />
+        <mark key="." line="184" column="54" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/local.properties" timestamp="1593491585095">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
