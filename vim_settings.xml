@@ -139,21 +139,13 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1593399854348">
-        <mark key="'" line="58" column="16" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/local.properties" timestamp="1593491567436" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/build.gradle" timestamp="1593446215182" />
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/src/main/java/rym/test/newsfeed/App.java" timestamp="1593486355938">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="15" />
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="14" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/video_page.dart" timestamp="1593399713665">
-        <mark key="[" line="111" column="21" />
-        <mark key="]" line="111" column="18" />
-        <mark key="^" line="111" column="18" />
-        <mark key="." line="111" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/docs/SUMMARY.md" timestamp="1593443791552">
         <mark key="[" line="24" column="25" />
@@ -171,6 +163,12 @@
         <mark key="." line="18" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/java/rym/demo/newsfeed/App.java" timestamp="1593444568190" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/local.properties" timestamp="1593491271538">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1593411327650">
         <mark key="[" line="0" column="0" />
       </file>
