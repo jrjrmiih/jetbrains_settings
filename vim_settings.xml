@@ -132,7 +132,6 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/res/layout/activity_main.xml" timestamp="1593444695672" />
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593484407232">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -174,6 +173,7 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/android/build.gradle" timestamp="1593501968049" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/app/build.gradle" timestamp="1593491655769" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/rong_rtclib.iml" timestamp="1593491694873">
         <mark key="[" line="0" column="1" />
