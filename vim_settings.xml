@@ -149,6 +149,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="16" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/android/build.gradle" timestamp="1593501858681">
+        <mark key="[" line="41" column="50" />
+        <mark key="]" line="36" column="5" />
+        <mark key="^" line="36" column="5" />
+        <mark key="." line="36" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/android/local.properties" timestamp="1593491585095">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
@@ -175,7 +181,6 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/java/rym/demo/newsfeed/App.java" timestamp="1593444568190" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/local.properties" timestamp="1593491271538">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
