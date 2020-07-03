@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNldFw+</entry>
         <entry encoding="base64">XDxzZXRWaXNpYmlsaXR5XD4=</entry>
         <entry encoding="base64">XDxsb2FkRmVlZEFkXD4=</entry>
         <entry encoding="base64">XDxBUFBfS0VZXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxzdGFydFJlcG9ydFRpbWVyXD4=</entry>
         <entry encoding="base64">XDxzZXRVc2VyVmlzaWJsZUhpbnRcPg==</entry>
+        <entry encoding="base64">XDxtUm9uZ1JUQ0Nvbm5lY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -103,10 +103,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/adlib/AndroidManifest.xml" timestamp="1593446253779">
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongRTCConnectionClient.java" timestamp="1593775837299">
+        <mark key="'" line="667" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1593532626212">
         <mark key="[" line="159" column="24" />
@@ -197,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="13" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/core/AdapterCall.java" />
       <jump line="109" column="13" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/core/AdapterCall.java" />
       <jump line="117" column="13" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/core/AdapterCall.java" />
       <jump line="29" column="10" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/core/AdapterCall.java" />
@@ -297,6 +294,7 @@
       <jump line="122" column="42" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
       <jump line="123" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
       <jump line="162" column="14" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
+      <jump line="667" column="16" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/RongRTCConnectionClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,7 +309,7 @@
         <text>startRecportTimer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRVc2VyVmlzaWJsZUhpbnRcPg==</text>
+        <text encoding="base64">XDxtUm9uZ1JUQ0Nvbm5lY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgIk5ld3NEZXRhaWxGcmFnbWVudCBzdGFydFJlcG9ydFRpbWVyKCkiKTsK</text>
@@ -356,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZXRVc2VyVmlzaWJsZUhpbnRcPg==</last-search>
+      <last-search encoding="base64">XDxtUm9uZ1JUQ0Nvbm5lY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRVc2VyVmlzaWJsZUhpbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtUm9uZ1JUQ0Nvbm5lY3Rpb25cPg==</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
