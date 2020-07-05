@@ -103,12 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1593514081075">
-        <mark key="[" line="48" column="24" />
-        <mark key="]" line="48" column="25" />
-        <mark key="^" line="48" column="25" />
-        <mark key="." line="48" column="24" />
-      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1593531815263">
         <mark key="'" line="123" column="26" />
         <mark key="[" line="121" column="31" />
@@ -116,37 +110,18 @@
         <mark key="^" line="125" column="65" />
         <mark key="." line="125" column="64" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/calllib/src/main/java/io/rong/calllib/RongCallEngineListener.java" timestamp="1593939851558" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1593532626212">
         <mark key="[" line="159" column="24" />
         <mark key="]" line="159" column="24" />
         <mark key="." line="159" column="24" />
         <mark key="^" line="159" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-rtclib/android/rong_rtclib.iml" timestamp="1593491694873">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/callkit/src/main/java/io/rong/callkit/RongCallKit.java" timestamp="1593938963983" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/calllib/src/main/java/io/rong/calllib/RongCallClient.java" timestamp="1593939174083" />
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/src/main/java/rym/test/newsfeed/App.java" timestamp="1593532782690">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1593571656269">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/android/build.gradle" timestamp="1593501858681">
-        <mark key="[" line="41" column="50" />
-        <mark key="]" line="36" column="5" />
-        <mark key="^" line="36" column="5" />
-        <mark key="." line="36" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1593938865847" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/rong_imlib_android.iml" timestamp="1593491732426">
@@ -163,6 +138,26 @@
       </file>
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/src/main/AndroidManifest.xml" timestamp="1593532799338">
         <mark key="[" line="29" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1593514081075">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="25" />
+        <mark key="^" line="48" column="25" />
+        <mark key="." line="48" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/callkit/src/main/java/io/rong/callkit/RongCallKit.java" timestamp="1593938963983" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/calllib/src/main/java/io/rong/calllib/RongCallClient.java" timestamp="1593939174083" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1593571656269">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/android/build.gradle" timestamp="1593501858681">
+        <mark key="[" line="41" column="50" />
+        <mark key="]" line="36" column="5" />
+        <mark key="^" line="36" column="5" />
+        <mark key="." line="36" column="4" />
       </file>
     </filemarks>
     <jumps>
