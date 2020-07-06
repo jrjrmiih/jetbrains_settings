@@ -124,12 +124,7 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1593938865847" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1593501250678">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="18" column="41" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/android/src/main/java/rong/flutter/rtclib/RCFlutterRTCMethodKey.java" timestamp="1594008669826" />
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/src/main/AndroidManifest.xml" timestamp="1593532799338">
         <mark key="[" line="29" column="15" />
       </file>
