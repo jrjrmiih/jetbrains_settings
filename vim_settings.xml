@@ -124,12 +124,6 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1593938865847" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rong-imlib/android/rong_imlib_android.iml" timestamp="1593491732426">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1593501250678">
         <mark key="[" line="18" column="40" />
         <mark key="]" line="18" column="41" />
@@ -138,6 +132,12 @@
       </file>
       <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/src/main/AndroidManifest.xml" timestamp="1593532799338">
         <mark key="[" line="29" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594000073007">
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="46" />
+        <mark key="^" line="38" column="46" />
+        <mark key="." line="38" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1593514081075">
         <mark key="[" line="48" column="24" />
