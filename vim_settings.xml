@@ -160,10 +160,11 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterEngine.m" timestamp="1594116743012">
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterEngine.m" timestamp="1594116744704">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/ios/Pods/RongRTCLib/RTCLib/RongRTCLib.framework/Headers/RCRTCEngine.h" timestamp="1594110459143" />
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterRoom.m_dir/fragment.m" timestamp="1594115715375">
