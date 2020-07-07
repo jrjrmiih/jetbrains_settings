@@ -15,7 +15,7 @@
     <mask>build.gradle</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
-    <mask>*.dart</mask>
     <mask>*.java</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
