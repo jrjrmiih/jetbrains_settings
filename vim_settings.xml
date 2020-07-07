@@ -138,10 +138,10 @@
         <mark key="^" line="2850" column="19" />
         <mark key="." line="2850" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1594101798876">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="33" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1594102364347">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/pubspec.yaml" timestamp="1594101916038">
@@ -160,6 +160,9 @@
         <mark key="]" line="38" column="46" />
         <mark key="^" line="38" column="46" />
         <mark key="." line="38" column="45" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Podfile" timestamp="1594102261875">
+        <mark key="[" line="78" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -268,13 +271,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>startRecportTimer</text>
+        <text encoding="base64">LCAnfj4gNC4wLjAuMyc=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>startRecportTimer</text>
+        <text encoding="base64">LCAnfj4gNC4wLjAuMyc=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JlZW5PdXRwdXRTdHJlYW1cPg==</text>
