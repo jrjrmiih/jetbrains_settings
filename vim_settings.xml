@@ -103,11 +103,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterEngine.m" timestamp="1594110326095">
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="9" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterEngine.m" timestamp="1594111392651">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/ios/Pods/RongRTCLib/RTCLib/RongRTCLib.framework/Headers/RCRTCEngine.h" timestamp="1594110459143" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/adlib/AndroidManifest.xml" timestamp="1593228192786">
         <mark key="[" line="60" column="75" />
         <mark key="]" line="63" column="33" />
@@ -195,12 +197,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/AndroidManifest.xml" timestamp="1593228182181">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/main.dart" timestamp="1593328877843">
         <mark key="[" line="12" column="7" />
@@ -315,13 +311,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBbc2VsZiBhbGxvY0luc3RhbmNlXTsKICBSTG9nVihAImlvcyBqb2luUlRDUm9vbSBpZCA9ICVAIiwgcm9vbUlkKTsKICBXZWFrKHNlbGYpOwogIFtbUm9uZ0ZsdXR0ZXJSVENNYW5hZ2VyIHNoYXJlZEluc3RhbmNlXSBqb2luUlRDUm9vbTpyb29tSWQgY29tcGxldGlvbjpeKFJvbmdSVENSb29tICpfTnVsbGFibGUgcm9vbSwKICAgICAgUm9uZ1JUQ0NvZGUgY29kZSkgewogICAgUkxvZ1YoQCJpb3Mgam9pbiByb29tIGNvZGU6JUAiLCBAKGNvZGUpKTsKICAgIFN0cm9uZyhzZWxmKTsKICAgIGRpc3BhdGNoX3RvX3dvcmtRdWV1ZSheew==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMbU1hbmFnZXJcPg==</text>
@@ -330,37 +326,37 @@
         <text encoding="base64">ICByb25nY2xvdWRfaW1fcGx1Z2luOiBeMi4xLjAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBbc2VsZiBhbGxvY0luc3RhbmNlXTsKICBSTG9nVihAImlvcyBqb2luUlRDUm9vbSBpZCA9ICVAIiwgcm9vbUlkKTsKICBXZWFrKHNlbGYpOwogIFtbUm9uZ0ZsdXR0ZXJSVENNYW5hZ2VyIHNoYXJlZEluc3RhbmNlXSBqb2luUlRDUm9vbTpyb29tSWQgY29tcGxldGlvbjpeKFJvbmdSVENSb29tICpfTnVsbGFibGUgcm9vbSwKICAgICAgUm9uZ1JUQ0NvZGUgY29kZSkgewogICAgUkxvZ1YoQCJpb3Mgam9pbiByb29tIGNvZGU6JUAiLCBAKGNvZGUpKTsKICAgIFN0cm9uZyhzZWxmKTsKICAgIGRpc3BhdGNoX3RvX3dvcmtRdWV1ZSheew==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBaaGFuZ0xlaSBvbiAyMDIwLzcvNy4KLy8KCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBaaGFuZ0xlaSBvbiAyMDIwLzcvNy4KLy8KCg==</text>
+        <text encoding="base64">I2ltcG9ydCA8Um9uZ1JUQ0xpYi9SQ1JUQ0VuZ2luZS5oPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByb25nY2xvdWRfaW1fcGx1Z2luOiBeMi4xLjAK</text>
+        <text encoding="base64">ICBbc2VsZiBhbGxvY0luc3RhbmNlXTsKICBSTG9nVihAImlvcyBqb2luUlRDUm9vbSBpZCA9ICVAIiwgcm9vbUlkKTsKICBXZWFrKHNlbGYpOwogIFtbUm9uZ0ZsdXR0ZXJSVENNYW5hZ2VyIHNoYXJlZEluc3RhbmNlXSBqb2luUlRDUm9vbTpyb29tSWQgY29tcGxldGlvbjpeKFJvbmdSVENSb29tICpfTnVsbGFibGUgcm9vbSwKICAgICAgUm9uZ1JUQ0NvZGUgY29kZSkgewogICAgUkxvZ1YoQCJpb3Mgam9pbiByb29tIGNvZGU6JUAiLCBAKGNvZGUpKTsKICAgIFN0cm9uZyhzZWxmKTsKICAgIGRpc3BhdGNoX3RvX3dvcmtRdWV1ZSheew==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJvbmdSVEMK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBaaGFuZ0xlaSBvbiAyMDIwLzcvNy4KLy8KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdfaW1saWIvcm9uZ19pbWxpYi5kYXJ0JzsK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBaaGFuZ0xlaSBvbiAyMDIwLzcvNy4KLy8KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdfaW1saWIvcm9uZ19pbWxpYi5kYXJ0JzsK</text>
+        <text encoding="base64">ICByb25nY2xvdWRfaW1fcGx1Z2luOiBeMi4xLjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdfaW1saWIvcm9uZ19pbWxpYi5kYXJ0JzsK</text>
+        <text encoding="base64">ICAgIFJvbmdSVEMK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJvbmdJTUVuZ2luZS5pbml0KEdsb2JhbENvbmZpZy5hcHBLZXkpOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdfaW1saWIvcm9uZ19pbWxpYi5kYXJ0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
