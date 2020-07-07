@@ -103,11 +103,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterEngine.m" timestamp="1594111276003">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterEngine.m" timestamp="1594113365419">
         <mark key="[" line="43" column="46" />
         <mark key="]" line="43" column="46" />
         <mark key="^" line="43" column="46" />
         <mark key="." line="43" column="45" />
+      </file>
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1594113092191">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="2" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Pods/Headers/Private/rongcloud_rtc_plugin/RongFlutterTools.h" timestamp="1594111219760">
         <mark key="[" line="20" column="7" />
@@ -121,12 +127,6 @@
         <mark key="'" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1594111283119" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1594103546490">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="34" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594104982011">
         <mark key="[" line="89" column="18" />
         <mark key="]" line="89" column="18" />
@@ -143,13 +143,8 @@
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/RongRTCPlugin.m" timestamp="1594106447251" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/Tool/RongFlutterTools.m" timestamp="1594111161518" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterRoom.m" timestamp="1594111588856" />
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/ios/Podfile" timestamp="1594103862854">
-        <mark key="[" line="74" column="1" />
-        <mark key="]" line="74" column="1" />
-        <mark key="^" line="74" column="1" />
-        <mark key="." line="74" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterRoom.m" timestamp="1594111707162" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterRoom.h" timestamp="1594111627204" />
     </filemarks>
     <jumps>
       <jump line="129" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/client/NNFUrlConnectionClient.java" />
@@ -257,7 +252,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1hcCBjb25mID0gY29uZjNpZy50b01hcCgpOwogICAgY2hhbm5lbC5pbnZva2VNZXRob2QoTWV0aG9kS2V5LkNvbmZpZywgY29uZik7Cg==</text>
+        <text encoding="base64">ICBzLmRlcGVuZGVuY3kgJ0pTT05Nb2RlbCcK</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -272,37 +267,37 @@
         <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgIk5ld3NEZXRhaWxGcmFnbWVudCBzdGFydFJlcG9ydFRpbWVyKCkiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1hcCBjb25mID0gY29uZjNpZy50b01hcCgpOwogICAgY2hhbm5lbC5pbnZva2VNZXRob2QoTWV0aG9kS2V5LkNvbmZpZywgY29uZik7Cg==</text>
+        <text encoding="base64">ICBzLmRlcGVuZGVuY3kgJ0pTT05Nb2RlbCcK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hcCBjb25mID0gY29uZjNpZy50b01hcCgpOwogICAgY2hhbm5lbC5pbnZva2VNZXRob2QoTWV0aG9kS2V5LkNvbmZpZywgY29uZik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgLy8v6YWN572uCiAgLy8vCiAgLy8v6K+35ZyoIFtyZW5kZXJMb2NhbFZpZGVvXSDmjqXlj6PliY3osIPnlKgKICBzdGF0aWMgdm9pZCBjb25maWcoUkNSVENDb25maWcgY29uZmlnKSB7CgogIH0=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgLy8v6YWN572uCiAgLy8vCiAgLy8v6K+35ZyoIFtyZW5kZXJMb2NhbFZpZGVvXSDmjqXlj6PliY3osIPnlKgKICBzdGF0aWMgdm9pZCBjb25maWcoUkNSVENDb25maWcgY29uZmlnKSB7CgogIH0=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgc2V0VXNlclZpc2libGVIaW50KGJvb2xlYW4gaXNWaXNpYmxlVG9Vc2VyKSB7CiAgICBzdXBlci5zZXRVc2VyVmlzaWJsZUhpbnQoaXNWaXNpYmxlVG9Vc2VyKTsKICAgIGlmIChnZXRVc2VyVmlzaWJsZUhpbnQoKSkgewogICAgICBORkxvZy5kKCJSWU1fREciLCAiTmV3c0RldGFpbEZyYWdtZW50IHN0YXJ0UmVwb3J0VGltZXIoKSIpOwogICAgICByZWN5Y2xlclZpZXdBZGFwdGVyLnN0YXJ0UmVwb3J0VGltZXIoKTsKICAgIH0gZWxzZSB7CiAgICAgIE5GTG9nLmQoIlJZTV9ERyIsICJOZXdzRGV0YWlsRnJhZ21lbnQgc3RvcFJlcG9ydFRpbWVyKCkiKTsKICAgICAgcmVjeWNsZXJWaWV3QWRhcHRlci5zdG9wUmVwb3J0VGltZXIoKTsKICAgIH0KICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxPYmplY3Q+IGNhY2hlTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgcHJpdmF0ZSBMaXN0PE9iamVjdD4gcmVwb3J0TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgc2V0VXNlclZpc2libGVIaW50KGJvb2xlYW4gaXNWaXNpYmxlVG9Vc2VyKSB7CiAgICBzdXBlci5zZXRVc2VyVmlzaWJsZUhpbnQoaXNWaXNpYmxlVG9Vc2VyKTsKICAgIGlmIChnZXRVc2VyVmlzaWJsZUhpbnQoKSkgewogICAgICBORkxvZy5kKCJSWU1fREciLCAiTmV3c0RldGFpbEZyYWdtZW50IHN0YXJ0UmVwb3J0VGltZXIoKSIpOwogICAgICByZWN5Y2xlclZpZXdBZGFwdGVyLnN0YXJ0UmVwb3J0VGltZXIoKTsKICAgIH0gZWxzZSB7CiAgICAgIE5GTG9nLmQoIlJZTV9ERyIsICJOZXdzRGV0YWlsRnJhZ21lbnQgc3RvcFJlcG9ydFRpbWVyKCkiKTsKICAgICAgcmVjeWNsZXJWaWV3QWRhcHRlci5zdG9wUmVwb3J0VGltZXIoKTsKICAgIH0KICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxPYmplY3Q+IHRlbXBMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxPYmplY3Q+IGNhY2hlTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgcHJpdmF0ZSBMaXN0PE9iamVjdD4gcmVwb3J0TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlTGlzdCA9IHRlbXBMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxPYmplY3Q+IHRlbXBMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKGNhY2hlTGlzdC5jb250YWlucyhvYmopKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFyZXBvcnRMaXN0LmNvbnRhaW5zKG9iaikpIHJlcG9ydExpc3QuYWRkKG9iaik7CiAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgdGVtcExpc3QuYWRkKG9iaik7CiAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlTGlzdCA9IHRlbXBMaXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
