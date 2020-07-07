@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUmVtb3RlVmlkZW9GcmFtZUxpc3RlbmVyXD4=</entry>
-        <entry encoding="base64">XDxUaXRsZUJsYW5rSXRlbVw+</entry>
         <entry encoding="base64">XDxUWVBFX0RFVEFJTF9USVRMRVw+</entry>
         <entry encoding="base64">XDxUaXRsZVZIXD4=</entry>
         <entry encoding="base64">XDxkaXNtaXNzXD4=</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxtT3V0cHV0U3RyZWFtXD4=</entry>
         <entry encoding="base64">XDxtZWRpYVN0cmVhbVw+</entry>
         <entry encoding="base64">XDxzY3JlZW5PdXRwdXRTdHJlYW1cPg==</entry>
+        <entry encoding="base64">XDxSQ1JUQ0NvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxSb25nUlRDQ29uZmlnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -115,20 +115,23 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="10" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCConfig.java" timestamp="1594107540815" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCEngineImpl.java" timestamp="1594107153406">
+        <mark key="'" line="15" column="24" />
+      </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/pubspec.yaml" timestamp="1594103542735">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="32" column="30" />
         <mark key="^" line="32" column="30" />
         <mark key="." line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594105604990">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594107874987">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1594051238002">
-        <mark key="'" line="223" column="32" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1594106917649">
+        <mark key="'" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" timestamp="1594051382617">
         <mark key="'" line="2815" column="20" />
@@ -166,10 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="6" filename="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/Networker.java" />
-      <jump line="80" column="22" filename="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/Networker.java" />
-      <jump line="118" column="8" filename="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/Networker.java" />
-      <jump line="133" column="10" filename="$USER_HOME$/Workspace/android-space/stetho/stetho-sample/src/main/java/com/facebook/stetho/sample/Networker.java" />
       <jump line="129" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/http/client/NNFUrlConnectionClient.java" />
       <jump line="50" column="36" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/AllViewHolder.java" />
       <jump line="173" column="18" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
@@ -266,12 +265,16 @@
       <jump line="2813" column="20" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" />
       <jump line="2814" column="20" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" />
       <jump line="2815" column="20" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" />
+      <jump line="43" column="51" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" />
+      <jump line="194" column="44" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCEngineImpl.java" />
+      <jump line="214" column="20" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCEngineImpl.java" />
+      <jump line="15" column="24" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCEngineImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hcCBjb25mID0gY29uZjNpZy50b01hcCgpOwogICAgY2hhbm5lbC5pbnZva2VNZXRob2QoTWV0aG9kS2V5LkNvbmZpZywgY29uZik7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -280,43 +283,43 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY3JlZW5PdXRwdXRTdHJlYW1cPg==</text>
+        <text encoding="base64">XDxSb25nUlRDQ29uZmlnXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgIk5ld3NEZXRhaWxGcmFnbWVudCBzdGFydFJlcG9ydFRpbWVyKCkiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hcCBjb25mID0gY29uZjNpZy50b01hcCgpOwogICAgY2hhbm5lbC5pbnZva2VNZXRob2QoTWV0aG9kS2V5LkNvbmZpZywgY29uZik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgLy8v6YWN572uCiAgLy8vCiAgLy8v6K+35ZyoIFtyZW5kZXJMb2NhbFZpZGVvXSDmjqXlj6PliY3osIPnlKgKICBzdGF0aWMgdm9pZCBjb25maWcoUkNSVENDb25maWcgY29uZmlnKSB7CgogIH0=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgLy8v6YWN572uCiAgLy8vCiAgLy8v6K+35ZyoIFtyZW5kZXJMb2NhbFZpZGVvXSDmjqXlj6PliY3osIPnlKgKICBzdGF0aWMgdm9pZCBjb25maWcoUkNSVENDb25maWcgY29uZmlnKSB7CgogIH0=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgc2V0VXNlclZpc2libGVIaW50KGJvb2xlYW4gaXNWaXNpYmxlVG9Vc2VyKSB7CiAgICBzdXBlci5zZXRVc2VyVmlzaWJsZUhpbnQoaXNWaXNpYmxlVG9Vc2VyKTsKICAgIGlmIChnZXRVc2VyVmlzaWJsZUhpbnQoKSkgewogICAgICBORkxvZy5kKCJSWU1fREciLCAiTmV3c0RldGFpbEZyYWdtZW50IHN0YXJ0UmVwb3J0VGltZXIoKSIpOwogICAgICByZWN5Y2xlclZpZXdBZGFwdGVyLnN0YXJ0UmVwb3J0VGltZXIoKTsKICAgIH0gZWxzZSB7CiAgICAgIE5GTG9nLmQoIlJZTV9ERyIsICJOZXdzRGV0YWlsRnJhZ21lbnQgc3RvcFJlcG9ydFRpbWVyKCkiKTsKICAgICAgcmVjeWNsZXJWaWV3QWRhcHRlci5zdG9wUmVwb3J0VGltZXIoKTsKICAgIH0KICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxPYmplY3Q+IGNhY2hlTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgcHJpdmF0ZSBMaXN0PE9iamVjdD4gcmVwb3J0TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgc2V0VXNlclZpc2libGVIaW50KGJvb2xlYW4gaXNWaXNpYmxlVG9Vc2VyKSB7CiAgICBzdXBlci5zZXRVc2VyVmlzaWJsZUhpbnQoaXNWaXNpYmxlVG9Vc2VyKTsKICAgIGlmIChnZXRVc2VyVmlzaWJsZUhpbnQoKSkgewogICAgICBORkxvZy5kKCJSWU1fREciLCAiTmV3c0RldGFpbEZyYWdtZW50IHN0YXJ0UmVwb3J0VGltZXIoKSIpOwogICAgICByZWN5Y2xlclZpZXdBZGFwdGVyLnN0YXJ0UmVwb3J0VGltZXIoKTsKICAgIH0gZWxzZSB7CiAgICAgIE5GTG9nLmQoIlJZTV9ERyIsICJOZXdzRGV0YWlsRnJhZ21lbnQgc3RvcFJlcG9ydFRpbWVyKCkiKTsKICAgICAgcmVjeWNsZXJWaWV3QWRhcHRlci5zdG9wUmVwb3J0VGltZXIoKTsKICAgIH0KICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxPYmplY3Q+IHRlbXBMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxPYmplY3Q+IGNhY2hlTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgcHJpdmF0ZSBMaXN0PE9iamVjdD4gcmVwb3J0TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlTGlzdCA9IHRlbXBMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxPYmplY3Q+IHRlbXBMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKGNhY2hlTGlzdC5jb250YWlucyhvYmopKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFyZXBvcnRMaXN0LmNvbnRhaW5zKG9iaikpIHJlcG9ydExpc3QuYWRkKG9iaik7CiAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgdGVtcExpc3QuYWRkKG9iaik7CiAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlTGlzdCA9IHRlbXBMaXN0Owo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKGNhY2hlTGlzdC5jb250YWlucyhvYmopKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFyZXBvcnRMaXN0LmNvbnRhaW5zKG9iaikpIHJlcG9ydExpc3QuYWRkKG9iaik7CiAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgdGVtcExpc3QuYWRkKG9iaik7CiAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -325,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzY3JlZW5PdXRwdXRTdHJlYW1cPg==</last-search>
+      <last-search encoding="base64">XDxSb25nUlRDQ29uZmlnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY3JlZW5PdXRwdXRTdHJlYW1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSb25nUlRDQ29uZmlnXD4=</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
