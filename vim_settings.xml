@@ -103,58 +103,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterEngine.m" timestamp="1594113140981">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="14" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/ios/Pods/RongRTCLib/RTCLib/RongRTCLib.framework/Headers/RCRTCEngine.h" timestamp="1594110459143" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/adlib/AndroidManifest.xml" timestamp="1593228192786">
-        <mark key="[" line="60" column="75" />
-        <mark key="]" line="63" column="33" />
-        <mark key="^" line="63" column="33" />
-        <mark key="." line="63" column="32" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/ios/Classes/RongRTCPlugin.m" timestamp="1593331283760">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCRTCEngine.h" timestamp="1594106396482">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/app/build.gradle" timestamp="1593228268231">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="5" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="37" column="5" />
+      <file name="/fragment.m" timestamp="1594115715392">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/TestNewsFeed/newsfeed/AndroidManifest.xml" timestamp="1593228209657">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterRoom.m" timestamp="1594116716927">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/video_page.dart" timestamp="1593328744594">
-        <mark key="[" line="112" column="31" />
-        <mark key="]" line="112" column="31" />
-        <mark key="^" line="112" column="31" />
-        <mark key="." line="112" column="30" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterRemoteUser.m" timestamp="1594116722192">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/app/src/main/AndroidManifest.xml" timestamp="1593228243948">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/pubspec.yaml" timestamp="1593327852210">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="35" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterRemoteUser.h" timestamp="1594116031459">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/RongcloudRtcPlugin.m" timestamp="1594106458286">
         <mark key="[" line="9" column="50" />
@@ -162,23 +136,17 @@
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/pubspec.yaml" timestamp="1593328849449">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="28" />
-      </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCRTCEngine.m" timestamp="1594110265186">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="31" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/room/RongRTCRoom.java" timestamp="1593330052879">
         <mark key="[" line="414" column="17" />
         <mark key="]" line="414" column="17" />
         <mark key="^" line="414" column="17" />
         <mark key="." line="414" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterRoom.h" timestamp="1594115819427">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/login_page.dart" timestamp="1593328935490">
         <mark key="[" line="82" column="19" />
@@ -186,23 +154,39 @@
         <mark key="." line="82" column="18" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/pubspec.yaml" timestamp="1593328847142">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rong-rtclib/ios/rong_rtclib.podspec" timestamp="1593328056689">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/lib/main.dart" timestamp="1593328877843">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="7" />
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterEngine.m" timestamp="1594116743012">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/ios/Pods/RongRTCLib/RTCLib/RongRTCLib.framework/Headers/RCRTCEngine.h" timestamp="1594110459143" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterRoom.m_dir/fragment.m" timestamp="1594115715375">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterLocalUser.m" timestamp="1594116737188">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-ios/ios-sealdev/flutter-rtcdemo/rongcloud_rtc_plugin/ios/Classes/RongRTCPlugin.m" timestamp="1593331283760">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h" timestamp="1594115368408" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/RCRTCEngine.m" timestamp="1594110265186">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -311,7 +295,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -323,40 +307,40 @@
         <text encoding="base64">XDxMbU1hbmFnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByb25nY2xvdWRfaW1fcGx1Z2luOiBeMi4xLjAK</text>
+        <text encoding="base64">QHByb3BlcnR5KG5vbmF0b21pYykgUkNGbHV0dGVyTG9jYWxVc2VyICpsb2NhbFVzZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgp9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2ltcG9ydCA8Um9uZ1JUQ0xpYi9SQ1JUQ0VuZ2luZS5oPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBbc2VsZiBhbGxvY0luc3RhbmNlXTsKICBSTG9nVihAImlvcyBqb2luUlRDUm9vbSBpZCA9ICVAIiwgcm9vbUlkKTsKICBXZWFrKHNlbGYpOwogIFtbUm9uZ0ZsdXR0ZXJSVENNYW5hZ2VyIHNoYXJlZEluc3RhbmNlXSBqb2luUlRDUm9vbTpyb29tSWQgY29tcGxldGlvbjpeKFJvbmdSVENSb29tICpfTnVsbGFibGUgcm9vbSwKICAgICAgUm9uZ1JUQ0NvZGUgY29kZSkgewogICAgUkxvZ1YoQCJpb3Mgam9pbiByb29tIGNvZGU6JUAiLCBAKGNvZGUpKTsKICAgIFN0cm9uZyhzZWxmKTsKICAgIGRpc3BhdGNoX3RvX3dvcmtRdWV1ZSheew==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBaaGFuZ0xlaSBvbiAyMDIwLzcvNy4KLy8KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBaaGFuZ0xlaSBvbiAyMDIwLzcvNy4KLy8KCg==</text>
+        <text encoding="base64">ICAgICAgUkNGbHV0dGVyUm9vbQogICAgICBOU011dGFibGVEaWN0aW9uYXJ5ICpyb29tRGljID0gW3Jvb20gdG9EZXNjXTsKICAgICAgcm9vbURpY1tAImNvZGUiXSA9IEAoUm9uZ1JUQ0NvZGVTdWNjZXNzKTsKICAgICAgTlNTdHJpbmcgKmpzb25PYmogPSBbUm9uZ0ZsdXR0ZXJUb29scyBkaWN0aW9uYXJ5VG9Kc29uOnJvb21EaWNdOwogICAgICByZXN1bHQoanNvbk9iaik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBaaGFuZ0xlaSBvbiAyMDIwLzcvNy4KLy8KCg==</text>
+        <text encoding="base64">ICAgICAgUkxvZ1YoQCJpb3Mgam9pbiByb29tIHN1Y2Nlc3MiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByb25nY2xvdWRfaW1fcGx1Z2luOiBeMi4xLjAK</text>
+        <text encoding="base64">ICB9XTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJvbmdSVEMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdfaW1saWIvcm9uZ19pbWxpYi5kYXJ0JzsK</text>
+        <text encoding="base64">CiAgW3NlbGYgYWxsb2NJbnN0YW5jZV07CiAgUkxvZ1YoQCJpb3Mgam9pblJUQ1Jvb20gaWQgPSAlQCIsIHJvb21JZCk7CiAgV2VhayhzZWxmKTsKICBbW1JvbmdGbHV0dGVyUlRDTWFuYWdlciBzaGFyZWRJbnN0YW5jZV0gam9pblJUQ1Jvb206cm9vbUlkIGNvbXBsZXRpb246XihSb25nUlRDUm9vbSAqX051bGxhYmxlIHJvb20sCiAgICAgIFJvbmdSVENDb2RlIGNvZGUpIHsKICAgIFJMb2dWKEAiaW9zIGpvaW4gcm9vbSBjb2RlOiVAIiwgQChjb2RlKSk7CiAgICBTdHJvbmcoc2VsZik7CiAgICBkaXNwYXRjaF90b193b3JrUXVldWUoXnsKICAgICAgaWYgKGNvZGUgPT0gUm9uZ1JUQ0NvZGVTdWNjZXNzKSB7CiAgICAgICAgc2VsZlN0cm9uZy5yb29tLnJ0Y1Jvb20gPSByb29tOwogICAgICAgIE5TTXV0YWJsZURpY3Rpb25hcnkgKnJvb21EaWMgPSBbc2VsZlN0cm9uZy5yb29tIHRvRGVzY107CiAgICAgICAgcm9vbURpY1tAImNvZGUiXSA9IEAoUm9uZ1JUQ0NvZGVTdWNjZXNzKTsKICAgICAgICBOU1N0cmluZyAqanNvbk9iaiA9IFtSb25nRmx1dHRlclRvb2xzIGRpY3Rpb25hcnlUb0pzb246cm9vbURpY107CiAgICAgICAgUkxvZ1YoQCJpb3Mgam9pbiByb29tIHN1Y2Nlc3MiKTsKICAgICAgICByZXN1bHQoanNvbk9iaik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcmVzdWx0KFtOU0RpY3Rpb25hcnkgbmV3XSk7CiAgICAgIH0KICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
