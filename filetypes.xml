@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="rong_rtc_capture" type="Dart" />
       <mapping ext="webp" type="Image" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="RTLog" type="PLAIN_TEXT" />
-      <mapping pattern="bbb" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="RTLog" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="bbb" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="mock" type="PLAIN_TEXT" />
-      <mapping pattern="rong_rtc_capture" type="Dart" />
     </extensionMap>
   </component>
 </application>
