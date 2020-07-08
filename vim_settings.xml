@@ -132,11 +132,11 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/lib/video_page.dart" timestamp="1594121699436">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="14" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/lib/video_page.dart" timestamp="1594172307902">
+        <mark key="[" line="51" column="9" />
+        <mark key="]" line="51" column="14" />
+        <mark key="^" line="51" column="14" />
+        <mark key="." line="51" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1594111283119" />
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_local_user.dart" timestamp="1594120727747">
@@ -151,11 +151,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/lib/login_page.dart" timestamp="1594121277302">
-        <mark key="[" line="83" column="20" />
-        <mark key="]" line="83" column="25" />
-        <mark key="." line="83" column="24" />
-        <mark key="^" line="83" column="25" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/lib/login_page.dart" timestamp="1594172488812">
+        <mark key="[" line="85" column="39" />
+        <mark key="]" line="85" column="51" />
+        <mark key="." line="85" column="50" />
+        <mark key="^" line="85" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/Tool/RongFlutterTools.m" timestamp="1594111161518" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterRoom.m" timestamp="1594115409446" />
