@@ -149,11 +149,11 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594206286793">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="35" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594221455319">
+        <mark key="[" line="9" column="80" />
+        <mark key="]" line="9" column="86" />
+        <mark key="^" line="9" column="86" />
+        <mark key="." line="9" column="85" />
       </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594121667231">
         <mark key="[" line="11" column="1" />
@@ -295,14 +295,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLy8g5Yqg5YWlIFJUQyDmiL/pl7QK</text>
+      <register name="&quot;" type="4">
+        <text>plugin</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>super</text>
+        <text>plugin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
