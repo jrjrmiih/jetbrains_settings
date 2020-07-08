@@ -139,6 +139,9 @@
         <mark key="." line="51" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/android/src/main/java/rong/flutter/rtclib/RongRTCPlugin.java" timestamp="1594111283119" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Podfile" timestamp="1594175636575">
+        <mark key="[" line="85" column="3" />
+      </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_local_user.dart" timestamp="1594120727747">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="10" column="18" />
@@ -157,8 +160,7 @@
         <mark key="." line="85" column="50" />
         <mark key="^" line="85" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/Tool/RongFlutterTools.m" timestamp="1594111161518" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterRoom.m" timestamp="1594115409446" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterRoom.m" timestamp="1594173683664" />
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_remote_user.dart" timestamp="1594120687568">
         <mark key="[" line="16" column="64" />
         <mark key="]" line="16" column="78" />
