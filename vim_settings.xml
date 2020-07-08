@@ -103,17 +103,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1594177355860">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterEngine.m" timestamp="1594113983880">
         <mark key="[" line="43" column="46" />
         <mark key="]" line="43" column="46" />
         <mark key="^" line="43" column="46" />
         <mark key="." line="43" column="45" />
-      </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1594113092191">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="2" />
-        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_user.dart" timestamp="1594120480420">
         <mark key="[" line="2" column="0" />
