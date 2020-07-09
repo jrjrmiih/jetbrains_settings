@@ -111,23 +111,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_video_view.dart" timestamp="1594120429767">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="14" />
-      </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/lib/video_page.dart" timestamp="1594172307902">
         <mark key="[" line="51" column="9" />
         <mark key="]" line="51" column="14" />
         <mark key="^" line="51" column="14" />
         <mark key="." line="51" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1594183031827">
-        <mark key="[" line="84" column="28" />
-        <mark key="]" line="84" column="28" />
-        <mark key="^" line="84" column="28" />
-        <mark key="." line="84" column="27" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1594276268379">
+        <mark key="[" line="83" column="32" />
+        <mark key="]" line="83" column="39" />
+        <mark key="^" line="83" column="39" />
+        <mark key="." line="83" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1594181554586">
         <mark key="[" line="5" column="22" />
@@ -149,6 +143,7 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/common_define.dart" timestamp="1594276211156" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594221455319">
         <mark key="[" line="9" column="80" />
         <mark key="]" line="9" column="86" />
@@ -296,13 +291,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>plugin</text>
+        <text>OK</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>plugin</text>
+        <text>OK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
