@@ -121,17 +121,12 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/lib/login_page.dart" timestamp="1594172488812">
-        <mark key="[" line="85" column="39" />
-        <mark key="]" line="85" column="51" />
-        <mark key="." line="85" column="50" />
-        <mark key="^" line="85" column="51" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterRoom.m" timestamp="1594173683664" />
       <file name="vim_settings.xml" timestamp="1594177355860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/UninitState.java" timestamp="1594705186773">
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" timestamp="1594710177356" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/UninitState.java" timestamp="1594710138966">
         <mark key="'" line="34" column="4" />
         <mark key="[" line="42" column="9" />
         <mark key="]" line="42" column="9" />
