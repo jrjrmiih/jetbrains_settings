@@ -115,15 +115,15 @@
         <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1594716556776">
-        <mark key="'" line="43" column="51" />
+        <mark key="'" line="44" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" timestamp="1594712509519" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/UninitState.java" timestamp="1594710138966">
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/UninitState.java" timestamp="1594721227522">
         <mark key="'" line="34" column="4" />
-        <mark key="[" line="42" column="9" />
-        <mark key="]" line="42" column="9" />
-        <mark key="^" line="42" column="9" />
-        <mark key="." line="42" column="8" />
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="8" />
+        <mark key="^" line="34" column="8" />
+        <mark key="." line="34" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1594291341224">
         <mark key="[" line="87" column="7" />
@@ -132,11 +132,12 @@
         <mark key="." line="87" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/ios/Pods/RongRTCLib/RTCLib/RongRTCLib.framework/Headers/RCRTCCameraOutputStream.h" timestamp="1594693278743" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/RTCEngineImpl.java" timestamp="1594721237120" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCRoomImpl.java" timestamp="1594719332793">
-        <mark key="[" line="154" column="13" />
-        <mark key="]" line="154" column="13" />
-        <mark key="^" line="154" column="13" />
-        <mark key="." line="154" column="12" />
+        <mark key="[" line="170" column="13" />
+        <mark key="]" line="170" column="13" />
+        <mark key="^" line="170" column="13" />
+        <mark key="." line="170" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/com/example/rongcloud_rtc_plugin/RongcloudRtcPlugin.java" timestamp="1594205680170" />
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" timestamp="1594291037618" />
