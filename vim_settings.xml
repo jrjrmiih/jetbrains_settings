@@ -103,25 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1594177355860">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_user.dart" timestamp="1594120480420">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/lib/video_page.dart" timestamp="1594172307902">
         <mark key="[" line="51" column="9" />
         <mark key="]" line="51" column="14" />
         <mark key="^" line="51" column="14" />
         <mark key="." line="51" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1594291341224">
-        <mark key="[" line="87" column="7" />
-        <mark key="]" line="87" column="7" />
-        <mark key="^" line="87" column="7" />
-        <mark key="." line="87" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1594181554586">
         <mark key="[" line="5" column="22" />
@@ -133,9 +119,6 @@
         <mark key="[" line="30" column="28" />
         <mark key="]" line="30" column="29" />
         <mark key="." line="30" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Podfile" timestamp="1594176496086">
-        <mark key="[" line="85" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_local_user.dart" timestamp="1594120727747">
         <mark key="[" line="9" column="13" />
@@ -156,7 +139,6 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/com/example/rongcloud_rtc_plugin/RongcloudRtcPlugin.java" timestamp="1594205680170" />
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/lib/login_page.dart" timestamp="1594172488812">
         <mark key="[" line="85" column="39" />
         <mark key="]" line="85" column="51" />
@@ -164,13 +146,6 @@
         <mark key="^" line="85" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterRoom.m" timestamp="1594173683664" />
-      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_remote_user.dart" timestamp="1594120687568">
-        <mark key="[" line="16" column="64" />
-        <mark key="]" line="16" column="78" />
-        <mark key="." line="16" column="77" />
-        <mark key="^" line="16" column="78" />
-      </file>
-      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" timestamp="1594291037618" />
       <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_room.dart" timestamp="1594121638348">
         <mark key="'" line="12" column="15" />
         <mark key="[" line="54" column="3" />
@@ -178,6 +153,27 @@
         <mark key="^" line="55" column="2" />
         <mark key="." line="55" column="1" />
       </file>
+      <file name="vim_settings.xml" timestamp="1594177355860">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1594291341224">
+        <mark key="[" line="87" column="7" />
+        <mark key="]" line="87" column="7" />
+        <mark key="^" line="87" column="7" />
+        <mark key="." line="87" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/ios/Pods/RongRTCLib/RTCLib/RongRTCLib.framework/Headers/RCRTCCameraOutputStream.h" timestamp="1594693278743" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Podfile" timestamp="1594176496086">
+        <mark key="[" line="85" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/com/example/rongcloud_rtc_plugin/RongcloudRtcPlugin.java" timestamp="1594205680170" />
+      <file name="$USER_HOME$/Workspace/flutter-space/flutter-rtc-demo/rongcloud_rtc_plugin/lib/rcrtc_remote_user.dart" timestamp="1594120687568">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="78" />
+        <mark key="." line="16" column="77" />
+        <mark key="^" line="16" column="78" />
+      </file>
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" timestamp="1594291037618" />
     </filemarks>
     <jumps>
       <jump line="173" column="18" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
