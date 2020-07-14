@@ -103,16 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/base/RCRTCRoomType.java" timestamp="1594716566672" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1594181554586">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/pubspec.yaml" timestamp="1594176798751">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="29" />
-        <mark key="." line="30" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/model/Conversation.java" timestamp="1594712570038" />
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/common_define.dart" timestamp="1594276211156" />
@@ -122,8 +118,8 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="16" column="11" />
       </file>
-      <file name="vim_settings.xml" timestamp="1594177355860">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1594716556776">
+        <mark key="'" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" timestamp="1594712509519" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/UninitState.java" timestamp="1594710138966">
@@ -140,9 +136,6 @@
         <mark key="." line="87" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/ios/Pods/RongRTCLib/RTCLib/RongRTCLib.framework/Headers/RCRTCCameraOutputStream.h" timestamp="1594693278743" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/ios/Podfile" timestamp="1594176496086">
-        <mark key="[" line="85" column="3" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/com/example/rongcloud_rtc_plugin/RongcloudRtcPlugin.java" timestamp="1594205680170" />
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" timestamp="1594291037618" />
     </filemarks>
