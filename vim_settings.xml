@@ -114,6 +114,7 @@
         <mark key="]" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/model/Conversation.java" timestamp="1594712570038" />
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/common_define.dart" timestamp="1594276211156" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594291148454">
         <mark key="[" line="16" column="12" />
@@ -121,11 +122,10 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/Classes/agent/Base/RongFlutterRoom.m" timestamp="1594173683664" />
       <file name="vim_settings.xml" timestamp="1594177355860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" timestamp="1594710177356" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCRoom.java" timestamp="1594712509519" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/UninitState.java" timestamp="1594710138966">
         <mark key="'" line="34" column="4" />
         <mark key="[" line="42" column="9" />
