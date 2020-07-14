@@ -104,12 +104,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/base/RCRTCRoomType.java" timestamp="1594716566672" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtc-demo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1594181554586">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="5" column="22" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/RongIMClient.java" timestamp="1594719283730" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/model/Conversation.java" timestamp="1594712570038" />
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/common_define.dart" timestamp="1594276211156" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1594291148454">
