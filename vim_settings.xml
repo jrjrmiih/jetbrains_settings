@@ -133,6 +133,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/android/flutter_rtcdemo_android.iml" timestamp="1595230990417">
+        <mark key="[" line="10" column="66" />
+        <mark key="]" line="10" column="66" />
+        <mark key="^" line="10" column="66" />
+        <mark key="." line="10" column="65" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1595228095256">
         <mark key="[" line="81" column="14" />
         <mark key="]" line="81" column="14" />
@@ -327,7 +333,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxWaWRlb1ZpZXdUYWdfTG9jYWxWaWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
