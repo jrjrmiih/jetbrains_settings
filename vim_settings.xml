@@ -114,6 +114,7 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stateMachine/StateMachine.java" timestamp="1594724659028">
         <mark key="'" line="318" column="22" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/ios/Classes/RongcloudRtcPlugin.h" timestamp="1595213274211" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCLocalSourceManager.java" timestamp="1594907724189">
         <mark key="'" line="789" column="58" />
       </file>
