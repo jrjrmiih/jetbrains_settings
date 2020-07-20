@@ -114,17 +114,11 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stateMachine/StateMachine.java" timestamp="1594724659028">
         <mark key="'" line="318" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1594986477043" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCLocalSourceManager.java" timestamp="1594907724189">
         <mark key="'" line="789" column="58" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/ios/Classes/agent/RCFlutterLocalUser.m" timestamp="1594987632671" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_video_view.dart" timestamp="1594869556240">
         <mark key="'" line="6" column="2" />
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="24" column="1" />
-        <mark key="^" line="24" column="1" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/RTCEvent.java" timestamp="1594724587149">
         <mark key="[" line="9" column="14" />
