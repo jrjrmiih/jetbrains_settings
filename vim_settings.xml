@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJJbmRleGVyXD4=</entry>
         <entry encoding="base64">XDx3ZWJWaWV3XD4=</entry>
         <entry encoding="base64">XDxyZXBvcnRUaW1lclw+</entry>
         <entry encoding="base64">XDxuZXdzVG90YWxcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxWaWRlb1ZpZXdUYWdfTG9jYWxWaWV3XD4=</entry>
         <entry encoding="base64">XDxST05HX1RBR1w+</entry>
         <entry encoding="base64">XDx2aWRlb1N0cmVhbUlkXD4=</entry>
+        <entry encoding="base64">XDxGdW5jdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -119,10 +119,11 @@
         <mark key="^" line="34" column="8" />
         <mark key="." line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1595225920190">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1595227137010">
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="58" />
+        <mark key="^" line="13" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1594776840462">
         <mark key="'" line="43" column="51" />
@@ -132,8 +133,15 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/ios/Classes/RongcloudRtcPlugin.h" timestamp="1595213274211" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_local_user.dart" timestamp="1595225449095" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1595228095256">
+        <mark key="[" line="81" column="14" />
+        <mark key="]" line="81" column="14" />
+        <mark key="^" line="81" column="14" />
+        <mark key="." line="81" column="13" />
+      </file>
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" timestamp="1595228086639">
+        <mark key="'" line="715" column="6" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/RTCEvent.java" timestamp="1594724587149">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="14" />
@@ -154,18 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="20" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
-      <jump line="33" column="30" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
-      <jump line="93" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCVideoInputStream.java" />
-      <jump line="23" column="38" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCVideoInputStream.java" />
-      <jump line="78" column="12" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCVideoInputStream.java" />
-      <jump line="79" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCVideoInputStream.java" />
-      <jump line="85" column="8" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCVideoInputStream.java" />
-      <jump line="89" column="15" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/remote/RongRTCVideoInputStream.java" />
-      <jump line="501" column="18" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="502" column="18" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="314" column="23" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="473" column="15" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="9" column="62" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="332" column="21" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="362" column="28" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
@@ -254,6 +250,18 @@
       <jump line="86" column="31" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" />
       <jump line="788" column="12" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCLocalSourceManager.java" />
       <jump line="789" column="58" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCLocalSourceManager.java" />
+      <jump line="36" column="20" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="141" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="204" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="326" column="40" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="452" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="541" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="596" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="643" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="676" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="688" column="28" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="700" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
+      <jump line="715" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -268,7 +276,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2aWRlb1N0cmVhbUlkXD4=</text>
+        <text encoding="base64">XDxGdW5jdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgIk5ld3NEZXRhaWxGcmFnbWVudCBzdGFydFJlcG9ydFRpbWVyKCkiKTsK</text>
@@ -313,13 +321,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2aWRlb1N0cmVhbUlkXD4=</last-search>
+      <last-search encoding="base64">XDxGdW5jdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2aWRlb1N0cmVhbUlkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxGdW5jdGlvblw+</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxWaWRlb1ZpZXdUYWdfTG9jYWxWaWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
