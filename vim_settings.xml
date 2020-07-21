@@ -158,12 +158,12 @@
         <mark key="^" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRTCPlugin.java" timestamp="1595320669936">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRTCPlugin.java" timestamp="1595322356797">
         <mark key="'" line="25" column="18" />
-        <mark key="[" line="37" column="10" />
-        <mark key="]" line="37" column="10" />
-        <mark key="^" line="37" column="10" />
-        <mark key="." line="37" column="9" />
+        <mark key="[" line="37" column="91" />
+        <mark key="]" line="37" column="91" />
+        <mark key="^" line="37" column="91" />
+        <mark key="." line="37" column="90" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-ee76268252c22f5c11e82a7b87423ca3982e51a7/5bd787af868765631c3afbba2a5feb6e9b22d677/flutter_embedding_debug-1.0.0-ee76268252c22f5c11e82a7b87423ca3982e51a7-sources.jar!/io/flutter/embedding/engine/plugins/FlutterPlugin.java" timestamp="1595320603422" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" timestamp="1595320159207">
