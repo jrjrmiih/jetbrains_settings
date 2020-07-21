@@ -171,12 +171,12 @@
         <mark key="^" line="1447" column="29" />
         <mark key="." line="1447" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" timestamp="1595302617645">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" timestamp="1595304012283">
         <mark key="'" line="213" column="0" />
-        <mark key="[" line="73" column="60" />
-        <mark key="]" line="73" column="60" />
-        <mark key="." line="73" column="59" />
-        <mark key="^" line="73" column="60" />
+        <mark key="[" line="179" column="56" />
+        <mark key="]" line="179" column="56" />
+        <mark key="." line="179" column="55" />
+        <mark key="^" line="179" column="56" />
       </file>
     </filemarks>
     <jumps>
