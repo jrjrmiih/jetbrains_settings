@@ -7,17 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBvcnRUaW1lclw+</entry>
-        <entry encoding="base64">XDxuZXdzVG90YWxcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
-        <entry encoding="base64">XDxzdGFydFJlcG9ydFRpbWVyXD4=</entry>
-        <entry encoding="base64">XDxzZXRVc2VyVmlzaWJsZUhpbnRcPg==</entry>
-        <entry encoding="base64">XDxtUm9uZ1JUQ0Nvbm5lY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxtT3V0cHV0U3RyZWFtXD4=</entry>
-        <entry encoding="base64">XDxtZWRpYVN0cmVhbVw+</entry>
-        <entry encoding="base64">XDxzY3JlZW5PdXRwdXRTdHJlYW1cPg==</entry>
-        <entry encoding="base64">XDxSQ1JUQ0NvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxSb25nUlRDQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxVbmluaXRTdGF0ZVw+</entry>
         <entry encoding="base64">XDxtRW5naW5lXD4=</entry>
@@ -27,6 +16,17 @@
         <entry encoding="base64">XDx2aWRlb1N0cmVhbUlkXD4=</entry>
         <entry encoding="base64">XDxGdW5jdGlvblw+</entry>
         <entry encoding="base64">XDxNZXRob2RfUmVuZGVyVmlld1w+</entry>
+        <entry encoding="base64">XDxyb29tRXZlbnRzTGlzdGVuZXJcPg==</entry>
+        <entry encoding="base64">XDxvblJlbW90ZVVzZXJQdWJsaXNoUmVzb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxvblJlbW90ZVVzZXJNdXRlQXVkaW9cPg==</entry>
+        <entry encoding="base64">XDxvblJlbW90ZVVzZXJNdXRlVmlkZW9cPg==</entry>
+        <entry encoding="base64">XDxvblJlbW90ZVVzZXJVbnB1Ymxpc2hSZXNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxvblVzZXJKb2luZWRcPg==</entry>
+        <entry encoding="base64">XDxvblVzZXJMZWZ0XD4=</entry>
+        <entry encoding="base64">XDxvblVzZXJPZmZsaW5lXD4=</entry>
+        <entry encoding="base64">XDxSQ0ZsdXR0ZXJSb29tXD4=</entry>
+        <entry encoding="base64">XDxvbkxlYXZlUm9vbVw+</entry>
+        <entry encoding="base64">XDxvbktpY2tlZEJ5U2VydmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
@@ -103,8 +103,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1595261317501">
+      <file name="/a.dummy" timestamp="1595302653855">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/utils/RCFlutterLog.java" timestamp="1595302661645">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/view/RCFlutterVideoViewFactory.java" timestamp="1595261880296">
         <mark key="[" line="9" column="22" />
@@ -137,66 +143,43 @@
         <mark key="^" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRTCPlugin.java" timestamp="1595301890617">
-        <mark key="[" line="111" column="48" />
-        <mark key="]" line="111" column="52" />
-        <mark key="^" line="111" column="52" />
-        <mark key="." line="111" column="51" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRTCPlugin.java" timestamp="1595301905947">
+        <mark key="[" line="111" column="44" />
+        <mark key="]" line="111" column="44" />
+        <mark key="^" line="111" column="44" />
+        <mark key="." line="111" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCResultDataCallback.java" timestamp="1595261470178" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/view/RCFlutterVideoView.java" timestamp="1595261309698" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/api/RCRTCRoom.class" timestamp="1595261999446" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" timestamp="1595301884043">
-        <mark key="[" line="1271" column="39" />
-        <mark key="]" line="1271" column="39" />
-        <mark key="^" line="1271" column="39" />
-        <mark key="." line="1271" column="38" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.class" timestamp="1595302258096">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" timestamp="1595301721511">
-        <mark key="[" line="123" column="63" />
-        <mark key="]" line="83" column="36" />
-        <mark key="^" line="83" column="36" />
-        <mark key="." line="83" column="35" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.java" timestamp="1595301947593">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/api/RCRTCRoom.class" timestamp="1595261999446" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" timestamp="1595302273191">
+        <mark key="'" line="526" column="37" />
+        <mark key="[" line="1447" column="29" />
+        <mark key="]" line="1447" column="29" />
+        <mark key="^" line="1447" column="29" />
+        <mark key="." line="1447" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" timestamp="1595302617645">
+        <mark key="'" line="213" column="0" />
+        <mark key="[" line="73" column="60" />
+        <mark key="]" line="73" column="60" />
+        <mark key="." line="73" column="59" />
+        <mark key="^" line="73" column="60" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="21" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="362" column="28" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="363" column="27" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="364" column="8" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="52" column="53" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/common/NFUtils.java" />
-      <jump line="826" column="14" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/java/text/DateFormat.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
-      <jump line="68" column="8" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsClosedDialog.java" />
-      <jump line="87" column="10" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsClosedDialog.java" />
-      <jump line="378" column="93" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="390" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="179" column="25" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="220" column="41" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="232" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="238" column="41" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="250" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="256" column="41" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="268" column="26" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="273" column="41" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="288" column="36" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="293" column="22" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="347" column="27" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" />
-      <jump line="112" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
-      <jump line="8" column="32" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
-      <jump line="132" column="27" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/adapter/NewsFeedClient.java" />
-      <jump line="58" column="16" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" />
-      <jump line="70" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
-      <jump line="78" column="44" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
-      <jump line="89" column="44" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" />
-      <jump line="256" column="6" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="34" column="22" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="72" column="18" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="119" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="120" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
-      <jump line="132" column="10" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="161" column="4" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="165" column="37" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
       <jump line="167" column="12" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
@@ -260,57 +243,94 @@
       <jump line="700" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
       <jump line="715" column="6" filename="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_client.dart" />
       <jump line="22" column="30" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/stream/RCFlutterStream.java" />
+      <jump line="1447" column="38" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" />
+      <jump line="526" column="37" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" />
+      <jump line="39" column="16" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="68" column="16" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="160" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="74" column="16" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="172" column="14" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="169" column="14" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="70" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="209" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="121" column="21" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="122" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="127" column="28" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="131" column="16" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="218" column="14" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="234" column="14" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="170" column="9" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="27" column="37" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="214" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="220" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="229" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="231" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="236" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="240" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="244" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="261" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="257" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="252" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="248" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="215" column="14" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="216" column="14" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="217" column="26" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
+      <jump line="213" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>rtcErrorCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25LaWNrZWRCeVNlcnZlcigpIHsKICAgIGNoYW5uZWwuaW52b2tlTWV0aG9kKCJvbktpY2tlZEJ5U2VydmVyIiwgbnVsbCk7CiAgfQo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>rtcErrorCode</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNZXRob2RfUmVuZGVyVmlld1w+</text>
+        <text encoding="base64">XDxvbktpY2tlZEJ5U2VydmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTkZMb2cuZCgiUllNX0RHIiwgIk5ld3NEZXRhaWxGcmFnbWVudCBzdGFydFJlcG9ydFRpbWVyKCkiKTsK</text>
+        <text encoding="base64">ICAgIGNoYW5uZWwuaW52b2tlTWV0aG9kKCJvbktpY2tlZEJ5U2VydmVyIiwgbnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25LaWNrZWRCeVNlcnZlcigpIHsKICAgIGNoYW5uZWwuaW52b2tlTWV0aG9kKCJvbktpY2tlZEJ5U2VydmVyIiwgbnVsbCk7CiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHJvdGVjdGVkIHZvaWQgb25VaVN1Y2Nlc3MoUm9uZ1JUQ1Jvb20gcm9uZ1Jvb20pIHsKCiAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwcm90ZWN0ZWQgdm9pZCBvblVpRmFpbGVkKFJUQ0Vycm9yQ29kZSBjb2RlKSB7CgogICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBvbkxlYXZlUm9vbShpbnQgaSkgewogICAgY2hhbm5lbC5pbnZva2VNZXRob2QoIm9uTGVhdmVSb29tIiwgbnVsbCk7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBvblJlY2VpdmVNZXNzYWdlKE1lc3NhZ2UgbWVzc2FnZSkgewogIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25SZW1vdGVVc2VyUHVibGlzaFJlc291cmNlKAogICAgICBSb25nUlRDUmVtb3RlVXNlciByb25nUmVtb3RlVXNlciwgTGlzdDxSb25nUlRDQVZJbnB1dFN0cmVhbT4gbGlzdCkgewoKICB9</text>
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25SZW1vdGVVc2VyUHVibGlzaFJlc291cmNlKFJDUlRDUmVtb3RlVXNlciBydGNSZW1vdGVVc2VyLAogICAgICBMaXN0PFJDUlRDSW5wdXRTdHJlYW0+IGxpc3QpIHsKICAgIAogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25SZW1vdGVVc2VyTXV0ZUF1ZGlvKFJDUlRDUmVtb3RlVXNlciBydGNSZW1vdGVVc2VyLAogICAgICBSQ1JUQ0lucHV0U3RyZWFtIHJjcnRjSW5wdXRTdHJlYW0sIGJvb2xlYW4gYikgewogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25SZW1vdGVVc2VyTXV0ZVZpZGVvKFJDUlRDUmVtb3RlVXNlciByY3J0Y1JlbW90ZVVzZXIsCiAgICAgIFJDUlRDSW5wdXRTdHJlYW0gcmNydGNJbnB1dFN0cmVhbSwgYm9vbGVhbiBiKSB7CgogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25SZW1vdGVVc2VyVW5wdWJsaXNoUmVzb3VyY2UoUkNSVENSZW1vdGVVc2VyIHJ0Y1JlbW90ZVVzZXIsCiAgICAgIExpc3Q8UkNSVENJbnB1dFN0cmVhbT4gbGlzdCkgewogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25Vc2VySm9pbmVkKFJDUlRDUmVtb3RlVXNlciBydGNSZW1vdGVVc2VyKSB7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBvblVzZXJMZWZ0KFJDUlRDUmVtb3RlVXNlciBydGNSZW1vdGVVc2VyKSB7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBvblVzZXJPZmZsaW5lKFJDUlRDUmVtb3RlVXNlciBydGNSZW1vdGVVc2VyKSB7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBvblZpZGVvVHJhY2tBZGQoU3RyaW5nIHMsIFN0cmluZyBzMSkgewogIH0KCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJDRmx1dHRlckxvZy5kKFRBRywgIm9uVXNlck9mZmxpbmUgdXNlcklkID0gIiArIHJ0Y1JlbW90ZVVzZXIuZ2V0VXNlcklkKCkpOwogICAgZm9yIChSQ0ZsdXR0ZXJSZW1vdGVVc2VyIFJDRmx1dHRlclJlbW90ZVVzZXIgOiBSQ0ZsdXR0ZXJSZW1vdGVVc2VyTGlzdCkgewogICAgICBpZiAoUkNGbHV0dGVyUmVtb3RlVXNlci5nZXRJZCgpLmVxdWFscyhydGNSZW1vdGVVc2VyLmdldFVzZXJJZCgpKSkgewogICAgICAgIFJDRmx1dHRlclJlbW90ZVVzZXJMaXN0LnJlbW92ZShSQ0ZsdXR0ZXJSZW1vdGVVc2VyKTsKICAgICAgICBKU09OT2JqZWN0IGpzb25PYmogPSBuZXcgSlNPTk9iamVjdCgpOwogICAgICAgIGpzb25PYmoucHV0KCJyZW1vdGVVc2VyIiwgUkNGbHV0dGVyUmVtb3RlVXNlcik7CiAgICAgICAgY2hhbm5lbC5pbnZva2VNZXRob2QoIm9uVXNlck9mZmxpbmUiLCBqc29uT2JqLnRvSlNPTlN0cmluZygpKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgIH0KICAgIGlmIChCdWlsZENvbmZpZy5ERUJVRykgewogICAgICB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoInRhcmdldFVzZXIgbm90IGZvdW5kISIpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgb25SZW1vdGVVc2VyVW5wdWJsaXNoUmVzb3VyY2UoCiAgICAgIFJvbmdSVENSZW1vdGVVc2VyIHJvbmdSZW1vdGVVc2VyLCBMaXN0PFJvbmdSVENBVklucHV0U3RyZWFtPiBsaXN0KSB7CiAgICAKICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJDRmx1dHRlckxvZy5kKFRBRywgIm9uVXNlckxlZnQgdXNlcklkID0gIiArIHJ0Y1JlbW90ZVVzZXIuZ2V0VXNlcklkKCkpOwogICAgZm9yIChSQ0ZsdXR0ZXJSZW1vdGVVc2VyIFJDRmx1dHRlclJlbW90ZVVzZXIgOiBSQ0ZsdXR0ZXJSZW1vdGVVc2VyTGlzdCkgewogICAgICBpZiAoUkNGbHV0dGVyUmVtb3RlVXNlci5nZXRJZCgpLmVxdWFscyhydGNSZW1vdGVVc2VyLmdldFVzZXJJZCgpKSkgewogICAgICAgIFJDRmx1dHRlclJlbW90ZVVzZXJMaXN0LnJlbW92ZShSQ0ZsdXR0ZXJSZW1vdGVVc2VyKTsKICAgICAgICBKU09OT2JqZWN0IGpzb25PYmogPSBuZXcgSlNPTk9iamVjdCgpOwogICAgICAgIGpzb25PYmoucHV0KCJyZW1vdGVVc2VyIiwgUkNGbHV0dGVyUmVtb3RlVXNlcik7CiAgICAgICAgY2hhbm5lbC5pbnZva2VNZXRob2QoIm9uVXNlckxlZnQiLCBqc29uT2JqLnRvSlNPTlN0cmluZygpKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgIH0KICAgIGlmIChCdWlsZENvbmZpZy5ERUJVRykgewogICAgICB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoInRhcmdldFVzZXIgbm90IGZvdW5kISIpOwogICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBvblJlbW90ZVVzZXJWaWRlb1N0cmVhbUVuYWJsZWQoCiAgICAgIFJvbmdSVENSZW1vdGVVc2VyIHJvbmdSZW1vdGVVc2VyLCBSb25nUlRDQVZJbnB1dFN0cmVhbSByb25nUlRDQVZJbnB1dFN0cmVhbSwgYm9vbGVhbiBiKSB7CiAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -319,13 +339,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxNZXRob2RfUmVuZGVyVmlld1w+</last-search>
+      <last-search encoding="base64">XDxvbktpY2tlZEJ5U2VydmVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNZXRob2RfUmVuZGVyVmlld1w+</last-pattern>
+      <last-pattern encoding="base64">XDxvbktpY2tlZEJ5U2VydmVyXD4=</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxWaWRlb1ZpZXdUYWdfTG9jYWxWaWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
