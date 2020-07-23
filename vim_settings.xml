@@ -130,24 +130,18 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" timestamp="1595301880477">
-        <mark key="[" line="676" column="39" />
-        <mark key="]" line="676" column="39" />
-        <mark key="^" line="676" column="39" />
-        <mark key="." line="676" column="38" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.class" timestamp="1595302258096">
         <mark key="[" line="12" column="41" />
         <mark key="]" line="12" column="41" />
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/RCFlutterEngine.java" timestamp="1595474598210">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/RCFlutterEngine.java" timestamp="1595476349693">
         <mark key="'" line="54" column="20" />
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="50" column="35" />
-        <mark key="." line="50" column="34" />
-        <mark key="^" line="50" column="35" />
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="34" />
+        <mark key="." line="50" column="33" />
+        <mark key="^" line="50" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" timestamp="1595320159207">
         <mark key="[" line="17" column="47" />
@@ -184,6 +178,12 @@
       </file>
       <file name="/fragment.java" timestamp="1595472576877">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1595476341430">
+        <mark key="[" line="293" column="13" />
+        <mark key="]" line="293" column="13" />
+        <mark key="^" line="293" column="13" />
+        <mark key="." line="293" column="12" />
       </file>
     </filemarks>
     <jumps>
