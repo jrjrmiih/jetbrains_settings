@@ -118,11 +118,11 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/utils/RCFlutterList.java" timestamp="1595472904668">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/utils/RCFlutterList.java" timestamp="1595472988744">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/MainPageActivity.java" timestamp="1595301880477">
         <mark key="[" line="676" column="39" />
