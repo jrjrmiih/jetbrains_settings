@@ -121,7 +121,7 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/RCFlutterEngine.java" timestamp="1595497440934">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/RCFlutterEngine.java" timestamp="1595498261982">
         <mark key="'" line="52" column="20" />
         <mark key="[" line="36" column="3" />
         <mark key="]" line="36" column="3" />
@@ -154,19 +154,13 @@
         <mark key="^" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1595493078755" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" timestamp="1595302273191">
-        <mark key="'" line="526" column="37" />
-        <mark key="[" line="1447" column="29" />
-        <mark key="]" line="1447" column="29" />
-        <mark key="^" line="1447" column="29" />
-        <mark key="." line="1447" column="28" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" timestamp="1595497737178">
-        <mark key="'" line="190" column="2" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/api/RCRTCRoom.class" timestamp="1595499112255" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" timestamp="1595499264451">
+        <mark key="'" line="186" column="2" />
+        <mark key="[" line="196" column="1" />
+        <mark key="]" line="196" column="1" />
+        <mark key="." line="196" column="0" />
+        <mark key="^" line="196" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1595472576877">
         <mark key="[" line="0" column="0" />
@@ -290,7 +284,7 @@
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>registerEventsListener</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsQmFja1w+</text>
@@ -305,31 +299,31 @@
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCByZWdpc3RlckV2ZW50c0xpc3RlbmVyKElSQ1JUQ1Jvb21FdmVudHNMaXN0ZW5lciBldmVudHNMaXN0ZW5lcikgewogICAgcnRjUm9vbS5yZWdpc3RlclJvb21MaXN0ZW5lcihldmVudHNMaXN0ZW5lcik7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb25PYmoucHV0KCJyb29tIiwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ0Y1Jvb21NYXAucHV0KHJ0Y1Jvb20uZ2V0Um9vbUlkKCksIHJ0Y1Jvb20pCg==</text>
+        <text encoding="base64">ICAgIGNhbWVyYSA9IG5ldyBDYW1lcmEoYk1zZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxvY2FsVXNlciA9IG5ldyBSQ0ZsdXR0ZXJMb2NhbFVzZXIoYk1zZywgcnRjUm9vbS5nZXRMb2NhbFVzZXIoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJNc2cgPSBtc2c7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb25PYmoucHV0KCJyb29tIiwgbnVsbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
