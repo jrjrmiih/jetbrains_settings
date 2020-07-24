@@ -121,18 +121,18 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterLocalUser.java" timestamp="1595586915335">
-        <mark key="[" line="98" column="50" />
-        <mark key="]" line="98" column="50" />
-        <mark key="^" line="98" column="50" />
-        <mark key="." line="98" column="49" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterLocalUser.java" timestamp="1595634029968">
+        <mark key="[" line="80" column="24" />
+        <mark key="]" line="80" column="24" />
+        <mark key="^" line="80" column="24" />
+        <mark key="." line="80" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/RCFlutterEngine.java" timestamp="1595586312493">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/RCFlutterEngine.java" timestamp="1595634168933">
         <mark key="'" line="41" column="39" />
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="32" />
-        <mark key="." line="39" column="31" />
-        <mark key="^" line="39" column="32" />
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="17" />
+        <mark key="^" line="45" column="18" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/api/RCRTCLocalUser.class" timestamp="1595586462682" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/utils/RCFlutterDebugCheck.java" timestamp="1595519364616">
@@ -141,6 +141,7 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="28" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/center/stream/RCInputStreamImpl.class" timestamp="1595633784197" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRTCPlugin.java" timestamp="1595584194321">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -181,9 +182,6 @@
         <mark key="]" line="115" column="45" />
         <mark key="^" line="115" column="45" />
         <mark key="." line="115" column="44" />
-      </file>
-      <file name="/fragment.java" timestamp="1595472576877">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1595476341430">
         <mark key="[" line="293" column="13" />
