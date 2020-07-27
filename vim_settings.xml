@@ -121,7 +121,7 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/proxy/RongIMSignalWrapper.class" timestamp="1595485664297">
         <mark key="'" line="57" column="145" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterLocalUser.java" timestamp="1595738130370">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterLocalUser.java" timestamp="1595814860910">
         <mark key="[" line="107" column="6" />
         <mark key="]" line="107" column="23" />
         <mark key="^" line="107" column="23" />
@@ -157,7 +157,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/center/RCEngineImpl.class" timestamp="1595485626788" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/android/app/build.gradle" timestamp="1595815848546">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="23" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/center/RCRoomImpl.class" timestamp="1595501133210" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/api/callback/IRCRTCRoomEventsListener.class" timestamp="1595501986742">
         <mark key="[" line="36" column="24" />
@@ -165,8 +170,14 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="23" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/build.gradle" timestamp="1595815844091">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="24" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1595493078755" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRemoteUser.java" timestamp="1595520097282">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRemoteUser.java" timestamp="1595814901401">
         <mark key="[" line="44" column="1" />
         <mark key="]" line="44" column="1" />
         <mark key="^" line="44" column="1" />
@@ -179,12 +190,6 @@
         <mark key="]" line="115" column="45" />
         <mark key="^" line="115" column="45" />
         <mark key="." line="115" column="44" />
-      </file>
-      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1595476341430">
-        <mark key="[" line="293" column="13" />
-        <mark key="]" line="293" column="13" />
-        <mark key="^" line="293" column="13" />
-        <mark key="." line="293" column="12" />
       </file>
     </filemarks>
     <jumps>
