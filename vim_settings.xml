@@ -116,6 +116,12 @@
         <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/api/RCRTCEngine.class" timestamp="1595818910817" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/stream/RCFlutterStream.java" timestamp="1595836700809">
+        <mark key="[" line="63" column="9" />
+        <mark key="]" line="64" column="21" />
+        <mark key="^" line="64" column="21" />
+        <mark key="." line="64" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_video_view.dart" timestamp="1595830656743">
         <mark key="'" line="19" column="77" />
         <mark key="[" line="17" column="43" />
@@ -123,13 +129,12 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1595835876234">
-        <mark key="'" line="24" column="68" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="75" />
-        <mark key="^" line="33" column="50" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1595837695699">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/pubspec.yaml" timestamp="1595837692244" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/view/RCFlutterVideoViewFactory.java" timestamp="1595820145889" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/stream/rcrtc_camera_output_stream.dart" timestamp="1595834803924">
         <mark key="[" line="3" column="28" />
@@ -137,18 +142,13 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/ios/Classes/RongcloudRTCPlugin.h" timestamp="1595818436640">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="29" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/RCFlutterEngine.java" timestamp="1595837147848" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_log.dart" timestamp="1595821569378" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1595834670138">
-        <mark key="[" line="93" column="3" />
-        <mark key="]" line="93" column="3" />
-        <mark key="^" line="93" column="3" />
-        <mark key="." line="93" column="2" />
+        <mark key="[" line="95" column="3" />
+        <mark key="]" line="95" column="3" />
+        <mark key="^" line="95" column="3" />
+        <mark key="." line="95" column="2" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_local_user.dart" timestamp="1595834400009">
         <mark key="[" line="13" column="26" />
@@ -175,22 +175,16 @@
         <mark key="^" line="113" column="43" />
         <mark key="." line="113" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRTCPlugin.java" timestamp="1595818883113">
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="17" column="1" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="1" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/stream/rcrtc_input_stream.dart" timestamp="1595832729238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/pubspec.yaml" timestamp="1595818372419">
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="30" column="39" />
-        <mark key="." line="30" column="38" />
-        <mark key="^" line="30" column="39" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/pubspec.yaml" timestamp="1595837627362">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/ios/Classes/RongcloudRTCPlugin.m" timestamp="1595818399326" />
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_plugin.dart" timestamp="1595837546622" />
     </filemarks>
     <jumps>
       <jump line="2814" column="20" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/call/CallActivity.java" />
@@ -298,7 +292,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBqc29uU3RyID0gYXdhaXQgY2hhbm5lbC5pbnZva2VNZXRob2QoImdldERlZmF1bHRWaWRlb1N0cmVhbSIpOwo=</text>
+        <text encoding="base64">ICAgIFJvbmdjbG91ZEltUGx1Z2luCg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -313,28 +307,28 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9ydGNfcGx1Z2luL3N0cmVhbS9yY3J0Y19zdHJlYW0uZGFydCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBqc29uU3RyID0gYXdhaXQgY2hhbm5lbC5pbnZva2VNZXRob2QoImdldERlZmF1bHRWaWRlb1N0cmVhbSIpOwo=</text>
+        <text encoding="base64">ICAgIFJvbmdjbG91ZEltUGx1Z2luCg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IC8qKi8nc3RyZWFtL3JjcnRjX3N0cmVhbS5kYXJ0JzsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBqc29uU3RyID0gYXdhaXQgY2hhbm5lbC5pbnZva2VNZXRob2QoImdldERlZmF1bHRWaWRlb1N0cmVhbSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNsYXNzIE91dHB1dE1lZGlhU3RyZWFtIGV4dGVuZHMgUkNSVENTdHJlYW0gewogIE91dHB1dE1lZGlhU3RyZWFtLmZyb21Kc29uKFN0cmluZyB1c2VySWQsIHN0cmVhbSkgOiBzdXBlci5mcm9tSnNvbih1c2VySWQsIHN0cmVhbSk7Cn0KCmNsYXNzIElucHV0TWVkaWFTdHJlYW0gZXh0ZW5kcyBSQ1JUQ1N0cmVhbSB7CiAgYm9vbCBzdWJzY3JpYmVkOwoKICBJbnB1dE1lZGlhU3RyZWFtLmZyb21Kc29uKFN0cmluZyB1c2VySWQsIHN0cmVhbSkgOiBzdXBlci5mcm9tSnNvbih1c2VySWQsIHN0cmVhbSk7Cn0K</text>
+        <text encoding="base64">aW1wb3J0IC8qKi8nc3RyZWFtL3JjcnRjX3N0cmVhbS5kYXJ0JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIE91dHB1dE1lZGlhU3RyZWFtIGV4dGVuZHMgUkNSVENTdHJlYW0gewogIE91dHB1dE1lZGlhU3RyZWFtLmZyb21Kc29uKFN0cmluZyB1c2VySWQsIHN0cmVhbSkgOiBzdXBlci5mcm9tSnNvbih1c2VySWQsIHN0cmVhbSk7Cn0KCmNsYXNzIElucHV0TWVkaWFTdHJlYW0gZXh0ZW5kcyBSQ1JUQ1N0cmVhbSB7CiAgYm9vbCBzdWJzY3JpYmVkOwoKICBJbnB1dE1lZGlhU3RyZWFtLmZyb21Kc29uKFN0cmluZyB1c2VySWQsIHN0cmVhbSkgOiBzdXBlci5mcm9tSnNvbih1c2VySWQsIHN0cmVhbSk7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9ydGNfcGx1Z2luL3JjcnRjX21lZGlhX3N0cmVhbS5kYXJ0JzsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdyY3J0Y19tZWRpYV9zdHJlYW0uZGFydCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnJvbmdjbG91ZF9ydGNfcGx1Z2luL3JjcnRjX21lZGlhX3N0cmVhbS5kYXJ0JzsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0ICdyY3J0Y19tZWRpYV9zdHJlYW0uZGFydCc7Cg==</text>
