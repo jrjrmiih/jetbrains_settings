@@ -103,6 +103,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/android/src/main/res/values/strings.xml" timestamp="1595816339905" />
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/android/src/main/java/io/rong/flutter/imlib/RCFlutterConfig.java" timestamp="1595816645630" />
       <file name="/a.dummy" timestamp="1595517912529">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,9 +119,6 @@
         <mark key="]" line="11" column="1" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="1" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/proxy/RongIMSignalWrapper.class" timestamp="1595485664297">
-        <mark key="'" line="57" column="145" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterLocalUser.java" timestamp="1595814860910">
         <mark key="[" line="107" column="6" />
@@ -157,6 +156,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="1" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/android/app/src/main/AndroidManifest.xml" timestamp="1595816472066">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="48" />
+        <mark key="^" line="1" column="48" />
+        <mark key="." line="1" column="47" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/android/app/build.gradle" timestamp="1595815848546">
         <mark key="[" line="36" column="24" />
         <mark key="]" line="36" column="24" />
@@ -176,14 +181,12 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1595493078755" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRemoteUser.java" timestamp="1595814901401">
         <mark key="[" line="44" column="1" />
         <mark key="]" line="44" column="1" />
         <mark key="^" line="44" column="1" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/580567b2ec5045d97809bee8c993c94d/jetified-rtc_lib-4.0.0.2/jars/classes.jar!/cn/rongcloud/rtc/api/RCRTCRoom.class" timestamp="1595499112255" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" timestamp="1595735466971">
         <mark key="'" line="40" column="29" />
         <mark key="[" line="115" column="45" />
@@ -297,14 +300,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>xmlns:tools=&quot;http://schemas.android.com/tools&quot;</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>getMediaType</text>
+        <text>xmlns:tools=&quot;http://schemas.android.com/tools&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaW5nbGVUb25Ib2xkZXJcPg==</text>
@@ -322,28 +325,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0LnN1Y2Nlc3MoMCk7CiAgICB9IGVsc2Ugew==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0uZ2V0UlRDSW5wdXRTdHJlYW0oKQo=</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0LnN1Y2Nlc3MoMCk7CiAgICB9IGVsc2Ugew==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW0uZ2V0UlRDSW5wdXRTdHJlYW0oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcHVibGljIHZvaWQgZ2V0UlRDSW5wdXRTdHJlYW0oKSB7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcHVibGljIHZvaWQgZ2V0UlRDSW5wdXRTdHJlYW0oKSB7</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFJDUlRDSW5wdXRTdHJlYW0gcnRjU3RyZWFtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
