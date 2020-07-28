@@ -110,12 +110,6 @@
         <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCRemoteUser.java" timestamp="1595923512000" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/stream/rcrtc_output_stream.dart" timestamp="1595834538408">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="4" column="2" />
-        <mark key="." line="4" column="1" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/stream/RCFlutterStream.java" timestamp="1595836700809">
         <mark key="[" line="63" column="9" />
         <mark key="]" line="64" column="21" />
@@ -165,8 +159,19 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCLocalUserImpl.java" timestamp="1595924429600">
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="53" column="21" />
+        <mark key="^" line="53" column="21" />
+        <mark key="." line="53" column="20" />
+      </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/lib/src/rong_im_plugin.dart" timestamp="1595837546622" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCUser.java" timestamp="1595922795364" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCUser.java" timestamp="1595924397627">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="24" column="27" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/engine/UninitState.java" />
