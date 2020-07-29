@@ -106,7 +106,6 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/stream/RCRTCLiveInfoImpl.java" timestamp="1595933896652">
         <mark key="'" line="250" column="69" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/media/MediaCodecInfo.java" timestamp="1595926751236" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCOutputStream.java" timestamp="1595930613975">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="19" column="12" />
@@ -157,6 +156,7 @@
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoInputStream.java" timestamp="1595930924647" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoView.java" timestamp="1595930194524" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioInputStream.java" timestamp="1595930792789" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/report/StatusReport.java" timestamp="1595992381970" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCLiveInfo.java" timestamp="1595933776895">
         <mark key="[" line="34" column="12" />
       </file>
