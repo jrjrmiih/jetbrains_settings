@@ -103,10 +103,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/core/EglRenderer.java" timestamp="1596009264361" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCCameraOutputStream.java" timestamp="1596008539246">
+        <mark key="[" line="118" column="35" />
+        <mark key="]" line="118" column="36" />
+        <mark key="^" line="118" column="36" />
+        <mark key="." line="118" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1596007996458">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="22" />
+        <mark key="^" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCAudioMixer.java" timestamp="1595934314582">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="7" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="45" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/core/audio/CustomAudioDeviceModule.java" timestamp="1596009156124" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCConfig.java" timestamp="1596010216935" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoView.java" timestamp="1596009347826">
+        <mark key="'" line="428" column="44" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/report/StatusReport.java" timestamp="1596005791568" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCLiveInfo.java" timestamp="1595933776895">
+        <mark key="[" line="34" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/stream/RCRTCLiveInfoImpl.java" timestamp="1595933896652">
         <mark key="'" line="250" column="69" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCFileVideoOutputStream.java" timestamp="1595932319155" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" timestamp="1595933340447">
         <mark key="'" line="397" column="111" />
       </file>
@@ -117,12 +144,6 @@
         <mark key="^" line="124" column="5" />
         <mark key="." line="124" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCCameraOutputStream.java" timestamp="1595932146978">
-        <mark key="[" line="118" column="35" />
-        <mark key="]" line="118" column="36" />
-        <mark key="^" line="118" column="36" />
-        <mark key="." line="118" column="35" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCLocalUser.java" timestamp="1596007929887">
         <mark key="'" line="6" column="35" />
         <mark key="[" line="53" column="15" />
@@ -130,23 +151,12 @@
         <mark key="^" line="53" column="15" />
         <mark key="." line="53" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_engine.dart" timestamp="1596007996458">
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="22" />
-        <mark key="^" line="32" column="23" />
-      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/core/audio/AudioMixer.java" timestamp="1596009153456" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1596007972292">
         <mark key="'" line="224" column="0" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCAudioMixer.java" timestamp="1595934314582">
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCMixConfig.java" timestamp="1595933924005">
         <mark key="'" line="296" column="32" />
@@ -155,31 +165,22 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCInputStream.java" timestamp="1595930635597" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCMicOutputStream.java" timestamp="1595932400282" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioStreamConfig.java" timestamp="1595932942575" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoOutputStream.java" timestamp="1595931365509">
-        <mark key="[" line="71" column="6" />
-        <mark key="]" line="71" column="6" />
-        <mark key="^" line="71" column="6" />
-        <mark key="." line="71" column="5" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/RCRoomImpl.java" timestamp="1596007943636">
         <mark key="[" line="129" column="19" />
         <mark key="]" line="129" column="19" />
         <mark key="^" line="129" column="19" />
         <mark key="." line="129" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoInputStream.java" timestamp="1595930924647" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioInputStream.java" timestamp="1595930792789" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/report/StatusReport.java" timestamp="1596005791568" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCLiveInfo.java" timestamp="1595933776895">
-        <mark key="[" line="34" column="12" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1596009298642" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/config/RCRTCConfigImpl.java" timestamp="1596009523762">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="21" column="40" />
+        <mark key="." line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCAudioOutputStream.java" timestamp="1595932040932" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaRecorder.java" timestamp="1596009464902" />
     </filemarks>
     <jumps>
-      <jump line="70" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
       <jump line="209" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
       <jump line="121" column="21" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
       <jump line="122" column="27" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
@@ -279,6 +280,7 @@
       <jump line="1154" column="81" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" />
       <jump line="397" column="111" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/RongRTCPubSubClient.java" />
       <jump line="250" column="69" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/center/stream/RCRTCLiveInfoImpl.java" />
+      <jump line="428" column="44" filename="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/stream/RCRTCVideoView.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
