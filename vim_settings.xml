@@ -103,6 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1596450136891">
+        <mark key="[" line="1756" column="0" />
+        <mark key="]" line="1756" column="0" />
+        <mark key="^" line="1756" column="0" />
+        <mark key="." line="1756" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCMixConfig.java" timestamp="1596444321000">
         <mark key="'" line="296" column="32" />
         <mark key="[" line="106" column="11" />
