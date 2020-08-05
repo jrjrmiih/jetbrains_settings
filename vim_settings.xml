@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxydGNSb29tRXZlbnRzTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxyb29tSWRcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxjdXN0b21GcmFtZURlY3J5cHRvckZhY3RvcnlcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxfdWlkQ29udHJvbGxlclw+</entry>
+        <entry encoding="base64">XDxvblByZXNzZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -125,11 +125,11 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1596596064316">
-        <mark key="[" line="88" column="56" />
-        <mark key="]" line="88" column="62" />
-        <mark key="^" line="88" column="62" />
-        <mark key="." line="88" column="61" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1596598068302">
+        <mark key="[" line="85" column="70" />
+        <mark key="]" line="85" column="29" />
+        <mark key="^" line="85" column="29" />
+        <mark key="." line="85" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/utils/rc_server_api.dart" timestamp="1596595497061">
         <mark key="[" line="22" column="3" />
@@ -137,12 +137,8 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1596452303903">
-        <mark key="'" line="1754" column="15" />
-        <mark key="[" line="1757" column="39" />
-        <mark key="]" line="1757" column="39" />
-        <mark key="^" line="1757" column="39" />
-        <mark key="." line="1757" column="38" />
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/raised_button.dart" timestamp="1596597978475">
+        <mark key="'" line="109" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/build.gradle" timestamp="1596510073706" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/crypto/CustomFrameDecryptorFactory.java" timestamp="1596452533090" />
@@ -165,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
       <jump line="240" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
       <jump line="244" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
       <jump line="261" column="0" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/room/RCFlutterRoom.java" />
@@ -265,57 +260,58 @@
       <jump line="72" column="10" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" />
       <jump line="22" column="24" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" />
       <jump line="84" column="7" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" />
+      <jump line="109" column="27" filename="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/raised_button.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>reslut</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>reslut</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdWlkQ29udHJvbGxlclw+</text>
+        <text encoding="base64">XDxvblByZXNzZWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>SharedPreferences</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZnMuc2V0U3RyaW5nKCJsb2dpbl91aWQiLCBfdWlkQ29udHJvbGxlci50ZXh0LnRyaW0oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5vOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmh0dHAvaHR0cC5kYXJ0JzsK</text>
+        <text encoding="base64">ICBfY29ubmVjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXJfcnRjX2RlbW8vdXRpbHMvcmNfc2VydmVyX2FwaS5kYXJ0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgogICMgVGhlIGZvbGxvd2luZyBhZGRzIHRoZSBDdXBlcnRpbm8gSWNvbnMgZm9udCB0byB5b3VyIGFwcGxpY2F0aW9uLgogICMgVXNlIHdpdGggdGhlIEN1cGVydGlub0ljb25zIGNsYXNzIGZvciBpT1Mgc3R5bGUgaWNvbnMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByZWZzLnNldFN0cmluZygiIiwgIiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnJvbmdjbG91ZC5ydGMuYXBpLnJlcG9ydC5TdGF0dXNCZWFuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5vOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJ0Y0xvY2FsVXNlci5nZXRTdHJlYW1zKCkKICAgICAgICAuZm9yRWFjaChydGNTdHJlYW0gLT4gc3RyZWFtTGlzdC5hZGQobmV3IFJDRmx1dHRlck91dHB1dFN0cmVhbShiTXNnLCBydGNTdHJlYW0pKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmh0dHAvaHR0cC5kYXJ0JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJ0Y1Jvb20uZ2V0UmVtb3RlVXNlcnMoKQogICAgICAgIC5mb3JFYWNoKChyZW1vdGVVc2VyKSAtPiByZW1vdGVVc2VyTGlzdC5hZGQobmV3IFJDRmx1dHRlclJlbW90ZVVzZXIoYk1zZywgcmVtb3RlVXNlcikpKTsK</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXJfcnRjX2RlbW8vdXRpbHMvcmNfc2VydmVyX2FwaS5kYXJ0JzsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJ0Y1Jvb20KICAgICAgICAuZ2V0UmVtb3RlVXNlcnMoKQogICAgICAgIC5mb3JFYWNoKChyZW1vdGVVc2VyKSAtPiByZW1vdGVVc2VyTGlzdC5hZGQobmV3IFJDRmx1dHRlclJlbW90ZVVzZXIoYk1zZywgcmVtb3RlVXNlcikpKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
@@ -324,9 +320,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfdWlkQ29udHJvbGxlclw+</last-search>
+      <last-search encoding="base64">XDxvblByZXNzZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdWlkQ29udHJvbGxlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxvblByZXNzZWRcPg==</last-pattern>
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxWaWRlb1ZpZXdUYWdfTG9jYWxWaWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
