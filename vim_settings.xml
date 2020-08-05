@@ -125,11 +125,11 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1596611124254">
-        <mark key="[" line="66" column="27" />
-        <mark key="]" line="66" column="36" />
-        <mark key="." line="66" column="35" />
-        <mark key="^" line="66" column="36" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1596614367476">
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="33" />
+        <mark key="." line="76" column="32" />
+        <mark key="^" line="76" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/utils/rc_server_api.dart" timestamp="1596595497061">
         <mark key="[" line="22" column="3" />
@@ -271,13 +271,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>第二个复选按钮</text>
+        <text>_isSaveIds</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>第二个复选按钮</text>
+        <text>_isSaveIds</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblByZXNzZWRcPg==</text>
