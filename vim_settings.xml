@@ -104,13 +104,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/http-0.12.2/lib/http.dart" timestamp="1596593364424" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCMixConfig.java" timestamp="1596444321000">
-        <mark key="'" line="296" column="32" />
-        <mark key="[" line="106" column="11" />
-        <mark key="]" line="106" column="11" />
-        <mark key="^" line="106" column="11" />
-        <mark key="." line="106" column="10" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/pubspec.yaml" timestamp="1596593333785">
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="15" />
@@ -118,6 +111,12 @@
         <mark key="^" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/push/build.gradle" timestamp="1596593811454" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/utils/code_result.dart" timestamp="1596595475133">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/media/http/HttpClient.java" timestamp="1596510692446" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/config/RCConfigField.java" timestamp="1596453308166" />
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/push/src/main/java/io/rong/push/platform/mi/MiMessageReceiver.java" timestamp="1596593932058">
@@ -126,17 +125,17 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1596593571296">
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="85" column="8" />
-        <mark key="^" line="85" column="8" />
-        <mark key="." line="85" column="7" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1596596064316">
+        <mark key="[" line="88" column="56" />
+        <mark key="]" line="88" column="62" />
+        <mark key="^" line="88" column="62" />
+        <mark key="." line="88" column="61" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/utils/rc_server_api.dart" timestamp="1596593595556">
-        <mark key="[" line="18" column="76" />
-        <mark key="]" line="18" column="76" />
-        <mark key="^" line="18" column="76" />
-        <mark key="." line="18" column="75" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/utils/rc_server_api.dart" timestamp="1596595497061">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="2" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/CenterManager.java" timestamp="1596452303903">
         <mark key="'" line="1754" column="15" />
@@ -271,13 +270,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>reslut</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>reslut</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdWlkQ29udHJvbGxlclw+</text>
@@ -286,37 +285,37 @@
         <text>SharedPreferences</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmh0dHAvaHR0cC5kYXJ0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5vOwo=</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXJfcnRjX2RlbW8vdXRpbHMvcmNfc2VydmVyX2FwaS5kYXJ0JzsK</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmh0dHAvaHR0cC5kYXJ0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXJfcnRjX2RlbW8vdXRpbHMvcmNfc2VydmVyX2FwaS5kYXJ0JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICMgVGhlIGZvbGxvd2luZyBhZGRzIHRoZSBDdXBlcnRpbm8gSWNvbnMgZm9udCB0byB5b3VyIGFwcGxpY2F0aW9uLgogICMgVXNlIHdpdGggdGhlIEN1cGVydGlub0ljb25zIGNsYXNzIGZvciBpT1Mgc3R5bGUgaWNvbnMuCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnJvbmdjbG91ZC5ydGMuYXBpLnJlcG9ydC5TdGF0dXNCZWFuOwo=</text>
+        <text encoding="base64">CgogICMgVGhlIGZvbGxvd2luZyBhZGRzIHRoZSBDdXBlcnRpbm8gSWNvbnMgZm9udCB0byB5b3VyIGFwcGxpY2F0aW9uLgogICMgVXNlIHdpdGggdGhlIEN1cGVydGlub0ljb25zIGNsYXNzIGZvciBpT1Mgc3R5bGUgaWNvbnMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJ0Y0xvY2FsVXNlci5nZXRTdHJlYW1zKCkKICAgICAgICAuZm9yRWFjaChydGNTdHJlYW0gLT4gc3RyZWFtTGlzdC5hZGQobmV3IFJDRmx1dHRlck91dHB1dFN0cmVhbShiTXNnLCBydGNTdHJlYW0pKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLnJvbmdjbG91ZC5ydGMuYXBpLnJlcG9ydC5TdGF0dXNCZWFuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJ0Y1Jvb20uZ2V0UmVtb3RlVXNlcnMoKQogICAgICAgIC5mb3JFYWNoKChyZW1vdGVVc2VyKSAtPiByZW1vdGVVc2VyTGlzdC5hZGQobmV3IFJDRmx1dHRlclJlbW90ZVVzZXIoYk1zZywgcmVtb3RlVXNlcikpKTsK</text>
+        <text encoding="base64">ICAgIHJ0Y0xvY2FsVXNlci5nZXRTdHJlYW1zKCkKICAgICAgICAuZm9yRWFjaChydGNTdHJlYW0gLT4gc3RyZWFtTGlzdC5hZGQobmV3IFJDRmx1dHRlck91dHB1dFN0cmVhbShiTXNnLCBydGNTdHJlYW0pKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJ0Y1Jvb20KICAgICAgICAuZ2V0UmVtb3RlVXNlcnMoKQogICAgICAgIC5mb3JFYWNoKChyZW1vdGVVc2VyKSAtPiByZW1vdGVVc2VyTGlzdC5hZGQobmV3IFJDRmx1dHRlclJlbW90ZVVzZXIoYk1zZywgcmVtb3RlVXNlcikpKTsK</text>
+        <text encoding="base64">ICAgIHJ0Y1Jvb20uZ2V0UmVtb3RlVXNlcnMoKQogICAgICAgIC5mb3JFYWNoKChyZW1vdGVVc2VyKSAtPiByZW1vdGVVc2VyTGlzdC5hZGQobmV3IFJDRmx1dHRlclJlbW90ZVVzZXIoYk1zZywgcmVtb3RlVXNlcikpKTsK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJ0Y1Jvb20uZ2V0UmVtb3RlVXNlcnMoKQogICAgICAgIC5mb3JFYWNoKChyZW1vdGVVc2VyKSAtPiByZW1vdGVVc2VyTGlzdC5hZGQobmV3IFJDRmx1dHRlclJlbW90ZVVzZXIoYk1zZywgcmVtb3RlVXNlcikpKTsK</text>
+        <text encoding="base64">ICAgIHJ0Y1Jvb20KICAgICAgICAuZ2V0UmVtb3RlVXNlcnMoKQogICAgICAgIC5mb3JFYWNoKChyZW1vdGVVc2VyKSAtPiByZW1vdGVVc2VyTGlzdC5hZGQobmV3IFJDRmx1dHRlclJlbW90ZVVzZXIoYk1zZywgcmVtb3RlVXNlcikpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
