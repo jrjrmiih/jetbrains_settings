@@ -125,11 +125,10 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1596598961335">
-        <mark key="[" line="89" column="55" />
-        <mark key="]" line="81" column="21" />
-        <mark key="." line="81" column="20" />
-        <mark key="^" line="81" column="21" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1596607638230">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/utils/rc_server_api.dart" timestamp="1596595497061">
         <mark key="[" line="22" column="3" />
@@ -266,22 +265,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>_ridController.text.trim()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblByZXNzZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgX3VpZENvbnRyb2xsZXIudGV4dCA9IHByZWZzLmdldFN0cmluZyhMT0dJTl9VSUQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZWZzLnNldFN0cmluZyhMT0dJTl9SSUQsIF9yaWRDb250cm9sbGVyLnRleHQudHJpbSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^xj0</text>
@@ -290,28 +289,28 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBfY29ubmVjdAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBfY29ubmVjdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZWZzLnNldFN0cmluZygiIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5vOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHByZWZzLnNldFN0cmluZygiIiwgIiIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmh0dHAvaHR0cC5kYXJ0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5vOwo=</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
