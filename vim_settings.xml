@@ -103,12 +103,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1596677910060">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="34" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/ios/rongcloud_rtc_plugin.podspec" timestamp="1596678725845">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="39" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/ios/Podfile.lock" timestamp="1596678459487" />
       <file name="$USER_HOME$/Library/flutter/bin/cache/pkg/sky_engine/lib/core/string.dart" timestamp="1596623038764">
         <mark key="[" line="319" column="12" />
         <mark key="]" line="319" column="12" />
@@ -160,13 +161,14 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="14" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/stream/rcrtc_stream.dart" timestamp="1596678347433" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/utils/rc_server_api.dart" timestamp="1596624513604">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="3" />
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1596677820470">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1596678328818">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
