@@ -173,6 +173,12 @@
         <mark key="^" line="29" column="63" />
       </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/android/src/main/java/io/rong/flutter/imlib/RCMessageHandler.java" timestamp="1596684174402" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b9e0fc8c2871f801f0867bd9b9ce033/jetified-rtc_lib-4.0.1.1/jars/classes.jar!/cn/rongcloud/rtc/b/a.class" timestamp="1596780741757">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="20" />
+        <mark key="^" line="46" column="20" />
+        <mark key="." line="46" column="19" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1596685389970">
         <mark key="[" line="51" column="45" />
         <mark key="]" line="51" column="45" />
@@ -184,12 +190,6 @@
         <mark key="]" line="31" column="1" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/stream/rcrtc_video_output_stream.dart" timestamp="1596680830901">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/android/src/main/java/io/rong/flutter/imlib/RCIMFlutterWrapper.java" timestamp="1596684184128" />
     </filemarks>
