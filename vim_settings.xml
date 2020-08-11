@@ -183,6 +183,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="1" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/widgets/remote_videoView.dart" timestamp="1597137733270">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="2" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="11" column="1" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="44" column="4" filename="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/RongcloudRTCPlugin.java" />
