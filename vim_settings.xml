@@ -115,6 +115,7 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="14" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCStatusReportListener.java" timestamp="1597145628748" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/RCFlutterEngine.java" timestamp="1596684686300">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
@@ -134,6 +135,7 @@
         <mark key="." line="41" column="52" />
         <mark key="^" line="42" column="56" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/report/StatusReport.java" timestamp="1597145463725" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b9e0fc8c2871f801f0867bd9b9ce033/jetified-rtc_lib-4.0.1.1/jars/classes.jar!/cn/rongcloud/rtc/b/a.class" timestamp="1597134130969">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
