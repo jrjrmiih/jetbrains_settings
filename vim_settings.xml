@@ -116,6 +116,12 @@
         <mark key="." line="22" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/callback/IRCRTCStatusReportListener.java" timestamp="1597145628748" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/widgets/gestureDetector_widget.dart" timestamp="1597196343687">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/android/src/main/java/io/rong/flutter/rtclib/agent/RCFlutterEngine.java" timestamp="1596684686300">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
