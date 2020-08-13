@@ -103,11 +103,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/test_page.dart" timestamp="1597221936725">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/scrollable.dart" timestamp="1597219376870">
         <mark key="[" line="81" column="55" />
         <mark key="]" line="81" column="55" />
         <mark key="^" line="81" column="55" />
         <mark key="." line="81" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597288383135">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page_core_buttons.dart" timestamp="1597214564413">
         <mark key="[" line="12" column="10" />
@@ -115,75 +126,21 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/tabs.dart" timestamp="1597219897570">
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/tabs.dart" timestamp="1597286440270">
         <mark key="'" line="728" column="27" />
         <mark key="[" line="1041" column="27" />
         <mark key="]" line="1041" column="27" />
         <mark key="^" line="1041" column="27" />
         <mark key="." line="1041" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/widgets/loading_dialog.dart" timestamp="1597200264363">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="8" />
-        <mark key="^" line="39" column="8" />
-        <mark key="." line="39" column="7" />
-      </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/basic.dart" timestamp="1597287730834" />
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icons.dart" timestamp="1597287207926" />
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/colors.dart" timestamp="1597287339591" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/button.dart" timestamp="1597222853931">
         <mark key="[" line="504" column="8" />
         <mark key="]" line="504" column="8" />
         <mark key="^" line="504" column="8" />
         <mark key="." line="504" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597224649249">
-        <mark key="'" line="57" column="2" />
-        <mark key="[" line="51" column="6" />
-        <mark key="]" line="52" column="5" />
-        <mark key="^" line="52" column="5" />
-        <mark key="." line="52" column="4" />
-      </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/page_view.dart" timestamp="1597217875499" />
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/single_child_scroll_view.dart" timestamp="1597218023190" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597225316449">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/test_page.dart" timestamp="1597221936725">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597282354680">
-        <mark key="[" line="139" column="13" />
-        <mark key="]" line="139" column="13" />
-        <mark key="^" line="139" column="13" />
-        <mark key="." line="139" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/widgets/live_gridView.dart" timestamp="1597202542988">
-        <mark key="'" line="10" column="22" />
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="32" />
-      </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/painting/edge_insets.dart" timestamp="1597219158107" />
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1597221400829" />
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/colors.dart" timestamp="1597223417679" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/widgets/live_page.dart" timestamp="1597202498181">
-        <mark key="[" line="97" column="11" />
-        <mark key="]" line="97" column="11" />
-        <mark key="^" line="97" column="11" />
-        <mark key="." line="97" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_video_view.dart" timestamp="1597214009074" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/widgets/gestureDetector_widget.dart" timestamp="1597196343687">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1597221367172">
         <mark key="[" line="457" column="16" />
@@ -191,11 +148,30 @@
         <mark key="^" line="457" column="16" />
         <mark key="." line="457" column="15" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597285207005">
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="49" column="16" />
+        <mark key="^" line="49" column="16" />
+        <mark key="." line="49" column="15" />
+      </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/theme_data.dart" timestamp="1597216900002">
         <mark key="[" line="729" column="10" />
         <mark key="]" line="729" column="10" />
         <mark key="^" line="729" column="10" />
         <mark key="." line="729" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1597285528649">
+        <mark key="[" line="144" column="7" />
+        <mark key="]" line="144" column="7" />
+        <mark key="^" line="144" column="7" />
+        <mark key="." line="144" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597287383724">
+        <mark key="'" line="14" column="11" />
+        <mark key="[" line="84" column="18" />
+        <mark key="]" line="84" column="18" />
+        <mark key="." line="84" column="17" />
+        <mark key="^" line="84" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -304,13 +280,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMjAwLAo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb250YWluZXJcPg==</text>
@@ -319,38 +295,37 @@
         <text encoding="base64">ICAgICAgICAgIE5hdmlnYXRvci5wb3AoY29udGV4dCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMjAwLAo=</text>
       </register>
       <register name="q" type="4">
         <text>ddjjj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rV3JhcDogdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICBjaGlsZDogQWxpZ24oCiAgICAgICAgYWxpZ25tZW50OiBBbGlnbm1lbnQuYm90dG9tQ2VudGVyLA==</text>
+        <text encoding="base64">ICAgICAgICBzaHJpbmtXcmFwKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICksCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGQ6IEFsaWduKAogICAgICAgIGFsaWdubWVudDogQWxpZ25tZW50LmJvdHRvbUNlbnRlciwK</text>
+      <register name="5" type="4">
+        <text encoding="base64">WwogICAgICAgIENvbnRhaW5lcigKICAgICAgICAgIGhlaWdodDogODAuMCwKICAgICAgICAgIGNoaWxkOiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQK</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogODAuMCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDApLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDApLAo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
-      <register name="9" type="4">
-        <text>Scaffold(
-        body:</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDUpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
@@ -365,7 +340,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxWaWRlb1ZpZXdUYWdfTG9jYWxWaWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
