@@ -137,7 +137,7 @@
         <mark key="]" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597307259181">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597309470525">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="6" column="12" />
         <mark key="^" line="6" column="12" />
@@ -149,12 +149,11 @@
         <mark key="^" line="147" column="7" />
         <mark key="." line="147" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597307241139">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597309836039">
         <mark key="'" line="16" column="11" />
-        <mark key="[" line="80" column="18" />
-        <mark key="]" line="80" column="18" />
-        <mark key="." line="80" column="17" />
-        <mark key="^" line="80" column="18" />
+        <mark key="]" line="85" column="5" />
+        <mark key="^" line="85" column="5" />
+        <mark key="." line="85" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/widgets/remote_videoView.dart" timestamp="1597307273578">
         <mark key="[" line="6" column="28" />
@@ -171,6 +170,12 @@
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/material_button.dart" timestamp="1597302038686" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/colors.dart" timestamp="1597287339591" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_core_panel.dart" timestamp="1597309844133">
+        <mark key="[" line="159" column="29" />
+        <mark key="]" line="160" column="104" />
+        <mark key="^" line="160" column="104" />
+        <mark key="." line="160" column="103" />
+      </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/theme_data.dart" timestamp="1597302534366">
         <mark key="[" line="729" column="10" />
         <mark key="]" line="729" column="10" />
