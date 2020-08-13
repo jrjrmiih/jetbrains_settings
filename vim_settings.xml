@@ -149,11 +149,12 @@
         <mark key="^" line="147" column="7" />
         <mark key="." line="147" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597309836039">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597310479838">
         <mark key="'" line="16" column="11" />
-        <mark key="]" line="85" column="5" />
-        <mark key="^" line="85" column="5" />
-        <mark key="." line="85" column="4" />
+        <mark key="[" line="82" column="15" />
+        <mark key="]" line="82" column="15" />
+        <mark key="^" line="82" column="15" />
+        <mark key="." line="82" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/widgets/remote_videoView.dart" timestamp="1597307273578">
         <mark key="[" line="6" column="28" />
@@ -299,7 +300,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkuUm9vbQo=</text>
+        <text encoding="base64">CiAgLy8vIHRlc3QgQVBJCg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -314,24 +315,30 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50czogY29uc3QgQm94Q29uc3RyYWludHMoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkuUm9vbQo=</text>
+        <text encoding="base64">CiAgLy8vIHRlc3QgQVBJCg==</text>
       </register>
       <register name="q" type="4">
         <text>ddjjj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
+        <text encoding="base64">CiAgV2lkZ2V0IF9nZXRDb3JlUGFuZWwoKSB7CiAgICByZXR1cm4gQWxpZ24oCiAgICAgIGFsaWdubWVudDogQWxpZ25tZW50LmJvdHRvbUNlbnRlciwKICAgICAgY2hpbGQ6IENvbnRhaW5lcigKICAgICAgICBoZWlnaHQ6IDEyMCwKICAgICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKGNvbG9yOiBDb2xvcigweDcwMDAwMDAwKSksCiAgICAgICAgY2hpbGQ6IFJvdygKICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5jZW50ZXIsCiAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgIFJhd01hdGVyaWFsQnV0dG9uKAogICAgICAgICAgICAgIGZpbGxDb2xvcjogQ29sb3JzLmdyZXksCiAgICAgICAgICAgICAgY2hpbGQ6IEljb24oCiAgICAgICAgICAgICAgICBJY29ucy52b2ljZV9jaGF0LAogICAgICAgICAgICAgICAgc2l6ZTogMjUsCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLmFsbCgxNSksCiAgICAgICAgICAgICAgc2hhcGU6IENpcmNsZUJvcmRlcigpLAogICAgICAgICAgICAgIG9uUHJlc3NlZDogKCkgewogICAgICAgICAgICAgICAgLy8gVE9ETzoo5a2Z5om/56eAKSx0ZXN0IEFQSSxmdXR1cmUgZGVsZXRlCi8vICAgICAgICAgICAgICAgIF9zZXRNaWNyb3Bob25lRGlzYWJsZSh0cnVlKTsKICAgICAgICAgICAgICAgIF91bnB1Ymxpc2hEZWZhdWx0U3RyZWFtcygpOwovLyAgICAgICAgICAgICAgX3Vuc3Vic2NyaWJlU3RyZWFtcygpOwovLyAgICAgICAgICAgICAgX3N3aXRjaFRvVGlueVN0cmVhbShyb29tLnJlbW90ZVVzZXJMaXN0LmZpcnN0KTsKLy8gICAgICAgICAgICAgIF9zd2l0Y2hUb05vcm1hbFN0cmVhbShyb29tLnJlbW90ZVVzZXJMaXN0LmZpcnN0KTsKICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAogICAgICAgICAgICBSYXdNYXRlcmlhbEJ1dHRvbigKICAgICAgICAgICAgICBmaWxsQ29sb3I6IENvbG9ycy5yZWQsCiAgICAgICAgICAgICAgY2hpbGQ6IEljb24oCiAgICAgICAgICAgICAgICBJY29ucy5jYWxsX2VuZCwKICAgICAgICAgICAgICAgIHNpemU6IDM1LAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5hbGwoMTUpLAogICAgICAgICAgICAgIHNoYXBlOiBDaXJjbGVCb3JkZXIoKSwKICAgICAgICAgICAgICBvblByZXNzZWQ6ICgpIHsKICAgICAgICAgICAgICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkubGVhdmVSb29tKCkudGhlbigodmFsdWUpIHsKICAgICAgICAgICAgICAgICAgUm9uZ0lNQ2xpZW50LmRpc2Nvbm5lY3QoZmFsc2UpOwogICAgICAgICAgICAgICAgICBOYXZpZ2F0b3IucG9wKGNvbnRleHQpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgUmF3TWF0ZXJpYWxCdXR0b24oCiAgICAgICAgICAgICAgZmlsbENvbG9yOiBDb2xvcnMuZ3JleSwKICAgICAgICAgICAgICBjaGlsZDogSWNvbigKICAgICAgICAgICAgICAgIEljb25zLnN3aXRjaF9jYW1lcmEsCiAgICAgICAgICAgICAgICBzaXplOiAyNSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDE1KSwKICAgICAgICAgICAgICBzaGFwZTogQ2lyY2xlQm9yZGVyKCksCiAgICAgICAgICAgICAgb25QcmVzc2VkOiAoKSB7CiAgICAgICAgICAgICAgICBfc3dpdGNoQ2FtZXJhKCk7Ci8vICAgICAgICAgICAgICAgIF9zdG9wQ2FtZXJhKCk7CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgIF0sCiAgICAgICAgKSwKICAgICAgKSwKICAgICk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
+        <text encoding="base64">ICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkuUm9vbQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text>//                  FlatButton(
 //                    color: Colors.grey[600].withOpacity(0.2),
 //                    child: Icon(Icons.linked_camera),
@@ -345,17 +352,11 @@
 //                    onPressed: () {},
 //                  ),</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsQ29sb3I6IENvbG9ycy5ncmV5WzYwMF0ud2l0aE9wYWNpdHkoMC4yKSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsQ29sb3I6IENvbG9ycy5ncmV5WzYwMF0ud2l0aE9wYWNpdHkoMC4yKSwK</text>
-      </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50czogQm94Q29uc3RyYWludHMoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsQ29sb3I6IENvbG9ycy5ncmV5WzYwMF0ud2l0aE9wYWNpdHkoMC4yKSwK</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
