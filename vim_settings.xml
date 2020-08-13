@@ -115,10 +115,11 @@
         <mark key="^" line="81" column="55" />
         <mark key="." line="81" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597288383135">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597291050990">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page_core_buttons.dart" timestamp="1597214564413">
         <mark key="[" line="12" column="10" />
@@ -134,7 +135,7 @@
         <mark key="." line="1041" column="26" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/basic.dart" timestamp="1597287730834" />
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icons.dart" timestamp="1597287207926" />
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icons.dart" timestamp="1597290557828" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/colors.dart" timestamp="1597287339591" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/button.dart" timestamp="1597222853931">
         <mark key="[" line="504" column="8" />
@@ -280,13 +281,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMjAwLAo=</text>
+        <text encoding="base64">ICAgICAgICApLAo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb250YWluZXJcPg==</text>
@@ -295,37 +296,37 @@
         <text encoding="base64">ICAgICAgICAgIE5hdmlnYXRvci5wb3AoY29udGV4dCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMjAwLAo=</text>
+        <text encoding="base64">ICAgICAgICApLAo=</text>
       </register>
       <register name="q" type="4">
         <text>ddjjj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rV3JhcDogdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaHJpbmtXcmFwKAo=</text>
+        <text encoding="base64">ICAgICAgICApLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICBFeHBhbmRlZCgK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">WwogICAgICAgIENvbnRhaW5lcigKICAgICAgICAgIGhlaWdodDogODAuMCwKICAgICAgICAgIGNoaWxkOiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMjAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogODAuMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5rV3JhcDogdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDApLAo=</text>
+        <text encoding="base64">ICAgICAgICBzaHJpbmtXcmFwKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICksCg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDUpLAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">WwogICAgICAgIENvbnRhaW5lcigKICAgICAgICAgIGhlaWdodDogODAuMCwKICAgICAgICAgIGNoaWxkOiA=</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
