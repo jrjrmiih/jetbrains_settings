@@ -152,12 +152,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/flat_button.dart" timestamp="1597303447941" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597303645027">
-        <mark key="[" line="54" column="39" />
-        <mark key="]" line="54" column="39" />
-        <mark key="^" line="54" column="39" />
-        <mark key="." line="54" column="38" />
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/flat_button.dart" timestamp="1597303785422" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597303766951">
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="46" column="24" />
+        <mark key="^" line="46" column="24" />
+        <mark key="." line="46" column="23" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/material_button.dart" timestamp="1597302038686" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/colors.dart" timestamp="1597287339591" />
@@ -176,6 +176,7 @@
       <file name="/dummy.dart" timestamp="1597302706190">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/button_theme.dart" timestamp="1597303838175" />
       <file name="$USER_HOME$/Library/flutter/bin/cache/pkg/sky_engine/lib/ui/geometry.dart" timestamp="1597302498322">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="20" column="16" />
@@ -289,13 +290,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>RawMaterialButton</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>RawMaterialButton</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZW5zaXR5QWRqdXN0bWVudFw+</text>
