@@ -103,12 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/scrollable.dart" timestamp="1597219376870">
-        <mark key="[" line="81" column="55" />
-        <mark key="]" line="81" column="55" />
-        <mark key="^" line="81" column="55" />
-        <mark key="." line="81" column="54" />
-      </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/tabs.dart" timestamp="1597286440270">
         <mark key="'" line="728" column="27" />
         <mark key="[" line="1041" column="27" />
@@ -119,7 +113,7 @@
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/basic.dart" timestamp="1597300224447">
         <mark key="'" line="4722" column="23" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icons.dart" timestamp="1597300514882" />
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icons.dart" timestamp="1597305940022" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/button.dart" timestamp="1597303596903">
         <mark key="'" line="387" column="17" />
         <mark key="[" line="395" column="25" />
@@ -134,17 +128,17 @@
         <mark key="." line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1597285528649">
-        <mark key="[" line="144" column="7" />
-        <mark key="]" line="144" column="7" />
-        <mark key="^" line="144" column="7" />
-        <mark key="." line="144" column="6" />
+        <mark key="[" line="147" column="7" />
+        <mark key="]" line="147" column="7" />
+        <mark key="^" line="147" column="7" />
+        <mark key="." line="147" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597287383724">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597306527577">
         <mark key="'" line="14" column="11" />
-        <mark key="[" line="84" column="18" />
-        <mark key="]" line="84" column="18" />
-        <mark key="." line="84" column="17" />
-        <mark key="^" line="84" column="18" />
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="47" />
+        <mark key="^" line="32" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/test_page.dart" timestamp="1597221936725">
         <mark key="[" line="2" column="12" />
@@ -152,12 +146,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/flat_button.dart" timestamp="1597303785422" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597303766951">
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="46" column="24" />
-        <mark key="^" line="46" column="24" />
-        <mark key="." line="46" column="23" />
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/flat_button.dart" timestamp="1597305863806" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597306050771">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="61" column="42" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/material_button.dart" timestamp="1597302038686" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/colors.dart" timestamp="1597287339591" />
@@ -289,14 +283,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>RawMaterialButton</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkuUm9vbQo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>RawMaterialButton</text>
+        <text>fillC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZW5zaXR5QWRqdXN0bWVudFw+</text>
@@ -305,37 +299,48 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50czogY29uc3QgQm94Q29uc3RyYWludHMoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zCg==</text>
+        <text encoding="base64">ICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkuUm9vbQo=</text>
       </register>
       <register name="q" type="4">
         <text>ddjjj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3RyYWludHMgIGNvbnN0IEJveENvbnN0cmFpbnRzKCksCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3RyYWludHM6IAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiAwLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2l6ZTogMjUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc2l6ZTogMjUsCg==</text>
+        <text>//                  FlatButton(
+//                    color: Colors.grey[600].withOpacity(0.2),
+//                    child: Icon(Icons.linked_camera),
+//                    shape: CircleBorder(),
+//                    onPressed: () {},
+//                  ),
+//                  FlatButton(
+//                    color: Colors.grey[600].withOpacity(0.2),
+//                    child: Icon(Icons.keyboard_voice),
+//                    shape: CircleBorder(),
+//                    onPressed: () {},
+//                  ),</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">RXhwYW5kZWQoCiAgICAgICAgICAgICAgICBjaGlsZDogQWxpZ24oCiAgICAgICAgICAgICAgICAgIGFsaWdubWVudDogQWxpZ25tZW50LmJvdHRvbUNlbnRlciwKICAgICAgICAgICAgICAgICAgY2hpbGQ6IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsQ29sb3I6IENvbG9ycy5ncmV5WzYwMF0ud2l0aE9wYWNpdHkoMC4yKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsQ29sb3I6IENvbG9ycy5ncmV5WzYwMF0ud2l0aE9wYWNpdHkoMC4yKSwK</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50czogQm94Q29uc3RyYWludHMoKSwK</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
@@ -350,7 +355,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
