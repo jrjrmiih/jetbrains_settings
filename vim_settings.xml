@@ -103,6 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/ios/Podfile.lock" timestamp="1597307352386">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/tabs.dart" timestamp="1597286440270">
         <mark key="'" line="728" column="27" />
         <mark key="[" line="1041" column="27" />
@@ -121,7 +127,12 @@
         <mark key="^" line="395" column="25" />
         <mark key="." line="395" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597301822506">
+      <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/rongcloud_im_plugin-2.1.1/ios/rongcloud_im_plugin.podspec" timestamp="1597307417267">
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597307259181">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="6" column="12" />
         <mark key="^" line="6" column="12" />
@@ -133,12 +144,18 @@
         <mark key="^" line="147" column="7" />
         <mark key="." line="147" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597306527577">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="48" />
-        <mark key="." line="32" column="47" />
-        <mark key="^" line="32" column="48" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597307241139">
+        <mark key="'" line="16" column="11" />
+        <mark key="[" line="80" column="18" />
+        <mark key="]" line="80" column="18" />
+        <mark key="." line="80" column="17" />
+        <mark key="^" line="80" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/widgets/remote_videoView.dart" timestamp="1597307273578">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/test_page.dart" timestamp="1597221936725">
         <mark key="[" line="2" column="12" />
@@ -155,12 +172,6 @@
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/material_button.dart" timestamp="1597302038686" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/colors.dart" timestamp="1597287339591" />
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1597221367172">
-        <mark key="[" line="457" column="16" />
-        <mark key="]" line="457" column="16" />
-        <mark key="^" line="457" column="16" />
-        <mark key="." line="457" column="15" />
-      </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/theme_data.dart" timestamp="1597302534366">
         <mark key="[" line="729" column="10" />
         <mark key="]" line="729" column="10" />
