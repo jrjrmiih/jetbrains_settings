@@ -139,12 +139,6 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_local_user.dart" timestamp="1597335222768">
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="39" column="29" />
-        <mark key="." line="39" column="28" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597313078412">
         <mark key="'" line="16" column="11" />
       </file>
@@ -174,16 +168,7 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/theme_data.dart" timestamp="1597302534366">
-        <mark key="[" line="729" column="10" />
-        <mark key="]" line="729" column="10" />
-        <mark key="^" line="729" column="10" />
-        <mark key="." line="729" column="9" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/ios/DerivedData/Runner/Build/Products/Debug-iphoneos/Runner.app/_CodeSignature/CodeResources" timestamp="1597312406595" />
-      <file name="/dummy.dart" timestamp="1597302706190">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/button_theme.dart" timestamp="1597303838175" />
     </filemarks>
     <jumps>
