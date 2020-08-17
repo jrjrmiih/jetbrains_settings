@@ -115,10 +115,11 @@
         <mark key="." line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/flat_button.dart" timestamp="1597654140319" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597654479594">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597655929741">
+        <mark key="[" line="79" column="61" />
+        <mark key="]" line="79" column="61" />
+        <mark key="." line="79" column="61" />
+        <mark key="^" line="79" column="60" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" timestamp="1597646122945">
         <mark key="'" line="1110" column="29" />
@@ -164,17 +165,18 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597654871869">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597655559427">
+        <mark key="[" line="47" column="14" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="15" />
+        <mark key="^" line="47" column="16" />
       </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-2.3.1/lib/flutter_screenutil.dart" timestamp="1597652200880" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597654538016">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="1" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597655808781">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-2.3.1/lib/screenutil.dart" timestamp="1597652673580">
         <mark key="[" line="30" column="17" />
@@ -315,14 +317,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIFRvIGFkZCBhc3NldHMgdG8geW91ciBhcHBsaWNhdGlvbiwgYWRkIGFuIGFzc2V0cyBzZWN0aW9uLCBsaWtlIHRoaXM6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>background</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>background</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW1hbnRpY0NoaWxkQ291bnRcPg==</text>
