@@ -165,11 +165,11 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597676481141">
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="47" column="26" />
-        <mark key="." line="47" column="25" />
-        <mark key="^" line="47" column="26" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597677577106">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="29" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="46" column="9" />
       </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-2.3.1/lib/flutter_screenutil.dart" timestamp="1597652200880" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icon_button.dart" timestamp="1597660870134">
@@ -310,7 +310,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gYXNzZXRzL3N0cmVhbV92aWRlby5wbmcK</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
@@ -322,7 +322,7 @@
         <text encoding="base64">XDxvblByZXNzZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gYXNzZXRzL3l1bi5wbmcK</text>
+        <text encoding="base64">ICAgIC0gYXNzZXRzL3N0cmVhbV92aWRlby5wbmcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
