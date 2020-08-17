@@ -109,6 +109,7 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="24" />
       </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icons.dart" timestamp="1597679005260" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/image.dart" timestamp="1597661124476">
         <mark key="[" line="298" column="14" />
         <mark key="]" line="298" column="14" />
@@ -153,23 +154,17 @@
         <mark key="^" line="296" column="3" />
         <mark key="." line="296" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_core_panel.dart" timestamp="1597580104794">
-        <mark key="[" line="83" column="59" />
-        <mark key="]" line="90" column="42" />
-        <mark key="^" line="90" column="42" />
-        <mark key="." line="90" column="41" />
-      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_func_button.dart" timestamp="1597660006321">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597677577106">
-        <mark key="[" line="49" column="29" />
-        <mark key="]" line="49" column="29" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="46" column="9" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597678409231">
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="50" column="20" />
+        <mark key="." line="50" column="19" />
+        <mark key="^" line="50" column="20" />
       </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-2.3.1/lib/flutter_screenutil.dart" timestamp="1597652200880" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icon_button.dart" timestamp="1597660870134">
@@ -185,17 +180,17 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_core_panel.dart" timestamp="1597676488165">
-        <mark key="[" line="82" column="34" />
-        <mark key="]" line="82" column="34" />
-        <mark key="^" line="82" column="34" />
-        <mark key="." line="82" column="33" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_core_panel.dart" timestamp="1597679056458">
+        <mark key="[" line="59" column="39" />
+        <mark key="]" line="59" column="39" />
+        <mark key="." line="59" column="38" />
+        <mark key="^" line="59" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_turn_button.dart" timestamp="1597662512315">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="32" column="6" />
-        <mark key="." line="32" column="5" />
-        <mark key="^" line="32" column="6" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_turn_button.dart" timestamp="1597678610157">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_remote_panel.dart" timestamp="1597653577682">
         <mark key="[" line="14" column="27" />
@@ -310,52 +305,52 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gYXNzZXRzL3N0cmVhbV92aWRlby5wbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zZWxlY3RlZHNbaW5kZXhdID0gIV9zZWxlY3RlZHNbaW5kZXhdOwo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>_selecteds</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblByZXNzZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gYXNzZXRzL3N0cmVhbV92aWRlby5wbmcK</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAyNCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zZWxlY3RlZHNbaW5kZXhdID0gIV9zZWxlY3RlZHNbaW5kZXhdOwo=</text>
       </register>
       <register name="q" type="4">
         <text>ddjjj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRmxhdEJ1dHRvbigKICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLmdyZXlbNjAwXS53aXRoT3BhY2l0eSgwLjIpLAogICAgICAgICAgICAgICAgICAgIGNoaWxkOiBJY29uKEljb25zLm1pYyksCiAgICAgICAgICAgICAgICAgICAgc2hhcGU6IENpcmNsZUJvcmRlcigpLAogICAgICAgICAgICAgICAgICAgIG9uUHJlc3NlZDogKCkge30sCiAgICAgICAgICAgICAgICAgICks</text>
+        <text encoding="base64">CiAgICAgICAgICDkvZzogIXvvJrogIHlrZ/nqIvluo/lkZgKICAgICAgICAgIOmTvuaOpe+8mmh0dHBzOi8vd3d3Lmltb29jLmNvbS9hcnRpY2xlLzMwMTk5NT9ibG9ja19pZD10dWlqaWFuX3d6CiAgICAgICAg5p2l5rqQ77ya5oWV6K++572RCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IAogICAgICAKICAgICAgSWNvbkJ1dHRvbigKICAgICAgY29sb3I6IENvbG9ycy53aGl0ZSwKICAgICAgaWNvbjogSW1hZ2VJY29uKEFzc2V0SW1hZ2UoaXNGcm9udCA/IHdpZGdldC5mcm9udCA6IHdpZGdldC5iYWNrKSksCiAgICAgIG9uUHJlc3NlZDogKCkgewogICAgICAgIHNldFN0YXRlKCgpIHsKICAgICAgICAgIGlzRnJvbnQgPSAhaXNGcm9udDsKICAgICAgICB9KTsKICAgICAgICB3aWRnZXQub25QcmVzc2VkKGlzRnJvbnQpOwogICAgICB9LAogICAgKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIOS9nOiAhe+8muiAgeWtn+eoi+W6j+WRmAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLndoaXRlLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIOmTvuaOpe+8mmh0dHBzOi8vd3d3Lmltb29jLmNvbS9hcnRpY2xlLzMwMTk5NT9ibG9ja19pZD10dWlqaWFuX3d6CiAgICAgICAg5p2l5rqQ77ya5oWV6K++572RCiAgICAgICAgICAgICAgICAgIFZpZGVvVHVybkJ1dHRvbigK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpc0Zyb250ID0gIWlzRnJvbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxib29sPiBfc2VsZWN0ZWRzID0gW2ZhbHNlLCBmYWxzZSwgdHJ1ZV07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib29sIGlzRnJvbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgU2l6ZWRCb3goCiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDUwLAogICAgICAgICAgICAgICAgICAgIGhlaWdodDogMzIsCiAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IEZsYXRCdXR0b24oCiAgICAgICAgICAgICAgICAgICAgICAvL+S4uuS7gOS5iOimgeiuvue9ruW3puWPs3BhZGRpbmfvvIzlm6DkuLrlpoLmnpzkuI3orr7nva7vvIzpgqPkuYjkvJrmjKTljovmloflrZfnqbrpl7QKICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuc3ltbWV0cmljKGhvcml6b250YWw6IDgpLAogICAgICAgICAgICAgICAgICAgICAgLy/nlLvlnIbop5IKICAgICAgICAgICAgICAgICAgICAgIHNoYXBlOiBSb3VuZGVkUmVjdGFuZ2xlQm9yZGVyKAogICAgICAgICAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IEJvcmRlclJhZGl1cy5jaXJjdWxhcig0KSwKICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAvL+WmguaenOS9v+eUqEZsYXRCdXR0b27vvIzlv4XpobvliJ3lp4vljJZvblByZXNzZWTov5nkuKrmlrnms5UKICAgICAgICAgICAgICAgICAgICAgIG9uUHJlc3NlZDogKCkge30sCiAgICAgICAgICAgICAgICAgICAgICBjaGlsZDogVGV4dCgKICAgICAgICAgICAgICAgICAgICAgICAgJ+aQnOe0oicsCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiBUZXh0U3R5bGUoZm9udFNpemU6IDE0KSwKICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICBtYXRlcmlhbFRhcFRhcmdldFNpemU6IE1hdGVyaWFsVGFwVGFyZ2V0U2l6ZS5zaHJpbmtXcmFwLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICks</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKSwK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
