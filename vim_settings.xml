@@ -157,7 +157,11 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1597580205377" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1597628104136">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597313078412">
         <mark key="'" line="16" column="11" />
       </file>
@@ -295,16 +299,16 @@
         <text>ddjjj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgLy8vIHRlc3QgQVBJCg==</text>
+        <text encoding="base64">ICBib29sIF9pc0F1dG9Mb2dpbiA9IGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgV2lkZ2V0IF9nZXRDb3JlUGFuZWwoKSB7CiAgICByZXR1cm4gQWxpZ24oCiAgICAgIGFsaWdubWVudDogQWxpZ25tZW50LmJvdHRvbUNlbnRlciwKICAgICAgY2hpbGQ6IENvbnRhaW5lcigKICAgICAgICBoZWlnaHQ6IDEyMCwKICAgICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKGNvbG9yOiBDb2xvcigweDcwMDAwMDAwKSksCiAgICAgICAgY2hpbGQ6IFJvdygKICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5jZW50ZXIsCiAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgIFJhd01hdGVyaWFsQnV0dG9uKAogICAgICAgICAgICAgIGZpbGxDb2xvcjogQ29sb3JzLmdyZXksCiAgICAgICAgICAgICAgY2hpbGQ6IEljb24oCiAgICAgICAgICAgICAgICBJY29ucy52b2ljZV9jaGF0LAogICAgICAgICAgICAgICAgc2l6ZTogMjUsCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLmFsbCgxNSksCiAgICAgICAgICAgICAgc2hhcGU6IENpcmNsZUJvcmRlcigpLAogICAgICAgICAgICAgIG9uUHJlc3NlZDogKCkgewogICAgICAgICAgICAgICAgLy8gVE9ETzoo5a2Z5om/56eAKSx0ZXN0IEFQSSxmdXR1cmUgZGVsZXRlCi8vICAgICAgICAgICAgICAgIF9zZXRNaWNyb3Bob25lRGlzYWJsZSh0cnVlKTsKICAgICAgICAgICAgICAgIF91bnB1Ymxpc2hEZWZhdWx0U3RyZWFtcygpOwovLyAgICAgICAgICAgICAgX3Vuc3Vic2NyaWJlU3RyZWFtcygpOwovLyAgICAgICAgICAgICAgX3N3aXRjaFRvVGlueVN0cmVhbShyb29tLnJlbW90ZVVzZXJMaXN0LmZpcnN0KTsKLy8gICAgICAgICAgICAgIF9zd2l0Y2hUb05vcm1hbFN0cmVhbShyb29tLnJlbW90ZVVzZXJMaXN0LmZpcnN0KTsKICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAogICAgICAgICAgICBSYXdNYXRlcmlhbEJ1dHRvbigKICAgICAgICAgICAgICBmaWxsQ29sb3I6IENvbG9ycy5yZWQsCiAgICAgICAgICAgICAgY2hpbGQ6IEljb24oCiAgICAgICAgICAgICAgICBJY29ucy5jYWxsX2VuZCwKICAgICAgICAgICAgICAgIHNpemU6IDM1LAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5hbGwoMTUpLAogICAgICAgICAgICAgIHNoYXBlOiBDaXJjbGVCb3JkZXIoKSwKICAgICAgICAgICAgICBvblByZXNzZWQ6ICgpIHsKICAgICAgICAgICAgICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkubGVhdmVSb29tKCkudGhlbigodmFsdWUpIHsKICAgICAgICAgICAgICAgICAgUm9uZ0lNQ2xpZW50LmRpc2Nvbm5lY3QoZmFsc2UpOwogICAgICAgICAgICAgICAgICBOYXZpZ2F0b3IucG9wKGNvbnRleHQpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgUmF3TWF0ZXJpYWxCdXR0b24oCiAgICAgICAgICAgICAgZmlsbENvbG9yOiBDb2xvcnMuZ3JleSwKICAgICAgICAgICAgICBjaGlsZDogSWNvbigKICAgICAgICAgICAgICAgIEljb25zLnN3aXRjaF9jYW1lcmEsCiAgICAgICAgICAgICAgICBzaXplOiAyNSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDE1KSwKICAgICAgICAgICAgICBzaGFwZTogQ2lyY2xlQm9yZGVyKCksCiAgICAgICAgICAgICAgb25QcmVzc2VkOiAoKSB7CiAgICAgICAgICAgICAgICBfc3dpdGNoQ2FtZXJhKCk7Ci8vICAgICAgICAgICAgICAgIF9zdG9wQ2FtZXJhKCk7CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgIF0sCiAgICAgICAgKSwKICAgICAgKSwKICAgICk7CiAgfQo=</text>
+        <text encoding="base64">CiAgLy8vIHRlc3QgQVBJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkuUm9vbQo=</text>
+        <text encoding="base64">CiAgV2lkZ2V0IF9nZXRDb3JlUGFuZWwoKSB7CiAgICByZXR1cm4gQWxpZ24oCiAgICAgIGFsaWdubWVudDogQWxpZ25tZW50LmJvdHRvbUNlbnRlciwKICAgICAgY2hpbGQ6IENvbnRhaW5lcigKICAgICAgICBoZWlnaHQ6IDEyMCwKICAgICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKGNvbG9yOiBDb2xvcigweDcwMDAwMDAwKSksCiAgICAgICAgY2hpbGQ6IFJvdygKICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5jZW50ZXIsCiAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgIFJhd01hdGVyaWFsQnV0dG9uKAogICAgICAgICAgICAgIGZpbGxDb2xvcjogQ29sb3JzLmdyZXksCiAgICAgICAgICAgICAgY2hpbGQ6IEljb24oCiAgICAgICAgICAgICAgICBJY29ucy52b2ljZV9jaGF0LAogICAgICAgICAgICAgICAgc2l6ZTogMjUsCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLmFsbCgxNSksCiAgICAgICAgICAgICAgc2hhcGU6IENpcmNsZUJvcmRlcigpLAogICAgICAgICAgICAgIG9uUHJlc3NlZDogKCkgewogICAgICAgICAgICAgICAgLy8gVE9ETzoo5a2Z5om/56eAKSx0ZXN0IEFQSSxmdXR1cmUgZGVsZXRlCi8vICAgICAgICAgICAgICAgIF9zZXRNaWNyb3Bob25lRGlzYWJsZSh0cnVlKTsKICAgICAgICAgICAgICAgIF91bnB1Ymxpc2hEZWZhdWx0U3RyZWFtcygpOwovLyAgICAgICAgICAgICAgX3Vuc3Vic2NyaWJlU3RyZWFtcygpOwovLyAgICAgICAgICAgICAgX3N3aXRjaFRvVGlueVN0cmVhbShyb29tLnJlbW90ZVVzZXJMaXN0LmZpcnN0KTsKLy8gICAgICAgICAgICAgIF9zd2l0Y2hUb05vcm1hbFN0cmVhbShyb29tLnJlbW90ZVVzZXJMaXN0LmZpcnN0KTsKICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAogICAgICAgICAgICBSYXdNYXRlcmlhbEJ1dHRvbigKICAgICAgICAgICAgICBmaWxsQ29sb3I6IENvbG9ycy5yZWQsCiAgICAgICAgICAgICAgY2hpbGQ6IEljb24oCiAgICAgICAgICAgICAgICBJY29ucy5jYWxsX2VuZCwKICAgICAgICAgICAgICAgIHNpemU6IDM1LAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5hbGwoMTUpLAogICAgICAgICAgICAgIHNoYXBlOiBDaXJjbGVCb3JkZXIoKSwKICAgICAgICAgICAgICBvblByZXNzZWQ6ICgpIHsKICAgICAgICAgICAgICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkubGVhdmVSb29tKCkudGhlbigodmFsdWUpIHsKICAgICAgICAgICAgICAgICAgUm9uZ0lNQ2xpZW50LmRpc2Nvbm5lY3QoZmFsc2UpOwogICAgICAgICAgICAgICAgICBOYXZpZ2F0b3IucG9wKGNvbnRleHQpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgUmF3TWF0ZXJpYWxCdXR0b24oCiAgICAgICAgICAgICAgZmlsbENvbG9yOiBDb2xvcnMuZ3JleSwKICAgICAgICAgICAgICBjaGlsZDogSWNvbigKICAgICAgICAgICAgICAgIEljb25zLnN3aXRjaF9jYW1lcmEsCiAgICAgICAgICAgICAgICBzaXplOiAyNSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDE1KSwKICAgICAgICAgICAgICBzaGFwZTogQ2lyY2xlQm9yZGVyKCksCiAgICAgICAgICAgICAgb25QcmVzc2VkOiAoKSB7CiAgICAgICAgICAgICAgICBfc3dpdGNoQ2FtZXJhKCk7Ci8vICAgICAgICAgICAgICAgIF9zdG9wQ2FtZXJhKCk7CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgIF0sCiAgICAgICAgKSwKICAgICAgKSwKICAgICk7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
+        <text encoding="base64">ICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkuUm9vbQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
@@ -313,24 +317,13 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text>//                  FlatButton(
-//                    color: Colors.grey[600].withOpacity(0.2),
-//                    child: Icon(Icons.linked_camera),
-//                    shape: CircleBorder(),
-//                    onPressed: () {},
-//                  ),
-//                  FlatButton(
-//                    color: Colors.grey[600].withOpacity(0.2),
-//                    child: Icon(Icons.keyboard_voice),
-//                    shape: CircleBorder(),
-//                    onPressed: () {},
-//                  ),</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
