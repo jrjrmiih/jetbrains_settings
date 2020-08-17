@@ -165,11 +165,11 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597661570701">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="13" />
-        <mark key="." line="48" column="13" />
-        <mark key="^" line="47" column="20" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597676481141">
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="47" column="26" />
       </file>
       <file name="$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-2.3.1/lib/flutter_screenutil.dart" timestamp="1597652200880" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icon_button.dart" timestamp="1597660870134">
@@ -185,17 +185,17 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_core_panel.dart" timestamp="1597661549661">
-        <mark key="[" line="80" column="22" />
-        <mark key="]" line="80" column="22" />
-        <mark key="^" line="80" column="22" />
-        <mark key="." line="80" column="21" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_core_panel.dart" timestamp="1597676488165">
+        <mark key="[" line="82" column="34" />
+        <mark key="]" line="82" column="34" />
+        <mark key="^" line="82" column="34" />
+        <mark key="." line="82" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_turn_button.dart" timestamp="1597661557438">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="23" />
-        <mark key="^" line="23" column="24" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_turn_button.dart" timestamp="1597662512315">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="32" column="5" />
+        <mark key="^" line="32" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_remote_panel.dart" timestamp="1597653577682">
         <mark key="[" line="14" column="27" />
@@ -309,14 +309,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>yun</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text>yun</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblByZXNzZWRcPg==</text>
@@ -325,40 +325,37 @@
         <text encoding="base64">ICAgIC0gYXNzZXRzL3l1bi5wbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLndoaXRlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddjjj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRmxhdEJ1dHRvbigKICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLmdyZXlbNjAwXS53aXRoT3BhY2l0eSgwLjIpLAogICAgICAgICAgICAgICAgICAgIGNoaWxkOiBJY29uKEljb25zLm1pYyksCiAgICAgICAgICAgICAgICAgICAgc2hhcGU6IENpcmNsZUJvcmRlcigpLAogICAgICAgICAgICAgICAgICAgIG9uUHJlc3NlZDogKCkge30sCiAgICAgICAgICAgICAgICAgICks</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpc0Zyb250ID0gIWlzRnJvbnQ7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IAogICAgICAKICAgICAgSWNvbkJ1dHRvbigKICAgICAgY29sb3I6IENvbG9ycy53aGl0ZSwKICAgICAgaWNvbjogSW1hZ2VJY29uKEFzc2V0SW1hZ2UoaXNGcm9udCA/IHdpZGdldC5mcm9udCA6IHdpZGdldC5iYWNrKSksCiAgICAgIG9uUHJlc3NlZDogKCkgewogICAgICAgIHNldFN0YXRlKCgpIHsKICAgICAgICAgIGlzRnJvbnQgPSAhaXNGcm9udDsKICAgICAgICB9KTsKICAgICAgICB3aWRnZXQub25QcmVzc2VkKGlzRnJvbnQpOwogICAgICB9LAogICAgKTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLndoaXRlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBib29sIGlzRnJvbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc0Zyb250ID0gIWlzRnJvbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIEljb25CdXR0b24oCiAgICAgIGljb246IEltYWdlSWNvbihBc3NldEltYWdlKCJhc3NldHMveXVuLnBuZyIpKSwKICAgICAgb25QcmVzc2VkOiAoKSB7CiAgICAgICAgb25QcmVzc2VkKGZhbHNlKTsKICAgICAgfSwKICAgICk7CiAgfQ==</text>
+        <text encoding="base64">ICBib29sIGlzRnJvbnQ7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    // TODO: implement createState
-    throw UnimplementedError();
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
