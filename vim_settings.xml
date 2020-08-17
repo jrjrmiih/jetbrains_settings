@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRTdGF0ZVw+</entry>
-        <entry encoding="base64">XDxfc3RhcnRMb2dpblw+</entry>
         <entry encoding="base64">XDxfaXNBdXRvTG9naW5cPg==</entry>
         <entry encoding="base64">XDxpbXBsZW1lbnRhdGlvblw+</entry>
         <entry encoding="base64">XDxUYXBJbmRleENhbGxiYWNrXD4=</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxjaGlsZFw+</entry>
         <entry encoding="base64">XDxkZW5zaXR5QWRqdXN0bWVudFw+</entry>
         <entry encoding="base64">XDxjb2RlUG9pbnRcPg==</entry>
+        <entry encoding="base64">XDxpdGVtQ291bnRcPg==</entry>
+        <entry encoding="base64">XDxzZW1hbnRpY0NoaWxkQ291bnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -114,11 +114,11 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597645766126">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="61" column="42" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597648516570">
+        <mark key="[" line="70" column="53" />
+        <mark key="]" line="69" column="72" />
+        <mark key="." line="69" column="71" />
+        <mark key="^" line="69" column="72" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" timestamp="1597646122945">
         <mark key="'" line="1110" column="29" />
@@ -126,6 +126,12 @@
         <mark key="]" line="1082" column="39" />
         <mark key="^" line="1082" column="39" />
         <mark key="." line="1082" column="38" />
+      </file>
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1597647981400">
+        <mark key="[" line="296" column="3" />
+        <mark key="]" line="296" column="3" />
+        <mark key="^" line="296" column="3" />
+        <mark key="." line="296" column="2" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/pubspec.yaml" timestamp="1597312131605">
         <mark key="[" line="27" column="24" />
@@ -158,11 +164,17 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597312653620">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="11" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597647673483">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597648097696">
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="55" column="19" />
+        <mark key="." line="55" column="18" />
+        <mark key="^" line="55" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1597644112366">
         <mark key="[" line="20" column="0" />
@@ -170,11 +182,17 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_remote_panel.dart" timestamp="1597646025946">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="46" />
+      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/media_query.dart" timestamp="1597646936381">
+        <mark key="[" line="151" column="14" />
+        <mark key="]" line="151" column="14" />
+        <mark key="^" line="151" column="14" />
+        <mark key="." line="151" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_remote_panel.dart" timestamp="1597648182775">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597313078412">
         <mark key="'" line="16" column="11" />
@@ -291,55 +309,54 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>// TODO: implement build
-    throw UnimplementedError();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy5waHlzaWNhbFNpemU7ICAvL1NpemUoMTA4MC4wLCAxNzk0LjApICDljZXkvY1weAogICAgICAgICAgICAgICAgICAgICAgd2lkdGggPSAgd2luZG93LnBoeXNpY2FsU2l6ZS53aWR0aCAgLy/lrr3luqYKICAgICAgICAgICAgICAgICAgICAgIGhlaWdodCA9ICB3aW5kb3cucGh5c2ljYWxTaXplLmhlaWdodAo=</text>
       </register>
       <register name="+" type="4">
         <text>Method_RenderView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PiB3aXRoIFNpbmdsZVRpY2tlclByb3ZpZGVyU3RhdGVNaXhpbiA=</text>
+        <text>grey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW1hbnRpY0NoaWxkQ291bnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdHJhaW50czogY29uc3QgQm94Q29uc3RyYWludHMoKSwK</text>
+        <text encoding="base64">ICAgIHByaW50KCd0ZXN0ID0gJyArIG1lZGlhUXVlcnkuc2l6ZS53aWR0aC50b1N0cmluZygpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>// TODO: implement build
-    throw UnimplementedError();</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy5waHlzaWNhbFNpemU7ICAvL1NpemUoMTA4MC4wLCAxNzk0LjApICDljZXkvY1weAogICAgICAgICAgICAgICAgICAgICAgd2lkdGggPSAgd2luZG93LnBoeXNpY2FsU2l6ZS53aWR0aCAgLy/lrr3luqYKICAgICAgICAgICAgICAgICAgICAgIGhlaWdodCA9ICB3aW5kb3cucGh5c2ljYWxTaXplLmhlaWdodAo=</text>
       </register>
       <register name="q" type="4">
         <text>ddjjj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXJfYXBwL3ZpZGVvX2NvcmVfcGFuZWwuZGFydCc7Cg==</text>
+        <text encoding="base64">ICAgIFNjcmVlblV0aWwuaW5pdChjb250ZXh0KTsKICAgIFNjcmVlblV0aWwuaW5pdChjb250ZXh0LCB3aWR0aDogMzc1LCBoZWlnaHQ6IDY2Nyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBUYWJDb250cm9sbGVyIF9jb250cm9sbGVyOwo=</text>
+        <text encoding="base64">ICBTY3JlZW5VdGlsLmluaXQoY29udGV4dCk7CiAgU2NyZWVuVXRpbC5pbml0KGNvbnRleHQsIHdpZHRoOiA3NTAsIGhlaWdodDogMTMzNCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib29sIF9pc0F1dG9Mb2dpbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBib29sIF9pc0F1dG9Mb2dpbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Ly9JZiB0aGUgZGVzaWduIGlzIGJhc2VkIG9uIHRoZSBzaXplIG9mIHRoZSBpUGhvbmU2IOKAi+KAiyhpUGhvbmU2IOKAi+KAizc1MCoxMzM0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgLy8vIHRlc3QgQVBJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgV2lkZ2V0IF9nZXRDb3JlUGFuZWwoKSB7CiAgICByZXR1cm4gQWxpZ24oCiAgICAgIGFsaWdubWVudDogQWxpZ25tZW50LmJvdHRvbUNlbnRlciwKICAgICAgY2hpbGQ6IENvbnRhaW5lcigKICAgICAgICBoZWlnaHQ6IDEyMCwKICAgICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKGNvbG9yOiBDb2xvcigweDcwMDAwMDAwKSksCiAgICAgICAgY2hpbGQ6IFJvdygKICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5jZW50ZXIsCiAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgIFJhd01hdGVyaWFsQnV0dG9uKAogICAgICAgICAgICAgIGZpbGxDb2xvcjogQ29sb3JzLmdyZXksCiAgICAgICAgICAgICAgY2hpbGQ6IEljb24oCiAgICAgICAgICAgICAgICBJY29ucy52b2ljZV9jaGF0LAogICAgICAgICAgICAgICAgc2l6ZTogMjUsCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLmFsbCgxNSksCiAgICAgICAgICAgICAgc2hhcGU6IENpcmNsZUJvcmRlcigpLAogICAgICAgICAgICAgIG9uUHJlc3NlZDogKCkgewogICAgICAgICAgICAgICAgLy8gVE9ETzoo5a2Z5om/56eAKSx0ZXN0IEFQSSxmdXR1cmUgZGVsZXRlCi8vICAgICAgICAgICAgICAgIF9zZXRNaWNyb3Bob25lRGlzYWJsZSh0cnVlKTsKICAgICAgICAgICAgICAgIF91bnB1Ymxpc2hEZWZhdWx0U3RyZWFtcygpOwovLyAgICAgICAgICAgICAgX3Vuc3Vic2NyaWJlU3RyZWFtcygpOwovLyAgICAgICAgICAgICAgX3N3aXRjaFRvVGlueVN0cmVhbShyb29tLnJlbW90ZVVzZXJMaXN0LmZpcnN0KTsKLy8gICAgICAgICAgICAgIF9zd2l0Y2hUb05vcm1hbFN0cmVhbShyb29tLnJlbW90ZVVzZXJMaXN0LmZpcnN0KTsKICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAogICAgICAgICAgICBSYXdNYXRlcmlhbEJ1dHRvbigKICAgICAgICAgICAgICBmaWxsQ29sb3I6IENvbG9ycy5yZWQsCiAgICAgICAgICAgICAgY2hpbGQ6IEljb24oCiAgICAgICAgICAgICAgICBJY29ucy5jYWxsX2VuZCwKICAgICAgICAgICAgICAgIHNpemU6IDM1LAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5hbGwoMTUpLAogICAgICAgICAgICAgIHNoYXBlOiBDaXJjbGVCb3JkZXIoKSwKICAgICAgICAgICAgICBvblByZXNzZWQ6ICgpIHsKICAgICAgICAgICAgICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkubGVhdmVSb29tKCkudGhlbigodmFsdWUpIHsKICAgICAgICAgICAgICAgICAgUm9uZ0lNQ2xpZW50LmRpc2Nvbm5lY3QoZmFsc2UpOwogICAgICAgICAgICAgICAgICBOYXZpZ2F0b3IucG9wKGNvbnRleHQpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgUmF3TWF0ZXJpYWxCdXR0b24oCiAgICAgICAgICAgICAgZmlsbENvbG9yOiBDb2xvcnMuZ3JleSwKICAgICAgICAgICAgICBjaGlsZDogSWNvbigKICAgICAgICAgICAgICAgIEljb25zLnN3aXRjaF9jYW1lcmEsCiAgICAgICAgICAgICAgICBzaXplOiAyNSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDE1KSwKICAgICAgICAgICAgICBzaGFwZTogQ2lyY2xlQm9yZGVyKCksCiAgICAgICAgICAgICAgb25QcmVzc2VkOiAoKSB7CiAgICAgICAgICAgICAgICBfc3dpdGNoQ2FtZXJhKCk7Ci8vICAgICAgICAgICAgICAgIF9zdG9wQ2FtZXJhKCk7CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgKSwKICAgICAgICAgIF0sCiAgICAgICAgKSwKICAgICAgKSwKICAgICk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIE1lZGlhUXVlcnlEYXRhIG1lZGlhUXVlcnkgPSBNZWRpYVF1ZXJ5Lm9mKGNvbnRleHQpOwogICAgcHJpbnQoJ3Rlc3QgPSAnICsgbWVkaWFRdWVyeS5zaXplLndpZHRoLnRvU3RyaW5nKCkpOwogICAgcHJpbnQoJ3Rlc3QgPSAnICsgbWVkaWFRdWVyeS5zaXplLmhlaWdodC50b1N0cmluZygpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFJDUlRDRW5naW5lLmdldEluc3RhbmNlKCkuUm9vbQo=</text>
+      <register name="8" type="4">
+        <text>// TODO: implement build
+    throw UnimplementedError();</text>
       </register>
       <register name="x" type="4">
         <text>nError errorCode = &quot; + errorCode</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdhc2Rmc2FkZicpLAo=</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXJfYXBwL3ZpZGVvX2NvcmVfcGFuZWwuZGFydCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
@@ -354,7 +371,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
