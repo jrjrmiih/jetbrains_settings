@@ -116,6 +116,12 @@
         <mark key="^" line="298" column="14" />
         <mark key="." line="298" column="13" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597720155437">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="37" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1597717958504">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="54" />
@@ -128,13 +134,8 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597717881939" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/raised_button.dart" timestamp="1597681584094">
         <mark key="'" line="210" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/video_core_panel.dart" timestamp="1597658466450">
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/pubspec.yaml" timestamp="1597717462577">
         <mark key="[" line="17" column="0" />
@@ -148,10 +149,10 @@
         <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_core_panel.dart" timestamp="1597718228881">
-        <mark key="[" line="173" column="104" />
-        <mark key="]" line="173" column="104" />
-        <mark key="^" line="173" column="104" />
-        <mark key="." line="173" column="103" />
+        <mark key="[" line="161" column="104" />
+        <mark key="]" line="161" column="104" />
+        <mark key="^" line="161" column="104" />
+        <mark key="." line="161" column="103" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/pubspec.yaml" timestamp="1597717817398">
         <mark key="[" line="50" column="20" />
@@ -172,10 +173,11 @@
         <mark key="^" line="45" column="44" />
         <mark key="." line="45" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_core_panel.dart" timestamp="1597716367613">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_core_panel.dart" timestamp="1597720345250">
+        <mark key="[" line="86" column="20" />
+        <mark key="]" line="86" column="20" />
+        <mark key="." line="86" column="19" />
+        <mark key="^" line="86" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_turn_button.dart" timestamp="1597678610157">
         <mark key="[" line="23" column="47" />
