@@ -107,13 +107,6 @@
         <mark key="]" line="55" column="27" />
         <mark key="." line="55" column="27" />
       </file>
-      <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" timestamp="1597646122945">
-        <mark key="'" line="1110" column="29" />
-        <mark key="[" line="1082" column="39" />
-        <mark key="]" line="1082" column="39" />
-        <mark key="^" line="1082" column="39" />
-        <mark key="." line="1082" column="38" />
-      </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/material/icons.dart" timestamp="1597680748136" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1597647981400">
         <mark key="[" line="296" column="3" />
@@ -158,16 +151,16 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_core_panel.dart" timestamp="1597681868267">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/widget/video_core_panel.dart" timestamp="1597716367613">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1597680374782">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1597716488132">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/media_query.dart" timestamp="1597646936381">
         <mark key="[" line="151" column="14" />
