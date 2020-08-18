@@ -104,6 +104,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_remote_user.dart" timestamp="1597743276196" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/src/main/java/cn/rongcloud/rtc/whiteboard/WhiteBoardApi.java" timestamp="1597751196427">
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="71" />
+        <mark key="^" line="13" column="71" />
+        <mark key="." line="13" column="70" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597747675137">
         <mark key="[" line="70" column="50" />
         <mark key="]" line="70" column="50" />
@@ -116,7 +122,6 @@
         <mark key="^" line="24" column="2" />
         <mark key="." line="24" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/utils/ReportUtil.java" timestamp="1597722231366" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_room.dart" timestamp="1597731764861">
         <mark key="'" line="193" column="6" />
         <mark key="[" line="192" column="9" />
@@ -153,7 +158,7 @@
       </file>
       <file name="$USER_HOME$/Library/flutter/bin/cache/pkg/sky_engine/lib/core/iterable.dart" timestamp="1597731653970" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_video_view.dart" timestamp="1597730970321" />
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/build.gradle" timestamp="1597751044582" />
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-sealrtc/build.gradle" timestamp="1597751126250" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1597745611058" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_core_panel.dart" timestamp="1597737847313">
         <mark key="'" line="31" column="57" />
