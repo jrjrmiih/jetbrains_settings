@@ -104,11 +104,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/rongcloud_rtc_plugin/lib/rcrtc_remote_user.dart" timestamp="1597743276196" />
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597747657757">
-        <mark key="[" line="70" column="36" />
-        <mark key="]" line="70" column="40" />
-        <mark key="^" line="70" column="40" />
-        <mark key="." line="70" column="39" />
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter_app/lib/main.dart" timestamp="1597747675137">
+        <mark key="[" line="70" column="50" />
+        <mark key="]" line="70" column="50" />
+        <mark key="^" line="70" column="50" />
+        <mark key="." line="70" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/utils/ReportUtil.java" timestamp="1597722231366" />
       <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/login_page.dart" timestamp="1597717958504">
@@ -130,12 +130,12 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597743284297">
+      <file name="$USER_HOME$/Workspace/rc-flutter/flutter-rtcdemo/lib/video_page.dart" timestamp="1597747688435">
         <mark key="'" line="72" column="8" />
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="31" column="9" />
-        <mark key="^" line="31" column="9" />
-        <mark key="." line="31" column="8" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="^" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/Library/flutter/bin/cache/pkg/sky_engine/lib/core/bool.dart" timestamp="1597744784304" />
       <file name="$USER_HOME$/Library/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" timestamp="1597744958997">
