@@ -103,38 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592520119200">
-        <mark key="[" line="477" column="0" />
-        <mark key="]" line="477" column="0" />
-        <mark key="^" line="331" column="69" />
-        <mark key="." line="477" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_report_error.xml" timestamp="1592522681056">
-        <mark key="[" line="45" column="34" />
-        <mark key="]" line="45" column="34" />
-        <mark key="." line="45" column="33" />
-        <mark key="^" line="45" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeed/model/NNFNewsInfo.java" timestamp="1592520430498" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1592518126917">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-imsdk/lib/src/main/java/io/rong/imlib/IMLibRTCClient.java" timestamp="1592478187491" />
-      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/drawable/web_view_mask_button.xml" timestamp="1592517612332">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/calllib/src/main/java/io/rong/calllib/RongCallClient.java" timestamp="1592478107009">
-        <mark key="[" line="597" column="5" />
-        <mark key="]" line="597" column="5" />
-        <mark key="^" line="597" column="5" />
-        <mark key="." line="597" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/api/RCRTCEngine.java" timestamp="1592472144187" />
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListFragment.java" timestamp="1592520858626">
         <mark key="'" line="26" column="20" />
         <mark key="[" line="176" column="0" />
@@ -142,11 +110,26 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="207" column="42" />
       </file>
+      <file name="$USER_HOME$/Workspace/rc-python/ticket-stat/ticket.py" timestamp="1591842753331">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/rtclib/src/main/java/cn/rongcloud/rtc/stream/local/RongRTCCapture.java" timestamp="1592555544259">
         <mark key="[" line="86" column="43" />
         <mark key="]" line="86" column="43" />
         <mark key="^" line="86" column="43" />
         <mark key="." line="86" column="42" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" timestamp="1592520119200">
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="477" column="0" />
+        <mark key="." line="477" column="0" />
+        <mark key="^" line="331" column="69" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/dialog_report_error.xml" timestamp="1592522681056">
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="34" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="45" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsClosedDialog.java" timestamp="1592522121145">
         <mark key="'" line="57" column="6" />
@@ -154,6 +137,11 @@
         <mark key="]" line="57" column="27" />
         <mark key="." line="57" column="26" />
         <mark key="^" line="57" column="27" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-python/ticket-stat/.gitignore" timestamp="1592556574038">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/related_item_title.xml" timestamp="1592518421846">
         <mark key="[" line="9" column="32" />
@@ -174,14 +162,37 @@
         <mark key="^" line="124" column="59" />
         <mark key="." line="18" column="94" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/res/Resources.java" timestamp="1592519916687" />
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/layout/news_item_big_pic.xml" timestamp="1592518126917">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="36" column="35" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/res/drawable/web_view_mask_button.xml" timestamp="1592517612332">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/rc-android/android-sealdev/android-rtcsdk/calllib/src/main/java/io/rong/calllib/RongCallClient.java" timestamp="1592478107009">
+        <mark key="[" line="597" column="5" />
+        <mark key="]" line="597" column="5" />
+        <mark key="^" line="597" column="5" />
+        <mark key="." line="597" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsMainFragment.java" timestamp="1591808100268">
+        <mark key="'" line="22" column="46" />
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="43" />
+        <mark key="^" line="37" column="43" />
+        <mark key="." line="37" column="42" />
+      </file>
       <file name="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsListDivider.java" timestamp="1592520014752">
         <mark key="[" line="42" column="52" />
         <mark key="]" line="42" column="63" />
         <mark key="." line="42" column="62" />
         <mark key="^" line="42" column="63" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/drawable/Drawable.java" timestamp="1592520008168" />
     </filemarks>
     <jumps>
       <jump line="165" column="29" filename="$USER_HOME$/Workspace/android-space/newsfeed-android/newsfeed/src/main/java/com/netease/youliao/newsfeedkit/NewsDetailFragment.java" />
@@ -349,7 +360,7 @@
       <last-replace>getValue</last-replace>
       <last-substitute encoding="base64">XDxMQVVOQ0hFUlw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
