@@ -6,6 +6,7 @@
       <mapping pattern="RTLog" type="PLAIN_TEXT" />
       <mapping pattern="bbb" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="mock" type="PLAIN_TEXT" />
       <mapping pattern="rong_rtc_capture" type="Dart" />
     </extensionMap>
